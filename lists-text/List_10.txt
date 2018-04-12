@@ -1,0 +1,81 @@
+﻿#
+اشعار فارسی
+PERSIAN POEMS
+10_1
+بخوانندۂ کتاب
+TO THE READER OF THE BOOK
+10_2
+تمہید
+INTRODUCTION
+10_3
+خطاب بہ مہر عالمتاب
+ADDRESS TO THE WORLD-ILLUMINATING SUN
+10_4
+حکمت کلیمی
+THE WISDOM OF MOSES
+10_5
+حکمت فرعونی
+THE WISDOM OF THE PHAROAHS
+10_6
+لا الہ الا اﷲ
+THERE IS NO DEITY EXCEPT GOD
+10_7
+فقر
+FAQR
+10_8
+مرد حر
+THE FREE MAN
+10_9
+در اسرار شریعت
+THE ESSENCE OF THE SHARI’AH
+10_10
+اشکی چند بر افتراق ہندیان
+LAMENT ON THE DIFFERENCES AMONG INDIANS
+10_11
+سیاسیات حاضرہ
+PRESENT-DAY POLITICS
+10_12
+حرفی چند با امت عربیہ
+A FEW WORDS TO THE ARAB PEOPLE
+10_13
+پس چہ باید کرد ای اقوام شرق
+WHAT SHOULD THEN BE DONE O PEOPLE OF THE EAST?
+10_14
+در حضور رسالت مآب
+TO THE HOLY PROPHET
+#
+مسافر
+THE TRAVELLER
+10_15
+خطاب بہ اقوام سرحد
+ADDRESS TO PEOPLE OF THE FRONTIER
+10_16
+مسافر وارد میشود بہ شہر کابل و حاضر میشود بحضور اعلیحضرت شہید
+THE TRAVELLER ENTERS KABUL AND VISITS THE MAUSOLEUM OF THE LATE MARTYR KING
+10_17
+بر مزار شہنشاہ بابر خلد آشیانی
+AT THE TOMB OF THE HEAVEN-RESTING EMPEROR BABUR
+10_18
+سفر بہ غزنی و زیارت مزار حکیم سنائی
+VISITING GHAZNI AND OFFERING REVERENCE TO HAKIM SANAI
+10_19
+روح حکیم سنائی از بہشت برین جواب میدہد
+SANAI’S SPIRIT SPEAKS FROM HEAVEN
+10_20
+بر مزار سلطان محمود علیہ الرحمہ
+AT THE TOMB OF SULTAN MAHMUD
+10_21
+مناجات مرد شوریدہ در ویرانۂ غزنے
+SUPPLICATION OF A FRENZIED ONE
+10_22
+قندہار و زیارت خرقہ مبارک
+SEEING PROPHET’S GARB AT QANDHAR
+10_23
+غزل
+THE CHANT
+10_24
+بر مزار حضرت احمد شاہ باباعلیہ الرحمہ مؤسس ملت افغانیہ
+AT THE MAUSOLEUM OF HADRAT AHMAD SHAH BABA FOUNDER OF THE AFGHAN NATION
+10_25
+خطاب بہ پادشاہ اسلام اعلیحضرت ظاہر شاہ ’’ایدہ‘ اﷲ بنصرہ‘‘
+TALK WITH THE KING OF ISLAM, ZAHIR SHAH MAY GOD BLESS HIM WITH HELP

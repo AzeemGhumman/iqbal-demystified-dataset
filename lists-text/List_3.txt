@@ -1,0 +1,624 @@
+﻿#
+اسلام اور مسلمان
+Islam and Muslim
+3_1
+صبح
+DAWN
+3_2
+لا الہ الا اللہ
+NO GOD BUT HE
+3_3
+تن بہ تقدير
+SUBMISSION TO FATE
+3_4
+معراج
+ASCENSION
+3_5
+ايک فلسفہ زدہ سيد زادے کے نام
+ADMONITION TO A PHILOSOPHY STRICKEN SAYYID
+3_6
+زمين و آسماں
+THE EARTH AND THE SKY
+3_7
+مسلمان کا زوال
+THE DECLINE OF THE MUSLIMS
+3_8
+علم و عشق
+KNOWLEDGE AND LOVE
+3_9
+اجتہاد
+IJTEHAD
+3_10
+شکر و شکايت
+THANKS CUM COMPLAINT
+3_11
+ذکر و فکر
+DHIKR AND FIKR
+3_12
+ملائے حرم
+MULLAH OF THE MOSQUE
+3_13
+تقدير
+DESTINY
+3_14
+توحيد
+ONENESS OF GOD
+3_15
+علم اور دين
+KNOWLEDGE AND RELIGION
+3_16
+ہندي مسلمان
+INDIAN MUSLIM
+3_17
+آزادي شمشير کے اعلان پر
+WRITTEN ON THE OCCASION OF THE BRITISH GOVERNMENTʹS PERMISSION TO KEEP SWORD
+3_18
+جہاد
+JIHAD
+3_19
+قوت اور دين
+AUTHORITY AND FAITH
+3_20
+فقر و ملوکيت
+FAQR AND MONARCHY
+3_21
+اسلام
+ISLAM
+3_22
+حيات ابدي
+ETERNAL LIFE
+3_23
+سلطاني
+KINGSHIP
+3_24
+صوفي سے
+THE MYSTIC
+3_25
+افرنگ زدہ 
+DAZZLED BY EUROPE
+3_26
+تصوف
+MYSTICISM
+3_27
+ہندي اسلام
+ISLAM IN INDIA
+3_28
+غزل
+GHAZAL
+3_29
+دنيا
+THE WORLD
+3_30
+نماز
+PRAYER
+3_31
+وحي
+REVELATION
+3_32
+شکست
+DEFEATISM
+3_33
+عقل و دل
+HEART AND INTELLECT
+3_34
+مستي کردار
+FERVOUR FOR ACTION
+3_35
+قبر
+THE GRAVE
+3_36
+قلندر کي پہچان
+THE RECOGNITION OF A QALANDAR
+3_37
+فلسفہ
+PHILOSOPHY
+3_38
+مردان خدا
+GODʹS MEN
+3_39
+کافر و مومن
+THE INFIDEL AND BELIEVER
+3_40
+مہدي برحق
+THE TRUE GUIDE
+3_41
+مومن
+BELIEVER
+3_42
+محمد علي باب
+MUHAMMAD ALI BAB
+3_43
+تقدير (ابليس و يزداں)
+FATE (SATAN AND GOD)
+3_44
+اے روح محمد
+INVOCATION TO THE SOUL OF MUHAMMAD (PEACE BE UPON HIM)
+3_45
+مدنيت اسلام
+THE WAY OF ISLAM
+3_46
+امامت
+GUIDANCE
+3_47
+فقر و راہبي
+FAQR AND MONKERY
+3_48
+غزل - تيري متاع حيات، علم و ہنر کا سرور
+GHAZAL
+3_49
+تسليم و رضا
+RESIGNATION
+3_50
+نکتہ توحيد
+UNITY OF GOD
+3_51
+الہام اور آزادي
+REVELATION AND FREEDOM
+3_52
+جان و تن
+SOUL AND BODY
+3_53
+لاہور و کراچي
+Lahore and Karachi
+3_54
+نبوت
+PROPHETHOOD
+3_55
+آدم
+ADAM
+3_56
+مکہ اور جنيوا
+MAKKAH AND GENEVA
+3_57
+اے پير حرم
+TO ELDER OF THE SHRINE
+3_58
+مہدي
+THE GUIDE
+3_59
+مرد مسلمان
+A MUSLIM
+3_60
+پنجابي مسلمان
+PUNJABI MUSLIM
+3_61
+آزادي
+FREEDOM
+3_62
+اشاعت اسلام فرنگستان ميں
+PREACHING OF ISLAM IN THE WEST
+3_63
+لاوالا
+NEGATION AND AFFIRMATION
+3_64
+امرائے عرب سے
+TO THE AMIRS OF ARABIA
+3_65
+احکام الہي
+DECREES OF GOD
+3_66
+موت
+DEATH
+3_67
+قم باذن اللہ
+BY GRACE OF GOD, RISE!
+#
+تعليم و تربيت
+Education and Upbringing
+3_68
+مقصود 
+GOAL
+3_69
+زمانہ حاضر کا انسان
+MODERN MAN
+3_70
+اقوام مشرق
+EASTERN NATIONS
+3_71
+آگاہي
+AWARENESS
+3_72
+مصلحين مشرق
+REFORMERS OF THE EAST
+3_73
+مغربي تہذيب
+WESTERN CULTURE
+3_74
+اسرار پيدا
+OPEN SECRETS
+3_75
+سلطان ٹيپو کي وصيت
+THE TESTAMENT OF TIPU SULTAN
+3_76
+غزل
+GHAZAL
+3_77
+بيداري
+AWAKENING
+3_78
+خودي کي تربيت
+UPBRINGING OF SELFHOOD
+3_79
+آزادي فکر
+FREEDOM OF THOUGHT
+3_80
+خودي کي زندگي
+THE LIFE OF SELFHOOD
+3_81
+حکومت
+GOVERNMENT
+3_82
+ہندي مکتب
+INDIAN SCHOOL
+3_83
+تربيت
+UPBRINGING
+3_84
+خوب و زشت
+FOUL AND FAIR
+3_85
+مرگ خودي
+DEATH OF THE EGO
+3_86
+مہمان عزيز
+HONOURED GUEST
+3_87
+عصر حاضر
+MODERN AGE
+3_88
+طالب علم
+A STUDENT
+3_89
+امتحان
+EXAMINATION
+3_90
+مدرسہ
+THE SCHOOLS
+3_91
+حکيم نطشہ
+NIETZSCHE
+3_92
+اساتذہ
+TEACHERS
+3_93
+غزل
+GHAZAL
+3_94
+دين و تعليم
+RELIGION AND EDUCATION
+3_95
+جاويد سے
+To Javaid
+#
+عورت
+Woman
+3_96
+مرد فرنگ
+THE FRANKISH MAN
+3_97
+ايک سوال
+A QUESTION
+3_98
+پردہ
+VEIL
+3_99
+خلوت
+SOLITUDE
+3_100
+عورت
+WOMAN
+3_101
+آزادي نسواں
+EMANCIPATION OF WOMEN
+3_102
+عورت کي حفاظت
+PROTECTION OF THE WEAKER VESSEL
+3_103
+عورت اور تعليم
+EDUCATION AND WOMEN
+3_104
+عورت
+WOMAN
+#
+ادبيات فنون لطيفہ
+Literature and Fine Arts
+3_105
+دين و ہنر
+RELIGION AND CRAFTS
+3_106
+تخليق
+CREATION
+3_107
+جنوں
+MADNESS
+3_108
+اپنے شعر سے
+TO MY POEM
+3_109
+پيرس کي مسجد
+PARIS MOSQUE
+3_110
+ادبيات
+LITERATURE
+3_111
+نگاہ
+VISION
+3_112
+مسجد قوت الاسلام
+MIGHT OF ISLAM MOSQUE
+3_113
+تياتر
+THEATRE
+3_114
+شعاع اميد
+Ray of Hope
+3_115
+اميد
+HOPE
+3_116
+نگاہ شوق
+EAGER GLANCE
+3_117
+اہل ہنر سے
+TO THE ARTISTS
+3_118
+غزل
+GHAZAL
+3_119
+وجود
+BEING
+3_120
+سرود
+MELODY
+3_121
+نسيم و شبنم
+BREEZE AND DEW
+3_122
+اہرام مصر
+THE PYRAMIDS OF EGYPT
+3_123
+مخلوقات ہنر
+CREATIONS OF ART
+3_124
+اقبال
+IQBAL
+3_125
+فنون لطيفہ
+FINE ARTS
+3_126
+صبح چمن 
+DAWN IN THE GARDEN
+3_127
+خاقاني
+KHAQANI
+3_128
+رومي
+RUMI
+3_129
+جدت
+NEWNESS
+3_130
+مرزا بيدل
+MIRZA BEDIL
+3_131
+جلال و جمال
+GRANDEUR AND GRACE
+3_132
+مصور
+THE PAINTER
+3_133
+سرود حلال
+LAWFUL MUSIC
+3_134
+سرود حرام
+UNLAWFUL MUSIC
+3_135
+فوارہ
+FOUNTAIN
+3_136
+شاعر
+THE POET
+3_137
+شعر عجم
+PERSIAN POETRY
+3_138
+ہنروران ہند
+INDIA’S ARTISTS
+3_139
+مرد بزرگ
+THE GREAT MAN
+3_140
+عالم نو
+NEW WORLD
+3_141
+ايجاد معاني
+INVENTION OF NEW MEANINGS
+3_142
+موسيقي
+MUSIC
+3_143
+ذوق نظر
+ZEST FOR SIGHT
+3_144
+شعر
+VERSE
+3_145
+رقص و موسيقي
+DANCE AND MUSIC
+3_146
+ضبط
+DISCIPLINE
+3_147
+رقص
+DANCING
+#
+سياسياست مشرق و مغرب
+Politics of the East and the West
+3_148
+اشتراکيت
+COMMUNISM
+3_149
+کارل مارکس کي آواز
+THE VOICE OF KARL MARX
+3_150
+انقلاب
+REVOLUTION
+3_151
+خوشامد
+FLATTERY
+3_152
+مناصب
+GOVERNMENT JOBS
+3_153
+يورپ اور يہود
+EUROPE AND THE JEWS
+3_154
+نفسيات غلامي
+THE PSYCHOLOGY OF SLAVES
+3_155
+بلشويک روس
+BOLSHEVIK RUSSIA
+3_156
+آج اور کل
+TODAY AND TOMORROW
+3_157
+مشرق
+THE EAST
+3_158
+سياست افرنگ
+STATESMANSHIP OF THE FRANKS
+3_159
+خواجگي
+MASTERSHIP
+3_160
+غلاموں کے ليے
+ADVICE TO SLAVES
+3_161
+اہل مصر سے
+TO THE EGYPTIANS
+3_162
+ابي سينيا
+ABYSSINIA
+3_163
+ابليس کا فرمان اپنے سياسي فرزندوں کے نام
+SATAN TO HIS POLITICAL OFFSPRING
+3_164
+جمعيت اقوام مشرق
+AN EASTERN LEAGUE OF NATIONS
+3_165
+سلطاني جاويد
+EVERLASTING MONARCHY
+3_166
+جمہوريت
+DEMOCRACY
+3_167
+يورپ اور سوريا
+EUROPE AND SYRIA
+3_168
+مسوليني
+MUSSOLINI
+3_169
+گلہ
+COMPLAINT
+3_170
+انتداب
+TUTELAGE
+3_171
+لادين سياست
+SECULAR POLITICS
+3_172
+دام تہذيب
+CIVILIZATION’S CLUTCHES
+3_173
+نصيحت
+ADVICE
+3_174
+ايک بحري قزاق اور سکندر
+A PIRATE AND ALEXANDER
+3_175
+جمعيت اقوام
+LEAGUE OF NATIONS
+3_176
+شام و فلسطين
+SYRIA AND PALESTINE
+3_177
+سياسي پيشوا
+POLITICAL LEADERS
+3_178
+نفسيات غلامي
+PSYCHOLOGY OF BONDAGE
+3_179
+غلاموں کي نماز
+SLAVES’ PRAYER
+3_180
+فلسطيني عر ب سے
+TO THE PALESTINIAN ARABS
+3_181
+مشرق و مغرب
+THE EAST AND THE WEST
+3_182
+(نفسيات حاکمي (اصلاحات
+PSYCHOLOGY OF POWER
+#
+محراب گل افغان کے افکار
+Meditations of Mihrab Gul Afghan
+3_183
+ميرے کہستاں! تجھے چھوڑ کے جاؤں کہاں 
+How can I quit this mountain land
+3_184
+حقيقت ازلي ہے رقابت اقوام 
+The discord that prevails among
+3_185
+تري دعا سے قضا تو بدل نہيں سکتي 
+Your prayers can't avert, Decrees of Fate at all
+3_186
+کيا چرخ کج رو ، کيا مہر ، کيا ماہ 
+The Sun, the Moon and Sphere all go astray
+3_187
+يہ مدرسہ يہ کھيل يہ غوغائے روارو 
+In school the noise of games
+3_188
+جو عالم ايجاد ميں ہے صاحب ايجاد 
+In world, if man contrives a thing much sound
+3_189
+رومي بدلے ، شامي بدلے، بدلا ہندستان 
+O Afghan unaware
+3_190
+زاغ کہتا ہے نہايت بدنما ہيں تيرے پر 
+In your wings no charm I find
+3_191
+عشق طينت ميں فرومايہ نہيں مثل ہوس 
+Love's bent of mind is not so mean
+3_192
+وہي جواں ہے قبيلے کي آنکھ کا تارا 
+That youth is held in high esteem
+3_193
+جس کے پرتو سے منور رہي تيري شب دوش 
+The same lamp that illumed your yesternight
+3_194
+لا ديني و لاطيني ، کس پيچ ميں الجھا تو 
+In maze of Latin script and sin
+3_195
+مجھ کو تو يہ دنيا نظر آتي ہے دگرگوں 
+To me upset appears the Cosmos old
+3_196
+بے جرات رندانہ ہر عشق ہے روباہي 
+Without a toper's courage
+3_197
+آدم کا ضمير اس کي حقيقت پہ ہے شاہد 
+O pilgrim, who tread mystic path
+3_198
+قوموں کے ليے موت ہے مرکز سے جدائي 
+The nations suffer death
+3_199
+آگ اس کي پھونک ديتي ہے برنا و پير کو 
+Among Muslim men, if one, On firm belief has hold
+3_200
+يہ نکتہ خوب کہا شير شاہ سوري نے 
+Sher Shah explained this point with so much grace
+3_201
+نگاہ وہ نہيں جو سرخ و زرد پہچانے 
+That glance can not be termed as true
+3_202
+فطرت کے مقاصد کي کرتا ہے نگہباني 
+One who resides in desert waste

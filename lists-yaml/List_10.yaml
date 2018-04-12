@@ -1,0 +1,170 @@
+---
+name:
+- lang: ur
+  text: پس چہ بائد کرد
+- lang: en
+  text: Pas Cheh Bayad Kard
+sections:
+- sectionName:
+  - lang: ur
+    text: اشعار فارسی
+  - lang: en
+    text: PERSIAN POEMS
+- poems:
+  - id: '10_1'
+    poemName:
+    - lang: ur
+      text: بخوانندۂ کتاب
+    - lang: en
+      text: TO THE READER OF THE BOOK
+  - id: '10_2'
+    poemName:
+    - lang: ur
+      text: تمہید
+    - lang: en
+      text: INTRODUCTION
+  - id: '10_3'
+    poemName:
+    - lang: ur
+      text: خطاب بہ مہر عالمتاب
+    - lang: en
+      text: ADDRESS TO THE WORLD-ILLUMINATING SUN
+  - id: '10_4'
+    poemName:
+    - lang: ur
+      text: حکمت کلیمی
+    - lang: en
+      text: THE WISDOM OF MOSES
+  - id: '10_5'
+    poemName:
+    - lang: ur
+      text: حکمت فرعونی
+    - lang: en
+      text: THE WISDOM OF THE PHAROAHS
+  - id: '10_6'
+    poemName:
+    - lang: ur
+      text: لا الہ الا اﷲ
+    - lang: en
+      text: THERE IS NO DEITY EXCEPT GOD
+  - id: '10_7'
+    poemName:
+    - lang: ur
+      text: فقر
+    - lang: en
+      text: FAQR
+  - id: '10_8'
+    poemName:
+    - lang: ur
+      text: مرد حر
+    - lang: en
+      text: THE FREE MAN
+  - id: '10_9'
+    poemName:
+    - lang: ur
+      text: در اسرار شریعت
+    - lang: en
+      text: THE ESSENCE OF THE SHARI’AH
+  - id: '10_10'
+    poemName:
+    - lang: ur
+      text: اشکی چند بر افتراق ہندیان
+    - lang: en
+      text: LAMENT ON THE DIFFERENCES AMONG INDIANS
+  - id: '10_11'
+    poemName:
+    - lang: ur
+      text: سیاسیات حاضرہ
+    - lang: en
+      text: PRESENT-DAY POLITICS
+  - id: '10_12'
+    poemName:
+    - lang: ur
+      text: حرفی چند با امت عربیہ
+    - lang: en
+      text: A FEW WORDS TO THE ARAB PEOPLE
+  - id: '10_13'
+    poemName:
+    - lang: ur
+      text: پس چہ باید کرد ای اقوام شرق
+    - lang: en
+      text: WHAT SHOULD THEN BE DONE O PEOPLE OF THE EAST?
+  - id: '10_14'
+    poemName:
+    - lang: ur
+      text: در حضور رسالت مآب
+    - lang: en
+      text: TO THE HOLY PROPHET
+- sectionName:
+  - lang: ur
+    text: مسافر
+  - lang: en
+    text: THE TRAVELLER
+- poems:
+  - id: '10_15'
+    poemName:
+    - lang: ur
+      text: خطاب بہ اقوام سرحد
+    - lang: en
+      text: ADDRESS TO PEOPLE OF THE FRONTIER
+  - id: '10_16'
+    poemName:
+    - lang: ur
+      text: مسافر وارد میشود بہ شہر کابل و حاضر میشود بحضور اعلیحضرت شہید
+    - lang: en
+      text: THE TRAVELLER ENTERS KABUL AND VISITS THE MAUSOLEUM OF THE LATE MARTYR
+        KING
+  - id: '10_17'
+    poemName:
+    - lang: ur
+      text: بر مزار شہنشاہ بابر خلد آشیانی
+    - lang: en
+      text: AT THE TOMB OF THE HEAVEN-RESTING EMPEROR BABUR
+  - id: '10_18'
+    poemName:
+    - lang: ur
+      text: سفر بہ غزنی و زیارت مزار حکیم سنائی
+    - lang: en
+      text: VISITING GHAZNI AND OFFERING REVERENCE TO HAKIM SANAI
+  - id: '10_19'
+    poemName:
+    - lang: ur
+      text: روح حکیم سنائی از بہشت برین جواب میدہد
+    - lang: en
+      text: SANAI’S SPIRIT SPEAKS FROM HEAVEN
+  - id: '10_20'
+    poemName:
+    - lang: ur
+      text: بر مزار سلطان محمود علیہ الرحمہ
+    - lang: en
+      text: AT THE TOMB OF SULTAN MAHMUD
+  - id: '10_21'
+    poemName:
+    - lang: ur
+      text: مناجات مرد شوریدہ در ویرانۂ غزنے
+    - lang: en
+      text: SUPPLICATION OF A FRENZIED ONE
+  - id: '10_22'
+    poemName:
+    - lang: ur
+      text: قندہار و زیارت خرقہ مبارک
+    - lang: en
+      text: SEEING PROPHET’S GARB AT QANDHAR
+  - id: '10_23'
+    poemName:
+    - lang: ur
+      text: غزل
+    - lang: en
+      text: THE CHANT
+  - id: '10_24'
+    poemName:
+    - lang: ur
+      text: بر مزار حضرت احمد شاہ باباعلیہ الرحمہ مؤسس ملت افغانیہ
+    - lang: en
+      text: AT THE MAUSOLEUM OF HADRAT AHMAD SHAH BABA FOUNDER OF THE AFGHAN NATION
+  - id: '10_25'
+    poemName:
+    - lang: ur
+      text: خطاب بہ پادشاہ اسلام اعلیحضرت ظاہر شاہ ’’ایدہ‘ اﷲ بنصرہ‘‘
+    - lang: en
+      text: TALK WITH THE KING OF ISLAM, ZAHIR SHAH MAY GOD BLESS HIM WITH HELP

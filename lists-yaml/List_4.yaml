@@ -1,0 +1,283 @@
+---
+name:
+- lang: ur
+  text: ارمغان حجاز (اردو)
+- lang: en
+  text: Armaghan-e-Hijaz (English)
+sections:
+- sectionName:
+  - lang: ur
+    text: ا بتد ا
+  - lang: en
+    text: URDU POEMS
+- poems:
+  - id: '4_1'
+    poemName:
+    - lang: ur
+      text: ابليس کي مجلس شوري
+    - lang: en
+      text: THE DEVIL’S CONFERENCE
+  - id: '4_2'
+    poemName:
+    - lang: ur
+      text: بڈھے بلوچ کي نصيحت بيٹے کو
+    - lang: en
+      text: THE ADVICE OF AN OLD BALUCH TO HIS SON
+  - id: '4_3'
+    poemName:
+    - lang: ur
+      text: تصوير و مصور
+    - lang: en
+      text: PAINTING AND THE PAINTER
+  - id: '4_4'
+    poemName:
+    - lang: ur
+      text: عالم برزخ
+    - lang: en
+      text: THE STATE OF BARZAKH
+  - id: '4_5'
+    poemName:
+    - lang: ur
+      text: معزول شہنشاہ
+    - lang: en
+      text: A DEPOSED MONARCH
+  - id: '4_6'
+    poemName:
+    - lang: ur
+      text: دوزخي کي مناجات
+    - lang: en
+      text: LITANY OF THE DAMNED
+  - id: '4_7'
+    poemName:
+    - lang: ur
+      text: مسعود مرحوم
+    - lang: en
+      text: THE LATE MASUD
+  - id: '4_8'
+    poemName:
+    - lang: ur
+      text: آواز غيب
+    - lang: en
+      text: A VOICE FROM BEYOND
+- sectionName:
+  - lang: ur
+    text: رباعيات
+  - lang: en
+    text: QUATRAINS
+- poems:
+  - id: '4_9'
+    poemName:
+    - lang: ur
+      text: مري شاخ امل کا ہے ثمر کيا
+    - lang: en
+      text: What fruit will the bough of my hope bear
+  - id: '4_10'
+    poemName:
+    - lang: ur
+      text: فراغت دے اسے کار جہاں سے
+    - lang: en
+      text: Set him free of this world’s affairs
+  - id: '4_11'
+    poemName:
+    - lang: ur
+      text: دگرگوں عالم شام و سحر کر
+    - lang: en
+      text: Upset this world of morn and eve
+  - id: '4_12'
+    poemName:
+    - lang: ur
+      text: غريبي ميں ہوں محسود اميري
+    - lang: en
+      text: My poor estate makes proud men covetous
+  - id: '4_13'
+    poemName:
+    - lang: ur
+      text: خرد کي تنگ داماني سے فرياد
+    - lang: en
+      text: Rescue me please from wisdom’s narrowness
+  - id: '4_14'
+    poemName:
+    - lang: ur
+      text: کہا اقبال نے شيخ حرم سے
+    - lang: en
+      text: Iqbal said to the Shaykh of the Ka‘bah
+  - id: '4_15'
+    poemName:
+    - lang: ur
+      text: کہن ہنگامہ ہائے آرزو سرد
+    - lang: en
+      text: The old flame of desires has grown cold
+  - id: '4_16'
+    poemName:
+    - lang: ur
+      text: حديث بندئہ مومن دل آويز
+    - lang: en
+      text: The talk of Muslim is interesting
+  - id: '4_17'
+    poemName:
+    - lang: ur
+      text: تميز خار و گل سے آشکارا
+    - lang: en
+      text: The clairvoyance of the zephyr
+  - id: '4_18'
+    poemName:
+    - lang: ur
+      text: نہ کر ذکر فراق و آشنائي
+    - lang: en
+      text: Of love and losing what words need be said
+  - id: '4_19'
+    poemName:
+    - lang: ur
+      text: ترے دريا ميں طوفاں کيوں نہيں ہے
+    - lang: en
+      text: Why is there no storm in your sea
+  - id: '4_20'
+    poemName:
+    - lang: ur
+      text: خرد ديکھے اگر دل کي نگہ سے
+    - lang: en
+      text: If with the heart’s eye the intellect would see aright
+  - id: '4_21'
+    poemName:
+    - lang: ur
+      text: کبھي دريا سے مثل موج ابھر کر
+    - lang: en
+      text: Sometimes by rising from the ocean like a wave
+- sectionName:
+  - lang: ur
+    text: ملا زادہ ضيغم لولا بي کشميري کا بياض
+  - lang: en
+    text: The Amanuensis of Mullah Zaighum
+- poems:
+  - id: '4_22'
+    poemName:
+    - lang: ur
+      text: پاني ترے چشموں کا تڑپتا ہوا سيماب
+    - lang: en
+      text: Your springs and lakes with water pulsating and quivering like quicksilver
+  - id: '4_23'
+    poemName:
+    - lang: ur
+      text: موت ہے اک سخت تر جس کا غلامي ہے نام
+    - lang: en
+      text: Harder than death is what thou call’st slavery
+  - id: '4_24'
+    poemName:
+    - lang: ur
+      text: آج وہ کشمير ہے محکوم و مجبور و فقير
+    - lang: en
+      text: Today that land of Kashmir, under the heels of the enemy, has become weak
+  - id: '4_25'
+    poemName:
+    - lang: ur
+      text: گرم ہو جاتا ہے جب محکوم قوموں کا لہو
+    - lang: en
+      text: When the enslaved people’s rage boils
+  - id: '4_26'
+    poemName:
+    - lang: ur
+      text: دراج کي پرواز ميں ہے شوکت شاہيں
+    - lang: en
+      text: The partridge flies with the majesty of the falcons
+  - id: '4_27'
+    poemName:
+    - lang: ur
+      text: رندوں کو بھي معلوم ہيں صوفي کے کمالات
+    - lang: en
+      text: The dissolute know the Sufi’s accomplishments
+  - id: '4_28'
+    poemName:
+    - lang: ur
+      text: نکل کر خانقاہوں سے ادا کر رسم شبيري
+    - lang: en
+      text: Come out of the monastery and play the role of Shabbir
+  - id: '4_29'
+    poemName:
+    - lang: ur
+      text: سمجھا لہو کي بوند اگر تو اسے تو خير
+    - lang: en
+      text: Thou think’st it a mere drop of blood
+  - id: '4_30'
+    poemName:
+    - lang: ur
+      text: کھلا جب چمن ميں کتب خانہء گل
+    - lang: en
+      text: When flowers’ bookshop opened in the garden
+  - id: '4_31'
+    poemName:
+    - lang: ur
+      text: آزاد کي رگ سخت ہے مانند رگ سنگ
+    - lang: en
+      text: A free man’s vein is hard like stone’s
+  - id: '4_32'
+    poemName:
+    - lang: ur
+      text: تمام عارف و عامي خودي سے بيگانہ
+    - lang: en
+      text: 'All high and low are unaware of khudi:'
+  - id: '4_33'
+    poemName:
+    - lang: ur
+      text: دگرگوں جہاں ان کے زور عمل سے
+    - lang: en
+      text: The living nations of the world have won their laurels
+  - id: '4_34'
+    poemName:
+    - lang: ur
+      text: نشاں يہي ہے زمانے ميں زندہ قوموں کا
+    - lang: en
+      text: It is the sign of living nations
+  - id: '4_35'
+    poemName:
+    - lang: ur
+      text: چہ کافرانہ قمار حيات مي بازي
+    - lang: en
+      text: How heretically do you play the game of life?
+  - id: '4_36'
+    poemName:
+    - lang: ur
+      text: ضمير مغرب ہے تاجرانہ، ضمير مشرق ہے راہبانہ
+    - lang: en
+      text: The ways of the West are calculating
+  - id: '4_37'
+    poemName:
+    - lang: ur
+      text: حاجت نہيں اے خطہ گل شرح و بياں کي
+    - lang: en
+      text: O land of charming and sweet flowers
+  - id: '4_38'
+    poemName:
+    - lang: ur
+      text: خود آگاہي نے سکھلا دي ہے جس کو تن فراموشي
+    - lang: en
+      text: Self‐awareness has made the mujahid forget his body
+  - id: '4_39'
+    poemName:
+    - lang: ur
+      text: آں عزم بلند آور آں سوز جگر آور
+    - lang: en
+      text: Nourish that lofty will and burning heart
+  - id: '4_40'
+    poemName:
+    - lang: ur
+      text: غريب شہر ہوں ميں، سن تو لے مري فرياد
+    - lang: en
+      text: I am quiet a stranger to the town
+  - id: '4_41'
+    poemName:
+    - lang: ur
+      text: سر اکبر حيدري، صدر اعظم حيدر آباد دکن کے نام
+    - lang: en
+      text: TO SIR AKBAR HYDERI - THE CHIEF MINISTER OF HYDERABAD DECCAN
+  - id: '4_42'
+    poemName:
+    - lang: ur
+      text: حسين احمد
+    - lang: en
+      text: HUSAIN AHMAD
+  - id: '4_43'
+    poemName:
+    - lang: ur
+      text: حضرت انسان
+    - lang: en
+      text: THE HUMAN BEING
