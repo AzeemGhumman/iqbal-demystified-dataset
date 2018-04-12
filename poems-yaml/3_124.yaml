@@ -1,0 +1,28 @@
+---
+'id': '3_124'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-20.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اقبال'
+- 'lang': 'en'
+  'text': 'IQBAL'
+'description': []
+'sher':
+- 'id': '3_124_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فردوس ميں رومي سے يہ کہتا تھا سنائي | مشرق ميں ابھي تک ہے وہي کاسہ، وہي آش'
+  - 'lang': 'en'
+    'text': 'In Eden Sinai to Rumi told, That people living in the East, | Still eat their bread and beans from begging cups, They have not made progress least.'
+  - 'lang': 'ro'
+    'text': 'Firdous Mein Rumi Se Ye Kehta Tha Sanayi | Mashriq Mein Abhi Tak Hai Wohi Kasa, Wohi Aash'
+- 'id': '3_124_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حلاج کي ليکن يہ روايت ہے کہ آخر | !اک مرد قلندر نے کيا راز خودي فاش'
+  - 'lang': 'en'
+    'text': 'Hallaj relates that thus at last, A man in India has appeared, | Who with efforts firm and strong, The webs that hid the self has cleared.'
+  - 'lang': 'ro'
+    'text': 'Hallaj Ki Lekin Ye Rawayat Hai Ke Akhir | Ek Mard-e-Qalandar Ne Kiya Raaz-e-Khudi Faash'

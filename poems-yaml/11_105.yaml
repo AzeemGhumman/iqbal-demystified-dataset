@@ -1,0 +1,32 @@
+---
+'id': '11_105'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFرخم از درد پنھان زعفرانی"
+- 'lang': 'en'
+  'text': 'XI-XXVII'
+'description': []
+'sher':
+- 'id': '11_105_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رخم از درد پنھان زعفرانی | تراود خون ز چشم ارغوانی'
+  - 'lang': 'en'
+    'text': 'My face looks saffron from arcane pain, | The blood looks oozing from red eyes veins.'
+    'notes':
+    - 'phrase': 'arcane'
+      'meaning': '        Arcane; hidden, known to chosen only; sec esoterics; hidden signs known by the few chosen (in mysticism)'
+      'occurrence': !!int '1'
+- 'id': '11_105_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخن اندر گلوی من گرہ بست | تو احوال مرا ناگفتہ دانی'
+  - 'lang': 'en'
+    'text': 'The speech chokes throat and forms a knot, | I can’t speak though you know my lot.'
+    'notes':
+    - 'phrase': 'lot.'
+      'meaning': '        Here Iqbal is picturising a phase of direct link of one''s heart with God, while talking in esoterics.'
+      'occurrence': !!int '1'

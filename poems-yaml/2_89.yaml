@@ -1,0 +1,28 @@
+---
+'id': '2_89'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-13.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'نہ مومن ہے نہ مومن کي اميري'
+- 'lang': 'en'
+  'text': 'Neither the Muslim nor his power survives'
+'description': []
+'sher':
+- 'id': '2_89_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ مومن ہے نہ مومن کي اميري | رہا صوفي ، گئي روشن ضميري'
+  - 'lang': 'en'
+    'text': 'Neither the Muslim nor his power survives; | The Sufi has outlived his radiant soul;'
+  - 'lang': 'ro'
+    'text': 'Na Momin Hai Na Momin Ki Ameeri | Raha Sufi, Gyi Roshan Zameeri'
+- 'id': '2_89_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا سے پھر وہي قلب و نظر مانگ | نہيں ممکن اميري بے فقيري'
+  - 'lang': 'en'
+    'text': 'Ask God for the heart and soul of men of the past, | Become a fakir, first, to regain thy power.'
+  - 'lang': 'ro'
+    'text': 'Khuda Se Phir Wohi Qalb-o-Nazar Mang | Nahin Mumkin Ameeri Be-Faqeeri'

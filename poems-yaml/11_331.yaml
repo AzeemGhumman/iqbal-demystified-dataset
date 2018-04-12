@@ -1,0 +1,28 @@
+---
+'id': '11_331'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFثباتش دہ کہ میر شش جہات است"
+- 'lang': 'en'
+  'text': 'XI-II'
+'description': []
+'sher':
+- 'id': '11_331_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ثباتش دہ کہ میر شش جہات است | بدست او زمام کائنات است'
+  - 'lang': 'en'
+    'text': 'To king of six nooks give a lasting soul, | Who holds the reins of the cosmos whole.'
+- 'id': '11_331_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگردد شرمسار از خواری مرگ | کہ نامحرم ز ناموس حیات است'
+  - 'lang': 'en'
+    'text': 'He is not ashamed of death’s disgrace, | As he knows not yet life’s honour and grace,'
+    'notes':
+    - 'phrase': 'grace,'
+      'meaning': '        In this quatrain the Angel of Death (Izrail) is addressing God'
+      'occurrence': !!int '1'

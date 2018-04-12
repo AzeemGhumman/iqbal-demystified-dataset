@@ -1,0 +1,28 @@
+---
+'id': '11_275'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنگر خود را بچشم محرمانہ"
+- 'lang': 'en'
+  'text': 'XVI-II'
+'description': []
+'sher':
+- 'id': '11_275_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگر خود را بچشم محرمانہ | نگاہ ماست ما را تازیانہ'
+  - 'lang': 'en'
+    'text': 'See thy own self with a seeing eye, | This eye is a whip for us to fly.'
+- 'id': '11_275_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تلاش رزق از  ن دادند ما را | کہ باشد پر گشودن را بھانہ'
+  - 'lang': 'en'
+    'text': 'This eye is a lash for a hunting dash, | An excuse for wings to pounce in a flash.'
+    'notes':
+    - 'phrase': 'flash.'
+      'meaning': '        In a flash (fig:) instantly, at once. Literal; with a confidents eye.'
+      'occurrence': !!int '1'

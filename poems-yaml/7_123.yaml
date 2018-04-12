@@ -1,0 +1,24 @@
+---
+'id': '7_123'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'درونم جلوۂ افکار این چیست؟'
+- 'lang': 'en'
+  'text': '(123)'
+'description': []
+'sher':
+- 'id': '7_123_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درونم جلوۂ افکار این چیست؟ | برون من ہمہ اسرار این چیست'
+  - 'lang': 'en'
+    'text': 'What is this tumult of thought inside me? | Why am I outwardly a mystery?'
+- 'id': '7_123_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بفرما ای حکیم نکتہ پرداز | بدن آسودہ ، جان سیار ، این چیست؟'
+  - 'lang': 'en'
+    'text': 'Explain to me this, wise philosopher: | The body rests, the mind roams. How and why?'

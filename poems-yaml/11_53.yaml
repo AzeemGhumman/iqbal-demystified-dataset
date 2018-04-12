@@ -1,0 +1,24 @@
+---
+'id': '11_53'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چہ خوش صحرا کہ شامش صبح خند است'
+- 'lang': 'en'
+  'text': 'IV-II'
+'description': []
+'sher':
+- 'id': '11_53_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ خوش صحرا کہ شامش صبح خند است | شبش کوتاہ و روز او بلند است'
+  - 'lang': 'en'
+    'text': 'Hail the desert whose eve is morning gay, | Whose nights are shorter and longer the day.'
+- 'id': '11_53_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قدم ای راھرو آہستہ تر نہ | چو ما ہر ذرہ او دردمند است'
+  - 'lang': 'en'
+    'text': 'Place thy steps with a gentle gait, | That sands like me has a ruthful trait.'

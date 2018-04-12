@@ -1,0 +1,46 @@
+---
+'id': '2_153'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-35.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'نادر شاہ افغان'
+- 'lang': 'en'
+  'text': 'Nadir Shah Afghan'
+'description': []
+'sher':
+- 'id': '2_153_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حضور حق سے چلا لے کے لولوئے لالا | وہ ابر جس سے رگ گل ہے مثل تار نفس'
+  - 'lang': 'en'
+    'text': 'Laden with pearls departed from the presence-hall of God | That cloud that makes the pulse of life stir in the rose-bud''s vein'
+  - 'lang': 'ro'
+    'text': 'Huzoor-e-Haq Se Chala Le Ke Luluye Lala | Woh Abar Jis Se Rag-e-Gul Hai Misl-e-Taar-e-Nafs'
+- 'id': '2_153_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہشت راہ ميں ديکھا تو ہو گيا بيتاب | عجب مقام ہے ، جي چاہتا ہے جاؤں برس'
+  - 'lang': 'en'
+    'text': 'And on its way saw Paradise, and trembled with desire | That on such exquisite abode it might descend in rain.'
+  - 'lang': 'ro'
+    'text': 'Behisht Rah Mein Dekha To Ho Gya Betaab | Ajab Maqam Hai, Ji Chahta Hai Jaun Baras'
+- 'id': '2_153_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صدا بہشت سے آئي کہ منتظر ہے ترا | ہرات و کابل و غزني کا سبزئہ نورس'
+  - 'lang': 'en'
+    'text': 'A voice sounded from Paradise: ''They wait for you afar, | Kabul and Ghazni and Herat, and their new-springing grass;'
+  - 'lang': 'ro'
+    'text': 'Sada Behisht Se Ayi Ke Muntazir Hai Tera | Harat-o-Kabil-o-Ghazni Ka Sabza-e-Naurasta'
+- 'id': '2_153_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سرشک ديدہ نادر بہ داغ لالہ فشاں | !چناں کہ آتش او را دگر فرونہ نشاں'
+  - 'lang': 'en'
+    'text': 'Scatter the tear from Nadir''s eye on the poppy''s burning scar, | That never more may be put out the poppy''s glowing fire!'
+  - 'lang': 'ro'
+    'text': 'Sar Shak-e-Dida-e-Nadir Ba Dagh-e-Lala Fashan | Chana Ke Atish-e-Ao Ra Digar Firo Na Nishan !'

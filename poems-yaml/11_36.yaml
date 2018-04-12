@@ -1,0 +1,24 @@
+---
+'id': '11_36'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دگرگون کشور ہندوستان است'
+- 'lang': 'en'
+  'text': 'IX-I'
+'description': []
+'sher':
+- 'id': '11_36_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگرگون کشور ہندوستان است | دگرگون آن زمین و آسمان است'
+  - 'lang': 'en'
+    'text': 'Looking in a mess is Indian State, | In the same messy form is world’s own state.'
+- 'id': '11_36_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجو از ما نماز پنجگانہ | غلامان را صف آرائی گران است'
+  - 'lang': 'en'
+    'text': 'So solicit not five times to pray, | A burden on slaves are these arrays.'

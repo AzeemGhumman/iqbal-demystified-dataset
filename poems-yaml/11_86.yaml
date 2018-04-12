@@ -1,0 +1,38 @@
+---
+'id': '11_86'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدگرگون کرد لادینی جھان را"
+- 'lang': 'en'
+  'text': 'XI-VIII'
+'description': []
+'sher':
+- 'id': '11_86_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگرگون کرد لادینی جھان را | ز آثار بدن گفتند جان را'
+  - 'lang': 'en'
+    'text': 'He brought a total change in faithless world, | They say, “body is a track for life’s bird ”'
+    'notes':
+    - 'phrase': 'say,'
+      'meaning': '        They say. viz, the scientists.'
+      'occurrence': !!int '1'
+    - 'phrase': 'bird'
+      'meaning': '        Life''s bird; soul.'
+      'occurrence': !!int '1'
+- 'id': '11_86_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از آن فقری کہ با صدیق دادی | بشورے آور این آسودہ جان را'
+  - 'lang': 'en'
+    'text': 'With ‘faqr’ thou destined to the Siddiq’s part, | May fill a new thrill to this ease loving heart.'
+    'notes':
+    - 'phrase': '‘faqr’'
+      'meaning': '        Faqr; Ascetic nature (not poverty), a love of simple life.'
+      'occurrence': !!int '1'
+    - 'phrase': 'Siddiq’s'
+      'meaning': '        Siddiq Hazrat Abu Bakr as-Siddiq.'
+      'occurrence': !!int '1'

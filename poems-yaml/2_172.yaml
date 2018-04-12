@@ -1,0 +1,28 @@
+---
+'id': '2_172'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-54.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ہارون کي آخري نصيحت'
+- 'lang': 'en'
+  'text': 'THE LAST WILL OF HARUN RASHID'
+'description': []
+'sher':
+- 'id': '2_172_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہاروں نے کہا وقت رحيل اپنے پسر سے | جائے گا کبھي تو بھي اسي راہ گزر سے'
+  - 'lang': 'en'
+    'text': 'Harun said to his son when his hour came, | “You’ll will also pass this way some day.'
+  - 'lang': 'ro'
+    'text': 'Haroon Ne Kaha Waqt-e-Raheel Apne Pisar Se | Jaye Ga Kabhi Tu Bhi Issi Rah Guzar Se'
+- 'id': '2_172_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پوشيدہ ہے کافر کي نظر سے ملک الموت | ليکن نہيں پوشيدہ مسلماں کي نظر سے'
+  - 'lang': 'en'
+    'text': 'The Angel of Death is an unseen to the infidel, | But it is not hidden from a Muslim’s eyes.”'
+  - 'lang': 'ro'
+    'text': 'Poshida Hai Kafir K Nazar Se Malk-Ul-Mout | Lekin Nahin Poshida Musalman Ki Nazar Se'

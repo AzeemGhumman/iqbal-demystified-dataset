@@ -1,0 +1,28 @@
+---
+'id': '11_233'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمبارکباد کن  ن پاک جان را"
+- 'lang': 'en'
+  'text': 'IX-IX'
+'description': []
+'sher':
+- 'id': '11_233_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مبارکباد کن  ن پاک جان را | کہ زاید  ن امیر کاروان را'
+  - 'lang': 'en'
+    'text': 'To that holy mother I greet with pride, | From whom will be born the caravan’s guide.'
+- 'id': '11_233_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز  غوش چنین فرخندہ مادر | خجالت می دہم حور جنان را'
+  - 'lang': 'en'
+    'text': 'On the lap of, ‘that’ fortunate dame, | The paradise nymphs would feel a shame.'
+    'notes':
+    - 'phrase': 'shame.'
+      'meaning': '        Nymph; fairy, Hoors of paradise.'
+      'occurrence': !!int '1'

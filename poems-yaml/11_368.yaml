@@ -1,0 +1,28 @@
+---
+'id': '11_368'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچو دیدم جوھر  ئینۂ خویش"
+- 'lang': 'en'
+  'text': 'I-XXIII'
+'description': []
+'sher':
+- 'id': '11_368_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو دیدم جوھر  ئینۂ خویش | گرفتم خلوت اندر سینۂ خویش'
+  - 'lang': 'en'
+    'text': 'As soon I espied my ego’s essence, | I took a lone retreat in bosom hence.'
+    'notes':
+    - 'phrase': 'essence,'
+      'meaning': '        Ego''s essence; The hidden qualities of ego.'
+      'occurrence': !!int '1'
+- 'id': '11_368_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ازین دانشوران کور و بی ذوق | رمیدم با غم دیرینۂ خویش'
+  - 'lang': 'en'
+    'text': 'From these wise blinds who have no taste. | For old love’s flame I ran with haste.'

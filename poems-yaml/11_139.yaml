@@ -1,0 +1,28 @@
+---
+'id': '11_139'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبصدق فطرت رندانہء من"
+- 'lang': 'en'
+  'text': 'XI-LXI'
+'description': []
+'sher':
+- 'id': '11_139_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بصدق فطرت رندانہء من | بسوز آہ بیتابانہ من'
+  - 'lang': 'en'
+    'text': 'For the sake of truth of my free lance tone, | For the sake of my sighs impatient groan.'
+- 'id': '11_139_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدہ آن خاک را ابر بھاری | کہ در آغوش گیرد دانہء من'
+  - 'lang': 'en'
+    'text': 'For them I pray for clouds of vernal rain, | Who made a best use of my fruits and grains.'
+    'notes':
+    - 'phrase': 'grains.'
+      'meaning': '        Line 3 (Literal) For that dust I pray for clouds of vernal rain.'
+      'occurrence': !!int '1'

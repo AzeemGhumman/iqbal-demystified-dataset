@@ -1,0 +1,37 @@
+---
+'id': '3_177'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-30.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'سياسي پيشوا'
+- 'lang': 'en'
+  'text': 'POLITICAL LEADERS'
+'description': []
+'sher':
+- 'id': '3_177_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اميد کيا ہے سياست کے پيشواؤں سے | يہ خاک باز ہيں ، رکھتے ہيں خاک سے پيوند'
+  - 'lang': 'en'
+    'text': 'On political leaders what hopes can we fix? | They are wedded to dust, in the dust play their tricks,'
+  - 'lang': 'ro'
+    'text': 'Umeed Kya Hai Siasat Ke Paishwaon Se | Ye Khakbaz Hain, Rakhte Hain Khak Se Pewand'
+- 'id': '3_177_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہميشہ مور و مگس پر نگاہ ہے ان کي | جہاں ميں صفت عنکبوت ان کي کمند'
+  - 'lang': 'en'
+    'text': 'Their gaze always fastened on maggots and flies, | A web like the spider’s their ladder to rise.'
+  - 'lang': 'ro'
+    'text': 'Hamesha Moor-o-Magas Par Nigah Hai Un Ki | Jahan Mein Hai Sift-e-Ankuboot Un Ki Kumand'
+- 'id': '3_177_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوشا وہ قافلہ ، جس کے امير کي ہے متاع | تخيل ملکوتي و جذبہ ہائے بلند'
+  - 'lang': 'en'
+    'text': 'That caravan’s happy whose chief is endowed | With thoughts light as angels’, and temper as proud.'
+  - 'lang': 'ro'
+    'text': 'Khausha Woh Qafla, Jis Ke Ameer Ki Hai Mataa | Takhiyyul-e-Malkooti-o-Jazba Haye Buland'

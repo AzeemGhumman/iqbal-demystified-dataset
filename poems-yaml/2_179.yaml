@@ -1,0 +1,28 @@
+---
+'id': '2_179'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-59.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'قطعہ - کل اپنے مريدوں سے کہا پير مغاں نے'
+- 'lang': 'en'
+  'text': 'The mentor exhorted his. disciples once'
+'description': []
+'sher':
+- 'id': '2_179_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کل اپنے مريدوں سے کہا پير مغاں نے | قيمت ميں يہ معني ہے درناب سے دہ چند'
+  - 'lang': 'en'
+    'text': 'The mentor exhorted his. disciples once: | Listen to my words, in value greater than gold:'
+  - 'lang': 'ro'
+    'text': 'Kal Apne Mureedon Se Kaha Peer-e-Maghan Ne | Qeemat Mein Ye Maani Hai Dar-e-Naab Se Deh-Chand'
+- 'id': '2_179_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زہراب ہے اس قوم کے حق ميں مےء افرنگ | جس قوم کے بچے نہيں خوددار و ہنرمند'
+  - 'lang': 'en'
+    'text': 'The Western wine is poison for the people, | When the offspring knows neither pride nor skill.'
+  - 'lang': 'ro'
+    'text': 'Zehr Ab Hai Uss Qoum Ke Haq Mein Mei-e-Afrang | Jis Qoum Ke Bache Nahin Khuddar-o-Hunar Mand'

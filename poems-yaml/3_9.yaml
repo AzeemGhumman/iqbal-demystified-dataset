@@ -1,0 +1,46 @@
+---
+'id': '3_9'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-09.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اجتہاد'
+- 'lang': 'en'
+  'text': 'IJTEHAD'
+'description': []
+'sher':
+- 'id': '3_9_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہند ميں حکمت ديں کوئي کہاں سے سيکھے | نہ کہيں لذت کردار، نہ افکار عميق'
+  - 'lang': 'en'
+    'text': 'There is no place in Ind wherefrom to learn, The tenets that the Muslim Faith concern. | They are devoid of zeal for godly acts, And are not wont to seek its basic facts.'
+  - 'lang': 'ro'
+    'text': 'Hind Mein Hikmat-e-Deen Koi Kahan Se Sikhe | Na Kahin Lazzat-e-Kirdar, Na Afkar-e-Aumeeq'
+- 'id': '3_9_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حلقہ شوق ميں وہ جرات انديشہ کہاں | !آہ محکومي و تقليد و زوال تحقيق'
+  - 'lang': 'en'
+    'text': 'The mystics, who were keen their faith to spread, Are silent now and thought for them a dread. | Alas! the state of bondage deprives of zest, Slaves tread the beaten path and relinquish quest.'
+  - 'lang': 'ro'
+    'text': 'Halqa-e-Shouk Mein Woh Jurrat-e-Andesha Kahan | Aah Mehkoomi-o-Taqleed-o-Zawal-e-Tehqeeq !'
+- 'id': '3_9_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خود بدلتے نہيں، قرآں کو بدل ديتے ہيں | !ہوئے کس درجہ فقيہان حرم بے توفيق'
+  - 'lang': 'en'
+    'text': 'The jurists are helpless to such extent, Canʹt change themselves but would change Quranʹs content. | How sad, the jurists canʹt shift their outlook, But would prefer to change the Holy Book!'
+  - 'lang': 'ro'
+    'text': 'Khud Badalte Nahin, Quran Ko Badal Dete Hain | Huwe Kis Darja Faqeehan-e-Haram Be-Toufeeq !'
+- 'id': '3_9_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ان غلاموں کا يہ مسلک ہے کہ ناقص ہے کتاب | !کہ سکھاتي نہيں مومن کو غلامي کے طريق'
+  - 'lang': 'en'
+    'text': 'These abject slaves opine and cling to creed, That Holy Book is full of flaws indeed. | They think it incomplete for this fact, Because it fails to teach the slavish tact.'
+  - 'lang': 'ro'
+    'text': 'In Ghulamon Ka Ye Maslak Hai Ke Naqis Hai Kitab | Ke Sikhati Nahin Momin Ko Ghulami Ke Tareeq!'

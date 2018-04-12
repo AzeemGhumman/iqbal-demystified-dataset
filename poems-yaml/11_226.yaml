@@ -1,0 +1,28 @@
+---
+'id': '11_226'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچمنہا زان جنون ویرانہ گردد"
+- 'lang': 'en'
+  'text': 'IX-II'
+'description': []
+'sher':
+- 'id': '11_226_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چمنہا زان جنون ویرانہ گردد | کہ از ہنگامہ ہا بیگانہ گردد'
+  - 'lang': 'en'
+    'text': 'If a craze consumes the garden’s face, | And saps its beauty and social grace.'
+- 'id': '11_226_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از  ن ہوئی کہ افکندم درین شہر | جنون ماند ولی فرزانہ گردد'
+  - 'lang': 'en'
+    'text': 'I poured a verve and roar, in this town lanes, | Will leave a craze yet to sharpen their brains.'
+    'notes':
+    - 'phrase': 'lanes,'
+      'meaning': '        viz, in the City of Lahore.'
+      'occurrence': !!int '1'

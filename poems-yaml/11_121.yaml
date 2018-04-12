@@ -1,0 +1,28 @@
+---
+'id': '11_121'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل خود را بدست کس ندادم"
+- 'lang': 'en'
+  'text': 'XI-XLIII'
+'description': []
+'sher':
+- 'id': '11_121_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل خود را بدست کس ندادم | گرہ از روی کار خود گشادم'
+  - 'lang': 'en'
+    'text': 'For any one’s boon this heart owes not, | With my own hand I opened each tough knot.'
+- 'id': '11_121_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ غیر اللہ کردم تکیہ یک بار | دو صد بار از مقام خود فتادم'
+  - 'lang': 'en'
+    'text': 'I banked on else once save Allah’s grace, | I fell hundred times from self’s high place'
+    'notes':
+    - 'phrase': 'place'
+      'meaning': '        Pearls (gauhar) in Persian also means intrinsic qualities (of a man) in figurative sense.'
+      'occurrence': !!int '1'

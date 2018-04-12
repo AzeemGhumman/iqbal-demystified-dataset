@@ -1,0 +1,28 @@
+---
+'id': '4_19'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-11.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ترے دريا ميں طوفاں کيوں نہيں ہے'
+- 'lang': 'en'
+  'text': 'Why is there no storm in your sea'
+'description': []
+'sher':
+- 'id': '4_19_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترے دريا ميں طوفاں کيوں نہيں ہے | خودي تيري مسلماں کيوں نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Why is there no storm in your sea? | Why is your khudi not Muslim?'
+  - 'lang': 'ro'
+    'text': 'Tere Darya Mein Toofan Kyun Nahin Hai | Khudi Teri Musalman Kyun Nahin Hai'
+- 'id': '4_19_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عبث ہے شکوئہ تقدير يزداں | تو خود تقدير يزداں کيوں نہيں ہے؟'
+  - 'lang': 'en'
+    'text': 'It is pointless to complain of God’s decree – | Why are you not God’s decree?'
+  - 'lang': 'ro'
+    'text': 'Abas Hai Shikwa’ay Taqdeer-E-Yazdan | Tu Khud Taqdeer-E-Yazdan Kyun Nahin Hai?'

@@ -1,0 +1,28 @@
+---
+'id': '11_44'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFندانم دل شہید جلوہ کیست"
+- 'lang': 'en'
+  'text': 'I-III'
+'description': []
+'sher':
+- 'id': '11_44_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندانم دل شہید جلوہ کیست | نصیب او قرار یک نفس نیست'
+  - 'lang': 'en'
+    'text': 'I know not who dazzled and killed this heart, | No rest since then is destined to this part.'
+- 'id': '11_44_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ صحرا بردمش افسردہ تر گشت | کنار آب جوئی زار بگریست'
+  - 'lang': 'en'
+    'text': 'I took him to desert which pained him more. | On a brook side too he be wept to the core.'
+    'notes':
+    - 'phrase': 'core.'
+      'meaning': '        To the core; to the core of his heart.'
+      'occurrence': !!int '1'

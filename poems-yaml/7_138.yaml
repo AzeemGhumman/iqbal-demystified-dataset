@@ -1,0 +1,24 @@
+---
+'id': '7_138'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مرا از پردۂ ساز آگہی نیست'
+- 'lang': 'en'
+  'text': '(138)'
+'description': []
+'sher':
+- 'id': '7_138_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا از پردۂ ساز آگہی نیست | ولی دانم نواے زندگی چیست'
+  - 'lang': 'en'
+    'text': 'Although I have no knowledge of the keys, | Yet I know very well life’s melody.'
+- 'id': '7_138_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سرودم آنچنان در شاخساران | گل از مرغ چمن پرسد کہ این کیست؟'
+  - 'lang': 'en'
+    'text': 'So nicely did I sing it in the trees | The rose said to the thrushes, "Who is he?"'

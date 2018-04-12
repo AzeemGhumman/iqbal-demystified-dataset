@@ -1,0 +1,28 @@
+---
+'id': '11_278'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنہ از ساقی نہ از پیمانہ گفتم"
+- 'lang': 'en'
+  'text': 'THE FINIS | Chapter 18'
+'description': []
+'sher':
+- 'id': '11_278_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ از ساقی نہ از پیمانہ گفتم | حدیث عشق بیباکانہ گفتم'
+  - 'lang': 'en'
+    'text': 'I talk not of bearer nor of bowl hence, | This love theme, I say in a frank parlance.'
+- 'id': '11_278_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شنیدم  نچہ از پاکان امت | ترا با شوخے رندانہ گفتم'
+  - 'lang': 'en'
+    'text': 'From Holies of Ummah what e’er I hold, | In their own frank style to thee I have told.'
+    'notes':
+    - 'phrase': 'told.'
+      'meaning': '        Line 2 means: A frank talk I make on love''s other sense.'
+      'occurrence': !!int '1'

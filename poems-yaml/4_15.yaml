@@ -1,0 +1,28 @@
+---
+'id': '4_15'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-07.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کہن ہنگامہ ہائے آرزو سرد'
+- 'lang': 'en'
+  'text': 'The old flame of desires has grown cold'
+'description': []
+'sher':
+- 'id': '4_15_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہن ہنگامہ ہائے آرزو سرد | کہ ہے مرد مسلماں کا لہو سرد'
+  - 'lang': 'en'
+    'text': 'The old flame of desires has grown cold, | As the Muslims’ veins hot‐blood no longer hold.'
+  - 'lang': 'ro'
+    'text': 'Kuhan Hangama Ha’ay Arzoo Sard | Kh Hai Mard-e-Musalman Ka Lahoo Sard'
+- 'id': '4_15_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بتوں کو ميري لاديني مبارک | کہ ہے آج آتش ''اللہ ھو، سرد'
+  - 'lang': 'en'
+    'text': 'Greetings to the idols for my secularism, | For flame of Allah Hoo’s cheers is dead, behold!'
+  - 'lang': 'ro'
+    'text': 'Bouton Ko Meri La-Deeni Mubarik | Ke Hai Aaj Aatish-e-‘Allah Hoo’Sard'

@@ -1,0 +1,28 @@
+---
+'id': '11_282'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFیکی از حجرۂ خلوت برون  ی"
+- 'lang': 'en'
+  'text': 'I-II'
+'description': []
+'sher':
+- 'id': '11_282_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یکی از حجرۂ خلوت برون  ی | بباد صبحگاہی سینہ بگشای'
+  - 'lang': 'en'
+    'text': 'Leave thy solitude cell for a while please, | Ope thy bosom thus from the morning breeze.'
+- 'id': '11_282_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خروش این مقام رنگ و بو را | بقدر نالۂ مرغی بیفزای'
+  - 'lang': 'en'
+    'text': 'For a tempo to world’s hustle and thrill, | Raise thy tune and tone to song bird’s trill.'
+    'notes':
+    - 'phrase': 'trill.'
+      'meaning': '        1. Hustle, n., quick and energetic activity (compare with). Bustle. n., excited activity. (used in sing only). Trill. n. and v.t. and vi.; sing a (musical note) with a trill; trill. n, a shaking voice.'
+      'occurrence': !!int '1'

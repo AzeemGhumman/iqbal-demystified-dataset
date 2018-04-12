@@ -1,0 +1,28 @@
+---
+'id': '11_137'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدمید آن لالہ از مشت غبارم"
+- 'lang': 'en'
+  'text': 'XI-LIX'
+'description': []
+'sher':
+- 'id': '11_137_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دمید آن لالہ از مشت غبارم | کہ خونش می تراود از کنارم'
+  - 'lang': 'en'
+    'text': 'Grow that poppy from the dust of mine, | Whose blood is dripping from my heart’s line.'
+    'notes':
+    - 'phrase': 'poppy'
+      'meaning': '        Here poppy mean a lover''s heart in Iqbal''s own terminology which he wants to present to his beloved in a plate'
+      'occurrence': !!int '1'
+- 'id': '11_137_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قبولش کن ز راہ دلنوازی | کہ من غیر از دلی ، چیزی ندارم'
+  - 'lang': 'en'
+    'text': 'This heart be received as a favour great, | I have no fine offer than heart in plate.'

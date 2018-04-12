@@ -1,0 +1,24 @@
+---
+'id': '11_150'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبکوی تو گداز یک نوا بس"
+- 'lang': 'en'
+  'text': 'XI-LXXII'
+'description': []
+'sher':
+- 'id': '11_150_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بکوی تو گداز یک نوا بس | مرا این ابتدا این انتھا بس'
+  - 'lang': 'en'
+    'text': 'I need in thy land just a melting sigh, | To me this is first and last aim to die.'
+- 'id': '11_150_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خراب جرأت آن رند پاکم | خدا را گفت ما را مصطفی بس'
+  - 'lang': 'en'
+    'text': 'Ho! the daring sot who said to Gods Grace, | I need from Thee only Mustafa’s face.'

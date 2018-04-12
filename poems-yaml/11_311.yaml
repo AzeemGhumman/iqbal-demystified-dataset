@@ -1,0 +1,35 @@
+---
+'id': '11_311'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل  ن بحر است کو ساحل نورزد"
+- 'lang': 'en'
+  'text': 'CHAPTER 8 | HEART | VIII-I'
+'description': []
+'sher':
+- 'id': '11_311_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل  ن بحر است کو ساحل نورزد | نہنگ از ہیبت موجش بلرزد'
+  - 'lang': 'en'
+    'text': 'The heart is a sea which likes no shore, | A shark too shivers from his wave’s roar.'
+    'notes':
+    - 'phrase': 'shore,'
+      'meaning': '        Warzeedan to opt for, to incline toward, to choose. Nawarzeedan; does not choose.'
+      'occurrence': !!int '1'
+    - 'phrase': 'shark'
+      'meaning': '        Nahang; a crocodile; a whale, a sherk etc. Line 4 Literal: The sky cant contain in its one bubble.'
+      'occurrence': !!int '1'
+- 'id': '11_311_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از  ن سیلی کہ صد ہامون بگیرد | فلک با یک حباب او نیرزد'
+  - 'lang': 'en'
+    'text': 'Like tempest which takes jungles of rubble, | The whole sky’s worth, not alike his bubble.'
+    'notes':
+    - 'phrase': 'alike'
+      'meaning': '        Nayarzad is not equal to. Here nahang (alligator) is probably the Satan. Iqbal has tried to explain different states of heart. Sometimes a huge  sea in which the whole cosmos can be contained. As such his heart is not a mere lump of flesh which beats in bosom. It is a place in which God himself likes to live when He loves a man.'
+      'occurrence': !!int '1'

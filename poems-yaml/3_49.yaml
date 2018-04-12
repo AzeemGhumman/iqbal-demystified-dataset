@@ -1,0 +1,46 @@
+---
+'id': '3_49'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-49.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'تسليم و رضا'
+- 'lang': 'en'
+  'text': 'RESIGNATION'
+'description': []
+'sher':
+- 'id': '3_49_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر شاخ سے يہ نکتہ پيچيدہ ہے پيدا | پودوں کو بھي احساس ہے پہنائے فضا کا'
+  - 'lang': 'en'
+    'text': 'The twigs and boughs this subtle point explain | That sense of surrounding wide to plants is plain.'
+  - 'lang': 'ro'
+    'text': 'Har Shakh Se Ye Nukta-e-Pecheeda Hai Paida | Poudon Ko Bhi Ehsas Hai Pehnaye Faza Ka'
+- 'id': '3_49_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ظلمت کدئہ خاک پہ شاکر نہيں رہتا | ہر لحظہ ہے دانے کو جنوں نشوونما کا'
+  - 'lang': 'en'
+    'text': 'The seed is not content with dwelling dark, | It has a craze to spire from earth like spark.'
+  - 'lang': 'ro'
+    'text': 'Zulmat Kada-e-Khak Pe Shakir Nahin Rehta | Har Lehza Hai Dane Ko Junoon Nash-o-Nama Ka'
+- 'id': '3_49_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت کے تقاضوں پہ نہ کر راہ عمل بند | مقصود ہے کچھ اور ہي تسليم و رضا کا'
+  - 'lang': 'en'
+    'text': 'Donʹt bar the path to deeds for Natureʹs claims, | Submission to Will of God has different aims.'
+  - 'lang': 'ro'
+    'text': 'Fitrat Ke Taqazon Pe Na Kar Rah-e-Amal Band | Maqsood Hai Kuch Aur Hi Tasleem-o-Raza Ka'
+- 'id': '3_49_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جرات ہو نمو کي تو فضا تنگ نہيں ہے | اے مرد خدا، ملک خدا تنگ نہيں ہے'
+  - 'lang': 'en'
+    'text': 'If there is pluck for growth, the suburbs suffice; | O man, the world is wide, if you are wise.'
+  - 'lang': 'ro'
+    'text': 'Jurrat Ho Namoo Ki Tu Faza Tang Nahin Hai | Ae Mard-e-Khuda, Mulk-e-Khuda Tang Nahin Hai!'

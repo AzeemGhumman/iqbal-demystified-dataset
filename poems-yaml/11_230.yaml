@@ -1,0 +1,28 @@
+---
+'id': '11_230'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ بحر خویش چون موجی تپیدم"
+- 'lang': 'en'
+  'text': 'IX-VI'
+'description': []
+'sher':
+- 'id': '11_230_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ بحر خویش چون موجی تپیدم | تپیدم تا بہ طوفانی رسیدم'
+  - 'lang': 'en'
+    'text': 'In self’s own sea, I’m thus a restive’ wave, | Till my waves in tempest to Coast would lave.'
+- 'id': '11_230_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگر رنگی ازین خوشتر ندیدم | بخون خویش تصویرش کشیدم'
+  - 'lang': 'en'
+    'text': 'I found no better cast than my own face, | With my own blood his picture I trace.'
+    'notes':
+    - 'phrase': 'trace.'
+      'meaning': '        Here tone is a metaphor for tinge.'
+      'occurrence': !!int '1'

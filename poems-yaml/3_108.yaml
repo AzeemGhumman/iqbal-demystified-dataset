@@ -1,0 +1,28 @@
+---
+'id': '3_108'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-04.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اپنے شعر سے'
+- 'lang': 'en'
+  'text': 'TO MY POEM'
+'description': []
+'sher':
+- 'id': '3_108_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے گلہ مجھ کو تري لذت پيدائي کا | تو ہوا فاش تو ہيں اب مرے اسرار بھي فاش'
+  - 'lang': 'en'
+    'text': 'I must complain of your self‐flaunting airs— | My secrets, when you go unveiled, lie bare.'
+  - 'lang': 'ro'
+    'text': 'Hai Gilla Mujh Ko Teri Lazzat-e-Paidai Ka | Tu Huwa Fash To Hain Ab Mere Asrar Bhi Fash'
+- 'id': '3_108_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شعلے سے ٹوٹ کے مثل شرر آوارہ نہ رہ | !کر کسي سينہ پر سوز ميں خلوت کي تلاش'
+  - 'lang': 'en'
+    'text': 'Instead of floating like a truant spark, | Seek out the fastness of some glowing heart!'
+  - 'lang': 'ro'
+    'text': 'Shoale Se Toot Ke Misl-e-Sharar Awara Na Reh | Kar Kisi Seena-e-Pur Souz Mein Khalwat Ki Talash!'

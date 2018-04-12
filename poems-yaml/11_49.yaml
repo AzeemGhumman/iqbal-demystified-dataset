@@ -1,0 +1,31 @@
+---
+'id': '11_49'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFسحر با ناقہ گفتم نرم تر رو"
+- 'lang': 'en'
+  'text': 'III-I'
+'description': []
+'sher':
+- 'id': '11_49_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سحر با ناقہ گفتم نرم تر رو | کہ راکب خستہ و بیمار و پیر است'
+  - 'lang': 'en'
+    'text': 'That dawn I asked naqah not to run quick, | Its rider is feeble, too old and sick.'
+- 'id': '11_49_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قدم مستانہ زد چندان کہ گوئی | بپایش ریگ این صحرا حریر است'
+  - 'lang': 'en'
+    'text': 'In a dancing prance move but she runs more , | That sand to her feet is a silky floor.'
+    'notes':
+    - 'phrase': 'more'
+      'meaning': '(Literal) In a gaily way trot but she would say,'
+      'occurrence': !!int '1'
+    - 'phrase': 'floor.'
+      'meaning': 'To her desert sand is a silky way. This is why she likes to run fast. That soil of Yasrib and Mecca is also dear to her!'
+      'occurrence': !!int '1'

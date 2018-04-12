@@ -1,0 +1,28 @@
+---
+'id': '11_354'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدر دل را بروی کس نبستم"
+- 'lang': 'en'
+  'text': 'I-IX'
+'description': []
+'sher':
+- 'id': '11_354_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در دل را بروی کس نبستم | نہ از خویشان نہ از یاران گسستم'
+  - 'lang': 'en'
+    'text': 'My heart’s door I shut not to any one, | With kiths and kins I break links none.'
+- 'id': '11_354_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نشیمن ساختم در سینۂ خویش | تہ این چرخ گردان خوش نشستم'
+  - 'lang': 'en'
+    'text': 'I made my cottage in my bosom own, | And passed my days with a happy tone.'
+    'notes':
+    - 'phrase': 'tone.'
+      'meaning': '        Literal: Beneath this sky I pass a happy life.'
+      'occurrence': !!int '1'

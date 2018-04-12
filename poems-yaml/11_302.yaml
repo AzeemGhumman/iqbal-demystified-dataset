@@ -1,0 +1,28 @@
+---
+'id': '11_302'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنپنداری کہ مرد امتحان مرد"
+- 'lang': 'en'
+  'text': 'VI-II'
+'description': []
+'sher':
+- 'id': '11_302_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نپنداری کہ مرد امتحان مرد | نمیرد گرچہ زیر  سمان مرد'
+  - 'lang': 'en'
+    'text': 'If a tested man dies think not ever, | He dies on the earth, there he dies never.'
+- 'id': '11_302_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا شایان چنین مرگ است ورنہ | زہر مرگی کہ خواہی میتوان مرد'
+  - 'lang': 'en'
+    'text': 'To thee thus suits a death of such state, | Though dead yet lasts his self’s pleasant trait.'
+    'notes':
+    - 'phrase': 'trait.'
+      'meaning': '        Literal Line 2 He dies beneath sky, there he dies never.'
+      'occurrence': !!int '1'

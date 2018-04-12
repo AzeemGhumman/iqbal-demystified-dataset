@@ -1,0 +1,24 @@
+---
+'id': '7_84'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نہان در سینۂ ما عالمی ہست'
+- 'lang': 'en'
+  'text': '(84)'
+'description': []
+'sher':
+- 'id': '7_84_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہان در سینۂ ما عالمی ہست | بخاک ما دلی در دل غمی ہست'
+  - 'lang': 'en'
+    'text': 'There is a world concealed within our breasts, | Hearts in our dust and passion in our hearts.'
+- 'id': '7_84_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از آن صہبا کہ جان ما بر افروخت | ہنوز اندر سبوی ما نمی ہست'
+  - 'lang': 'en'
+    'text': 'Of that strong wine which once lit up our souls | There are a few drops still left in our bowls.'

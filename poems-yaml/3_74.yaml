@@ -1,0 +1,46 @@
+---
+'id': '3_74'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-07.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اسرار پيدا'
+- 'lang': 'en'
+  'text': 'OPEN SECRETS'
+'description': []
+'sher':
+- 'id': '3_74_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس قوم کو شمشير کي حاجت نہيں رہتي | ہو جس کے جوانوں کي خودي صورت فولاد'
+  - 'lang': 'en'
+    'text': 'A nation whose youth are endowed, With self as strong and hard as steel: | No need of piercing swords in war, Such people brave can ever feel.'
+  - 'lang': 'ro'
+    'text': 'Uss Qoum Ko Shamsheer Ki Hajat Nahin Rehti | Ho Jis Ke Jawanon Ki Khudi Soorat-e-Foulad'
+- 'id': '3_74_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ناچيز جہان مہ و پرويں ترے آگے | وہ عالم مجبور ہے ، تو عالم آزاد'
+  - 'lang': 'en'
+    'text': 'The world of Pleiades and the Moon, By natural laws is chained and bound; | Whereas the world in which you dwell, Owns insight, will and mind much sound.'
+  - 'lang': 'ro'
+    'text': 'Na-Cheez Jahan-e-Meh-o-Parveen Tere Agay | Woh Alam-e-Majboor Hai, Tu Alam-e-Azad'
+- 'id': '3_74_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'موجوں کي تپش کيا ہے ، فقط ذوق طلب ہے | پنہاں جو صدف ميں ہے ، وہ دولت ہے خدا داد'
+  - 'lang': 'en'
+    'text': 'What do the quivering waves imply, Save enormous zeal and zest for quest? | What lies concealed in mother shell, Is gift of God Who knows it best.'
+  - 'lang': 'ro'
+    'text': 'Moujon Ki Tapish Kya Hai, Faqt Zauq-e-Talab Hai | Pinhan Jo Sadaf Mein Hai, Woh Doulat Hai Khudadad'
+- 'id': '3_74_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شاہيں کبھي پرواز سے تھک کر نہيں گرتا | پر دم ہے اگر تو تو نہيں خطرہ افتاد'
+  - 'lang': 'en'
+    'text': 'The hawk is never tired of flight, Does not drop gasping on the ground: | If unwearied it remains on wings, From huntersʹ dread is safe and sound.'
+  - 'lang': 'ro'
+    'text': 'Shaheen Kabhi Parwaz Se Thak Kar Nahin Girta | Pur Dam Hai Agar Tu To Nahin Khatra-e-Uftad'

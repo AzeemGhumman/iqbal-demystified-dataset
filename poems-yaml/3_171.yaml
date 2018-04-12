@@ -1,0 +1,46 @@
+---
+'id': '3_171'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-24.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'لادين سياست'
+- 'lang': 'en'
+  'text': 'SECULAR POLITICS'
+'description': []
+'sher':
+- 'id': '3_171_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جو بات حق ہو ، وہ مجھ سے چھپي نہيں رہتي | خدا نے مجھ کو ديا ہے دل خبير و بصير'
+  - 'lang': 'en'
+    'text': 'No truth from me can hide at all its face, | God gave me heart awake and wise, through grace.'
+  - 'lang': 'ro'
+    'text': 'Jo Baat Haq Ho, Woh Mujh Se Chupi Nahin Rehti | Khuda Ne Mujh Ko Diya Hai Dil-e-Khabeer-o-Baseer'
+- 'id': '3_171_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مري نگاہ ميں ہے يہ سياست لا ديں | کنيز اہرمن و دوں نہاد و مردہ ضمير'
+  - 'lang': 'en'
+    'text': 'In my view statesmanship cut off from creed, | Is Satanʹs slave, has no qualms, but low breed.'
+  - 'lang': 'ro'
+    'text': 'Meri Nigah Mein Hai Ye Siasat-e-La-Deen | Kaneez-e-Ahrman-o-Doon Nihad-o-Murda Zameer'
+- 'id': '3_171_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہوئي ہے ترک کليسا سے حاکمي آزاد | فرنگيوں کي سياست ہے ديو بے زنجير'
+  - 'lang': 'en'
+    'text': 'By quitting Church, Europe has freedom gained: | This statesmanship is like a giant unchained.'
+  - 'lang': 'ro'
+    'text': 'Huwi Hai Tark-e-Kaleesa Se Hakami Azad | Farangiyon Ki Siasat Se Hai Diyo-e-Bezanjeer'
+- 'id': '3_171_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'متاع غير پہ ہوتي ہے جب نظر اس کي | تو ہيں ہراول لشکر کليسيا کے سفير'
+  - 'lang': 'en'
+    'text': 'When their eyes on some weak domain alight, | Their Priests as vanguard act to wage the fight.'
+  - 'lang': 'ro'
+    'text': 'Mataa-e-Ghair Pe Hoti Hai Jab Nazar Iss Ki | To Hain Harawal-e-Lashkar Kaleesa Ke Safeer!'

@@ -1,0 +1,46 @@
+---
+'id': '3_4'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-04.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'معراج'
+- 'lang': 'en'
+  'text': 'ASCENSION'
+'description': []
+'sher':
+- 'id': '3_4_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دے ولولہ شوق جسے لذت پرواز | کر سکتا ہے وہ ذرہ مہ و مہر کو تاراج'
+  - 'lang': 'en'
+    'text': 'A mote endowed with strong desire for flight | Can reach the Sun and Moon with effort slight.'
+  - 'lang': 'ro'
+    'text': 'De Walwala-e-Shauq Jise Lazzat-e-Parwaz | Kar Sakta Hai Woh Zarra Mah-o-Mehr Ko Taraaj'
+- 'id': '3_4_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مشکل نہيں ياران چمن ! معرکہ باز | پر سوز اگر ہو نفس سينہ دراج'
+  - 'lang': 'en'
+    'text': 'If chest of partridge fire and zeal emit, | My friends, in fight with hawk it can acquit.'
+  - 'lang': 'ro'
+    'text': 'Mushkil Nahin Yaraan-e-Chaman! Maarka-e-Baaz | Pursouz Agar Ho Nafs-e-Sina-e-Durraj'
+- 'id': '3_4_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ناوک ہے مسلماں ، ہدف اس کا ہے ثريا | ہے سر سرا پردہ جاں نکتہ معراج'
+  - 'lang': 'en'
+    'text': 'Ascension means to gauge a Muslimʹs heart, | The Pleiades are the target of his dart.'
+  - 'lang': 'ro'
+    'text': 'Nawak Hai Musalman, Hadaf Iss Ka Hai Surreya | Hai Sirr-e-Sara Parda-e-Jaan Nukta-e-Miraaj'
+- 'id': '3_4_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو معني و النجم ، نہ سمجھا تو عجب کيا | ہے تيرا مد و جزر ابھي چاند کا محتاج'
+  - 'lang': 'en'
+    'text': 'No wonder, meanings of Najm from you hide, | On Moon depends your oceanʹs ebb and tide.'
+  - 'lang': 'ro'
+    'text': 'Tu Maanni-e-‘Wannajam’ Na Samajha To Ajab Kya | Hai Tera Mad-o-Jazar Abhi Chand Ka Mohtaaj'

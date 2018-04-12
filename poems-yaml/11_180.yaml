@@ -1,0 +1,28 @@
+---
+'id': '11_180'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFوجودش شعلہ از سوز درون است"
+- 'lang': 'en'
+  'text': 'III-IV'
+'description': []
+'sher':
+- 'id': '11_180_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وجودش شعلہ از سوز درون است | چو خس او را جہان چند و چون است'
+  - 'lang': 'en'
+    'text': 'From her inner verve that race is a flame, | To her the world charms is a worthless game.'
+- 'id': '11_180_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کند شرح اناالحق ھمت او | پی ہر ’’کن‘‘ کہ میگوید ’’یکون‘‘ است'
+  - 'lang': 'en'
+    'text': 'What means by I’m God her efforts define, | Her each “Kun”/“be” says “Yakun”/”become” an object fine.'
+    'notes':
+    - 'phrase': 'fine.'
+      'meaning': '        Basic thoughts This world came into being (in six days) when the God said Kun (be), the God''s ''Kun'' thus turned into a ''became''.'
+      'occurrence': !!int '1'

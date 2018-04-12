@@ -1,0 +1,24 @@
+---
+'id': '11_22'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFسرود رفتہ باز آید کہ ناید؟"
+- 'lang': 'en'
+  'text': 'IV-III'
+'description': []
+'sher':
+- 'id': '11_22_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سرود رفتہ باز آید کہ ناید؟ | نسیمی از حجاز آید کہ ناید؟'
+  - 'lang': 'en'
+    'text': 'That bliss of the past may come or not, | That breeze of Hijaz may come or not.'
+- 'id': '11_22_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سرآمد روزگار این فقیری | دگر داناے راز آید کہ ناید؟'
+  - 'lang': 'en'
+    'text': 'This beggar’s last ‘time’ has come so near, | May come or not secrets seer.'

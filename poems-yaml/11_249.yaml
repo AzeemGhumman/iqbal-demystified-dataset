@@ -1,0 +1,28 @@
+---
+'id': '11_249'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFاگر پندی ز درویشی پذیری"
+- 'lang': 'en'
+  'text': 'XII-VII'
+'description': []
+'sher':
+- 'id': '11_249_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر پندی ز درویشی پذیری | ہزار امت بمیرد تو نمیری'
+  - 'lang': 'en'
+    'text': 'If you pay a heed once, to this poor guy, | May die thousand nations but ye won’t die.'
+- 'id': '11_249_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بتولی باش و پنھان شو ازین عصر | کہ در  غوش شبیری بگیری'
+  - 'lang': 'en'
+    'text': 'Hid from this Age like Batool if you can, | In thy lap too there may be a Hussain.'
+    'notes':
+    - 'phrase': 'Hussain.'
+      'meaning': '        Imam Hussain ''Alaih-is-salam'' whose name was also Shabbir was the 2nd son of Hazrat Ali, the 4th Caliph (on the name of Hazrat Haroon''s son). Fatima Batool, the youngest daughter of the Prophet was married to Hazrat Ali from whom Hassan and Hussain were born.'
+      'occurrence': !!int '1'

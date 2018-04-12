@@ -1,0 +1,24 @@
+---
+'id': '7_70'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نماید آنچہ ہست این وادی گل'
+- 'lang': 'en'
+  'text': '(70)'
+'description': []
+'sher':
+- 'id': '7_70_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نماید آنچہ ہست این وادی گل | درون لالۂ آتش بجان چیست'
+  - 'lang': 'en'
+    'text': 'Do we behold for what it is this vale | Of roses? What is in the tulip’s heart'
+- 'id': '7_70_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بچشم ما چمن یک موج رنگ است | کہ می داند بہ چشم بلبلان چیست؟'
+  - 'lang': 'en'
+    'text': 'Of fire? For us this garden is a wave | Of hues. What is it for the nightingale?'

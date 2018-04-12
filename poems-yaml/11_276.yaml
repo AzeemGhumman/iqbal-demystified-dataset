@@ -1,0 +1,28 @@
+---
+'id': '11_276'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنہنگی بچہ خود را چہ خوش گفت"
+- 'lang': 'en'
+  'text': 'A CROCODILE TO ITS YOUNG | Chapter 17'
+'description': []
+'sher':
+- 'id': '11_276_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ دین ما حرام  مد کرانہ | بہ موج  ویز و از ساحل بپرہیز'
+  - 'lang': 'en'
+    'text': 'Thus said to its child a ‘croco’: with boast, | It is banned in our faith to see the coast.'
+    'notes':
+    - 'phrase': '‘croco’:'
+      'meaning': '        Here croco is ''diminitive'' of crocodile.'
+      'occurrence': !!int '1'
+- 'id': '11_276_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمہ دریاست ما را  شیانہ | بہ سیمای سحر داغ سجود است'
+  - 'lang': 'en'
+    'text': 'So mix up with waves and shun the coast, | To us the river bed plays a host.'

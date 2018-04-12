@@ -1,0 +1,28 @@
+---
+'id': '11_175'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFتو ای نادان دل آگاہ دریاب"
+- 'lang': 'en'
+  'text': 'EGO | Chapter 2'
+'description': []
+'sher':
+- 'id': '11_175_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ای نادان دل آگاہ دریاب | بخود مثل نیاکان راہ دریاب'
+  - 'lang': 'en'
+    'text': 'O ignorant man get a knowing heart, | In wake of thy elders learn thy own part.'
+- 'id': '11_175_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چسان مؤمن کند پوشیدہ را فاش | ز ’’لا‘‘ موجود ’’الا اللہ‘‘ دریاب'
+  - 'lang': 'en'
+    'text': 'Flow can a ‘momin’ tell His Secret act, | From ‘La’ got the Allah’s positive fact’.'
+    'notes':
+    - 'phrase': 'fact’.'
+      'meaning': '        ''La'' is an ahbrev of ''La ilah-a-ill-Allah''. viz: No god exists there save the Allah Himself.'
+      'occurrence': !!int '1'

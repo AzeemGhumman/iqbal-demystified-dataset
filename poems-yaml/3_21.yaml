@@ -1,0 +1,37 @@
+---
+'id': '3_21'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-21.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اسلام'
+- 'lang': 'en'
+  'text': 'ISLAM'
+'description': []
+'sher':
+- 'id': '3_21_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'روح اسلام کي ہے نور خودي ، نار خودي | زندگاني کے ليے نار خودي نور و حضور'
+  - 'lang': 'en'
+    'text': 'The fire and light of ego both, The soul of Muslims together bind; | The fire of self is light for life: Godʹs existence brings before the mind.'
+  - 'lang': 'ro'
+    'text': 'Rooh Islam Ki Hai Noor-e-Khudi, Naar-e-Khudi | Zindagaani Ke Liye Naar-e-Khudi Noor-o-Huzoor'
+- 'id': '3_21_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہي ہر چيز کي تقويم ، يہي اصل نمود | گرچہ اس روح کو فطرت نے رکھا ہے مستور'
+  - 'lang': 'en'
+    'text': 'It fortifies the things of life, It is the cause of all display: | Though Nature always hides this soul, From eyes of mankind far away.'
+  - 'lang': 'ro'
+    'text': 'Yehi Har Cheez Ki Taqweem, Yehi Asal-e-Namood | Garcha Iss Rooh Ko Fitrat Ne Rakha Hai Mastoor'
+- 'id': '3_21_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لفظ ''اسلام'' سے يورپ کو اگر کد ہے تو خير | !''دوسرا نام اسي دين کا ہے ''فقر غيور'
+  - 'lang': 'en'
+    'text': 'If Muslim Faith offends the West, Let West in its own anger burn: | This faith is known by other name, To ʹJealous Faqrʹ now we must turn.'
+  - 'lang': 'ro'
+    'text': 'Lafz-e-‘Islam’ Se Yourap Ko Agar Kidd Hai To Khair | Dosra Naam Issi Deen Ka Hai ‘Faqr-e-Ghayoor’!'

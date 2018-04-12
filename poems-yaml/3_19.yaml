@@ -1,0 +1,46 @@
+---
+'id': '3_19'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-19.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'قوت اور دين'
+- 'lang': 'en'
+  'text': 'AUTHORITY AND FAITH'
+'description': []
+'sher':
+- 'id': '3_19_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اسکندر و چنگيز کے ہاتھوں سے جہاں ميں | سو بار ہوئي حضرت انساں کي قبا چاک'
+  - 'lang': 'en'
+    'text': 'Autocrats like Alexander and Genghis, Have trampled men beneath their feet, | Not once but hundred times so far, They brought man down from honoured seat.'
+  - 'lang': 'ro'
+    'text': 'Iskandar-o-Changaiz Ke Hathon Se Jahan Mein | Sou Bar Huwi Hazrat-e-Insan Ki Qaba Chaak'
+- 'id': '3_19_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تاريخ امم کا يہ پيام ازلي ہے | ''،صاحب نظراں! نشہ قوت ہے خطرناک'
+  - 'lang': 'en'
+    'text': 'The annals right from history’s dawn, The message eternal bear as such, | “O man, with insight great endowed, The wine of might is dangerous much.ʺ'
+  - 'lang': 'ro'
+    'text': 'Tareekh-e-Ummam Ka Ye Payam -e-Azali Hai | ‘Sahib Nazaran ! Nasha-e-Quwwat Hai Khatarnaak’'
+- 'id': '3_19_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس سيل سبک سير و زميں گير کے آگے | عقل و نظر و علم و ہنر ہيں خس و خاشاک'
+  - 'lang': 'en'
+    'text': 'Before this quickly flowing flood, That spreads to all the tracts with speed: | Art, insight, intellect and science, Are carried along like straw and reed.'
+  - 'lang': 'ro'
+    'text': 'Iss Seel-E-Subaq Sair-o-Zameengeer Ke Agay | Aqal-o-Nazar-o-Ilm-o-Hunar Hain Khs-o-Khashak'
+- 'id': '3_19_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لا ديں ہو تو ہے زہر ہلاہل سے بھي بڑھ کر | ہو ديں کي حفاظت ميں تو ہر زہر کا ترياک'
+  - 'lang': 'en'
+    'text': 'Divorced from faith, a poison strong, When propped by faith and true belief, | ’Gainst poison works with speed, And proves a source of much relief.'
+  - 'lang': 'ro'
+    'text': 'La-Deen Ho To Hai Zahr-E-Halahil Se Bhi Barh Kar | Ho Deen Ki Hifazat Mein To Har Zehr Ka Tiryaak'

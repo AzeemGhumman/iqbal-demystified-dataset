@@ -1,0 +1,37 @@
+---
+'id': '2_135'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-17.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'نصيحت'
+- 'lang': 'en'
+  'text': 'AN ADVICE'
+'description': []
+'sher':
+- 'id': '2_135_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بچہء شاہيں سے کہتا تھا عقاب سالخورد | اے تيرے شہپر پہ آساں رفعت چرخ بريں'
+  - 'lang': 'en'
+    'text': 'An eagle, advanced in years, advised an eaglet thus: | O thou, whose wings may one day aspire to the heavens above,'
+  - 'lang': 'ro'
+    'text': 'Bacha-e-Shaheen Se Kehta Tha Auqab-e-Saal Khurd (Purana, Tajarba kaar) | Ae Tere Shehpar Pe asan Riffat-e-Charkh-e-Bareen'
+- 'id': '2_135_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے شباب اپنے لہو کي آگ ميں جلنے کا نام | سخت کوشي سے ہے تلخ زندگاني انگبيں'
+  - 'lang': 'en'
+    'text': 'Be consumed in the fire of thy own youthful blood; | Endurance sweetens all the sourness of life;'
+  - 'lang': 'ro'
+    'text': 'Hai Shabab Apne Lahoo Ki Aag Mein Jalne Ka Naam | Sakht Koshi Se Hai Talakh-e-Zindagaani Angbeen'
+- 'id': '2_135_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '!جو کبوتر پر جھپٹنے ميں مزا ہے اے پسر | وہ مزا شايد کبوتر کے لہو ميں بھي نہيں'
+  - 'lang': 'en'
+    'text': 'More pleasure there is in pouncing upon thy prey, | Than in sucking the blood from its vanquished stillness-.'
+  - 'lang': 'ro'
+    'text': 'Jo Kabootar Par Jhapatne Mein Maza Hai Ae Pisar! | Woh Maza Shaid Kabootar Ke Lahoo Mein Bhi Nahin'

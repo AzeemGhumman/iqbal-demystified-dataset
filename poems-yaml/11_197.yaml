@@ -1,0 +1,28 @@
+---
+'id': '11_197'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبروے من در دل باز کردند"
+- 'lang': 'en'
+  'text': 'V-VI'
+'description': []
+'sher':
+- 'id': '11_197_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بروے من در دل باز کردند | ز خاک من جھانی ساز کردند'
+  - 'lang': 'en'
+    'text': 'To me his heart’s door was always ope, | From my dust he caused a world’s new hope.'
+- 'id': '11_197_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز فیض او گرفتم اعتباری | کہ با من ماہ و انجم ساز کردند'
+  - 'lang': 'en'
+    'text': 'From his grace I got a grace and trust. | For me he tamed the Moon and Stars first.'
+    'notes':
+    - 'phrase': 'first.'
+      'meaning': '        Moon and stars here it means the angels of fate (who are the proctors of fate as well) or those who are living heavens became my supporters.'
+      'occurrence': !!int '1'

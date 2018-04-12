@@ -1,0 +1,24 @@
+---
+'id': '7_71'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو خورشیدی و من سیارۂ تو'
+- 'lang': 'en'
+  'text': '(71)'
+'description': []
+'sher':
+- 'id': '7_71_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو خورشیدی و من سیارۂ تو | سراپا نورم از نظارۂ تو'
+  - 'lang': 'en'
+    'text': 'You are the sun; I am a planet that | Revolves round You. illumined by Your sight,'
+- 'id': '7_71_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز آغوش تو دورم ناتمامم | تو قرآنی و من سی پارۂ تو'
+  - 'lang': 'en'
+    'text': 'Apart from You in an imperfect state. | You are the Book, I but a part of it.'

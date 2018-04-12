@@ -1,0 +1,24 @@
+---
+'id': '11_101'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'پریدم در فضای دلپذیرش'
+- 'lang': 'en'
+  'text': 'XI-XXIII'
+'description': []
+'sher':
+- 'id': '11_101_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پریدم در فضای دلپذیرش | پرم تر گشت از ابر مطیرش'
+  - 'lang': 'en'
+    'text': 'I fly in the airy lovelier space, | My wings are getting wet from clouds I face.'
+- 'id': '11_101_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حرم تا در ضمیر من فرو رفت | سرودم آنچہ بود اندر ضمیرش'
+  - 'lang': 'en'
+    'text': 'I found in my conscience the Harem’s mould, | Since on my conscience that song had a hold.'

@@ -1,0 +1,24 @@
+---
+'id': '11_300'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ ما اے لالہ خود را وانمودی"
+- 'lang': 'en'
+  'text': 'V-VI'
+'description': []
+'sher':
+- 'id': '11_300_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ما اے لالہ خود را وانمودی | نقاب از چہرہ زیبا گشودی'
+  - 'lang': 'en'
+    'text': 'You show us O Poppy! thy self’s own trace, | And turned the hid mask of thy charming face.'
+- 'id': '11_300_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا چون بر دمیدی لالہ گفتند | بہ شاخ اندر چسان بودی چہ بودی'
+  - 'lang': 'en'
+    'text': 'I call you poppy when you show thy face, | In branch what you looked? Where was thy trace?'

@@ -1,0 +1,28 @@
+---
+'id': '11_291'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFتو ہم مثل من از خود در حجابی"
+- 'lang': 'en'
+  'text': 'III-VII'
+'description': []
+'sher':
+- 'id': '11_291_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ہم مثل من از خود در حجابی | خنک روزی کہ خود را بازیابی'
+  - 'lang': 'en'
+    'text': 'Like me you are too wrapped in a veil, | You turn to self when that good day'
+- 'id': '11_291_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا کافر کند اندیشہء رزق | ترا کافر کند علم کتابی'
+  - 'lang': 'en'
+    'text': 'I hail My fear of living takes, to Kufr’s camp hark! | book’s knowledge leads to Kufr’s pitch dark.'
+    'notes':
+    - 'phrase': 'dark.'
+      'meaning': '        Kufr (Ar:) unbelief, darkness; (pitch).'
+      'occurrence': !!int '1'

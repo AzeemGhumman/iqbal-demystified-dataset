@@ -1,0 +1,48 @@
+---
+'id': '1_123'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bang/audio/03-30.MP3'
+'heading':
+- 'lang': 'ur'
+  'text': 'تعليم اور اس کے نتائج'
+- 'lang': 'en'
+  'text': 'EDUCATION AND ITS CONSEQUENCES'
+'description':
+- 'lang': 'en'
+  'text': 'This short poem is based on a verse of Tahmasp Qula Baig, Mullah ‘Arsha Yazda. A son was born to him who was ugly. He produced a verse ex-tempore which appears as the last verse of this poem. ‘Allamah Iqbal has used it to convey the message that modern education cannot fulfill our needs. Consequently, we should sow new seed.'
+'sher':
+- 'id': '1_123_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوش تو ہيں ہم بھي جوانوں کي ترقي سے مگر | لب خنداں سے نکل جاتي ہے فرياد بھي ساتھ'
+  - 'lang': 'en'
+    'text': 'Though we also are happy with the progress of the young | But some complaint from the happy lips also comes with it'
+  - 'lang': 'ro'
+    'text': 'Khush To Hain Hum Bhi Jawanon Ki Taraqqi Se Magar | Lab-e-Khandan Se Nikal Jati Hai Faryad Bhi Sath'
+- 'id': '1_123_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہم سمجھتے تھے کہ لائے گي فراغت تعليم | کيا خبر تھي کہ چلا آئے گا الحاد بھي ساتھ'
+  - 'lang': 'en'
+    'text': 'We had thought education would bring economic freedom | We did not know that atheism would also come with it'
+  - 'lang': 'ro'
+    'text': 'Hum Samajhte The Ke Laye Gi Faraghat Taleem | Kya Khabar Thi Ke Chala Aye Ga Ilhad Bhi Sath'
+- 'id': '1_123_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گھر ميں پرويز کے شيريں تو ہوئي جلوہ نما | لے کے آئي ہے مگر تيشہء فرہاد بھي ساتھ'
+  - 'lang': 'en'
+    'text': 'Though Shirin did honor Parviz with her presence | But she brought the ax of Farhad also with her'
+  - 'lang': 'ro'
+    'text': 'Ghar Mein Parvaiz Ke Shireen To Huwi Jalwa Numa | Le Ke Ayi Hai Taisha-e-Farhad Bhi Sath'
+- 'id': '1_123_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '''''تخم ديگر بکف آريم و بکاريم ز نو | کانچہ کشتيم ز خجلت نتواں کرد درو'
+  - 'lang': 'en'
+    'text': 'Let us take the seed afresh in our hand and use it anew | We are ashamed to reap what would come out from whatever we sowed'
+  - 'lang': 'ro'
+    'text': '“Tukham-e-Degar Bakaf Aaryem-Wa-Bakariyem Za-Nau | Kancha Kashtiyem Za Khujlat Natawan Kard Drau”'

@@ -1,0 +1,28 @@
+---
+'id': '2_117'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-41.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ترا تن روح سے ناآشنا ہے'
+- 'lang': 'en'
+  'text': 'Thy body knows not the secrets of thy heart'
+'description': []
+'sher':
+- 'id': '2_117_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا تن روح سے ناآشنا ہے | عجب کيا ! آہ تيري نارسا ہے'
+  - 'lang': 'en'
+    'text': 'Thy body knows not the secrets of thy heart, | And so thy sighs reach not the heights of heaven;'
+  - 'lang': 'ro'
+    'text': 'Tera Tan Rooh Se Na-Ashna Hai | Ajab Kya! Aah Teri Na-Rasa Hai'
+- 'id': '2_117_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تن بے روح سے بيزار ہے حق | خدائے زندہ ، زندوں کا خدا ہے'
+  - 'lang': 'en'
+    'text': 'God is disgusted with bodies without souls; | The living God is the God of living souls.'
+  - 'lang': 'ro'
+    'text': 'Tan-e-Be-Rooh Se Bezar Hai Haq | Khuda-e-Zinda, Zindon Ka Khuda Hai'

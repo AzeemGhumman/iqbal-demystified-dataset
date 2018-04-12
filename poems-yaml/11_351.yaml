@@ -1,0 +1,28 @@
+---
+'id': '11_351'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبدست من ہمان دیرینہ چنگ است"
+- 'lang': 'en'
+  'text': 'I-VI'
+'description': []
+'sher':
+- 'id': '11_351_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدست من ہمان دیرینہ چنگ است | درونش نالہ ہای رنگ رنگ است'
+  - 'lang': 'en'
+    'text': 'The same old harp I hold in my hand, | In which are hidden tunes of that land.'
+- 'id': '11_351_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولی بنوازمش با ناخن شیر | کہ او را تار از رگہای سنگ است'
+  - 'lang': 'en'
+    'text': 'With the lions claw, that harp I play, | Whose chords are made of rocky clay.'
+    'notes':
+    - 'phrase': 'clay.'
+      'meaning': '        Iqbal wishes to infuse a spirit of jingoistic chauvinism in his nation as such he uses such symbols like rocky chords and rocky veins in his portry. Such constructions are not used in the English language.'
+      'occurrence': !!int '1'

@@ -1,0 +1,24 @@
+---
+'id': '11_68'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چسان احوال او را بر لب آرم'
+- 'lang': 'en'
+  'text': 'IX-V'
+'description': []
+'sher':
+- 'id': '11_68_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چسان احوال او را بر لب آرم | تو می بینی نہان و آشکارم'
+  - 'lang': 'en'
+    'text': 'A friend’s hidden life how can I reveal, | You know what we talk and what we conceal.'
+- 'id': '11_68_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز روداد دو صد سالش ہمین بس | کہ دل چون کندہ قصاب دارم'
+  - 'lang': 'en'
+    'text': 'Two hundred years’ tale is enough to weep, | Like a butcher’s wood a heart I keep.'

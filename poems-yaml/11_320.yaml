@@ -1,0 +1,28 @@
+---
+'id': '11_320'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنگہ دید و خرد پیمانہ  ورد"
+- 'lang': 'en'
+  'text': 'VIII-X'
+'description': []
+'sher':
+- 'id': '11_320_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگہ دید و خرد پیمانہ  ورد | کہ پیماید جھان چار سو را'
+  - 'lang': 'en'
+    'text': 'The glance brought eyes and wisdom a tape band, | To measure four sides and all the world’s land.'
+- 'id': '11_320_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می  شامی کہ دل کردند نامش | بخویش اندر کشید این رنگ و بو را'
+  - 'lang': 'en'
+    'text': 'Who drinks the whole wines whom we named heart, | Who sucks within it all beauties of art.'
+    'notes':
+    - 'phrase': 'art.'
+      'meaning': '        Rang-o-boo has vast meaning. It means beauty (of every kind), pomp and show, grandeur, riches ostentation etc.'
+      'occurrence': !!int '1'

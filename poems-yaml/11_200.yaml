@@ -1,0 +1,28 @@
+---
+'id': '11_200'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFخودی تا گشت مہجور خدائی"
+- 'lang': 'en'
+  'text': 'V-VIX'
+'description': []
+'sher':
+- 'id': '11_200_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودی تا گشت مہجور خدائی | بہ فقر  موخت  داب گدائی'
+  - 'lang': 'en'
+    'text': 'When self is deprived from godly tint, | The content then gets a beggar’s print.'
+- 'id': '11_200_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز چشم مست رومی وام کردم | سروری از مقام کبریائی'
+  - 'lang': 'en'
+    'text': 'From Rumi’s drunk eyes I borrowed a trance, | To taste a sweet joy of his godly glance.'
+    'notes':
+    - 'phrase': 'glance.'
+      'meaning': '        Line 3; Dam Kardan means to borrow.'
+      'occurrence': !!int '1'

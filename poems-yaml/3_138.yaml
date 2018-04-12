@@ -1,0 +1,46 @@
+---
+'id': '3_138'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-34.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ہنروران ہند'
+- 'lang': 'en'
+  'text': 'INDIA’S ARTISTS'
+'description': []
+'sher':
+- 'id': '3_138_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق و مستي کا جنازہ ہے تخيل ان کا | ان کے انديشہ تاريک ميں قوموں کے مزار'
+  - 'lang': 'en'
+    'text': 'Their opinions bury love and enthusiasm, | In their dark ideas is the tomb of nations.'
+  - 'lang': 'ro'
+    'text': 'Ishq-o-Masti Ka Janaza Hai Takhiyyul Un Ka | In Ke Andaisha-e-Tareek Mein Qoumon Ke Mazar'
+- 'id': '3_138_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'موت کي نقش گري ان کے صنم خانوں ميں | زندگي سے ہنر ان برہمنوں کا بيزار'
+  - 'lang': 'en'
+    'text': 'In their temples they carve symbols of death, | The art of such Brahmins is disgusted with life.'
+  - 'lang': 'ro'
+    'text': 'Mout Ki Naqsh Gari In Ke Sanam Khanon Mein | Zindagi Se Hunar In Barhamanon Ka Bezar'
+- 'id': '3_138_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چشم آدم سے چھپاتے ہيں مقامات بلند | کرتے ہيں روح کو خوابيدہ ، بدن کو بيدار'
+  - 'lang': 'en'
+    'text': 'They conceal high goals from view; | They put the spirit to slumber and awaken the body.'
+  - 'lang': 'ro'
+    'text': 'Chashme-e-Adam Se Chupate Hain Maqamat-e-Buland | Karte Hain Rooh Ko Khawabida, Badan Ko Baidar'
+- 'id': '3_138_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہند کے شاعر و صورت گر و افسانہ نويس | !آہ ! بيچاروں کے اعصاب پہ عورت ہے سوار'
+  - 'lang': 'en'
+    'text': 'The senses of the poor Indian poets, painters | And literary writers are obsessed by woman.'
+  - 'lang': 'ro'
+    'text': 'Hind Ke Shayar-o-Sooratgar-o-Afsana Nawees | Ah, Becharon Ke Asaab Pe Aurat Hai Sawar!'

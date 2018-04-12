@@ -1,0 +1,46 @@
+---
+'id': '3_162'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-15.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ابي سينيا'
+- 'lang': 'en'
+  'text': 'ABYSSINIA'
+'description': []
+'sher':
+- 'id': '3_162_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يورپ کے کرگسوں کو نہيں ہے ابھي خبر | ہے کتني زہر ناک ابي سينيا کي لاش'
+  - 'lang': 'en'
+    'text': 'Those vultures of the West have yet to learn | What poisons lurk in Abyssinia’s corpse,'
+  - 'lang': 'ro'
+    'text': 'Yourap Ke Kargason Ko Nahin Hai Abho Khabar | Hai Kitni Zahernaak Abyssinia Ki Lash'
+- 'id': '3_162_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '!ہونے کو ہے يہ مردہ ديرينہ قاش قاش | تہذيب کا کمال شرافت کا ہے زوال'
+  - 'lang': 'en'
+    'text': 'That rotting carcass ready to fall in pieces. | Civilization’s zenith, nadir of virtue;'
+  - 'lang': 'ro'
+    'text': 'Hone Ko Hai Ye Muda-e-Dairina Qash Qash! | ehzeeb Ka Kamal Sharafat Ka Hai Zawal'
+- 'id': '3_162_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غارت گري جہاں ميں ہے اقوام کي معاش | !ہر گرگ کو ہے برہ معصوم کي تلاش'
+  - 'lang': 'en'
+    'text': 'In our world pillage is the nation’s trade, | Each wolf aprowl for inoffensive lambs.'
+  - 'lang': 'ro'
+    'text': 'Gharatgari Jahan Mein Hai Aqwam Ki Maash | Har Gurg Ko Hai Barah-e-Maasoom Ki Talash!'
+- 'id': '3_162_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اے وائے آبروئے کليسا کا آءنہ | روما نے کر ديا سر بازار پاش پاش'
+  - 'lang': 'en'
+    'text': 'Woe to the shining honour of the Church, | For Rome has shivered it in the market‐place!'
+  - 'lang': 'ro'
+    'text': 'Ae Waye Aabrooye Kaleesa Ka Aeena | Roma Ne Kar Diya Sar-e-Bazar Pash Pash'

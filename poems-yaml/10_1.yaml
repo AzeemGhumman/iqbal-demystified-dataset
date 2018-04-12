@@ -1,0 +1,50 @@
+---
+'id': '10_1'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبخوانندۂ کتاب"
+- 'lang': 'en'
+  'text': 'TO THE READER OF THE BOOK'
+'description': []
+'sher':
+- 'id': '10_1_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سپاہ تازہ برانگیزم از ولایت عشق | کہ در حرم خطری از بغاوت خرد است'
+  - 'lang': 'en'
+    'text': 'I raise a new army from the Kingdom of Love; | for there is danger of revolt by the Intellect against  the Sanctuary.'
+    'notes':
+    - 'phrase': 'Sanctuary.'
+      'meaning': 'Sanctuary, Haram, the sacred precincts at Mecca. For Iqbal, this word also stands for Muslims or Muslim society.'
+      'occurrence': !!int '1'
+- 'id': '10_1_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زمانہ ہیچ نداند حقیقت او را | جنون قباست کہ موزون بقامت خرد است'
+  - 'lang': 'en'
+    'text': 'The world does not know the real nature of  Madeness : | it is a garment that fits the Intellect perfectly.'
+    'notes':
+    - 'phrase': 'Madeness'
+      'meaning': 'Madness (Junun), in Iqbal, stands for Intuition and Love in contrast to Intellect and Reason. See my articles Intellect and Intuition . . ." in Iqbal, IV/3 (January 1956), 60-105 and " ''Iim wa ''Ishq" in Adabi Dunya, "Iqbal Number" (1972), p. 24.'
+      'occurrence': !!int '1'
+- 'id': '10_1_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ آن مقام رسیدم چو در برش کردم | طواف بام و در من سعادت خرد است'
+  - 'lang': 'en'
+    'text': 'Donning this garment, I attained to a station | where it would be honour for the Intellect to walk around my house (like a pilgrim).'
+- 'id': '10_1_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گمان مبر کہ خرد را حساب و میزان نیست | نگاہ بندۂ مؤمن قیامت خرد است'
+  - 'lang': 'en'
+    'text': 'Don''t think that the Intellect is exempt from the final reckoning: | one look from the believer judges it as if on Judgment Day.'
+    'notes':
+    - 'phrase': 'Day.'
+      'meaning': 'See the Qur''an, xxi. 47 and xvii. 13.'
+      'occurrence': !!int '1'

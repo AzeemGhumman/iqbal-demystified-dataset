@@ -1,0 +1,46 @@
+---
+'id': '3_58'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-58.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مہدي'
+- 'lang': 'en'
+  'text': 'THE GUIDE'
+'description': []
+'sher':
+- 'id': '3_58_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوموں کي حيات ان کے تخيل پہ ہے موقوف | يہ ذوق سکھاتا ہے ادب مرغ چمن کو'
+  - 'lang': 'en'
+    'text': 'A nationʹs life gets much prolonged, By lofty aims and ideals high: | If dwellers here some zeal possess, They can explore the heights of sky.'
+  - 'lang': 'ro'
+    'text': 'Qoumon Ki Hayat In Ke Takhiyyul Pe Hai Mouqoof | Ye Zauq Sikhata Hai Adab Murgh-e-Chaman Ko'
+- 'id': '3_58_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجذوب فرنگي نے بہ انداز فرنگي | مہدي کے تخيل سے کيا زندہ وطن کو'
+  - 'lang': 'en'
+    'text': 'The Frankish Sage by guile and skill, New lease of life to nation gave: | The path for birth of Superman, By valour great he strove to pave.'
+  - 'lang': 'ro'
+    'text': 'Majzoob-e-Farangi Ne Ba Andaz-e-Farangi | Mehdi Ke Takhiyyul Se Kiya Zinda Watan Ko'
+- 'id': '3_58_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اے وہ کہ تو مہدي کے تخيل سے ہے بيزار | نوميد نہ کر آہوئے مشکيں سے ختن کو'
+  - 'lang': 'en'
+    'text': 'To Guideʹs concept you seem averse, Too fed up with this thought appear: | This view for Muslims has the weight, That for Cathay has musk of deer.'
+  - 'lang': 'ro'
+    'text': 'Ae Woh Ke Tu Mehdi Ke Takhiyyul Se Hai Bezar | Naumeed Na Kar Ahuye Mushkeen Se Khutan Ko'
+- 'id': '3_58_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہو زندہ کفن پوش تو ميت اسے سمجھيں | يا چاک کريں مردک ناداں کے کفن کو؟'
+  - 'lang': 'en'
+    'text': 'If man alive puts on the shroud, Must we take that ass for dead: | Or tear to pieces small and shreds, His shroud and cast away the threads?'
+  - 'lang': 'ro'
+    'text': 'Ho Zinda Kafan Posh To Mayyat Use Samjhain | Ya Chaak Karain Mardak-e-Nadan Ke Kafan Ko?'

@@ -1,0 +1,24 @@
+---
+'id': '11_221'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نکو میخوان خط سیمای خود را'
+- 'lang': 'en'
+  'text': 'VII-XI'
+'description': []
+'sher':
+- 'id': '11_221_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نکو میخوان خط سیمای خود را | بدست  ور رگ فردای خود را'
+  - 'lang': 'en'
+    'text': 'Read the clear writing on thy forehead’s slate, | Find out a way to change thy future fate.'
+- 'id': '11_221_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو من پا در بیابان حرم نہ | کہ بینی اندرو پہنای خود را'
+  - 'lang': 'en'
+    'text': 'Like me find a way on the Harem’s land, | To know thy worth true, thy own grit and sand.'

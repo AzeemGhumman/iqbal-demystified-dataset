@@ -1,0 +1,37 @@
+---
+'id': '3_39'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-39.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کافر و مومن'
+- 'lang': 'en'
+  'text': 'THE INFIDEL AND BELIEVER'
+'description': []
+'sher':
+- 'id': '3_39_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کل ساحل دريا پہ کہا مجھ سے خضر نے | تو ڈھونڈ رہا ہے سم افرنگ کا ترياق؟'
+  - 'lang': 'en'
+    'text': 'Thus Khizr to me did speak, Last day on river banks. | ʺAre you in search of cure, For venom spread by Franksʺ?'
+  - 'lang': 'ro'
+    'text': 'Kal Sahil-e-Darya Pe Kaha Mujh Se Khizar Ne | Tu Dhoond Raha Hai Sam-e-Afrang Ka Taryaq?'
+- 'id': '3_39_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک نکتہ مرے پاس ہے شمشير کي مانند | برندہ و صيقل زدہ و روشن و براق'
+  - 'lang': 'en'
+    'text': 'I know a subtle point, Which like the sword is keen: | Is cutting, burnished, bright, And owns a peculiar sheen.'
+  - 'lang': 'ro'
+    'text': 'Ek Nukta Mere Pas Hai Shamsheer Ki Manind | Burrinda-o-Saqeel Zada-o-Roshan-o-Burraq'
+- 'id': '3_39_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کافر کي يہ پہچان کہ آفاق ميں گم ہے | !مومن کي يہ پہچان کہ گم اس ميں ہيں آفاق'
+  - 'lang': 'en'
+    'text': 'A heathen gets distinct, By getting lost in life | Whereas a Muslim true, Keeps ’bove its brawl and strife.'
+  - 'lang': 'ro'
+    'text': 'Kafir Ki Ye Pehchan Ke Afaq Mein Gum Hai | Momin Ki Ye Pehchan Ke Gum Iss Mein Hain Afaaq!'

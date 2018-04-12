@@ -1,0 +1,37 @@
+---
+'id': '3_165'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-18.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'سلطاني جاويد'
+- 'lang': 'en'
+  'text': 'EVERLASTING MONARCHY'
+'description': []
+'sher':
+- 'id': '3_165_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غواص تو فطرت نے بنايا ہے مجھے بھي | ليکن مجھے اعماق سياست سے ہے پرہيز'
+  - 'lang': 'en'
+    'text': 'A diver after pearls Nature made me, | Though wary of the abysses of the State.'
+  - 'lang': 'ro'
+    'text': 'Ghawwas To Fitrat Ne Banaya Hai Mujhe Bhi | Lekin Mujhe Aamaq-e-Siasat Se Hai Parhaiz'
+- 'id': '3_165_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت کو گوارا نہيں سلطاني جاويد | ہر چند کہ يہ شعبدہ بازي ہے دل آويز'
+  - 'lang': 'en'
+    'text': 'Whomever its legerdemain may captivate, | She sets a term to every monarchy;'
+  - 'lang': 'ro'
+    'text': 'Fitrat Ko Gawara Nahin Sultani-e-Javed | Har Chand Ke Ye Shaubda Bazi Hai Dil Awaiz'
+- 'id': '3_165_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرہاد کي خارا شکني زندہ ہے اب تک | باقي نہيں دنيا ميں ملوکيت پرويز'
+  - 'lang': 'en'
+    'text': 'Farhad’s hill‐hewing labour still lives on, | Parvez’ conquering might is dead and gone.'
+  - 'lang': 'ro'
+    'text': 'Farhad Ki Khara Shikni Zinda Hai Ab Tak | Baqi Nahin Dunya Mein Mulookiat-e-Parviaz !'

@@ -1,0 +1,28 @@
+---
+'id': '11_390'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچہ حاجت طول دادن داستان را"
+- 'lang': 'en'
+  'text': 'V-II'
+'description': []
+'sher':
+- 'id': '11_390_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ حاجت طول دادن داستان را | بحرفی گویم اسرار نہان را'
+  - 'lang': 'en'
+    'text': 'A long tale serves no service in a sense, | In one word I tell a hidden fact hence.'
+- 'id': '11_390_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان خویش ماسودا گران داد | چہ داند لامکان قدر مکان را'
+  - 'lang': 'en'
+    'text': 'His whole world he gave to the merchants when, | How can homeless know worth of home then.'
+    'notes':
+    - 'phrase': 'then.'
+      'meaning': '      Since God is named as Houseless viz. La makan in Arabic and Persian literature.'
+      'occurrence': !!int '1'

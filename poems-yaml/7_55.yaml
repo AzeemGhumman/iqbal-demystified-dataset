@@ -1,0 +1,24 @@
+---
+'id': '7_55'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز من با شاعر رنگین بیان گوی'
+- 'lang': 'en'
+  'text': '(55)'
+'description': []
+'sher':
+- 'id': '7_55_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز من با شاعر رنگین بیان گوی | چہ سود از سوز اگر چون لالہ سوزی'
+  - 'lang': 'en'
+    'text': 'Tell the flamboyant poet this from me | "What use your fire if but a tulip-spark?'
+- 'id': '7_55_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ خود را می گدازی ز آتش خویش | نہ شام دردمندی بر فروزی'
+  - 'lang': 'en'
+    'text': 'It neither melts you with its beat nor makes | An evening of some saddened heart less dark."'

@@ -1,0 +1,37 @@
+---
+'id': '3_64'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-64.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'امرائے عرب سے'
+- 'lang': 'en'
+  'text': 'TO THE AMIRS OF ARABIA'
+'description': []
+'sher':
+- 'id': '3_64_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کرے يہ کافر ہندي بھي جرات گفتار | !اگر نہ ہو امرائے عرب کي بے ادبي'
+  - 'lang': 'en'
+    'text': 'If Amirs of Arabian lands, Donʹt take it for a slur or slight: | This Muslim from the land of Ind, May speak with vigour great and might.'
+  - 'lang': 'ro'
+    'text': 'Kare Ye Kafir-e-Hindi Bhi Juraat-e-Guftar | Agar Na Ho Umraye Arab Ki Be Adabi !'
+- 'id': '3_64_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ نکتہ پہلے سکھايا گيا کس امت کو؟ | !وصال مصطفوي ، افتراق بولہبي'
+  - 'lang': 'en'
+    'text': 'Who were the people whom at first, Godʹs apostle preached kinship close? | Division amongst them was infused, By men like Bu Lahab and such foes.'
+  - 'lang': 'ro'
+    'text': 'Ye Nukta Pehle Sikhaya Gya Kis Ummat Ko? | Wasal Mustafawi, Iftaraq Bu Lahbi!'
+- 'id': '3_64_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہيں وجود حدود و ثغور سے اس کا | محمد عربي سے ہے عالم عربي'
+  - 'lang': 'en'
+    'text': 'Their existence does not rest at all: On borders long and deserts vast | Arabian lands subsist because Of blessings of Arabiaʹs Prophet Last.'
+  - 'lang': 'ro'
+    'text': 'Nahin Wujood Hudood-o-Saghoor Se Iss Ka | Muhammad-e-Arabi (S.A.W.) Se Hai Alam-e-Arabi!'

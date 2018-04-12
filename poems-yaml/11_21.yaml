@@ -1,0 +1,24 @@
+---
+'id': '11_21'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نگاہ تو عتاب آلود تا چند'
+- 'lang': 'en'
+  'text': 'IV-II'
+'description': []
+'sher':
+- 'id': '11_21_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگاہ تو عتاب آلود تا چند | بتان حاضر و موجود تا چند'
+  - 'lang': 'en'
+    'text': 'How long shall you gaze with a wrathful stare? | Omnipresent gods, how long every where?'
+- 'id': '11_21_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین بتخانہ اولاد براہیم | نمک پروردۂ نمرود تا چند'
+  - 'lang': 'en'
+    'text': 'The sons of the Abe how long in this fane, | Like fosters of Nimrod shall hold their reign?'

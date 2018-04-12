@@ -1,0 +1,46 @@
+---
+'id': '3_195'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/06-13.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مجھ کو تو يہ دنيا نظر آتي ہے دگرگوں'
+- 'lang': 'en'
+  'text': 'To me upset appears the Cosmos old'
+'description': []
+'sher':
+- 'id': '3_195_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجھ کو تو يہ دنيا نظر آتي ہے دگرگوں | معلوم نہيں ديکھتي ہے تيري نظر کيا'
+  - 'lang': 'en'
+    'text': 'To me upset appears the Cosmos old, | But I do not know what your eyes behold.'
+  - 'lang': 'ro'
+    'text': 'Mujh Ko To Ye Dunya Nazar Ati Hai Digargoon | Maloom Nahin Dekhti Hai Teri Nazar Kya'
+- 'id': '3_195_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر سينے ميں اک صبح قيامت ہے نمودار | افکار جوانوں کے ہوئے زير و زبر کيا'
+  - 'lang': 'en'
+    'text': 'In breasts the morn of Last Day comes to view. | Old thoughts of youth have been replaced by new.'
+  - 'lang': 'ro'
+    'text': 'Har Seene Mein Ek Subah-e-Qayamat Hai Namoodar | Afkar Jawanon Ke Huwe Zair-o-Zabar Kya'
+- 'id': '3_195_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کر سکتي ہے بے معرکہ جينے کي تلافي | اے پير حرم تيري مناجات سحر کيا'
+  - 'lang': 'en'
+    'text': 'Your hymns at morn can''t make amends for Life, | O Elder of the shrine, without much strife.'
+  - 'lang': 'ro'
+    'text': 'Kar Sakti Hai Be Maarka Jeene Ki Talaafi | Ae Peer-e-Haram Teri Manajaat-e-Sehar Kya'
+- 'id': '3_195_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ممکن نہيں تخليق خودي خانقہوں سے | !اس شعلہ نم خوردہ سے ٹوٹے گا شرر کيا'
+  - 'lang': 'en'
+    'text': 'The Shrines no strength to Self e''er can impart. | Because no sparks from wet flame can depart.'
+  - 'lang': 'ro'
+    'text': 'Mumkin Nahin Takhleeq-e-Khudi Khanqahon Se | Iss Shaola-e-Nam Khorda Se Toote Ga Sharar Kya !'

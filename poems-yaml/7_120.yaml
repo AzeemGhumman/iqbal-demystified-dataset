@@ -1,0 +1,24 @@
+---
+'id': '7_120'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جہانہا روید از مشت گل من'
+- 'lang': 'en'
+  'text': '(120)'
+'description': []
+'sher':
+- 'id': '7_120_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہانہا روید از مشت گل من | بیا سرمایہ گیر از حاصل من'
+  - 'lang': 'en'
+    'text': 'Worlds spring like grain from my handful of clay. | Come share my harvest. Though you went astray'
+- 'id': '7_120_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غلط کردی رہ سر منزل دوست | دمی گم شو بہ صحرای دل من'
+  - 'lang': 'en'
+    'text': 'From the highway that leads to God, yet come; | You may find Him in my heart’s wilderness.'

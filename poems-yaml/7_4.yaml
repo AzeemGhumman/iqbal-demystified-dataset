@@ -1,0 +1,24 @@
+---
+'id': '7_4'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عقابان را بھای کم نہد عشق'
+- 'lang': 'en'
+  'text': '(4)'
+'description': []
+'sher':
+- 'id': '7_4_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عقابان را بھای کم نہد عشق | تذروان را ببازان سر دہد عشق'
+  - 'lang': 'en'
+    'text': 'Love humbles falcons’ proud, predaceous might, | And it makes tiny quails put them to flight.'
+- 'id': '7_4_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگہ دارد دل ما خویشتن را | ولیکن از کمینش بر جہد عشق'
+  - 'lang': 'en'
+    'text': 'However carefully we guard our hearts, | Love ambushes them in the quiet night.'

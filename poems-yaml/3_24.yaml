@@ -1,0 +1,37 @@
+---
+'id': '3_24'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-24.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'صوفي سے'
+- 'lang': 'en'
+  'text': 'THE MYSTIC'
+'description': []
+'sher':
+- 'id': '3_24_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تري نگاہ ميں ہے معجزات کي دنيا | مري نگاہ ميں ہے حادثات کي دنيا'
+  - 'lang': 'en'
+    'text': 'Your eyes are fixed on miracles that amaze, | But world of events strange attracts my gaze.'
+  - 'lang': 'ro'
+    'text': 'Teri Nigah Mein Hai Maujazat Ki Dunya | Merinigah Mein Hai Hadsaat Ki Dunya'
+- 'id': '3_24_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تخيلات کي دنيا غريب ہے، ليکن | غريب تر ہے حيات و ممات کي دنيا'
+  - 'lang': 'en'
+    'text': 'No doubt, the world of thought is strange and queer, | But worlds of Life and Death more odd appear.'
+  - 'lang': 'ro'
+    'text': 'Takhiyulat Ki Dunya Ghareeb Hai, Lekin | Ghareeb Tar Hai Hayat-o-Mumat Ki Dunya'
+- 'id': '3_24_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عجب نہيں کہ بدل دے اسے نگاہ تري | بلا رہي ہے تجھے ممکنات کي دنيا'
+  - 'lang': 'en'
+    'text': 'A call to you is sent by World of Chance, | Perhaps you may transmute it with your glance.'
+  - 'lang': 'ro'
+    'text': 'Ajab Nahin Ke Badal De Isse Nigah Teri | Bula Rahi Hai Tujhe Mumkinat Ki Dunya'

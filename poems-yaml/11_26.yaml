@@ -1,0 +1,32 @@
+---
+'id': '11_26'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل ما از کنار ما رمیدہ"
+- 'lang': 'en'
+  'text': 'V-II'
+'description': []
+'sher':
+- 'id': '11_26_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل ما از کنار ما رمیدہ | بہ صورت ماندہ و معنی ندیدہ'
+  - 'lang': 'en'
+    'text': 'My heart so restive is fleeing from me, | So wan and puzzled though, is yet at sea.'
+    'notes':
+    - 'phrase': 'sea.'
+      'meaning': '        An other Persian poet says in this context: [An outcast is there was written on Slate, They took it to others none knew his fate, Where is that Confidant "O God! whom thence, We say that he heard and rapped out hence".]'
+      'occurrence': !!int '1'
+- 'id': '11_26_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز ما آن راندہ درگاہ خوشتر | حق او را دیدہ و ما را شنیدہ'
+  - 'lang': 'en'
+    'text': 'That ‘Heaven’s outcast’ is better of me, | We hear about ‘Haq’ whom he did see.'
+    'notes':
+    - 'phrase': '‘Haq’'
+      'meaning': '        At sea far off puzzled as he knows not the truth. Haq; A Holy name and attribute of God means Truth. Slate; the guarded slate in Heavens on which everything is written.'
+      'occurrence': !!int '1'

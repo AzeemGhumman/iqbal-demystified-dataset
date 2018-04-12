@@ -1,0 +1,46 @@
+---
+'id': '3_7'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-07.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمان کا زوال'
+- 'lang': 'en'
+  'text': 'THE DECLINE OF THE MUSLIMS'
+'description': []
+'sher':
+- 'id': '3_7_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگرچہ زر بھي جہاں ميں ہے قاضي الحاجات | جو فقر سے ہے ميسر، تو نگري سے نہيں'
+  - 'lang': 'en'
+    'text': 'Though wealth and gold provide, The worldly needs of man | But what faqr can bestow, No wealth or gold eʹer can.'
+  - 'lang': 'ro'
+    'text': 'Agarcha Zar Bhi Jahan Mein Hai Qazi-Ul-Hajat | Jo Faqar Se Hai Mayassar, Toungari Se Nahin'
+- 'id': '3_7_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر جواں ہوں مري قوم کے جسور و غيور | قلندري مري کچھ کم سکندري سے نہيں'
+  - 'lang': 'en'
+    'text': 'If youth of nation mine, Were jealous of their creed, | My qalandarʹs state wonʹt mind, Alexanderʹs might indeed.'
+  - 'lang': 'ro'
+    'text': 'Agar Jawan Hon Meri Qoum Ke Jasoor-o-Ghayyoor | Qalandari Meri Kuch Kam Sikandari Se Nahin'
+- 'id': '3_7_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سبب کچھ اور ہے، تو جس کو خود سمجھتا ہے | زوال بندہ مومن کا بے زري سے نہيں'
+  - 'lang': 'en'
+    'text': 'With ease you can divine, To some thing else is due: | Penury can not cause, Decline of Muslims True.'
+  - 'lang': 'ro'
+    'text': 'Sabab Kuch Aur Hai, Tu Jis Ko Khud Samajhta Hai | Zawal Banda-e-Momin Ka Be-Zarri Se Nahi'
+- 'id': '3_7_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر جہاں ميں مرا جوہر آشکار ہوا | قلندري سے ہوا ہے، تو نگري سے نہيں'
+  - 'lang': 'en'
+    'text': 'Wealth has played no part, To bring my worth to light | My faqr this spell has cast, The share of wealth is slight.'
+  - 'lang': 'ro'
+    'text': 'Agar Jahan Mein Jouhar Aashkara Huwa | Qalandari Se Huwa Hai, Toungari Se Nahin'

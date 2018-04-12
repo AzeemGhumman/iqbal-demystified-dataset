@@ -1,0 +1,28 @@
+---
+'id': '11_310'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبباد صبحدم شبنم بنالید"
+- 'lang': 'en'
+  'text': 'VII-I'
+'description': []
+'sher':
+- 'id': '11_310_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بباد صبحدم شبنم بنالید | کہ دارم از تو امید نگاہی'
+  - 'lang': 'en'
+    'text': 'To the morning breeze’ weep’d the dew’ in trance, | I cherish from thee a favour of glance.'
+- 'id': '11_310_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلم افسردہ شد از صحبت گل | چنان بگذر کہ ریزم بر گیاہی'
+  - 'lang': 'en'
+    'text': 'I have fostered gloom from the Rose,’ alas! | Thus pass in a way that I fall on grass.'
+    'notes':
+    - 'phrase': 'grass.'
+      'meaning': '        Badi Subh the morning breeze viz, the poet himself. The drew; is a Muslim in the company of Rose. Rose; (in the company of rose) = of a rich wealthy man. Grass; an allusion to a poor man, or the poor. As such the poet has given this message in parables.'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '11_258'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنگہ دارد برہمن کار خود را"
+- 'lang': 'en'
+  'text': 'XIX-III'
+'description': []
+'sher':
+- 'id': '11_258_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگہ دارد برہمن کار خود را | نمی گوید بہ کس اسرار خود را'
+  - 'lang': 'en'
+    'text': 'A pundit keeps eyes on his own task, | He wont let to know his secret mask.'
+- 'id': '11_258_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بمن گوید کہ از تسبیح بگذر | بدوش خود برد زنار خود را'
+  - 'lang': 'en'
+    'text': 'To me he says Give up counting beads, | For his own neck feels holy thread’s need.'
+    'notes':
+    - 'phrase': 'need.'
+      'meaning': '        Counting beads, (tasbeeh) viz. the rosary notes. Brahmen''s sacred thread; a rosary too, is called zunnar in Persian and janaou in Hindi or Sanskrit. The Muslim keeps a rosary of 100 or 101 beads for counting purpose whereas the Christian keeps a rosary of 165 beads to keep a count.'
+      'occurrence': !!int '1'

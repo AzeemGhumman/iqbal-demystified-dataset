@@ -1,0 +1,24 @@
+---
+'id': '11_55'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مقام عشق و مستی منزل اوست'
+- 'lang': 'en'
+  'text': 'V-II'
+'description': []
+'sher':
+- 'id': '11_55_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقام عشق و مستی منزل اوست | چہ آتش ہا کہ در آب و گل اوست'
+  - 'lang': 'en'
+    'text': 'A place in love and raptures was his aim, | Such fires were lit up in his muddy frame.'
+- 'id': '11_55_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نوای او بہ ہر دل سازگار است | کہ در ہر سینہ قاشی از دل اوست'
+  - 'lang': 'en'
+    'text': 'His cries chime in with every one’s heart, | That every one shares his heart’s good part.'

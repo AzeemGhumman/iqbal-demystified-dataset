@@ -1,0 +1,46 @@
+---
+'id': '3_81'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-14.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'حکومت'
+- 'lang': 'en'
+  'text': 'GOVERNMENT'
+'description': []
+'sher':
+- 'id': '3_81_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے مريدوں کو تو حق بات گوارا ليکن | شيخ و ملا کو بري لگتي ہے درويش کي بات'
+  - 'lang': 'en'
+    'text': 'My talk makes Shaykh and Mullah show wrath undue, | Though disciples can put up with what is true.'
+  - 'lang': 'ro'
+    'text': 'Hai Mureedon Ko To Haq Baat Gawara Lekin | Sheikh-o-Mullah Ko Buri Lagti Hai Darveshon Ki Baat'
+- 'id': '3_81_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوم کے ہاتھ سے جاتا ہے متاع کردار | بحث ميں آتا ہے جب فلسفہ ذات و صفات'
+  - 'lang': 'en'
+    'text': 'That race is soon deprived of glorious deeds, | For talk on Being and Attributes hatred breeds.'
+  - 'lang': 'ro'
+    'text': 'Qoum Ke Hath Se Jata Hai Mataa-e-Kirdar | Behas Mein Ata Hai Jab Falsafa-e-Zaat-o-Sifat'
+- 'id': '3_81_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرچہ اس دير کہن کا ہے يہ دستور قديم | کہ نہيں مے کدہ و ساقي و مينا کو ثبات'
+  - 'lang': 'en'
+    'text': 'This cosmos old is wrought in such a cast | That tavern, saki and flask donʹt for eʹer last.'
+  - 'lang': 'ro'
+    'text': 'Gharche Iss Dair-e-Kuhan Ka Hai Ye Dastoor-e-Qadeem | Ke Nahin Mai Kudah-o-Saqi-o-Meena Ko Sabaat'
+- 'id': '3_81_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قسمت بادہ مگر حق ہے اسي ملت کا | !انگبيں جس کے جوانوں کو ہے تلخاب حيات'
+  - 'lang': 'en'
+    'text': 'That nation has the right to luck in life | Whose youth for honey take worldly blows and strife.'
+  - 'lang': 'ro'
+    'text': 'Qismat-e-Badah Magar Haq Hai Ussi Millat Ka | Angbeen Jis Ke Jawanon Ko Hai Talkhaab-e-Hayat !'

@@ -1,0 +1,28 @@
+---
+'id': '2_85'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-09.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عرب کے سوز ميں ساز عجم ہے'
+- 'lang': 'en'
+  'text': 'Observe the strains of'' lily song'
+'description': []
+'sher':
+- 'id': '2_85_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عرب کے سوز ميں ساز عجم ہے | حرم کا راز توحيد امم ہے'
+  - 'lang': 'en'
+    'text': 'Observe the strains of'' lily song: | An Indian voice a theme Arabian.,'
+  - 'lang': 'ro'
+    'text': 'Arab Ke Souz Mein Saaz-e-Ajam Hai | Haram Ka Raaz Touheed-e-Umam Hai'
+- 'id': '2_85_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تہي وحدت سے ہے انديشہ غرب | کہ تہذيب فرنگي بے حرم ہے'
+  - 'lang': 'en'
+    'text': 'An ear attuned to Western harmonies; | A royal temper, and the fate of a slave.'
+  - 'lang': 'ro'
+    'text': 'Tehi Wahdat Se Hai Andaisha-e-Ghareeb | Ke Tehzeeb-e-Farangi Be Haram Hai'

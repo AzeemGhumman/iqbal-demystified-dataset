@@ -1,0 +1,24 @@
+---
+'id': '11_59'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'غم راہی نشاط آمیزتر کن'
+- 'lang': 'en'
+  'text': 'VII-II'
+'description': []
+'sher':
+- 'id': '11_59_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غم راہی نشاط آمیزتر کن | فغانش را جنون انگیزتر کن'
+  - 'lang': 'en'
+    'text': 'Let the hiker’s grief take a blissful turn, | Let wails be blessed with rapturous burn.'
+- 'id': '11_59_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگیر ای ساربان راہ درازی | مرا سوز جدائی تیز تر کن'
+  - 'lang': 'en'
+    'text': 'O teamaster be ready for longer course, | Let separation pangs had sharper force.'

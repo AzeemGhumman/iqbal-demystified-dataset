@@ -1,0 +1,24 @@
+---
+'id': '11_17'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمانی کہ در بند فرنگ است'
+- 'lang': 'en'
+  'text': 'III-III'
+'description': []
+'sher':
+- 'id': '11_17_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانی کہ در بند فرنگ است | دلش در دست او آسان نیاید'
+  - 'lang': 'en'
+    'text': 'A Muslim tied up with a foreign land, | His heart cannot he with ease in his hand'
+- 'id': '11_17_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز سیمائی کہ سودم بر در غیر | سجود بوذر و سلمان نیاید'
+  - 'lang': 'en'
+    'text': 'The forehead I place on an alien’s place, | To Boozer1 and Salman2 it can’t replace.'

@@ -1,0 +1,24 @@
+---
+'id': '11_102'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ آن رازی کہ گفتم پی نبردند'
+- 'lang': 'en'
+  'text': 'XI-XXIV'
+'description': []
+'sher':
+- 'id': '11_102_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ آن رازی کہ گفتم پی نبردند | ز شاخ نخل من خرما نخوردند'
+  - 'lang': 'en'
+    'text': 'Of secret I’told, they paid no heed, | They ate no fruits of vintage they need.'
+- 'id': '11_102_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من ای میر امم داد از تو خواہم | مرا یاران غزلخوانی شمردند'
+  - 'lang': 'en'
+    'text': 'O nation’s chief do a justice to me, | As a writer of odes my friends call me.'

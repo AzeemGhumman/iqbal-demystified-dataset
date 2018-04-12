@@ -1,0 +1,24 @@
+---
+'id': '7_141'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عجم از نغمہ ام آتش بجان است'
+- 'lang': 'en'
+  'text': '(141)'
+'description': []
+'sher':
+- 'id': '7_141_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عجم از نغمہ ام آتش بجان است | صدای من درای کاروان است'
+  - 'lang': 'en'
+    'text': 'Iran’s soul has been kindled by my song– | The resting caravan’s departing gong.'
+- 'id': '7_141_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حدی را تیز تر خوانم چو عرفی | کہ رہ خوابیدہ و محمل گران است'
+  - 'lang': 'en'
+    'text': 'I sing with Urfi livelier marching tunes; | For heavy is the load, asleep the road.'

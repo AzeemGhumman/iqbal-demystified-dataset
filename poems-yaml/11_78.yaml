@@ -1,0 +1,24 @@
+---
+'id': '11_78'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمان زادہ و نامحرم مرگ'
+- 'lang': 'en'
+  'text': 'X-VI'
+'description': []
+'sher':
+- 'id': '11_78_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمان زادہ و نامحرم مرگ | ز بیم مرگ لرزان تا دم مرگ'
+  - 'lang': 'en'
+    'text': 'Though born as Muslim yet knows not the death, | From fear of death shivers to his last breath'
+- 'id': '11_78_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلی در سینہ چاکش ندیدم | دم بگسستہ ئی بود و غم مرگ'
+  - 'lang': 'en'
+    'text': 'I didn’t peep though through his bosom’s slit | The fear of death has weaken’d his grit.'

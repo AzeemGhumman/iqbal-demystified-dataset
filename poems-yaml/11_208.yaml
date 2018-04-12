@@ -1,0 +1,24 @@
+---
+'id': '11_208'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جہانگیری بخاک ما سرشتند'
+- 'lang': 'en'
+  'text': 'VI-VII'
+'description': []
+'sher':
+- 'id': '11_208_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہانگیری بخاک ما سرشتند | امامت در جبین ما نوشتند'
+  - 'lang': 'en'
+    'text': 'The world rule is destined to my own dust, | The world’s guidance writ on my forehead first.'
+- 'id': '11_208_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درون خویش بنگر  ن جہان را | کہ تخمش در دل فاروق کشتند'
+  - 'lang': 'en'
+    'text': 'In thy bosom see the whole world’s map, | Whose seed was sown first in Farooq’s lap.'

@@ -1,0 +1,37 @@
+---
+'id': '3_3'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-03.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'تن بہ تقدير'
+- 'lang': 'en'
+  'text': 'SUBMISSION TO FATE'
+'description': []
+'sher':
+- 'id': '3_3_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اسي قرآں ميں ہے اب ترک جہاں کي تعليم | جس نے مومن کو بنايا مہ و پرويں کا امير'
+  - 'lang': 'en'
+    'text': 'The Quranic teaching that did bring, The Moon and Pleiades within human | Is now explained in manner strange, ’Twixt man and world to cause a breach.'
+  - 'lang': 'ro'
+    'text': 'Issi Quran Mein Hai Ab Tark-e-Jahan Ki Taleem | Jis Ne Momin Ko Banaya Meh-o-Parveen Ka Ameer'
+- 'id': '3_3_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '''تن بہ تقدير'' ہے آج ان کے عمل کا انداز | تھي نہاں جن کے ارادوں ميں خدا کي تقدير'
+  - 'lang': 'en'
+    'text': 'Their mode of work has changed entire, Before the freaks of Fate they bow: | They had a say in what God decreed, But Muslims have now fallen low.'
+  - 'lang': 'ro'
+    'text': '‘Tan Ba Taqdeer’ Hai Aaj Un Ke Amal Ka Andaz | Thi Nihan Jin Ke Iradon Mein Khuda Ki Taqdeer'
+- 'id': '3_3_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تھا جو ''ناخوب، بتدريج وہي '' خوب'' ہوا | کہ غلامي ميں بدل جاتا ہے قوموں کا ضمير'
+  - 'lang': 'en'
+    'text': 'What was so evil has by steps, Put on the shape of good and fine: | In state of bondage, as is known, The shift of conscience is quite sure.'
+  - 'lang': 'ro'
+    'text': 'Tha Jo ‘Na-Khoob’ Batadreej Wohi ‘Khoob’ Huwa | Ke Ghulami Mein Badal Jata Hai Qoumon Ka Zameer'

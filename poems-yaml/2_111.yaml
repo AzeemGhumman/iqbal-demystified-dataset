@@ -1,0 +1,28 @@
+---
+'id': '2_111'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-35.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'يہي آدم ہے سلطاں بحر و بر کا'
+- 'lang': 'en'
+  'text': 'So man is the powerful lord of land and seas!'
+'description': []
+'sher':
+- 'id': '2_111_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہي آدم ہے سلطاں بحر و بر کا | کہوں کيا ماجرا اس بے بصر کا'
+  - 'lang': 'en'
+    'text': 'So man is the powerful lord of land and seas! | A lord of the world with an eye that hardly sees!'
+  - 'lang': 'ro'
+    'text': 'Yehi Adam Hai Sultan Behar-e-Bar Ka | Kahun Kya Majra Iss Be-Basar Ka'
+- 'id': '2_111_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ خود بيں ، نے خدا بيں نے جہاں بيں | !يہي شہکار ہے تيرے ہنر کا'
+  - 'lang': 'en'
+    'text': 'He knows neither himself, nor God, nor the world; | Is this, O Lord, Thy greatest masterpiece?'
+  - 'lang': 'ro'
+    'text': 'Na Khudbeen, Ne Khuda-Been, Ne Jahan Been | Yehi Shehkar Hai Tere Hunar Ka!'

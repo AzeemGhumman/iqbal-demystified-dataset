@@ -1,0 +1,32 @@
+---
+'id': '11_125'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمرا در عصر بی سوز آفریدند"
+- 'lang': 'en'
+  'text': 'XI-XLVII'
+'description': []
+'sher':
+- 'id': '11_125_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا در عصر بی سوز آفریدند | بخاکم جان پر شوری دمیدند'
+  - 'lang': 'en'
+    'text': 'I have been born in a flameless age, | In me nature kept a fire ablaze.'
+    'notes':
+    - 'phrase': 'flameless'
+      'meaning': '        In line 1, Iqbal has used the word ''flameless'' age in a metaphorical sense. It, however, means faithless.'
+      'occurrence': !!int '1'
+- 'id': '11_125_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو نخ در گردن من زندگانے | تو گوئی بر سر دارم کشیدند'
+  - 'lang': 'en'
+    'text': 'The life in my neck is like a thread, | Say they are tighting this thread in my head.'
+    'notes':
+    - 'phrase': 'head.'
+      'meaning': '        Iqbal says Say they are dragging me on cross, (is the literal translation) viz, to kill me. Here he is asking the Prophet to tell this state to God as a passionate appeal of a lover.'
+      'occurrence': !!int '1'
