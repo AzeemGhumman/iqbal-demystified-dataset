@@ -8,7 +8,7 @@
   'text': 'In world, if man contrives a thing much sound'
 'description': []
 'sher':
-- 'id': '3_188_1'
+- 'id': '3_188_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'In world, if man contrives a thing much sound, | The men of every period make his round.'
   - 'lang': 'ro'
     'text': 'Jo Alam-e-Ijad Mein Hai Sahib-e-Ijad | Har Dour Mein Karta Hai Tawaaf Iss Ka Zamana'
-- 'id': '3_188_2'
+- 'id': '3_188_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Don''t spoil your Self by blind pursuit. | Take care of precious gem that has no suit.'
   - 'lang': 'ro'
     'text': 'Taqleed Se Nakara Na Kar Apni Khudi Ko | Kar Iss Ki Hifazat Ke Ye Gohar Hai Yagana'
-- 'id': '3_188_3'
+- 'id': '3_188_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'That nation is welcome to have new ways, | Which has no thought save revels night and days.'
   - 'lang': 'ro'
     'text': 'Uss Qoum Ko Tajdeed Ka Paigham Mubarik ! | Hai Jis Ke Tasawwar Mein Faqt Bazm-e-Shabana'
-- 'id': '3_188_4'
+- 'id': '3_188_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem in three parts, different in cadence, deals with important mystic concepts through the common-place fire fly. The first part extols the beauties of the insect in different ways, and presents it as a reflection of the creative power of God. The next two parts show how the creativity of God appears in all His creatures throughout the universe, examples of which have been taken only from the common creatures and phenomena familiar to the denizens of the earth, to make the subject easily intelligible to the common man. The essence of the poem is the twin concept of Tawhad-i-Ilah (The Unity of God) and Tawhad-i-Insaniyat (The Unity of Mankind). This is mentioned in the last two verses. The coherence in the diversity of the universe points to the Unity of the Creator in the plurality of the universe.'
 'sher':
-- 'id': '1_40_1'
+- 'id': '1_40_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The fire-fly''s light is shining in the garden''s abode | Or a candle is lighted in the assembly of flowers ?'
   - 'lang': 'ro'
     'text': 'Jugnoo Ki Roshni Hai Kashana-e-Chaman Mein | Ya Shama Jal Rahi Hai Phoolon Ki Anjuman Mein'
-- 'id': '1_40_2'
+- 'id': '1_40_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Has some star flown down from the sky? | Or has a moon''s ray been brought to life?'
   - 'lang': 'ro'
     'text': 'Aya Hai Asman Se Urh Kar Koi Sitara | Ya Jaan Parh Gyi Hai Mehtaab Ki Kiran Mein'
-- 'id': '1_40_3'
+- 'id': '1_40_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Or the emissary of the day has come to the night''s kingdom? | Has become prosperous in foreign land was unknown in homeland'
   - 'lang': 'ro'
     'text': 'Ya Shab Ki Saltanat Mein Din Ka Safeer Aya | Gharbat Mein Aa Ke Chamka, Ghumnaam Tha Watan Mein'
-- 'id': '1_40_4'
+- 'id': '1_40_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Has some button fallen from the cloak of the moon? | Or some speck has become prominent in the sun''s shirt?'
   - 'lang': 'ro'
     'text': 'Tukma Koi Gira Hai Mehtab Ki Qaba Ka | Zarra Hai Ya Numayan Suraj Ke Pairhan Mein'
-- 'id': '1_40_5'
+- 'id': '1_40_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Was it the concealed glimpse of the Eternal Beauty? | Which was brought by Nature out of solitude into the assembly'
   - 'lang': 'ro'
     'text': 'Husn-e-Qadeem Ki Ye Poshida Ek Jhalak Thi | Le Ayi Jis Ko Qudrat Khalwat Se Anjuman'
-- 'id': '1_40_6'
+- 'id': '1_40_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Darkness as well as light is in this little moon | Now it is out of eclipse, now it is in eclipse'
   - 'lang': 'ro'
     'text': 'Chote Se Chand Mein Hai Zulmat Bhi Roshni Bhi | Nikla Kabhi Gehn Se, Aya Kabhi Gehn Mein'
-- 'id': '1_40_7'
+- 'id': '1_40_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'The moth is an insect, as the fire-fly is an insect | The former needs light, the latter is light''s embodiment'
   - 'lang': 'ro'
     'text': 'Parwana Ek Patanga, Jugnoo Bhi Ek Patanga | Woh Roshni Ka Talib, Ye Roshni Sarapa'
-- 'id': '1_40_8'
+- 'id': '1_40_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'Nature gave beauty to everything in the universe | It gave agitation to moth, it gave light to fire-fly'
   - 'lang': 'ro'
     'text': 'Har Cheez Ko Jahan Mein Qudrat Ne Dilbari Di | Parwane Ko Tapish Di, Jugnoo Ko Roshani Di'
-- 'id': '1_40_9'
+- 'id': '1_40_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Rangeen Nawa Banaya Murghan-e-Bezuban Ko | Gul Ko Zuban De Kar Taleem-e-Khamashi Di'
-- 'id': '1_40_10'
+- 'id': '1_40_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'The beauty of twilight''s spectacle was decaying | Brightening up this fairy, a short life it gave'
   - 'lang': 'ro'
     'text': 'Nazara-e-Shafaq Ki Khoobi Zawal Mein Thi | Chamka Ke Iss Pari Ko Thori Si Zindagi Di'
-- 'id': '1_40_11'
+- 'id': '1_40_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'It gave color to the dawn like a beautiful bride | Clothing it in red dress gave it the mirror of dew'
   - 'lang': 'ro'
     'text': 'Rangeen Kiya Sehar Ko Banki Dulhan Ki Soorat | Pehna Ke Laal Jorha Shabnam Ki Aar Si Di'
-- 'id': '1_40_12'
+- 'id': '1_40_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'It gave shade to the tree, gave flight to the wind | It gave flow to water, gave restlessness to waves'
   - 'lang': 'ro'
     'text': 'Saya Diya Shajar Ko, Parwaz Di Hawa Ko | Pani Ko Di Rawani, Moujon Ko Be-Kali Di'
-- 'id': '1_40_13'
+- 'id': '1_40_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -131,7 +131,7 @@
     'text': 'This distinction but is a way of our thinking | The fire-fly''s day is the same as our night'
   - 'lang': 'ro'
     'text': 'Ye Imtiaz Lekin Ek Baat Hai Humari | Jugnoo Ka Din Wohi Hai Jo Raat Hai Humari'
-- 'id': '1_40_14'
+- 'id': '1_40_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
     'text': 'The Eternal Beauty''s reflection is present in everything | It is speech in man. It is blooming in the flower bud'
   - 'lang': 'ro'
     'text': 'Husn-e-Azal Ki Paida Har Cheez Mein Jhalak Hai | Insan Mein Woh Sukhan Hai, Ghunche Mein Woh Chatak Hai'
-- 'id': '1_40_15'
+- 'id': '1_40_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
     'text': 'This moon in the sky is the poet''s heart so to say | It is moonlight there what here the prick of pathos is'
   - 'lang': 'ro'
     'text': 'Ye Chand Asman Ka Shayar Ka Dil Hai Goya | Waan Chandani Hai Jo Kuch, Yaan Dard Kasak Hai'
-- 'id': '1_40_16'
+- 'id': '1_40_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -158,7 +158,7 @@
     'text': 'The manners of speech have deceived us, otherwise | Song is nightingale''s fragrance, flower''s fragrance is its song'
   - 'lang': 'ro'
     'text': 'Andaz-e-Guftugoo Ne Dhoke Diye Hain Warna | Naghma Hai Bu-e-Bulbul, Boo Phool Ki Chehak Hai'
-- 'id': '1_40_17'
+- 'id': '1_40_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -167,7 +167,7 @@
     'text': 'Concealed in plurality is the secret of the Unity | What is fire-fly’s brightness is flower’s fragrance'
   - 'lang': 'ro'
     'text': 'Kasrat Mein Ho Gya Hai Wahdat Ka Raaz Makhfi | Jugnoo Mein Jo Chamak Hai, Woh Phool Mein Mehak Hai'
-- 'id': '1_40_18'
+- 'id': '1_40_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

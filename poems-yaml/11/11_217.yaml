@@ -8,14 +8,14 @@
   'text': 'VII-VII'
 'description': []
 'sher':
-- 'id': '11_217_1'
+- 'id': '11_217_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمانی غم دل در خریدن | چو سیماب از تپ یاران تپیدن'
   - 'lang': 'en'
     'text': 'A Muslim you were named for grief’s bargain, | To be restive for friends in pains and strains.'
-- 'id': '11_217_2'
+- 'id': '11_217_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

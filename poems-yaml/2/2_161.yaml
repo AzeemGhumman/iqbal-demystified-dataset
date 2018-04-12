@@ -8,7 +8,7 @@
   'text': 'FAQR'
 'description': []
 'sher':
-- 'id': '2_161_1'
+- 'id': '2_161_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'There is a faqr that teaches the hunter to be a prey; | There is another that opens the secrets of mastery over the world.'
   - 'lang': 'ro'
     'text': 'Ek Faqr Sikhata Hai Sayyad Ko Nakhcheeri | Ek Faqr Se Khulte Hain Asrar-e-Jahangeeri'
-- 'id': '2_161_2'
+- 'id': '2_161_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'There is a faqr that is the root of needfulness and misery among nations; | There is another that turns mere dust into elixir.'
   - 'lang': 'ro'
     'text': 'Ek Faqr Se Qoumon Mein Maskeeni-o-Dilgeeri | Ek Faqr Se Mitti Mein Khasiyat-e-Ikseeri'
-- 'id': '2_161_3'
+- 'id': '2_161_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

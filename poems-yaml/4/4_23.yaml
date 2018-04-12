@@ -8,7 +8,7 @@
   'text': 'Harder than death is what thou call’st slavery'
 'description': []
 'sher':
-- 'id': '4_23_1'
+- 'id': '4_23_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Harder than death is what thou call’st slavery, | would that slaves understand master’s tricks;'
   - 'lang': 'ro'
     'text': 'Mout Hai Ek Sakht Tar Jis Ka Ghlami Hai Naam | Makar-O-Fan-E-Khawajgi Kash Samajhta Ghulam !'
-- 'id': '4_23_2'
+- 'id': '4_23_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'strange are the ways of imperialists: | they allow the sounding of trumpet; but forbid resurrection.'
   - 'lang': 'ro'
     'text': 'Shara-E-Malookana Mein Jiddat-E-Ehkaam Dekh | Soor Ka Ghogha Hilal, Hashar Ki Lazzat Haram !'
-- 'id': '4_23_3'
+- 'id': '4_23_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'POLITICS'
 'description': []
 'sher':
-- 'id': '2_160_1'
+- 'id': '2_160_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Ranks must be determined for this game; | Let you be the firzine and I the pawn by the grace of the chess‐player.'
   - 'lang': 'ro'
     'text': 'Iss Khail Mein Taeyayeen-e-Maratib Hai Zaroori | Shatir Ki Anayat Se Tu Farzeen, Mein Piyada'
-- 'id': '2_160_2'
+- 'id': '2_160_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

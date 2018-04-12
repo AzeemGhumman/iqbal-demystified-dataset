@@ -8,14 +8,14 @@
   'text': '(139)'
 'description': []
 'sher':
-- 'id': '7_139_1'
+- 'id': '7_139_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نوا مستانہ در محفل زدم من | شرار زندگی بر گل زدم من'
   - 'lang': 'en'
     'text': 'I sang with such fine rapture to the crowd | That I struck life’s spark out of stolid clay.'
-- 'id': '7_139_2'
+- 'id': '7_139_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

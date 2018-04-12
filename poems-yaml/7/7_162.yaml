@@ -8,14 +8,14 @@
   'text': '(162)'
 'description': []
 'sher':
-- 'id': '7_162_1'
+- 'id': '7_162_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرا ذوق سخن خون در جگر کرد | غبار راہ را مشت شرر کرد'
   - 'lang': 'en'
     'text': 'The love of self-expression seized my heart | And charged it with a vital energy.'
-- 'id': '7_162_2'
+- 'id': '7_162_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'O LORD! STRANGE IS THE PIETY OF THE PREACHER'
 'description': []
 'sher':
-- 'id': '1_52_1'
+- 'id': '1_52_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O Lord! Strange is the piety of the preacher | He has animosity towards the whole world'
   - 'lang': 'ro'
     'text': 'Ajab Waiz Ki Deen-Dari Hai Ya Rab! | Adawat Hai Isse Sare Jahan Se'
-- 'id': '1_52_2'
+- 'id': '1_52_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Nobody has so far understood that Man | Where he is going, and from where he has come?'
   - 'lang': 'ro'
     'text': 'Koi Ab Tak Na Ye Samajha Ke Insan | Kahan Jata Hai, Ata Hai Kahan Se'
-- 'id': '1_52_3'
+- 'id': '1_52_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'From the same source has the night obtained darkness | From where the star has obtained brightness'
   - 'lang': 'ro'
     'text': 'Wahin Se Raat Ko Zulmat Mili Hai | Chamak Tare Ne Payi Hai Jahan Se'
-- 'id': '1_52_4'
+- 'id': '1_52_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The tale of our compassion is | Always related by our sympathizer'
   - 'lang': 'ro'
     'text': 'Hum Apni Dardmani Ka Fasana | Suna Karte Hain Apne Raazdan Se'
-- 'id': '1_52_5'
+- 'id': '1_52_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

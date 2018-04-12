@@ -8,7 +8,7 @@
   'text': 'THE MYSTIC'
 'description': []
 'sher':
-- 'id': '3_24_1'
+- 'id': '3_24_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Your eyes are fixed on miracles that amaze, | But world of events strange attracts my gaze.'
   - 'lang': 'ro'
     'text': 'Teri Nigah Mein Hai Maujazat Ki Dunya | Merinigah Mein Hai Hadsaat Ki Dunya'
-- 'id': '3_24_2'
+- 'id': '3_24_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'No doubt, the world of thought is strange and queer, | But worlds of Life and Death more odd appear.'
   - 'lang': 'ro'
     'text': 'Takhiyulat Ki Dunya Ghareeb Hai, Lekin | Ghareeb Tar Hai Hayat-o-Mumat Ki Dunya'
-- 'id': '3_24_3'
+- 'id': '3_24_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

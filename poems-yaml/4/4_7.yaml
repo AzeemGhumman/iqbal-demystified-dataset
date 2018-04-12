@@ -8,7 +8,7 @@
   'text': 'THE LATE MASUD'
 'description': []
 'sher':
-- 'id': '4_7_1'
+- 'id': '4_7_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The sun, the moon, the stars, And this azure sky all around— | Who can tell for sure all this is, The world nothingness or being!'
   - 'lang': 'ro'
     'text': 'Ye Mehar-O-Mah, Ye Sitare Ye Asman-E-Kubood | Kise Khabar Ke Ye Alam Addam Hai Ya Ke Wujood'
-- 'id': '4_7_2'
+- 'id': '4_7_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The ideas of roads and destinations, Are fictions and myths | As life is aimless journey, indeed'
   - 'lang': 'ro'
     'text': 'Khiyal-E-Jadah-O-Manzil Fasana-O-Afsoun | Ke Zindagi Hai Sarapa Raheel-E-Be-Maqsood'
-- 'id': '4_7_3'
+- 'id': '4_7_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Alas! Time’s hand wiped out, | That monument of the perfections Of Ahmad and Mahmood.'
   - 'lang': 'ro'
     'text': 'Rahi Na Aah, Zamane Ke Hath Se Baqi | Vo Yaadgar-E-Kamalaat -E-Ahmad-O-Mehmood'
-- 'id': '4_7_4'
+- 'id': '4_7_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'His sudden death signifies, The decline of knowledge and art | His, Masood’s, who was The most valuable asset'
   - 'lang': 'ro'
     'text': 'Zawal-E-Ilm-O-Hunar Marg-E-Naaghan Uss Ki | Woh Karwan Ka Mataa-E-Garan Bha Masood !'
-- 'id': '4_7_5'
+- 'id': '4_7_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Of this caravan of ours, The indifferent cold manner of Worldly men moves me to tears, | They reckon the dawn wails of birds As lilting songs!'
   - 'lang': 'ro'
     'text': 'Mujhe Rulati Hai Ahl-E-Jahan Ki Baydardi | Faghan-E-Mugh-E-Sehar Khawan Ko Jante Hain Surood'
-- 'id': '4_7_6'
+- 'id': '4_7_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Please! Do not plead that The remedy of grief for a friend, Lies hidden in patience! | Please do not say that in patience lies, The solution of Death’s riddle!'
   - 'lang': 'ro'
     'text': 'Na Keh Ke Sabr Mein Pinhan Hai Chara’ay Gham-e-Dost | Na Keh Ke Sabr Mu’amaye Mout Ki Hai Kushood'
-- 'id': '4_7_7'
+- 'id': '4_7_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'A heart, howsoever loving and patient, is All the same, a stone. | And between love and patience lie A thousand miles.'
   - 'lang': 'ro'
     'text': '"Dile Ke Ashiq Wa Sabir Bood Magar Sang Ast | Za Ishq Ta Ba Saboori Hazar Farsang Ast"'
-- 'id': '4_7_8'
+- 'id': '4_7_008'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'Saadi'
   - 'lang': 'ro'
     'text': '(Sadi)'
-- 'id': '4_7_9'
+- 'id': '4_7_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'Don’t ask what is fleeting life For, who knows what means | This combine of magic and colour charm?'
   - 'lang': 'ro'
     'text': 'Na Mujh Se Pooch Ke Umer-E-Garaiz Pa Kiya Hai | Kise Khabar Ke Ye Neerang-O-Seemiya Kya Hai'
-- 'id': '4_7_10'
+- 'id': '4_7_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'One born of dust must hide in dust. | But what does it mean? A short lived absence or extinction?'
   - 'lang': 'ro'
     'text': 'Huwa Jo Khak Se Paida, Vo Khak Mein Mastoor | Magar Ye Ghaibat-E-Sughra Hai Ya Fana, Kya Hai !'
-- 'id': '4_7_11'
+- 'id': '4_7_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'This man, this mere dust of path, Has been endowed with artistic taste. | Of this, Reason cannot reveal the aim.'
   - 'lang': 'ro'
     'text': 'Ghubar-E-Rah Ko Bakhsha Gya Hai Zauq-E-Jamal | Khirad Bata Nahin Sakti Ke Muddaa Kya Hai'
-- 'id': '4_7_12'
+- 'id': '4_7_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'Are the heart and vision too, The miracles of this very water and clay? | If not, what then is the end‐all of man?'
   - 'lang': 'ro'
     'text': 'Dil-O-Nazar Bhi Issi Aab-O-Gil Ke Hain Ijaz | Nahin To Hazrat-E-Insan Ki Intiha Kya Hai?'
-- 'id': '4_7_13'
+- 'id': '4_7_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'The moving soul of this universe is ''There is no god but God'', | Then why the Messiah, the nails and the cross?'
   - 'lang': 'ro'
     'text': 'Jahan Ki Rooh-E-Rawan ‘LA ILAHA ILLA HOO’ | Masih-O-Meekh-O-Chalipa, Ye Majra Kya Hai !'
-- 'id': '4_7_14'
+- 'id': '4_7_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'From whom should be demanded The blood‐money of longings spilt? | For, who is the guilty and what the blood money?'
   - 'lang': 'ro'
     'text': 'Qasas Khoon-E-Tammana Ka Mangiye Kis Se | Gunahgar Hai Kon, Aur Khoon Baha Kya Hai'
-- 'id': '4_7_15'
+- 'id': '4_7_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'Grieve not that we are In the bondage of this world, | As the heart that we have, Breaks all magic spells.'
   - 'lang': 'ro'
     'text': 'Ghameen Masho Ke Ba Band-E-Jahan Gariftarem | Talism Ha Shikand Aan Dile Ke Ma Darem'
-- 'id': '4_7_16'
+- 'id': '4_7_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'If the self lives, death is but A sojourn in life: | as love Tries death in a test of eternal life.'
   - 'lang': 'ro'
     'text': 'Khudi Hai Zinda To Hai Mout Ek Maqam-E-Hayat | Ke Ishq Mout Se Karta Hai Imtihan-E-Sabaat'
-- 'id': '4_7_17'
+- 'id': '4_7_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'If the self is alive, your ocean is shoreless | And the waves of the Nile, of Euphrates are restless, separated from you.'
   - 'lang': 'ro'
     'text': 'Khudi Hai Zinda To Darya Hai Be-Karana Tera | Tere Firaq Mein Muztir Hai Mouj-E-Neel-O-Firat'
-- 'id': '4_7_18'
+- 'id': '4_7_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': 'If the self is dead, you are like a straw before the breeze, | If the self is alive, you the sultan of all existence.'
   - 'lang': 'ro'
     'text': 'Khudi Hai Murda To Manind-E-Kah Paish-E-Naseem | Khudi Hai Zinda To Sultan-E-Jumla Moujoodat'
-- 'id': '4_7_19'
+- 'id': '4_7_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'If the eye is deprived of One vision of beauty exposed, | Myriad exposures of beauty Compensate for one loss.'
   - 'lang': 'ro'
     'text': 'Nigah Aik Tajalli Se Hai Agar Mehroom | Dou Sad Hazar Tajalli Talafi-E-Mafaat'
-- 'id': '4_7_20'
+- 'id': '4_7_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'The station of a true momin is Beyond the sky’s reach. | Below, from the earth to the Pleiades, All are idol‐houses of Lat and Manat.'
   - 'lang': 'ro'
     'text': 'Maqam Banda’ay Momin Ka Hai Wara’ay Sipihr | Zameen Se Ta Ba Surreya Tamam Laat-O-Manaat'
-- 'id': '4_7_21'
+- 'id': '4_7_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'His eternal abode is The sacred precinct of the One and the Only One, | Not this gloomy dusty grave Nor this exposure house of Attributes!'
   - 'lang': 'ro'
     'text': 'Hareem-E-Zaat Hai Iss Ka Nasheman-e-Abdi | Na Tera Khak-E-Lehad Hai, Na Jalwagah-E-Sifaat'
-- 'id': '4_7_22'
+- 'id': '4_7_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

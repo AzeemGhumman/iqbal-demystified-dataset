@@ -8,7 +8,7 @@
   'text': 'The mind can give you naught'
 'description': []
 'sher':
-- 'id': '2_40_1'
+- 'id': '2_40_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The mind can give you naught, But what with doubt is fraught: | One look of Saintly Guide, Can needful cure provide.'
   - 'lang': 'ro'
     'text': 'Khird Ke Paas Khabar Ke Siwa Kuch Aur Nahin | Tera Ilaj Nazar Ke Siwa Kuch Aur Nahin'
-- 'id': '2_40_2'
+- 'id': '2_40_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The goal that you presume, Is far and out of view: | What else can be this life, But zeal for endless strife?'
   - 'lang': 'ro'
     'text': 'Har Ek Maqam Se Agay Maqam Hai Tera | Hayat Zauq-e-Safar Ke Siwa Kuch Aur Nahin'
-- 'id': '2_40_3'
+- 'id': '2_40_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Much worth the pearl begets, For guard on self it sets: | What else in pearl is found, Except its sheen profound?'
   - 'lang': 'ro'
     'text': 'Giran Baha Hai To Hifz-e-Khudi Se Hai Warna | Guhar Mein Aab-e-Guhar Ke Siwa Kuch Aur Nahin'
-- 'id': '2_40_4'
+- 'id': '2_40_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Though blood in veins may race, To Life it lends no grace: | Only the glow of heart, To Life can zeal impart.'
   - 'lang': 'ro'
     'text': 'Ragon Mein Gardish-e-Khoon Hai Agar To Kya Hasil | Hayat Souz-e-Jigar Ke Siwa Kuch Aur Nahin'
-- 'id': '2_40_5'
+- 'id': '2_40_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Wherefore, O Tulip Bride, From me your charms you hide? | I am the breath of morn, Your face I would adorn.'
   - 'lang': 'ro'
     'text': 'Uroos-e-Lala! Munasib Nahin Hai Mujh Se Hijab | Ke Main Naseem-e-Sehar Ke Siwa Kuch Aur Nahin'
-- 'id': '2_40_6'
+- 'id': '2_40_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'What Frankish dealers take, For counterfeit and fake, | Is true and real art— Not valued in their Mart.'
   - 'lang': 'ro'
     'text': 'Jise Kisaad Samjhte Hain Tajiran-e-Farang | Woh Shay Mata-e-Hunar Ke Siwa Kuch Aur Nahin'
-- 'id': '2_40_7'
+- 'id': '2_40_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

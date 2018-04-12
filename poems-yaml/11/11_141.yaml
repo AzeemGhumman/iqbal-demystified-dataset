@@ -8,14 +8,14 @@
   'text': 'XI-LXIII'
 'description': []
 'sher':
-- 'id': '11_141_1'
+- 'id': '11_141_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو رومی در حرم دادم اذان من | ازو آموختم اسرار جان من'
   - 'lang': 'en'
     'text': 'Like Rumi I raised His call in Harem whole, | From whom I learnt secret knowledge of soul.'
-- 'id': '11_141_2'
+- 'id': '11_141_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

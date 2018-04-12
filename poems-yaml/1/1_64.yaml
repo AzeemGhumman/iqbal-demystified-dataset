@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The central message of this short poem is that every material object in the Universe, including material beauty, is liable to wane and perish. Only God is eternal. This is also the central message of the Holy Qur’an. This is implied all through the Book and is expressly stated in many verses, such as 2:255; 20:111; 28:88; 40:65; 55:27; 59:22-24 which are presented as a small sample.'
 'sher':
-- 'id': '1_64_1'
+- 'id': '1_64_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Beauty one day put this question to God | Why did you not make me eternal in the world?'
   - 'lang': 'ro'
     'text': 'Khuda Se Husn Ne Ek Roz Ye Sawal Kiya | Jahan Mein Kyun Na Mujhe Tu Ne La-Zawal Kiya'
-- 'id': '1_64_2'
+- 'id': '1_64_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The answer was that the world is like a picture gallery | The world is the story of the long night of annihilation'
   - 'lang': 'ro'
     'text': 'Mila Jawab Ke Tasveer-e-Khana Hai Dunya | Shab-e-Daraz-e-Aadam Ka Fasana Hai Dunya'
-- 'id': '1_64_3'
+- 'id': '1_64_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'As the nature of change is the basis of its display | Only that is beautiful whose reality is decline'
   - 'lang': 'ro'
     'text': 'Huwi Hai Rang-e-Taghiyar Se Jab Namood Uss Ki | Wohi Haseen Hai Haqiqat Zawal Hai Jis Ki'
-- 'id': '1_64_4'
+- 'id': '1_64_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The moon was somewhere near and it heard this conversation | It became well-known in the heaven, the morning star heard'
   - 'lang': 'ro'
     'text': 'Kahin Qareeb Tha, Ye Gutugu Qamar Ne Suni | Falak Pe Aam Huwi, Akhtar-e-Sehar Ne Suni'
-- 'id': '1_64_5'
+- 'id': '1_64_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Having heard from the star the morning related it to the dew | It exposed the celestial world’s secret to earth’s confidante'
   - 'lang': 'ro'
     'text': 'Sehar Ne Tare Se Sun Kar Sunayi Shabnam Ko | Falak Ki Baat Bata Di Zameen Ke Mehram Ko'
-- 'id': '1_64_6'
+- 'id': '1_64_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'The flower’s eye started weeping from the dew’s message | The flower bud’s little heart was injured by this sorrow'
   - 'lang': 'ro'
     'text': 'Bhar Aye Phool Ke Ansu Payam-e-Shabnam Se | Kali Ka Nanha Sa Dil Khoon Ho Gya Gham Se'
-- 'id': '1_64_7'
+- 'id': '1_64_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

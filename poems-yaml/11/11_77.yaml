@@ -8,14 +8,14 @@
   'text': 'X-V'
 'description': []
 'sher':
-- 'id': '11_77_1'
+- 'id': '11_77_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ چشم او نہ نور و نی سرور است | نہ دل در سینۂ او ناصبور است'
   - 'lang': 'en'
     'text': 'His eyes are void of a glamour and glee, | No restive heart in his bosom I see.'
-- 'id': '11_77_2'
+- 'id': '11_77_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

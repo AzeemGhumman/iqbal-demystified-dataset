@@ -8,14 +8,14 @@
   'text': 'XII-III'
 'description': []
 'sher':
-- 'id': '11_245_1'
+- 'id': '11_245_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ضمیر عصر حاضر بی نقاب است | گشادش در نمود رنگ و  ب است'
   - 'lang': 'en'
     'text': 'At last modern age shows her conscience lo! | They feel quite happy with false pomp and show'
-- 'id': '11_245_2'
+- 'id': '11_245_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

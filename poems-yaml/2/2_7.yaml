@@ -8,7 +8,7 @@
   'text': 'Contrary runs our planet, the stars whirl fast, oh Saki!'
 'description': []
 'sher':
-- 'id': '2_7_1'
+- 'id': '2_7_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Contrary runs our planet, the stars whirl fast, oh Saki! | In every atom’s heartbeat a Doomsday blast, oh Saki!'
   - 'lang': 'ro'
     'text': 'Dirgargoon Hai, Jahan, Taaron Ki Garzish Taiz Hai Saqi | Dil Har Zarra Mein Ghogha’ay Rasta Khaiz Hai Saqi'
-- 'id': '2_7_2'
+- 'id': '2_7_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Torn from God’s congregation its dower of faith and reason, | And godlessness in fatal allurement dressed, oh Saki!'
   - 'lang': 'ro'
     'text': 'Mataa-e-Deen-o-Danish Lut Gyi Allah Walon Ki | Ye Kis Kafir Ada Ka Ghamzada’ay Khoonraiz Hai Saqi'
-- 'id': '2_7_3'
+- 'id': '2_7_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'For our inveterate sickness, our wavering heart, the cure— | That same joy‐dropping nectar as in the past, oh Saki.'
   - 'lang': 'ro'
     'text': 'Wohi Daireena Bemari, Wohi Na-Mehkami Dil Ki | Ilaj Iss Ka Wohi Aab-e-Nishaat Anghaiz Hai Saqi'
-- 'id': '2_7_4'
+- 'id': '2_7_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Within Islam’s cold temple no fire of longing stirs, | For still your face is hidden, veiled and unguessed, oh Saki.'
   - 'lang': 'ro'
     'text': 'Haram Ke Dil Mein Souz-e-Arzoo Payda Nahin Hota | Ke Paidai Teri Ab Tak Hijab Amaiz Hai Saqi'
-- 'id': '2_7_5'
+- 'id': '2_7_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Unchanged is Persia’s garden: soil, stream, Tabriz, unchanged; | And yet with no new Rumi is her land graced, oh Saki.'
   - 'lang': 'ro'
     'text': 'Na Utha Phir Koi Rumi Ajam Ke Lala-Zaaron Se | Wohi Aab-o-Gill-e-Iran, Wohi Tabraiz Hai Saqi'
-- 'id': '2_7_6'
+- 'id': '2_7_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'But of his barren acres Iqbal will not despair: | A little rain, and harvests shall wave at last, oh Saki!'
   - 'lang': 'ro'
     'text': 'Nahin Hai Na-Umeed Iqbal Apni Kisht-e-Weeran Se | Zara Nam Ho To Ye Mitti Bohat Zarkhaiz Hai Saqi'
-- 'id': '2_7_7'
+- 'id': '2_7_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

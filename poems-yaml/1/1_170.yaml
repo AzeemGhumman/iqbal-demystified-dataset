@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal gives the flavor of ‘Allamah Iqbal’s Love for God in the first two verses and Islamic ideology in the last two verses.'
 'sher':
-- 'id': '1_170_1'
+- 'id': '1_170_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'No wonder if the garden birds remained fond of poetry even under the net | The lament fluttering in hearts as silent song remained'
   - 'lang': 'ro'
     'text': 'Teh-e-Daam Bhi Ghazal Ashna Rahe Taaeeran-e-Chaman To Kya | Jo Faghan Dilon Mein Tarap Rahi Thi, Nawaye Ziar-e-Labi Rahi'
-- 'id': '1_170_2'
+- 'id': '1_170_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Thy Effulgence could not satisfy the restless heart at all | The same dawn’s lament remained, the same midnight sighs remained'
   - 'lang': 'ro'
     'text': 'Tera Jalwa Kuch Bhi Tasalli Dil-e-Na-Saboor Na Kar Saka | Wohi Garya-e-Sehri Raha, Wohi Aah-e-Neem Shabi Rahi'
-- 'id': '1_170_3'
+- 'id': '1_170_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Na Khuda Raha Na Sanam Rahe, Na Raqeeb-e-Dair-o-Haram Rahe | Na Rahi Kahin Asadullah, Na Kahin Abu Lahbi Rahi'
-- 'id': '1_170_4'
+- 'id': '1_170_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

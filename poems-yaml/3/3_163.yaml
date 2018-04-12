@@ -8,7 +8,7 @@
   'text': 'SATAN TO HIS POLITICAL OFFSPRING'
 'description': []
 'sher':
-- 'id': '3_163_1'
+- 'id': '3_163_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Enmesh in politics the Brahmin— | from Their ancient altars the twice‐born expel!'
   - 'lang': 'ro'
     'text': 'La Kar Barhmanon Ko Siasat Ke Paich Mein | Zunnariyon Ko Dair-e-Kuhan Se Nikal Do'
-- 'id': '3_163_2'
+- 'id': '3_163_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The man who famine‐racked still fears no death— | Muhammad’s spirit from his breast expel!'
   - 'lang': 'ro'
     'text': 'Woh Faqa Kash Ke Mout Se Darta Nahin Zara | Rooh-e- Muhammad (S.A.W.) Iss Ke Badan Se Nikal Do'
-- 'id': '3_163_3'
+- 'id': '3_163_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'With Frankish daydreams fill Arabia’s brain— | Islam from Yemen and Hijaz expel!'
   - 'lang': 'ro'
     'text': 'Fikr-e-Arab Ko De Ke Farangi Takhiyyulat | Islam Ko Hijaz-o-Yaman Se Nikal Do'
-- 'id': '3_163_4'
+- 'id': '3_163_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The Afghan reveres in religion: take this cure— | His teachers from their mountain‐glens expel!'
   - 'lang': 'ro'
     'text': 'Afghaniyon Ki Ghairat-e-Deen Ka Hai Ye Ilaj | Mullah Ko Un Ke Koh-o-Daman Se Nikal Do'''
-- 'id': '3_163_5'
+- 'id': '3_163_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': '# translation missing | # translation missing'
   - 'lang': 'ro'
     'text': 'Ahl-e-Haram Se Un Ki Rawayat Cheen Lo | Aahu Ko Murgh-Zaar-e-Khutan Se Nikal Do'
-- 'id': '3_163_6'
+- 'id': '3_163_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

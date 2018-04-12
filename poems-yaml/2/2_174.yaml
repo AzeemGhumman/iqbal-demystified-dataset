@@ -8,7 +8,7 @@
   'text': 'EUROPE'
 'description': []
 'sher':
-- 'id': '2_174_1'
+- 'id': '2_174_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Jewish money‐lenders, whose cunning beats the lion’s prowess, | Have been waiting hopefully for long.'
   - 'lang': 'ro'
     'text': 'Taak Mein Baithe Hai Muddat Se Yahoodi Sood Khawar | Jin Ki Roobahi Ke Agay Haitch Hai Zor-e-Palang'
-- 'id': '2_174_2'
+- 'id': '2_174_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(21)'
 'description': []
 'sher':
-- 'id': '7_21_1'
+- 'id': '7_21_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'شنیدم در عدم پروانہ میگفت | دمی از زندگی تاب تبم بخش'
   - 'lang': 'en'
     'text': 'I hear a moth before Creation prayed, | "For one bright moment, God, let me be made.'
-- 'id': '7_21_2'
+- 'id': '7_21_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

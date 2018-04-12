@@ -8,7 +8,7 @@
   'text': 'VIII-IV'
 'description': []
 'sher':
-- 'id': '11_314_1'
+- 'id': '11_314_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Ego’s'
       'meaning': '        Nairoo (ru); control, power, force, mastery.'
       'occurrence': !!int '1'
-- 'id': '11_314_2'
+- 'id': '11_314_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

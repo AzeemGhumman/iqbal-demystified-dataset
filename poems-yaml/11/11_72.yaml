@@ -8,7 +8,7 @@
   'text': 'IX-IX'
 'description': []
 'sher':
-- 'id': '11_72_1'
+- 'id': '11_72_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'palm'
       'meaning': '        Palm or dusty palm is not used in English. It is better to use ''heart'' in this place.'
       'occurrence': !!int '1'
-- 'id': '11_72_2'
+- 'id': '11_72_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

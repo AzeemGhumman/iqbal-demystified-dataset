@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal is difficult linguistically as well as in contents. Its main theme is longing for knowledge, which is a basic human character. The Longing for the Ultimate Truth or the Zat of God is the noblest thirst for knowledge and falls to the share of the spiritually highest strata of the human society. This thought is contained in verses 1,2,4,6,7,8, and 12. However, this Longing requires ethical and spiritual elegance. Those who do not have this elegance cannot be benefited from this Longing (verse 3). Such people have the longing only for the material objects of life (verses 5 and 10). People who have the Longing for the Truth get the spiritual fulfillment of life and, among other things, are liable to appreciate the Unity of God in the diversity of His creation (verses 11 and 12). Two verses, 9 and 13, are personal. The former is a sarcasm on the people who do not understand him and so disregard or even condemn him. The latter is also the closing verse to express his goodwill to his relatives and friends. | The contradiction between verse 2 and 13 is only apparent. The former refers to an inanimate object like the pearl, i.e. a person without ability of comprehension, while the latter is with reference to himself and others like him, i.e. Mu’mins with ability to comprehend.'
 'sher':
-- 'id': '1_89_1'
+- 'id': '1_89_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The world will know when the flood of conversation will emerge from my heart | This is not my silence, but is the shrine of the word of my Longing'
   - 'lang': 'ro'
     'text': 'Zamane Dekhe Ga Jab Mere Dil Se Mehshar Uthe Ga Gutugoo Ka | Meri Khamoshi Nahin Hai, Goya Mazar Hai Harf-e-Arzoo Ka'
-- 'id': '1_89_2'
+- 'id': '1_89_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'As the ocean wave said, "My dignity is established by flowing" | The pearl said, "Sitting in shell is the safety of my brightness"'
   - 'lang': 'ro'
     'text': 'Jo Mouj-e-Darya Lagi Ye Kehne, Safar Se Qayem Hai Shan Meri | Guhar Ye Bola Sadaf Nasheeni Hai Mujh Ko Saman Aabru Ka'
-- 'id': '1_89_3'
+- 'id': '1_89_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Whose temperament does not deserve are not improved by training | Reflection of the river bank''s cypress does not prosper by living in the water'
   - 'lang': 'ro'
     'text': 'Na Ho Tabiat Hi Jin Ki Qabil, Woh Tarbiat Se Nahin Sanwarte | Huwa Na Sar Sabz Reh Ke Pani Mein Aks Saru-e-Kinar-e-Joo Ka'
-- 'id': '1_89_4'
+- 'id': '1_89_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'I did not see any heart in which Longing is not concealed | O God! What is Thy universe! It is a picture gallery of Longing'
   - 'lang': 'ro'
     'text': 'Koi Dil Aesa Nazar Na Aya Na Jis Mein Khawabida Ho Tamanna | Elahi Tera Jahan Kya Hai, Nigar Khana Hai Arzoo Ka'
-- 'id': '1_89_5'
+- 'id': '1_89_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'It dawned after death that our life was a spell of greed | What we called material body, was dust‑cloud of greed''s lane'
   - 'lang': 'ro'
     'text': 'Khula Ye Mer Kar Ke Zindagi Apni Thi Tilism-e-Hawas Sarapa | Jise Samajhte The Jism-e-Khaki, Gubar Tha Kooye Arzoo Ka'
-- 'id': '1_89_6'
+- 'id': '1_89_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Why am I the embodiment of search if nothing is concealed? | The sight is Longing for the Spectacle, the heart is mad after the Search'
   - 'lang': 'ro'
     'text': 'Agar Koi Shay Nahin Hai Pinhan To Kyun Sarapa Talash Hun Mein | Nigah Ko Nazzare Ki Tamanna Hai, Dil Ko Soda Hai Justujoo Ka'
-- 'id': '1_89_7'
+- 'id': '1_89_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'The garden''s flower bud asked the gardener, "Why is Man so heartless? | The breaking of my wine glass is occasion for smile in your eyes'
   - 'lang': 'ro'
     'text': 'Chaman Mein Gulcheen Se Ghuncha Kehta Tha, Itna Bedard Kyun Hai Insan | Teri Nigahon Mein Hai Tabassum Shakista Ho Na Mere Saboo Ka'
-- 'id': '1_89_8'
+- 'id': '1_89_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'The effulgence of Love emanates from every speck of the existence'' garden | If you know the reality of rose, it is also a combination of color and fragrance"'
   - 'lang': 'ro'
     'text': 'Riyaz-e-Hasti Ke Zarre Zaree Se Hai Mohabbat Ka Jalwa Paida | Haqiqat-e-Gul Ko Tu Jo Samajhe To Ye Bhi Pema Hai Rang-o-Bu Ka'
-- 'id': '1_89_9'
+- 'id': '1_89_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'All my writings are anachronism, my poetry is completely defective | If somebody sees some skill in me it is the fault of my critic'
   - 'lang': 'ro'
     'text': 'Tamam Mazmoon Mere Parane, Kalam Mera Khata Sarapa | Hunar Koi Dekhta Hai Mujh Mein To Ayb Hai Mere Ayb Joo Ka'
-- 'id': '1_89_10'
+- 'id': '1_89_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Decorum requires silence, otherwise Thy Mercy is worse than Tyranny | Thou hast given a tiny heart, which also is misled towards greed'
   - 'lang': 'ro'
     'text': 'Sapas Shart-e-Adab Hai Warna Karam Tera Hai Sitam Se Barh Kar | Zara Sa Ek Dil Diya Hai, Woh Bhi Faraib Khurda Hai Arzoo Ka'
-- 'id': '1_89_11'
+- 'id': '1_89_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Unity''s perfection is so evident that if you cut with the knife '' s tip | Sure you would see human blood trickling out of the rose'' vein'
   - 'lang': 'ro'
     'text': 'Kamal-e-Wahdat Ayan Hai Aesa Ke Nauk-e-Nashtar Se Tu Jo Chaire | Yaqeen Hai Mujh Ko Gire Rag-e-Gul Se Qatra Insan Ke Lahoo Ka'
-- 'id': '1_89_12'
+- 'id': '1_89_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'The age of taqlid has passed, allegorism should depart! | When the Truth itself is evident who is authorized to talk?'
   - 'lang': 'ro'
     'text': 'Gya Hai Taqleed Ka Zamana, Majaz Rakht-e-Safar Uthaye | Huwi Haqiqat Hi Jab Namayan To Kis Ko Yara Hai Guftugoo Ka'
-- 'id': '1_89_13'
+- 'id': '1_89_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

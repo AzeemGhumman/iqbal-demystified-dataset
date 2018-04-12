@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is another portrayal of ‘Allamah Iqbal’s views on secular nationalism and religion.'
 'sher':
-- 'id': '1_153_1'
+- 'id': '1_153_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Judge not your nation on the criteria of Western nations | Special in composition is the Hashima Prophet’s nation'
   - 'lang': 'ro'
     'text': 'Apni Millat Par Qiyas Aqwam-e-Maghrib Se Na Kar | Khas Hai Tarkeeb Mein Qoum-e-Rusool-e-Hashmi'
-- 'id': '1_153_2'
+- 'id': '1_153_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Based on country and race is their organization | The force of dan stabilizes your organization'
   - 'lang': 'ro'
     'text': 'Un Ki Jamiat Ka Hai Mulk-o-Nasab Par Inhasar | Quwwat-e-Mazhab Se Mustahkam Hai Jamiat Teri'
-- 'id': '1_153_3'
+- 'id': '1_153_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'VEIL'
 'description': []
 'sher':
-- 'id': '3_98_1'
+- 'id': '3_98_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Great change the lofty spheres have met, | O God! the world has not budged as yet.'
   - 'lang': 'ro'
     'text': 'Bohat Rang Badle, Sipihr-e-Bareen Ne | Khudaya Ye Dunya Jahan Thi, Wahin Hai'
-- 'id': '3_98_2'
+- 'id': '3_98_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In man and wife is no contrast, | They like seclusion and hold it fast.'
   - 'lang': 'ro'
     'text': 'Tafawuf Na Dekha Zan-o-Sho Mein Main Ne | Woh Khalwat Nasheen Hai, Ye Khalwat Nasheen Hai'
-- 'id': '3_98_3'
+- 'id': '3_98_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

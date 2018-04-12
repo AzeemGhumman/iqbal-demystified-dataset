@@ -8,14 +8,14 @@
   'text': '(11)'
 'description': []
 'sher':
-- 'id': '7_11_1'
+- 'id': '7_11_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نوای عشق را ساز است آدم | کشاید راز و خود رازست آدم'
   - 'lang': 'en'
     'text': 'Love’s music found its instrument in man. | He unveils mysteries, though himself one.'
-- 'id': '7_11_2'
+- 'id': '7_11_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

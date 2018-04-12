@@ -8,7 +8,7 @@
   'text': 'THEATRE'
 'description': []
 'sher':
-- 'id': '3_113_1'
+- 'id': '3_113_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Your beingʹs sanctum gets, From self its inner light: | Save zeal and firm resolve, Naught can make life eʹer bright.'
   - 'lang': 'ro'
     'text': 'Teri Khudi Se Hai Roshan Tera Hareem-e-Wujood | Hayat Kya Hai, Ussi Ka Suroor-o-Souz-o-Sabat'
-- 'id': '3_113_2'
+- 'id': '3_113_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Its rank is higher than, The Pleiades and the moon: | Your essence and its gifts, Are egoʹs greatest boon.'
   - 'lang': 'ro'
     'text': 'Buland Tar Mah-o-Parveen Se Hai Ussi Ka Maqam | Ussi Ke Noor Se Paida Hain Tere Zaat-o-Sifat'
-- 'id': '3_113_3'
+- 'id': '3_113_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'God save that alien self, Seek shelter in your shrine! | The creed of idols shun, Donʹt desecrate house divine.'
   - 'lang': 'ro'
     'text': 'Harem Tera, Khudi Ghair Ki ! Maaz Allah | Dobara Zinda Na Kar Karobar-e-Laat-o-Manat'
-- 'id': '3_113_4'
+- 'id': '3_113_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

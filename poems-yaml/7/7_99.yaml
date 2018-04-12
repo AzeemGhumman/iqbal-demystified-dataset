@@ -8,14 +8,14 @@
   'text': '(99)'
 'description': []
 'sher':
-- 'id': '7_99_1'
+- 'id': '7_99_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چسان زاید تمنا در دل ما | چسان سوزد چراغ منزل ما'
   - 'lang': 'en'
     'text': 'How is desire born in our hearts? How does | This lamp which lights our dwelling burn? Who sees'
-- 'id': '7_99_2'
+- 'id': '7_99_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

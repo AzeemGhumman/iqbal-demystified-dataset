@@ -8,7 +8,7 @@
   'text': 'ADVICE TO SLAVES'
 'description': []
 'sher':
-- 'id': '3_160_1'
+- 'id': '3_160_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The wisdom of the East and West | Has taught me something that will prove elixir to slaves:'
   - 'lang': 'ro'
     'text': 'Hikmat-E-Mashriq-O-Maghrib Ne Sikhaya Hai Mujhe | Aik Nukta Ke Ghulamon Ke Liye Hai Ikseer'
-- 'id': '3_160_2'
+- 'id': '3_160_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Whether it is religion or philosophy, poverty or kingship – | All take firm beliefs as their base.'
   - 'lang': 'ro'
     'text': 'Deen Ho, Falsafa Ho, Faqr Ho, Sultani Ho | Hote Hain Pukhta Aqaid Ki Bina Par Tameer'
-- 'id': '3_160_3'
+- 'id': '3_160_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(32)'
 'description': []
 'sher':
-- 'id': '7_32_1'
+- 'id': '7_32_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جہان یارب چہ خوش ہنگامہ دارد | ہمہ را مست یک پیمانہ کردی'
   - 'lang': 'en'
     'text': 'A wonderful show, God, is Your world, All | Things seem to have drunk from the same wine-bowl.'
-- 'id': '7_32_2'
+- 'id': '7_32_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

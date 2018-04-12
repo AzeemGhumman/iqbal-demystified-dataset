@@ -8,7 +8,7 @@
   'text': 'TO THE HEADMASTER'
 'description': []
 'sher':
-- 'id': '2_168_1'
+- 'id': '2_168_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The headmaster is an architect | Whose material is the human soul.'
   - 'lang': 'ro'
     'text': 'Sheikh-e-Maktab Hai Ek Amarat Gar | Jis Ki San’at Hai Rooh-e-Insani'
-- 'id': '2_168_2'
+- 'id': '2_168_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'A good advice has been left for you | By the sage Qa‘ani:'
   - 'lang': 'ro'
     'text': 'Nukta-e-Dilpazeer Tere Liye | Keh Gaya Hai Hakeem-e-Qa’ani'
-- 'id': '2_168_3'
+- 'id': '2_168_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(101)'
 'description': []
 'sher':
-- 'id': '7_101_1'
+- 'id': '7_101_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جہان ما کہ جز انگارہ ئی نیست | اسیر انقلاب صبح و شام است'
   - 'lang': 'en'
     'text': 'This world of our, a sculptors study still, | Is undergoing changes night and day.'
-- 'id': '7_101_2'
+- 'id': '7_101_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

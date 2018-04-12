@@ -8,7 +8,7 @@
   'text': 'IJTEHAD'
 'description': []
 'sher':
-- 'id': '3_9_1'
+- 'id': '3_9_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'There is no place in Ind wherefrom to learn, The tenets that the Muslim Faith concern. | They are devoid of zeal for godly acts, And are not wont to seek its basic facts.'
   - 'lang': 'ro'
     'text': 'Hind Mein Hikmat-e-Deen Koi Kahan Se Sikhe | Na Kahin Lazzat-e-Kirdar, Na Afkar-e-Aumeeq'
-- 'id': '3_9_2'
+- 'id': '3_9_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The mystics, who were keen their faith to spread, Are silent now and thought for them a dread. | Alas! the state of bondage deprives of zest, Slaves tread the beaten path and relinquish quest.'
   - 'lang': 'ro'
     'text': 'Halqa-e-Shouk Mein Woh Jurrat-e-Andesha Kahan | Aah Mehkoomi-o-Taqleed-o-Zawal-e-Tehqeeq !'
-- 'id': '3_9_3'
+- 'id': '3_9_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The jurists are helpless to such extent, Canʹt change themselves but would change Quranʹs content. | How sad, the jurists canʹt shift their outlook, But would prefer to change the Holy Book!'
   - 'lang': 'ro'
     'text': 'Khud Badalte Nahin, Quran Ko Badal Dete Hain | Huwe Kis Darja Faqeehan-e-Haram Be-Toufeeq !'
-- 'id': '3_9_4'
+- 'id': '3_9_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

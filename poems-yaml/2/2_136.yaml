@@ -8,7 +8,7 @@
   'text': 'THE WILD FLOWER'
 'description': []
 'sher':
-- 'id': '2_136_1'
+- 'id': '2_136_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This vast gray dome, This eerie solitude, | And this unbounded wilderness, Hold an uncanny fright for me.'
   - 'lang': 'ro'
     'text': 'Ye Gunbad-e-Meenai, Ye Alam-e-Tanhai | Mujh Ko To Darati Hai Iss Dasht Ki Pehnayi'
-- 'id': '2_136_2'
+- 'id': '2_136_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'I am a wanderer, lost, Thou art a wanderer, too, | Dost thou know thy goal, O wild flower— Dost thou know thy goal?'
   - 'lang': 'ro'
     'text': 'Bhatka Huwa Raahi Main, Bhatka Huwa Raahi Tu | Manzil Hai Kahan Teri Ae Lala-e-Sehrayi!'
-- 'id': '2_136_3'
+- 'id': '2_136_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'These mounts and hills are empty, Bereft of a vision-seeking Moses; | Though thou art a burning flame, And I am a burning flame.'
   - 'lang': 'ro'
     'text': 'Khali Hai Kaleemon Se Ye Koh-o-Qamar Warna | Tu Shoala-e-Seenayi, Mein Shoala-e-Seenayi!'
-- 'id': '2_136_4'
+- 'id': '2_136_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Why didst thou part from thy roots? Why did I part from mine? | Was it the impulse to be born? Was it the impulse to be unique?'
   - 'lang': 'ro'
     'text': 'Tu Shakh Se Kyun Phoota, Main Shakh Se Kyun Toota | Ek Jazba-e-Paidayi, Ek Lazzat-e-Yaktayi!'
-- 'id': '2_136_5'
+- 'id': '2_136_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'May God take care of those, Who plunge into the ocean of love, | For every drop of the ocean, Has the ocean’s depth.'
   - 'lang': 'ro'
     'text': 'Ghawwas-e-Mohabbat Ka Allah Nigheban Ho | Har Qatra-e-Darya Mein Darya Ki Hai Gehrayi'
-- 'id': '2_136_6'
+- 'id': '2_136_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'The whirlpool mourns the wave, Swallowed up in its abyss— | The wave that rose from the sea’s depths, But never lapped against the shore.'
   - 'lang': 'ro'
     'text': 'Uss Mouj Ke Matam Mein Roti Hai Bhanwar Ki Ankh | Darya Se Uthi Lekin Sahil Se Na Takrayi'
-- 'id': '2_136_7'
+- 'id': '2_136_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'It is man that has breathed, Life into this vacuous world, | The sun, the moon, and the stars, Are silent, passive spectators'
   - 'lang': 'ro'
     'text': 'Hai Garmi-e-Adam Se Hungama-e-Alam Garam | Sooraj Bhi Tamashayi, Tare Bhi Tamashayi'
-- 'id': '2_136_8'
+- 'id': '2_136_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

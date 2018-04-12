@@ -8,14 +8,14 @@
   'text': 'IX-V'
 'description': []
 'sher':
-- 'id': '11_68_1'
+- 'id': '11_68_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چسان احوال او را بر لب آرم | تو می بینی نہان و آشکارم'
   - 'lang': 'en'
     'text': 'A friend’s hidden life how can I reveal, | You know what we talk and what we conceal.'
-- 'id': '11_68_2'
+- 'id': '11_68_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

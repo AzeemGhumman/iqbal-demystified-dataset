@@ -8,7 +8,7 @@
   'text': 'NEGATION AND AFFIRMATION'
 'description': []
 'sher':
-- 'id': '3_63_1'
+- 'id': '3_63_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'It could have never borne fruit and foliage in the space lit up with light, | If from the dark recesses the seed had not moved on:'
   - 'lang': 'ro'
     'text': 'Fazaye Noor Mein Karta Na Shakh-o-Barg-o-Bar Paida | Safar Khaki Shabistan Se Na Kar Sakta Agar Dana'
-- 'id': '3_63_2'
+- 'id': '3_63_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In life we begin with no and end with yes; | When no is divorced from yes it becomes destructive.'
   - 'lang': 'ro'
     'text': 'Nihad-e-Zindagi Mein Ibtida ‘LA’ , Intiha ‘ILLA’ | Payam-e-Mout Hai Jab ‘LA’ Huwa ‘ILLA’ Se Begana'
-- 'id': '3_63_3'
+- 'id': '3_63_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

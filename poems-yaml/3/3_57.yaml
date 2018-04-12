@@ -8,7 +8,7 @@
   'text': 'TO ELDER OF THE SHRINE'
 'description': []
 'sher':
-- 'id': '3_57_1'
+- 'id': '3_57_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O Shaykh, who tend the Holy Shrine, Discard these monkish modes of thine: | Grasp what morning songs denote, What aim or end I would promote.'
   - 'lang': 'ro'
     'text': 'Ae Peer-e-Haram! Rasm-o-Reh-e-Khanqahi Chor | Maqsood Samajh Meri Nawa-e-Sehri Ka'
-- 'id': '3_57_2'
+- 'id': '3_57_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'May God preserve the youth you guide, And may they all by Faith abide! | Restraint and order you must teach, To shun conceit you ought to preach.'
   - 'lang': 'ro'
     'text': 'Allah Rakhe Tere Jawanon Ko Salamat! | De In Ko Sabaq Khud Shikani, Khud Nigari Ka'
-- 'id': '3_57_3'
+- 'id': '3_57_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Those who blow on glass in West, Have taught the youth repose and rest: | Let them imbibe to bear the shocks, And cut the stones and hew the rocks.'
   - 'lang': 'ro'
     'text': 'Tu In Ko Sikha Khara Shagafi Ke Tareeqe | Maghrib Ne Sikhaya Inhain Fann Shisha-Gari Ka'
-- 'id': '3_57_4'
+- 'id': '3_57_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The foreign Yoke that ran for periods long, Has drained the blood of heart, so strong; | Think of some cure, panacea or aught, To bring to end their sight distraught.'
   - 'lang': 'ro'
     'text': 'Dil Torh Gyi In Ka Do Sadiyon Ki Ghulami | Daru Koi Soch In Ki Preshan Nazari Ka'
-- 'id': '3_57_5'
+- 'id': '3_57_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'AWAKENING'
 'description': []
 'sher':
-- 'id': '3_77_1'
+- 'id': '3_77_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Truth‐seeking man whose self has awakened | Is like a sword which is cutting and brilliant.'
   - 'lang': 'ro'
     'text': 'Jis Banda-e-Haq Been Ki Khudi Ho Gyi Baidar | Shamsheer Ki Manind Hai Buranda-o-Barraq'
-- 'id': '3_77_2'
+- 'id': '3_77_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'To his keen eye is visible | The power to show what is latent in every atom.'
   - 'lang': 'ro'
     'text': 'Uss Ki Nigah-e-Shoukh Pe Hoti Hai Namoodar | Har Zarre Mein Poshida Hai Jo Quwwat-e-Ashraq'
-- 'id': '3_77_3'
+- 'id': '3_77_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'To him you cannot be compared: | You are the slave of the heavens while he is their master.'
   - 'lang': 'ro'
     'text': 'Uss Mard-e-Khuda Se Koi Nisbat Nahin Tujh Ko | Tu Banda-e-Afaq Hai, Woh Sahib-e-Afaq'
-- 'id': '3_77_4'
+- 'id': '3_77_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

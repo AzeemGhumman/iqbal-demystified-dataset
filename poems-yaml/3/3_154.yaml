@@ -8,7 +8,7 @@
   'text': 'THE PSYCHOLOGY OF SLAVES'
 'description': []
 'sher':
-- 'id': '3_154_1'
+- 'id': '3_154_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'There are poets, there are scholars, and there are sages— | A nation’s days of slavery are not uneventful!'
   - 'lang': 'ro'
     'text': 'Shayar Bhi Hain Paida, Ulma Bhi, Hukma Bhi | Khali Nahin Qoumon Ki Ghulami Ka Zamana'
-- 'id': '3_154_2'
+- 'id': '3_154_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'But every one of them—poor creatures!—has a single goal, | Though each is unique in the ideas he expounds:'
   - 'lang': 'ro'
     'text': 'Maqsad Hai In Allah Ke Bandon Ka Magar Aik | Har Aik Hai Go Sharah-e-Maani Mein Yagana'
-- 'id': '3_154_3'
+- 'id': '3_154_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': '‘Better teach the lion to take flight like a deer, | So that the legend of the lion’s courage is forgotten!’'
   - 'lang': 'ro'
     'text': '''Behtar Hai Ke Sheron Ko Sikha Dain Ram-e-Aahu | Baqi Na Rahe Sher Ki Sheri Ka Fasana'''
-- 'id': '3_154_4'
+- 'id': '3_154_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

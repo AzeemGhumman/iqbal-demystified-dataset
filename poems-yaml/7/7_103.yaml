@@ -8,14 +8,14 @@
   'text': '(103)'
 'description': []
 'sher':
-- 'id': '7_103_1'
+- 'id': '7_103_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تراش از تیشۂ خود جادۂ خویش | براہ دیگران رفتن عذاب است'
   - 'lang': 'en'
     'text': 'Dig your path with your own pickaxe. It is | A shame to tread somebody else’s path'
-- 'id': '7_103_2'
+- 'id': '7_103_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is complementary to the previous one. It resulted from two things. One was ‘Allamah Iqbal''s deep first hand knowledge of the apparent and material prosperity and the outward courtesy of the Western people, but their moral and ethical bankruptcy. The second was the Western nations'' inherent hatred for and their machinations against the Muslim world, which resulted in the latter''s decline. These feelings attained their climax when he reached the Island of Sicily on his return journey to India. | Sicily had been conquered by the Aghlabad Dynasty of Tunisia in the early ninth century and was ruled by them as well as by other Arab dynasties till it was conquered back by the Normans in the second half of the eleventh century. This poem has resulted from the flood of thoughts which must have streamed through his mind on reaching the Island of Sicily. The sight of the island brought back to his mind the Muslim world with its glory in ethical as well as social, economic and political fields. The Muslim world, which at one time was spread over northern Africa, southern Europe, central, southern and south‑eastern Asia and was the cradle of the highest civilization of all times, and in moral and ethical spheres, was the highest power, had crumpled down by his time. This sight must have brought to his mind the whole panorama of the period of Muslim suzerainty in Africa and southern Europe. After the Norman conquest of Sicily the Muslim world and society have experienced constant decline which has continued till today. In contrast with the memory of the past glory must have passed his mind the extremely poor condition of the Muslim world in his time. This reminiscence must have made ‘Allamah Iqbal very painfully sad as is evident from the verses of this poem. | At that time little did ‘Allamah Iqbal know that the Muslim Ummah would have to go through much more afflictions than imagined at that time, till he cried out in 1924: | Rendered cheap like water is the blood of the Muslim | You are agitated as your heart is not aware of the secret | More perturbing than the affliction itself was his life‑long realization which poured out of his afflicted heart in 1935: | What an outrage, extinguished is the Love''s fire | The Muslim is no more than a heap of burnt ashes !'
 'sher':
-- 'id': '1_86_1'
+- 'id': '1_86_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O blood-dripping eye! Now cry to your heart''s content | There you can see the mausoleum of the civilization of Hijaz'
   - 'lang': 'ro'
     'text': 'Ro Le Ab Dil Khol Kar Ae Didah-e-Khunanaba Bar | Woh Nazar Ata Hai Tehzeeb-e-Hijazi Ka Mazar'
-- 'id': '1_86_2'
+- 'id': '1_86_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'This was the rendezvous of those Arab Bedouins once | The ocean was the play ground of whose boats once'
   - 'lang': 'ro'
     'text': 'Tha Yahab Hangama In Sehra Nasheenon Ka Kabhi | Beher Bazi-Gah Tha Jin Ke Safeenon Ka Kabhi'
-- 'id': '1_86_3'
+- 'id': '1_86_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Who shook up the audience halls of emperors | Thunderbolts were harbored in whose swords'
   - 'lang': 'ro'
     'text': 'Zalzale Jin Se Shehanshahon Ke Darbaron Mein The | Bijliyon Ke Aashiyane Jin Ki Talwaron Mein The'
-- 'id': '1_86_4'
+- 'id': '1_86_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Whose appearance was the message of birth of a new world | Whose restless sword destroyed the whole ancient world'
   - 'lang': 'ro'
     'text': 'Ek Jahan-e-Taza Ka Pegham Tha Jin Ka Zahoor | Kha Gyi Asr-e-Kuhan Ko Jin Ki Taegh-e-Na-Saboor'
-- 'id': '1_86_5'
+- 'id': '1_86_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Murda Alam Zinda Jin Ki Sourish-e-Qum Se Huwa | Admi Azad Zanjeer-e-Toham Se Huwa'
-- 'id': '1_86_6'
+- 'id': '1_86_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -72,7 +72,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ghulghulon Se Jis Ke Lazzat-Geer Ab Tak Gosh Hai | Kya Woh Takbeer Ab Hamasha Ke Liye Khamosh Hai?'
-- 'id': '1_86_7'
+- 'id': '1_86_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
     'text': 'Ah! O Sicily! You are giving dignity to the ocean | You are like a guide post in the water''s expanse'
   - 'lang': 'ro'
     'text': 'Aah Ae Sisli! Samunder Ki Hai Tujh Se Abru | Rehnama Ki Tarah Iss Pani Ke Sehra Mein Hai Tu'
-- 'id': '1_86_8'
+- 'id': '1_86_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -90,7 +90,7 @@
     'text': 'May the ocean''s cheek ever remain elegant with your mole | May your lights ever remain a comfort for the ocean sailor'
   - 'lang': 'ro'
     'text': 'Zaib Tere Khal Se Rukhsar-e-Darya Ko Rahe | Teri Shamaon Se Tasalli Beher-Pema Ko Rahe'
-- 'id': '1_86_9'
+- 'id': '1_86_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -99,7 +99,7 @@
     'text': 'May your sight ever remain beautiful to traveler’s eyes | May the wave on your shore''s rocks ever remain dancing'
   - 'lang': 'ro'
     'text': 'Ho Subak Chashme-e-Musafir Par Tera Manzar Madaam | Mouj Raqsaan Tere Sahil Ki Chatanon Par Madaam'
-- 'id': '1_86_10'
+- 'id': '1_86_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -108,7 +108,7 @@
     'text': 'You were the cradle of that nation''s civilization once | Whose universal beauty was the object for spectacle'
   - 'lang': 'ro'
     'text': 'Tu Kabhi Uss Qoum Ki Tehzeeb Ka Gehwara Tha | Husn-e-Alam Souz Jis Ka Atish-e-Nazzara Tha'
-- 'id': '1_86_11'
+- 'id': '1_86_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Nala-Kash Sheeraz Ka Bulbul Huwa Baghdad Par | Dagh Roya Khoon Ke Ansu Jahan-Abad Par'
-- 'id': '1_86_12'
+- 'id': '1_86_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Asman Ne Doulat-e-Gharnata Jab Barbad Ki | Ibn-e-Badroon Ke Dil-e-Na-Shaad Ne Faryad Ki'
-- 'id': '1_86_13'
+- 'id': '1_86_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'The ill‑fated Iqbal has been conferred mourning for you | Destiny has selected the heart that was your confidante'
   - 'lang': 'ro'
     'text': 'Gham Naseeb Iqbal Ko Bakhsa Gya Matam Tera | Chun Liya Taqdeer Ne Woh Dil Ke Tha Mehram Tera'
-- 'id': '1_86_14'
+- 'id': '1_86_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'Whose story is concealed in your relics? | In your shore''s silence is a style of speech'
   - 'lang': 'ro'
     'text': 'Hai Tere Asaar Mein Poshidah Kis Ki Dastan | Tere Sahil Ki Khamoshi Mein Hai Andaz-e-Byan'
-- 'id': '1_86_15'
+- 'id': '1_86_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': 'Tell me your pathos, I am also embodiment of pathos | I am the dust of the caravan of which you were a stage'
   - 'lang': 'ro'
     'text': 'Dard Apna Mujh Se Keh, Main Bhi Sarapa Dard Hun | Jis Ki Tu Manzil Tha, Main Uss Karwan Ki Gard Hun'
-- 'id': '1_86_16'
+- 'id': '1_86_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'Show me the old picture painted again | Make me restless by relating the tale of bygone days'
   - 'lang': 'ro'
     'text': 'Rang Tasveer-e-Kuhan Mein Bhar Ke Dikhla De Mujhe | Qissa Ayyam-e-Salaf Ka Keh Ke Tarpa De Mujhe'
-- 'id': '1_86_17'
+- 'id': '1_86_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

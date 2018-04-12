@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem also is an allegory in which the first part describes a voice from the invisible world inquiring from ‘Allamah Iqbal the reason for his poetry being based on the history of the Muslim Ummah, which it calls anachronistic. In the second part the ‘Allamah describes some of the important attributes of a sincere Muslim, and justifies basing his poetry on the theme of Islam. He has presented himself as a true specimen of Muslims. The climax is reached in verses 8-11, which is the central theme of the poem.'
 'sher':
-- 'id': '1_118_1'
+- 'id': '1_118_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O Iqbal ! Every breath of yours is veiled in sighs | Your burning breast is filled with complaint'
   - 'lang': 'ro'
     'text': 'Har Nafas Iqbal Tera Aah Mein Mastoor Hai | Seena’ay Sozaan Tera Faryad Se Maamoor Hai'
-- 'id': '1_118_2'
+- 'id': '1_118_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The song of hope does not exist in the harp of your heart | We think this Lailah does not exist in your camel-litter'
   - 'lang': 'ro'
     'text': 'Naghama’ay Umeed Teri Barbat-e-Dil Mein Nahin | Hum Samajhte Hain Ye Laila Tere Mahmil Mein Nahin'
-- 'id': '1_118_3'
+- 'id': '1_118_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Your ear is the seeker of the sound of bygone lyre | And your heart is unconcerned with today’s affairs'
   - 'lang': 'ro'
     'text': 'Gosh Awaz-e-Surood-e-Rafta Ka Joya (Talash) Tera | Aur Dil Hungama’ay Hazir Se Be Parwa Tera'
-- 'id': '1_118_4'
+- 'id': '1_118_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Your garden companions do not listen to the tale of roses | The assembly’s people do not listen to your old message'
   - 'lang': 'ro'
     'text': 'Qissa’ay Gul Hum Nawayan-e-Chaman Sunte Nahin | Ahl-e-Mehfil Tera Pegham-e-Kuhan Sunte Nahin'
-- 'id': '1_118_5'
+- 'id': '1_118_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'O bell of the sleeping caravan! Be quiet | Your call is very frustrating! Be quiet'
   - 'lang': 'ro'
     'text': 'Ae Dara’ay Karwan-e-Khufta Pa! Khamosh Reh | Hai Bohat Yaas Afreen Teri Sada Khamosh Reh'
-- 'id': '1_118_6'
+- 'id': '1_118_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'That old assembly cannot be brought back to life | The yesternight cannot be illuminated with candle'
   - 'lang': 'ro'
     'text': 'Zinda Phir Woh Mehfil-e-Dairina Ho Sakti Nahin | Shama Se Roshan Shab-e-Dosheena Ho Sakti Nahin'
-- 'id': '1_118_7'
+- 'id': '1_118_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'O Companion ! I am a Muslim, I am the harbinger of Tawhad | Since eternity I am the sincere testifier of this Truth'
   - 'lang': 'ro'
     'text': 'Hum Nasheen! Muslim Hun Mein, Touheed Ka Hamil Hun Main | Iss Sadaqat Par Azal Se Shahid-e-Adil Hun Main'
-- 'id': '1_118_8'
+- 'id': '1_118_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'The warmth in the pulse of the universe is from this | And the courage in the Muslim’s thought is from this'
   - 'lang': 'ro'
     'text': 'Nabz-e-Moujudat Main Paida Hararat Iss Se Hai | Aur Muslim Ke Takhiyyul Main Jasarat Iss Se Hai'
-- 'id': '1_118_9'
+- 'id': '1_118_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Haq Ne Alam Iss Sadaqat Ke Liye Paida Kiya | Aur Mujhe Is Ski Hifazat Ke Liye Paida Kiya'
-- 'id': '1_118_10'
+- 'id': '1_118_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'I became the destroyer of false worship in the world | The truth is that I became the protector of Existence’ honor'
   - 'lang': 'ro'
     'text': 'Dehr Mein Gharat Gar-e-Batil Prasti Main Huwa | Haq To Ye Hai Hafiz-e-Namoos-e-Hasti Main Huwa'
-- 'id': '1_118_11'
+- 'id': '1_118_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'My life is the cover for the world’s nakedness | My destruction is the disgrace of the human race'
   - 'lang': 'ro'
     'text': 'Meri Hasti Pairhan Uryani-e-Alam Ki Hai | Mere Mit Jane Se Ruswayi Bani Adam Ki Hai'
-- 'id': '1_118_12'
+- 'id': '1_118_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -126,7 +126,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Qismat-e-Alam Ka Muslim Koukab-e-Tabinda Hai | Jis Ki Tabani Se Afsoon-e-Sehar Sharminda Hai'
-- 'id': '1_118_13'
+- 'id': '1_118_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -135,7 +135,7 @@
     'text': 'The secrets of life are open to my eyes | I cannot be considered lacking hope in the battle of life'
   - 'lang': 'ro'
     'text': 'Ashkara Hain Meri Ankhon Pe Asrar-e-Hayat | Keh Nahi Sakte Mujhe Naumeed-e-Paikaar-e-Hayat'
-- 'id': '1_118_14'
+- 'id': '1_118_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -144,7 +144,7 @@
     'text': 'How can the transient scene of grief frighten me | Confidence in destiny of my Millat strengthens me'
   - 'lang': 'ro'
     'text': 'Kab Dra Sakta Hai Gham Ka Arzi Manzar Mujhe | Hai Bharosa Apni Millat Ke Muqaddar Par Mujhe'
-- 'id': '1_118_15'
+- 'id': '1_118_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -153,7 +153,7 @@
     'text': 'My world is free of the component of despair | The zeal for battle gives the news of complete victory'
   - 'lang': 'ro'
     'text': 'Yaas Ke Unsar Se Hai Azad Mera Rozgaar | Fateh-e-Kamil Ki Khabar Deta Hai Josh-e-Karzaar'
-- 'id': '1_118_16'
+- 'id': '1_118_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -162,7 +162,7 @@
     'text': 'Yes, it is true I keep my eye on the old times | I relate the old story to the assembly’s audience'
   - 'lang': 'ro'
     'text': 'Haan Ye Sach Hai Chashme Bar Ehd-e-Kuhan Rehta Hun Main | Ahl-e-Mehfil Se Purani Dastan Kehta Hun Mein'
-- 'id': '1_118_17'
+- 'id': '1_118_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -171,7 +171,7 @@
     'text': 'Memory of the past age is the elixir for my life | My past is the interpretation of my future'
   - 'lang': 'ro'
     'text': 'Yad-e-Ehd-e-Rafta Meri Khak Ko Ikseer Hai | Mera Mazi Mere Istaqbal Ki Tafseer Hai'
-- 'id': '1_118_18'
+- 'id': '1_118_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

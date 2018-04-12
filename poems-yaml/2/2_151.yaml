@@ -8,7 +8,7 @@
   'text': 'A QUESTION'
 'description': []
 'sher':
-- 'id': '2_151_1'
+- 'id': '2_151_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A self‐respecting tramp was saying to the Almighty: | I dare not complain for my woes of poverty;'
   - 'lang': 'ro'
     'text': 'Ek Muflas-e-Khud-Dar Ye Kehta Tha Khuda Se | Main Kar Nahin Sakta Gila-e-Dard-e-Faqeeri'
-- 'id': '2_151_2'
+- 'id': '2_151_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

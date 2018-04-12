@@ -8,14 +8,14 @@
   'text': '(22)'
 'description': []
 'sher':
-- 'id': '7_22_1'
+- 'id': '7_22_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمانان مرا حرفی است در دل | کہ روشن تر ز جان جبرئیل است'
   - 'lang': 'en'
     'text': 'O Muslims, I have something to unfold, | More luminous than Gabriel’s soul. I hold'
-- 'id': '7_22_2'
+- 'id': '7_22_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

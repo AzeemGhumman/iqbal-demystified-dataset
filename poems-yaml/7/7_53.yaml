@@ -8,7 +8,7 @@
   'text': '(53)'
 'description': []
 'sher':
-- 'id': '7_53_1'
+- 'id': '7_53_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Razi'
       'meaning': 'Razi. Fakhr-al-Din of Ray (Iran), a famous philosopher, jurist and exegete.'
       'occurrence': !!int '1'
-- 'id': '7_53_2'
+- 'id': '7_53_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

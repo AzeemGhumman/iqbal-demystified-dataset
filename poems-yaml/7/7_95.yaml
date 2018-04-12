@@ -8,14 +8,14 @@
   'text': '(95)'
 'description': []
 'sher':
-- 'id': '7_95_1'
+- 'id': '7_95_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو میگوئی کہ آدم خاکزاد است | اسیر عالم کون و فساد است'
   - 'lang': 'en'
     'text': 'You say that man is made of humble clay, | Bound to this world of being and decay.'
-- 'id': '7_95_2'
+- 'id': '7_95_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

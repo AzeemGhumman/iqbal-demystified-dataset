@@ -8,14 +8,14 @@
   'text': '(8)'
 'description': []
 'sher':
-- 'id': '7_8_1'
+- 'id': '7_8_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جہان مشت گل و دل حاصل اوست | ہمین یک قطرۂ خون مشکل اوست'
   - 'lang': 'en'
     'text': 'This world is mere dust and the heart its fruit– | A drop of blood at all its troubles’ root!'
-- 'id': '7_8_2'
+- 'id': '7_8_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

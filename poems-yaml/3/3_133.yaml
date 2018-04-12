@@ -8,7 +8,7 @@
   'text': 'LAWFUL MUSIC'
 'description': []
 'sher':
-- 'id': '3_133_1'
+- 'id': '3_133_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The bass and treble of minstrelʹs song, Much joy to human heart imparts: | What is the use of pleasure that, Is eʹer on wings and soon departs?'
   - 'lang': 'ro'
     'text': 'Khul To Jata Hai Mughanni Ke Bam-o-Zeer Se Dil | Na Raha Zinda-o-Painda To Kya Dil Ki Kushood!'
-- 'id': '3_133_2'
+- 'id': '3_133_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'That melodious song is still unborn, And is concealed in heavenʹs breast, | Whose intense heat may transform, The solid stars to liquid form.'
   - 'lang': 'ro'
     'text': 'Hai Abhi Seena-e-Aflak Mein Oinhan Wo Nawa | Jis Ki Garmi Se Pighal Jaye Sitaron Ka Wujood'
-- 'id': '3_133_3'
+- 'id': '3_133_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'A song that may have such results, Which set men free from grief and pain, | And makes Ayaz break slavish And learn like kings to rule and reign.'
   - 'lang': 'ro'
     'text': 'Jis Taseer Se Adam Ho Gham-o-Khof Se Pak | Aur Paida Ho Ayazi Se Maqam-e-Mehmood'
-- 'id': '3_133_4'
+- 'id': '3_133_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Perplexing maze of moon and stars, May flop down, leave their course: | O God, you shall last and the cry, ʺGod is Great,ʺ uttered with much force.'
   - 'lang': 'ro'
     'text': 'Mah-o-Anjum Ka Ye Hairat Kadah Baqi Na Rahe | Tu Rahe Aur Tera Zamzama-e-La-Mujood'
-- 'id': '3_133_5'
+- 'id': '3_133_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

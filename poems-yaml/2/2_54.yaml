@@ -8,7 +8,7 @@
   'text': 'Alas! These men of church and mosque are known'
 'description': []
 'sher':
-- 'id': '2_54_1'
+- 'id': '2_54_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Alas! These men of church and mosque are known, | To do their best to make the soul benighted.'
   - 'lang': 'ro'
     'text': 'Ye Peeran-e-Kalisa-o-Haram, Ae Waye Majboori! | Sila In Ki Kid-o-Kawish Ka Hai Seenon Ki Benoori'
-- 'id': '2_54_2'
+- 'id': '2_54_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'It is faith, and faith alone, that gives the power— | The power of the dervish, that conquers kings.'
   - 'lang': 'ro'
     'text': 'Yaqeen Paida Kar Ae Nadan! Yaqeen Se Hath Ati Hai | Woh Darvaishi Ke Jis Ke Samne Jhukti Hai Fagfoori'
-- 'id': '2_54_3'
+- 'id': '2_54_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'My soul’s yearning takes a thousand forms: | Wonder, and ecstasy, and plaints at dawn.'
   - 'lang': 'ro'
     'text': 'Kabhi Hairat, Kabhi Masti, Kabhi Aah-e-Sahargahi | Badalta Hai Hazaron Rang Mera Dard-e-Mehjoori'
-- 'id': '2_54_4'
+- 'id': '2_54_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Heavenly love is beyond the pale of reason; | The pain of being estranged is the heart’s death.'
   - 'lang': 'ro'
     'text': 'Had-e-Adraak Se Bahir Hain Batain Ishq-o-Masti Ki | Samajh Mein Iss Qadar Aya Ke Dil Ki Mout Hai Doori'
-- 'id': '2_54_5'
+- 'id': '2_54_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'His pride in Beauty makes Him show Himself, | But my eyes’ vision is the hindering veil.'
   - 'lang': 'ro'
     'text': 'Woh Apne Husn Ki Masti Se Majboor-e-Paidai | Meri Ankhon Ki Bainai Mein Hain Asbaab-e-Mastoori'
-- 'id': '2_54_6'
+- 'id': '2_54_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'The logic of destiny is beyond our ken; | As the losing Turks were no worse than the Ottomans.'
   - 'lang': 'ro'
     'text': 'Koi Taqdeer Ki Mantaq Samajh Sakta Nahin Warna | Na The Turkaan-e-Usmani Se Kam Turkaan-e-Taimoori'
-- 'id': '2_54_7'
+- 'id': '2_54_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

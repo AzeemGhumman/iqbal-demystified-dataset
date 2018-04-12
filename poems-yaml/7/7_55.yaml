@@ -8,14 +8,14 @@
   'text': '(55)'
 'description': []
 'sher':
-- 'id': '7_55_1'
+- 'id': '7_55_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز من با شاعر رنگین بیان گوی | چہ سود از سوز اگر چون لالہ سوزی'
   - 'lang': 'en'
     'text': 'Tell the flamboyant poet this from me | "What use your fire if but a tulip-spark?'
-- 'id': '7_55_2'
+- 'id': '7_55_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

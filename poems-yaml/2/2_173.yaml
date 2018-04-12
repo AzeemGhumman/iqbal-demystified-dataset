@@ -8,7 +8,7 @@
   'text': 'TO THE PSYCHOLOGIST'
 'description': []
 'sher':
-- 'id': '2_173_1'
+- 'id': '2_173_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Transcend the intellect if you have courage to do so: | There are islands hidden in the ocean of the self as yet.'
   - 'lang': 'ro'
     'text': 'Jurrat Hai To Afkar Ki Dunya Se Guzar Ja | Hain Behar-e-Khudi Mein Abhi Poshida Jazeere'
-- 'id': '2_173_2'
+- 'id': '2_173_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

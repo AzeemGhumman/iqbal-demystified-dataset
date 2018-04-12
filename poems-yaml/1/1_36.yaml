@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This beautiful short poem is an eloquent expression of ‘Allamah Iqbal''s philosophy of the elevated position of Man in the whole creation of God. This elegance is conferred on Man by God, not due to his size, or brightness, but due to his soul; which is the seat of the Love of God his Intellection of the mysteries of creation and Khuda. Or cognizance of his own position through the blessings of the Holy Qur''an. The climax, which is the purpose of this poem, is reached in the last three verses.'
 'sher':
-- 'id': '1_36_1'
+- 'id': '1_36_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Though miles away from my abode is your homeland | Tumultuous like the sea is my heart with your attraction'
   - 'lang': 'ro'
     'text': 'Mere Weerane Se Kouson Door Hai Tera Watan | Hai Magar Darya’ay Dil Teri Kashish Se Moujzan'
-- 'id': '1_36_2'
+- 'id': '1_36_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Where do you intend to go? From where are you coming? | Perhaps you have become pale from the journey''s hardships'
   - 'lang': 'ro'
     'text': 'Qasad Kis Mehfil Ka Hai Hai? Ata Hai Kis Mehfil Se Tu | Zard Ru Shayad Huwa Ranj-e-Reh-e-Manzil Se Tu'
-- 'id': '1_36_3'
+- 'id': '1_36_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'In creation you are embodiment of light, of darkness I am | In spite of this misfortune akin to you in destiny I am'
   - 'lang': 'ro'
     'text': 'Afreenish Mein Sarapa Noor Tu, Zulmat Hun Main | Iss Seh Rozi Pe Lekin Tera Hum Qismat Hun Main'
-- 'id': '1_36_4'
+- 'id': '1_36_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Ah! Ablaze I am from the heat of longing for God''s Sight | Embodiment of pathos are you from obligation of sun''s sight'
   - 'lang': 'ro'
     'text': 'Ah, Main Jalta Hun Souz-e-Ishtiaq-e-Deed Se | Tu Sarapa Souz Dagh-e-Minnat-e-Khursheed Se'
-- 'id': '1_36_5'
+- 'id': '1_36_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'If your motion established in an orbit is | My motion also like that of a compass is.'
   - 'lang': 'ro'
     'text': 'Aik Halqe Par Agar Qaeem Teri Rafter Hai | Meri Gardish Bhi Misal-e-Gardish-e-Parkaar Hai'
-- 'id': '1_36_6'
+- 'id': '1_36_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'You are diligently pursuing your life''s path, so am I | You are lighted in existence'' assembly, so alight am I'
   - 'lang': 'ro'
     'text': 'Zindagi Ki Rah Mein Sargardan Hai Tu, Heeran Hun Main | Tu Farozan Mehfil-e-Hasti Mein Hai, Souzan Hun Main'
-- 'id': '1_36_7'
+- 'id': '1_36_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'In the midst of my journey I am, in the midst of your journey you are | Similar to the silence of my heart, silent in your assembly you are'
   - 'lang': 'ro'
     'text': 'Main Rah-e-Manzil Mein Hun, Tu Bhi Rah-e-Manzil Mein Hai | Teri Mehfil Mein Jo Khamoshi Hai, Mere Dil Mein Hai'
-- 'id': '1_36_8'
+- 'id': '1_36_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'A seeker you are and the same custom is mine | Moon light is your light, Love is the light mine'
   - 'lang': 'ro'
     'text': 'Tu Talab Khu Hai To Mera Bhi Yehi Dastoor Hai | Chandani Hai Noor Tera, Ishq Mera Noor Hai'
-- 'id': '1_36_9'
+- 'id': '1_36_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'In the world of my residence with an assembly I also am | If unique in your assembly you are, unique like you I am'
   - 'lang': 'ro'
     'text': 'Anjuman Hai Aik Meri Bhi Jahan Rehta Hun Main | Bazm Mein Apni Agar Yakta Hai Tu, Tanha Hun Main'
-- 'id': '1_36_10'
+- 'id': '1_36_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'The light of the sun as the message of death to you is | Annihilated in the Eternal Beauty''s effulgence my heart is'
   - 'lang': 'ro'
     'text': 'Mehr Ka Partou Tere Haq Mein Hai Pegham-e-Ajal | Mehv Kar Deta Hai Mujh Ko Jalwa-e-Husn-e-Azal'
-- 'id': '1_36_11'
+- 'id': '1_36_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Still, O shining moon! I am different, you are different | The bosoms which are afflicted by the pathos are different'
   - 'lang': 'ro'
     'text': 'Phir Bhi Ae Mah-e-Mubeen! Main Aur Hun Tu Aur Hai | Dard Jis Pehlu Mein Uthta Ho, Woh Pehlu Aur Hai'
-- 'id': '1_36_12'
+- 'id': '1_36_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'Though the embodiment of darkness I am, embodiment of light you are | Hundreds of stages away from the taste of Intellect you are'
   - 'lang': 'ro'
     'text': 'Garcha Main Zulmat Sarapa Hun, Sarapa Noor Tu | Saikron Manzil Hai Zauq-e-Aghi Se Door Tu'
-- 'id': '1_36_13'
+- 'id': '1_36_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

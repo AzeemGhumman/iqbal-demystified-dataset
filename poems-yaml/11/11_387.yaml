@@ -8,14 +8,14 @@
   'text': 'IV-IX'
 'description': []
 'sher':
-- 'id': '11_387_1'
+- 'id': '11_387_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ پرسی از نماز عاشقانہ | رکوعش چون سجودش محرمانہ'
   - 'lang': 'en'
     'text': 'What is lovers s service, prayers of beaus? | His bows like kowtows a tete-a-tete close.'
-- 'id': '11_387_2'
+- 'id': '11_387_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(41)'
 'description': []
 'sher':
-- 'id': '7_41_1'
+- 'id': '7_41_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نہ پیوستم درین بستان سرا دل | ز بند این و آن آزادہ رفتم'
   - 'lang': 'en'
     'text': 'I never got attached to this world, this | Fair-seeming garden, and its vanities;'
-- 'id': '7_41_2'
+- 'id': '7_41_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

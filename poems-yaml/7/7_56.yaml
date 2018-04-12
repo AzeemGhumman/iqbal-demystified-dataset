@@ -8,14 +8,14 @@
   'text': '(56)'
 'description': []
 'sher':
-- 'id': '7_56_1'
+- 'id': '7_56_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز خوب و زشت تو ناآشنایم | عیارش کردہ ئی سود و زیان را'
   - 'lang': 'en'
     'text': 'I do not know what you regard as fair | Or ugly; profit is what you judge by.'
-- 'id': '7_56_2'
+- 'id': '7_56_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

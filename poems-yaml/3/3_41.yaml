@@ -8,7 +8,7 @@
   'text': 'BELIEVER'
 'description': []
 'sher':
-- 'id': '3_41_1'
+- 'id': '3_41_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'IN THE WORLD'
   - 'lang': 'ro'
     'text': 'dunya mai'
-- 'id': '3_41_2'
+- 'id': '3_41_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'A man whose faith is firm and strong, Is soft as silk in friendly throng: | In skirmish between wrong and right, Like sword of steel, he stands to fight!'
   - 'lang': 'ro'
     'text': 'Ho Halqa-e-Yaran To Baresham Ki Tarah Naram | Razm-e-Haq-o-Batil Ho To Foulad Hai Momin'
-- 'id': '3_41_3'
+- 'id': '3_41_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The skies are his inveterate foes, His war with them e’er onward goes: | Though Muslim true of clay is born, From earthly bonds still he is torn.'
   - 'lang': 'ro'
     'text': 'Aflak Se Hai Iss Ki Hareefana Kashakash | Khaki Hai Magar Khak Se Azad Hai Momin'
-- 'id': '3_41_4'
+- 'id': '3_41_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'To hunt the sparrow and the dove, He does not like and does not love: | He much aspires his noose to cast, On angels great and hold it fast.'
   - 'lang': 'ro'
     'text': 'Jachte Nahin Kunjishik-o-Hamam Iss Ki Nazar Mein | Jibreel-o-Sarafeel Ka Sayyad Hai Momin'
-- 'id': '3_41_5'
+- 'id': '3_41_005'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'IN PARADISE'
   - 'lang': 'ro'
     'text': 'jannat mai'
-- 'id': '3_41_6'
+- 'id': '3_41_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': '(43)'
 'description': []
 'sher':
-- 'id': '7_43_1'
+- 'id': '7_43_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'cup'
       'meaning': 'Jamshid’s cup. A wine-bowl, said to have been manufactured at the command of Jamshid, which, legend has it, reflected the whole universe.'
       'occurrence': !!int '1'
-- 'id': '7_43_2'
+- 'id': '7_43_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

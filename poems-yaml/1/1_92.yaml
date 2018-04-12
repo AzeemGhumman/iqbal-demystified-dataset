@@ -8,7 +8,7 @@
   'text': 'WE CIRCUMAMBULATE THE WINE‑CUP LIKE THE WINE''S REFLECTION'
 'description': []
 'sher':
-- 'id': '1_92_1'
+- 'id': '1_92_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -21,7 +21,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Misal-e-Partou Mai Tof-e-Jaam Karte Hain | Yehi Namaz Ada Subah-o-Shaam Karte Hain'
-- 'id': '1_92_2'
+- 'id': '1_92_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khasoosiat Nahin Kuch Iss Mein Ae Kaleem Teri | Shajar Hajar Bhi Khuda Se Kalam Karte Hain'
-- 'id': '1_92_3'
+- 'id': '1_92_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Naya Jahan Koi Ae Shama! Dhoondiye Ke Yahan | Sitam Kash-e-Tapish-e-Natamam Karte Hain'
-- 'id': '1_92_4'
+- 'id': '1_92_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'O Companions! Silence in this garden is good | As the melodious ones are kept in cages here'
   - 'lang': 'ro'
     'text': 'Bhali Hai Hum Nafso Iss Chaman Mein Khamoshi | Ke Khushnawaon Ko Paband-e-Daam Karte Hain'
-- 'id': '1_92_5'
+- 'id': '1_92_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -72,7 +72,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gharz Nishaat Hai Shughal-e-Sharab Se Jin Ki | Hilal Cheez Ko Goya Haram Karte Hain'
-- 'id': '1_92_6'
+- 'id': '1_92_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
     'text': 'How can you and we reconcile, O preacher | As we are making the custom of Love universal!'
   - 'lang': 'ro'
     'text': 'Bhala Nibhe Gi Teri Hum Se Kyunkar Ae Waiz! | Ke Hum To Rasm-e-Mohabbat Ko Aam Karte Hain'
-- 'id': '1_92_7'
+- 'id': '1_92_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -90,7 +90,7 @@
     'text': 'O God! What magic is concealed in the saints, clad in rags! | That they subdue the youth with a single glance'
   - 'lang': 'ro'
     'text': 'Elahi Sehar Hai Peeran-e-Kharqa Posh Mein Kya! | Ke Ek Nazar Se Jawanon Ko Raam Karte Hain'
-- 'id': '1_92_8'
+- 'id': '1_92_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -99,7 +99,7 @@
     'text': 'I shudder at the pleasures of their assemblies | Who are getting fame by destroying their homes'
   - 'lang': 'ro'
     'text': 'Main Un Ki Mehfil-e-Ishrat Se Kanp Jata Hun | Jo Ghar Ko Phoonk Ke Dunya Mein Naam Karte Hain'
-- 'id': '1_92_9'
+- 'id': '1_92_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -112,7 +112,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hare Raho Watan-e-Maazni Ke Maidano! | Jahaz Par Se Tumhain Hum Salam Karte Hain'
-- 'id': '1_92_10'
+- 'id': '1_92_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

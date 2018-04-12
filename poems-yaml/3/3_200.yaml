@@ -8,7 +8,7 @@
   'text': 'Sher Shah explained this point with so much grace'
 'description': []
 'sher':
-- 'id': '3_200_1'
+- 'id': '3_200_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Sher Shah explained this point with so much grace, | Distinction of tribes leads to much disgrace.'
   - 'lang': 'ro'
     'text': 'Ye Nukta Khoob Kaha Sher Shah Suri Ne | Ke Imtiaz-e-Qabail Tamam Tar Khwari'
-- 'id': '3_200_2'
+- 'id': '3_200_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The names of various tribes to them are dear, | The robe of Afghaniat don''t like to wear.'
   - 'lang': 'ro'
     'text': 'Aziz Hai Unhain Naam-e-Waziri-o-Mehsood | Abhi Ye Khilaat-e-Afghaniat Se Hain Aari'
-- 'id': '3_200_3'
+- 'id': '3_200_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Their Islam is to pieces and fragments torn, | Like pagans, girdles by them still are worn.'
   - 'lang': 'ro'
     'text': 'Hazar Parah Hai Kuhasar Ki Musalmani | Ke Har Qabeela Hai Apne Buton Ka Zunnari'
-- 'id': '3_200_4'
+- 'id': '3_200_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal is the only one in Bang-i-Dara in the style of Dagh. It is believed that he had written several other ghazals in the same style but excluded them from this book at the time of its compilation. However, such ghazals were very few and the above piece of information may be only somebody''s conjecture. ‘Allamah Iqbal was a philosopher and an Islamist more than a poet. The style of ghazal, particularly the classical ghazal, is very much restricted by the constraints of rhyming and the length of the poem. It is not suitable for conveying the extensive and deep thoughts which he wanted to convey. Hence there are very few ghazals in the classical style of Dagh. This ghazal is typically mystic and describes the attributes of the Love of God in the language of materialistic love.'
 'sher':
-- 'id': '1_51_1'
+- 'id': '1_51_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'If you had not come I would have had no occasion for contention | But what reluctance in making the promise was?'
   - 'lang': 'ro'
     'text': 'Na Ate, Humain Iss Mein Takrar Ka Thi | Magar Wada Karte Huwe Aar Kya Thi'
-- 'id': '1_51_2'
+- 'id': '1_51_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tumhare Payami Ne Sub Raaz Khola | Khata Iss Mein Bande Ki Sarkar Kya Thi'
-- 'id': '1_51_3'
+- 'id': '1_51_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'You recognized Your Lover in the full assembly | How alert Your eye in the middle of the ecstasy was!'
   - 'lang': 'ro'
     'text': 'Bhari Bazm Mein Apne Ashiq Ko Tara | Teri Ankh Masti Mein Hushyar Kya Thi!'
-- 'id': '1_51_4'
+- 'id': '1_51_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'True! Reluctant he was to come, O messenger | But tell me what the manner of denial was'
   - 'lang': 'ro'
     'text': 'Tammal To Tha Un Ko Ane Mein Qasid | Magar Ye Bata Tarz-e-Inkar Kya Thi'
-- 'id': '1_51_5'
+- 'id': '1_51_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khinche Khud-Ba-Khud Janib-e-Toor Musa (A.S.) | Kashish Teri Ae Shauq-e-Didar Kya Thi !'
-- 'id': '1_51_6'
+- 'id': '1_51_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

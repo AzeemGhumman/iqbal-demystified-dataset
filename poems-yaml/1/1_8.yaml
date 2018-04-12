@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The lesson of this apologue is that the peace and prosperity of the denizens of the earth is possible only through the proper management of the unlimited resources bestowed by God on the earth and that such management can produce the desired results only by the judicious use of the talents very graciously bestowed by God upon Man. In this respect Man is the masterpiece of creation and is higher than the rest of God''s creation.'
 'sher':
-- 'id': '1_8_1'
+- 'id': '1_8_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'There was a verdant pasture somewhere | Whose land was the very picture of beauty'
   - 'lang': 'ro'
     'text': 'Ek Charagah Heri Bheri Thi Kahin | Thi Sarapa Bhar Jis Ki Zameen'
-- 'id': '1_8_2'
+- 'id': '1_8_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'How can the beauty of that elegance be described | Brooks of sparkling water were running on every side'
   - 'lang': 'ro'
     'text': 'Kya Saman Uss Bahar Ka Ho Bayan | Her Taraf Saaf Nadiyan Thin Rawan'
-- 'id': '1_8_3'
+- 'id': '1_8_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Thay Anaron Ke Be-Shumar Darakht | Aur Peepal Ke Sayadar Darakht'
-- 'id': '1_8_4'
+- 'id': '1_8_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Cool breeze flowed everywhere | Birds were singing everywhere'
   - 'lang': 'ro'
     'text': 'Thandi Thandi Hawayen Aati Thin | Taeron Ki Sadaen Aati Thin'
-- 'id': '1_8_5'
+- 'id': '1_8_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'A goat arrived at a brook''s bank from somewhere | It came browsing from somewhere in the nearby land'
   - 'lang': 'ro'
     'text': 'Kisi Nadi Ke Paas Ek Bakri | Charte Charte Kahin Se Aa Nikli'
-- 'id': '1_8_6'
+- 'id': '1_8_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'As she stopped and looked around | She noticed a cow standing by'
   - 'lang': 'ro'
     'text': 'Jab Theher Ker Idhar Udhar Dekha | Paas Ek Gaye Ko Khare Paya'
-- 'id': '1_8_7'
+- 'id': '1_8_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'The goat first presented her compliments to the cow | Then respectfully started this conversation'
   - 'lang': 'ro'
     'text': 'Pehle Jhuk Ker Ussay Salam Kiya | Phir Salike Se Yun Kalam Kiya'
-- 'id': '1_8_8'
+- 'id': '1_8_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': '"How are you! Madam Cow"? | The cow replied, "Not too well'
   - 'lang': 'ro'
     'text': 'Kyun Bari Bi! Mazaj Kaise Hain | Gaye Boli Ke Khair Ache Hain'
-- 'id': '1_8_9'
+- 'id': '1_8_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': '"My life is a mere existence | My life is a complete agony'
   - 'lang': 'ro'
     'text': 'Kat Rahi Hai Buri Bhali Apni | Hai Musibat Mein Zindagi Apni'
-- 'id': '1_8_10'
+- 'id': '1_8_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'My life is in danger, what can I say? | My luck is bad, what can I say?'
   - 'lang': 'ro'
     'text': 'Jaan Par Aa Bani Hai, Kya Kahiye | Apni Kismat Buri Hai, Kya Kahiye'
-- 'id': '1_8_11'
+- 'id': '1_8_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'I am surprised at the state of affairs | I am cursing the evil people'
   - 'lang': 'ro'
     'text': 'Dekhti Hun Khuda Ki Shaan Ko Mein | Ro Rahi Hun Buron Ke Jaan Ko Mein'
-- 'id': '1_8_12'
+- 'id': '1_8_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'The poor ones like us are powerless | Misfortunes surround the ones like us'
   - 'lang': 'ro'
     'text': 'Zor Chalta Nahin Gareebon Ka | Pesh Aaya Likha Naseebon Ka'
-- 'id': '1_8_13'
+- 'id': '1_8_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -131,7 +131,7 @@
     'text': 'None should nicely deal with Man | May God protect us from Man!'
   - 'lang': 'ro'
     'text': 'Aadmi Se Koi Bhala Na Kare | Uss Se Pala Pare, Khuda Na Kare'
-- 'id': '1_8_14'
+- 'id': '1_8_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
     'text': 'He murmurs if my milk declines | He sells me if my weight declines'
   - 'lang': 'ro'
     'text': 'Doodh Kam Dun To Barbarata Hai | Hun Jo Dubli To Bach Khata Hai'
-- 'id': '1_8_15'
+- 'id': '1_8_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
     'text': 'He subdues us with cleverness! | Alluring, he always subjugates us!'
   - 'lang': 'ro'
     'text': 'Hathkandon Se Ghulam Karta Hai | Kin Farebon Se Raam Karta Hai'
-- 'id': '1_8_16'
+- 'id': '1_8_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -158,7 +158,7 @@
     'text': 'I nurse his children with milk | I give them new life with milk'
   - 'lang': 'ro'
     'text': 'Uss Ke Bachon Ko Palti Hun Mein | Doodh Se Jaan Dalti Hun Mein'
-- 'id': '1_8_17'
+- 'id': '1_8_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -167,7 +167,7 @@
     'text': 'My goodness is repaid with evil | My prayer to God is for mercy!"'
   - 'lang': 'ro'
     'text': 'Badle Naiki Ke Ye Burai Hai | Mere Allah! Teri Duhayi Hai'
-- 'id': '1_8_18'
+- 'id': '1_8_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -176,7 +176,7 @@
     'text': 'Having heard the cow''s story like this | The goat replied, "This complaint is unjust'
   - 'lang': 'ro'
     'text': 'Sun Ke Bakri Ye Majra Sara | Boli, Aesa Gila Nain Acha'
-- 'id': '1_8_19'
+- 'id': '1_8_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -185,7 +185,7 @@
     'text': 'Though truth is always bitter | I shall speak what is fair'
   - 'lang': 'ro'
     'text': 'Baat Sachi Hai Be-Maza Lagti | Mein Kahun Gi Magar Khuda Lagti'
-- 'id': '1_8_20'
+- 'id': '1_8_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -194,7 +194,7 @@
     'text': 'This pasture, and this cool breeze | This green grass and this shade'
   - 'lang': 'ro'
     'text': 'Ye Charagah, Ye Thandi Thandi Hawa | Ye Hari Ghaas Aur Ye Saya'
-- 'id': '1_8_21'
+- 'id': '1_8_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -203,7 +203,7 @@
     'text': 'Such comforts, were beyond our lot! | They were a far cry for us speechless poor!'
   - 'lang': 'ro'
     'text': 'Aesi Khushiyan Humain Naseeb Kahan | Ye Kahan, Be-Zuban Gareeb Kahan!'
-- 'id': '1_8_22'
+- 'id': '1_8_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -212,7 +212,7 @@
     'text': 'We owe these pleasures to Man | We owe all our happiness to Man'
   - 'lang': 'ro'
     'text': 'Ye Maze Aadmi Ke Dam Se Hain | Lutf Sare Ussi Ke Dam Se Hain'
-- 'id': '1_8_23'
+- 'id': '1_8_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -221,7 +221,7 @@
     'text': 'We derive all our prosperity from him | What is better for us, freedom or bondage to him?'
   - 'lang': 'ro'
     'text': 'Uss Ke Dam Se Hai Apni Aabadi | Qaid Hum Ko Bhali Ke Azadi!'
-- 'id': '1_8_24'
+- 'id': '1_8_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -230,7 +230,7 @@
     'text': 'Hundreds of dangers lurk in the wilderness | May God protect us from the wilderness!'
   - 'lang': 'ro'
     'text': 'So Tarah Ka Hai Banon Mein Hai Khatka | Wan Ki Guzaran Se Bachaye Khuda'
-- 'id': '1_8_25'
+- 'id': '1_8_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -239,7 +239,7 @@
     'text': 'We are heavily indebted to him | Unjust is our complaint against him'
   - 'lang': 'ro'
     'text': 'Hum Pe Ehsan Hai Bara Uss Ka | Hum Ko Zaiba Nahin Gila Uss Ka'
-- 'id': '1_8_26'
+- 'id': '1_8_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -248,7 +248,7 @@
     'text': 'If you appreciate the life''s comforts | You would never complain against Man"'
   - 'lang': 'ro'
     'text': 'Qadar Aaram Ki Ager Samjho | Aadmi Ka Kabhi Gila Na Karo'
-- 'id': '1_8_27'
+- 'id': '1_8_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -257,7 +257,7 @@
     'text': 'Hearing all this the cow felt embarrassed | She was sorry for complaining against Man'
   - 'lang': 'ro'
     'text': 'Gaye Sun Ker Ye Baat Shermayi | Aadmi Ke Gile Se Pachtai'
-- 'id': '1_8_28'
+- 'id': '1_8_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -266,7 +266,7 @@
     'text': 'She mused over the good and the bad | And thoughtfully she said this'
   - 'lang': 'ro'
     'text': 'Dil Mein Perkha Bhala Bura Uss Ne | Aur Kuch Soch Ker Kaha Uss Ne'
-- 'id': '1_8_29'
+- 'id': '1_8_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

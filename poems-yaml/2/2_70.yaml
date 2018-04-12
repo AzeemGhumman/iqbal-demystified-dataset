@@ -8,7 +8,7 @@
   'text': 'The Gnostic and the common throng'
 'description': []
 'sher':
-- 'id': '2_70_1'
+- 'id': '2_70_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Gnostic and the common throng, New life have gained through my song: | I have conferred relish fine, On them for Loveʹs fiery wine.'
   - 'lang': 'ro'
     'text': 'Meri Nawa Se Huwe Zinda Arif-o-Aami | Diya Hai Main Ne Inhain Zauq-e-Atish Ashami'
-- 'id': '2_70_2'
+- 'id': '2_70_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Some Ajami near the Holy Shrine, Did sadly sing this song and pine, | “Alas! the robes by pilgrims worn, To threads and pieces now are torn.”'
   - 'lang': 'ro'
     'text': 'Haram Ke Pas Koi Ajami Hai Zamzama Sanj | Ke Tar Tar Huwe Jama Haye Ahrami'
-- 'id': '2_70_3'
+- 'id': '2_70_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The place of Husain, the Martyr great, Is fact, not bound to Space or Date, | Though the Syrians and the Kufis may, Often change their wont and way.'
   - 'lang': 'ro'
     'text': 'Haqiqat-e-Abdi Hai Maqam-e-Shabiri | Badalte Rehte Hain Andaz-e-Kufi-o-Shami'
-- 'id': '2_70_4'
+- 'id': '2_70_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The gamblers who with you compete, Are deft of band and they can cheat: | Your fumbling shaky hands, I fear, May bring about your ruin so drear.'
   - 'lang': 'ro'
     'text': 'Mujhe Ye Darr Hai Muqamir Hain Pukhta Kaar Bohat | Na Rang Laye Kahin Tere Hath Ki Khami'
-- 'id': '2_70_5'
+- 'id': '2_70_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'No wonder If the Muslims gain, Their ancient glory once again– | Sanjarʹs splendour pomp and state, The piety and faqr of mystics great.'
   - 'lang': 'ro'
     'text': 'Ajab Nahin Ke Musalman Ko Phir Atta Kar Dain | Shikoh-e-Sanjar-o-Faqr-e-Junaid (R.A.)-o-Bastami (R.A.)'
-- 'id': '2_70_6'
+- 'id': '2_70_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

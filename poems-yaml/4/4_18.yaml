@@ -8,7 +8,7 @@
   'text': 'Of love and losing what words need be said'
 'description': []
 'sher':
-- 'id': '4_18_1'
+- 'id': '4_18_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Of love and losing what words need be said? | The self’s unfolding is Life’s fountain‐head;'
   - 'lang': 'ro'
     'text': 'Na Kar Zikr-E-Firaq-O-Ashanai | Ke Asal-E-Zindagi Hai Khud-Numai'
-- 'id': '4_18_2'
+- 'id': '4_18_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

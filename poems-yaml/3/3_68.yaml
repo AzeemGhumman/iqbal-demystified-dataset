@@ -8,7 +8,7 @@
   'text': 'GOAL'
 'description': []
 'sher':
-- 'id': '3_68_1'
+- 'id': '3_68_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'SPINOZA'
   - 'lang': 'ro'
     'text': 'Spinoza'
-- 'id': '3_68_2'
+- 'id': '3_68_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'On life is fixed the gaze of persons bright, | What is life? Presence, being, joy and light!'
   - 'lang': 'ro'
     'text': 'Nazar Hayat Pe Rakhta Hai Mard-e-Danish-Mand | Hayat Kya Hai, Huzoor-o-Suroor-o-Noor-o-Wujood'
-- 'id': '3_68_3'
+- 'id': '3_68_003'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'PLATO'
   - 'lang': 'ro'
     'text': 'aflatoon'
-- 'id': '3_68_4'
+- 'id': '3_68_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'A wise man knows that ʹfore death he must bow, | In pitch dark night, life, like spark, soon loses glow.'
   - 'lang': 'ro'
     'text': 'Nigah Mout Pe Rakhta Hai Mard-e-Danish-Mand | Hayat Hai Shab-e-Tareek Mein Sharar Ki Namood'
-- 'id': '3_68_5'
+- 'id': '3_68_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

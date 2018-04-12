@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is a short poem in praise of the sun and describes the benefits we derive from it.'
 'sher':
-- 'id': '1_17_1'
+- 'id': '1_17_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O Sun! The world''s essence and motivator you are | The organizer of the book of the world you are'
   - 'lang': 'ro'
     'text': 'Ae Aftab! Rooh-o-Rawan-e-Jahan Hai Tu | Shiraza Band-e-Daftar-e-Kaun-o-Makan Hai Tu'
-- 'id': '1_17_2'
+- 'id': '1_17_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The splendor of existence has been created by you | The verdure of the garden of existence depends on you'
   - 'lang': 'ro'
     'text': 'Baees Hai Tu Wujood-o-Adam Ki Namood Ka | Hai Sabz Tere Dam Se Chaman Hast-o-Bood Ka'
-- 'id': '1_17_3'
+- 'id': '1_17_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The spectacle of elements is maintained by you | The exigency of life in all is maintained by you'
   - 'lang': 'ro'
     'text': 'Qaeem Ye Unsaron Ka Tamasha Tujhi Se Hai | Har Shay Mein Zindagi Ka Taqaza Tujhi Se Hai'
-- 'id': '1_17_4'
+- 'id': '1_17_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Your appearance confers stability on everything | Your illumination and concord is completion of life'
   - 'lang': 'ro'
     'text': 'Har Shay Ko Teri Jalwagari Se Sabat Hai | Tera Ye Souz-o-Saaz Sarapa Hayat Hai'
-- 'id': '1_17_5'
+- 'id': '1_17_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'You are the sun which establishes light in the world | Which establishes heart, intellect, essence and wisdom'
   - 'lang': 'ro'
     'text': 'Woh Aftab Jis Se Zamane Mein Noor Hai | Dil Hai, Khird Hai, Rooh-e-Rawan Hai, Shaur Hai'
-- 'id': '1_17_6'
+- 'id': '1_17_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'O Sun! Bestow on us the light of wisdom | Bestow your luster''s light on the intellect''s eye'
   - 'lang': 'ro'
     'text': 'Ae Aftab! Hum Ko Zia-e-Shaur De | Chashm-e-Khird Ko Apni Tajalli Se Noor De'
-- 'id': '1_17_7'
+- 'id': '1_17_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Mehfil-e-Wujood Ka Saman Taraz Tu | Yazdan-e-Sakinan-e-Nashaib-o-Faraz Tu'
-- 'id': '1_17_8'
+- 'id': '1_17_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'Your excellence is reflected from every living thing | The mountain range also shows your elegance'
   - 'lang': 'ro'
     'text': 'Tera Kamal Hasti-e-Har Jandar Mein | Teri Namood Silsila-e-Kohsar Mein'
-- 'id': '1_17_9'
+- 'id': '1_17_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'You are the sustainer of the life of all | You are the king of the light''s children'
   - 'lang': 'ro'
     'text': 'Har Cheez Ki Hayat Ka Parwardigar Tu | Zaeedgan-e-Noor Ka Hai Tajdar Tu'
-- 'id': '1_17_10'
+- 'id': '1_17_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'REVELATION AND FREEDOM'
 'description': []
 'sher':
-- 'id': '3_51_1'
+- 'id': '3_51_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'With zeal and fervour man is fired: | By looks of man by God inspired!'
   - 'lang': 'ro'
     'text': 'Ho Banda-e-Momin Azad Agar Sahib-e-Ilhaam | Hai Uss Ki Nigah Fikar-o-Amal Ke Liye Mehmaiz'
-- 'id': '3_51_2'
+- 'id': '3_51_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The intense heat his breath imparts, | A blaze in park and orchard starts!'
   - 'lang': 'ro'
     'text': 'Uss Ke Nafas-e-Garam Ki Taseer Hai Aesi | Ho Jati Hai Khaak-e-Chamanistan Sharar Amaiz'
-- 'id': '3_51_3'
+- 'id': '3_51_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The mode of hawks the thrush displays, | The birds that chirp change mode and ways!'
   - 'lang': 'ro'
     'text': 'Shaheen Ki Ada Hoti Hai Bulbul Mein Namoodar | Kis Darja Badal Jate Hain Murghan-e-Sahar Khaiz!'
-- 'id': '3_51_4'
+- 'id': '3_51_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Such man rapt with Godʹs Love can raise, | Low‐born to rank of Jam and Parwiz!'
   - 'lang': 'ro'
     'text': 'Uss Mard-e-Khud Aagah-o-Khuda-Mast Ki Sohabat | Deti Hai Gadaon Ko Shikoh-e-Jam-o-Pervaiz'
-- 'id': '3_51_5'
+- 'id': '3_51_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

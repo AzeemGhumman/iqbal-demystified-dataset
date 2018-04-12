@@ -8,14 +8,14 @@
   'text': 'IV-VI'
 'description': []
 'sher':
-- 'id': '11_189_1'
+- 'id': '11_189_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز دوزخ واعظ کافر گری گفت | حدیثی خوشتر از وی کافری گفت'
   - 'lang': 'en'
     'text': 'On hell kafir-maker Mullah spoke, | On which a kafir in a nice way broke.'
-- 'id': '11_189_2'
+- 'id': '11_189_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

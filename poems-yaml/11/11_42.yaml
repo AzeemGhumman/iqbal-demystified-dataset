@@ -8,7 +8,7 @@
   'text': 'I-I'
 'description': []
 'sher':
-- 'id': '11_42_1'
+- 'id': '11_42_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'park'
       'meaning': '        Iqbal takes the first line from a verse of Manuchehree, whose full name was Najam-ud-Din Ahmed s/o Yaqub Manuchehr. He was a courtier of Mehmud Ghaznavi, died in 1080 A.D. It is still customary to write an ellipsis (tazmin) on a verse of a poet without changing the central idea. (in India, Pakistan and Iran)'
       'occurrence': !!int '1'
-- 'id': '11_42_2'
+- 'id': '11_42_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

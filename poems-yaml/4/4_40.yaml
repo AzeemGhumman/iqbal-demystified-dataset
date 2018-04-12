@@ -8,7 +8,7 @@
   'text': 'I am quiet a stranger to the town'
 'description': []
 'sher':
-- 'id': '4_40_1'
+- 'id': '4_40_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I am quiet a stranger to the town, listen to my bewailings; | may thy breast entertain many a resurrection!'
   - 'lang': 'ro'
     'text': 'Ghareeb-E-Shehar Hon Mein, Sun To Le Meri Faryad | Ke Tere Sine Mein Bhi Hon Qayamatain Abad'
-- 'id': '4_40_2'
+- 'id': '4_40_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The grief‐laden songs of mine are valuable: | the unsatisfied heart is a wealth most uncommon.'
   - 'lang': 'ro'
     'text': 'Meri Nawa’ay Gham Aalood Hai Mataa-E-Aziz | Jahan Mein Aam Nahin Doulat-E-Dil Na-Shaad'
-- 'id': '4_40_3'
+- 'id': '4_40_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'I fear the world does not appreciate my labour, | it isn’t like Farhad’s:'
   - 'lang': 'ro'
     'text': 'Gila Hai Mujh Ko Zamane Ki Kaur Zauqi Se | Samjhta Hai Meri Mehnat Ko Mehnat-E-Farhad'
-- 'id': '4_40_4'
+- 'id': '4_40_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

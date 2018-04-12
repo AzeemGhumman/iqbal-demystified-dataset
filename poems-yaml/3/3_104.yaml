@@ -8,7 +8,7 @@
   'text': 'WOMAN'
 'description': []
 'sher':
-- 'id': '3_104_1'
+- 'id': '3_104_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The spirit of man can display its self without obligation to another, | But the spirit of woman cannot fully reveal its self without another’s help.'
   - 'lang': 'ro'
     'text': 'Johar-e-Mardayan Hota Hai Be Minnat-e-Ghair | Ghair Ke Hath Mein Hai Johar-e-Aurat Ki Namood'
-- 'id': '3_104_2'
+- 'id': '3_104_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Her desire is the secret of her fever of sorrow: | Her existence is full of fire with the wish to create.'
   - 'lang': 'ro'
     'text': 'Raaz Iss Ke Tap-e-Gham Ka Yehi Nukta-e-Shauq | Atisheen, Lazzat-e-Takhleeq Se Hai Iss Ka Wujood'
-- 'id': '3_104_3'
+- 'id': '3_104_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Here is the fire which opens the secrets of life; | That is the heat which sustains the struggle between to be and not to be.'
   - 'lang': 'ro'
     'text': 'Khule Jate Hain Issi Aag Se Asrar-e-Hayat | Garam Issi Aag Se Hai Maarka-e-Bood-o-Nabood'
-- 'id': '3_104_4'
+- 'id': '3_104_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

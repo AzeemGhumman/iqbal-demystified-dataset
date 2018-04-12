@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem brings out two important points in rather humorous style. Firstly, ‘Allamah Iqbal wants to expose the formalism ostentation and pretentiousness of the common, so called ‘Ulama. In their view Islam is restricted to the observance of a few formal rules of the Islamic law and that too only in the letter of the law and not in its spirit. Secondly, he wants to bring out his own universality as far as the orbit of Islamic learning is concerned. ‘Allamah Iqbal''s knowledge of and service to Islam is multi-dimensional and multi-faceted to the extent that it is difficult to say whether he was a poet, an exegesist of the Holy Qur''an, an Islamic revivalist, a philosopher, or a sufi. Study of his books will show that he was all these par excellence. This is what he means in the last four verses.'
 'sher':
-- 'id': '1_28_1'
+- 'id': '1_28_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'I am only relating to you the story of a mawlava | I have no intention of showing my smartness'
   - 'lang': 'ro'
     'text': 'Ek Molvi Sahib Ki Sunata Hun Kahani | Taizi Nahin Manzoor Tabiat Ki Dikhani'
-- 'id': '1_28_2'
+- 'id': '1_28_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'His pious nature was widely known | All the high and low respected him'
   - 'lang': 'ro'
     'text': 'Shohra Tha Bohat App Ki Sufi Manashi Ka | Karte The Adab Un Ka Aa’aali-o-Adani'
-- 'id': '1_28_3'
+- 'id': '1_28_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kehte The Ke Pinhan Hai Tasawwuf Mein Shariat | Jis Tarah Ke Alfaz Mein Muzmar Hon Maani'
-- 'id': '1_28_4'
+- 'id': '1_28_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'His heart''s flask was filled to the brim with piety''s wine | He also had lees of the thought of pantology at the bottom'
   - 'lang': 'ro'
     'text': 'Labraiz Mai-e-Zuhd Se Thi Dil Ki Surahi | Thi Teh Mein Kahin Dard-e-Khiyal-e-Hama-Dani'
-- 'id': '1_28_5'
+- 'id': '1_28_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'He often used to describe his supernatural powers | He always intended increase of his disciples'' numbers'
   - 'lang': 'ro'
     'text': 'Karte The Byan Aap Karamat Ka Apni | Manzoor Thi Taadad Mureedon Ki Barhani'
-- 'id': '1_28_6'
+- 'id': '1_28_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'He had been living in my neighborhood since long | The ascetic and the rind were mutual friends since long'
   - 'lang': 'ro'
     'text': 'Muddat Se Raha Karte The Humsaye Mein Mere | Thi Rind Se Zahid Ki Mulaqat Purani'
-- 'id': '1_28_7'
+- 'id': '1_28_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'The dignitary asked a friend of mine one day | "Iqbal who is a dignitary in the field of literature'
   - 'lang': 'ro'
     'text': 'Hazrat Ne Mere Aik Shanasa Se Ye Pucha | Iqbal Ke Hai Qumri-e-Shamshad-e-Maani'
-- 'id': '1_28_8'
+- 'id': '1_28_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'How is he in the obedience to the rules of Shara‘ah ? | Though in poetry he is envy of the Kalam of Hamadan'
   - 'lang': 'ro'
     'text': 'Pabandi-e-Ahkam-e-Shariat Mein Hai Kaisa? | Go Shair Mein Hai Rashak-e-Kaleem-e-Hamdani'
-- 'id': '1_28_9'
+- 'id': '1_28_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'I hear he does not consider the Hindu a non-believer | He has such beliefs as a result of philosophy'
   - 'lang': 'ro'
     'text': 'Sunta Hun Ke Kafir Nahin Hindu Ko Samajhta | Hai Aesa Aqeeda Asar-e-Falsafa Dani'
-- 'id': '1_28_10'
+- 'id': '1_28_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'He has accepted a little bit of Shiaism also | I have heard the greatness of ‘Ala from him'
   - 'lang': 'ro'
     'text': 'Hai Iss Ki Tabiyat Mein Tashayyu Bhi Zara Sa | Tafzeel-e-Ali (R.A.) Hum Ne Suni Iss Ki Zubani'
-- 'id': '1_28_11'
+- 'id': '1_28_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'He considers music as part of adoration | He aims at making a mockery of religion'
   - 'lang': 'ro'
     'text': 'Samajha Hai Ke Hai Raag Ibadaat Mein Dakhil | Maqsood Hai Mazhab Ki Magar Khak Urani'
-- 'id': '1_28_12'
+- 'id': '1_28_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'He does not feel shy with amorous people | This is a very old habit of our poets'
   - 'lang': 'ro'
     'text': 'Kuch Aar Isse Husn Faroshon Se Nahin Hai | Adat Ye Humare Shuara Ki Hai Purani'
-- 'id': '1_28_13'
+- 'id': '1_28_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -131,7 +131,7 @@
     'text': 'He has music at night, Qur’an''s recitation in the morning | This secret is not yet fully understood by me'
   - 'lang': 'ro'
     'text': 'Gana Jo Hai Shab Ko To Sehar Ko Hai Talawat | Iss Ramz Ke Ab Tak Na Khule Hum Pe Maani'
-- 'id': '1_28_14'
+- 'id': '1_28_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
     'text': 'But the information obtained from my disciples is | That spotless like the dawn''s whiteness his youth is'
   - 'lang': 'ro'
     'text': 'Lekin Ye Suna Apne Mureedon Se Hai Main Ne | Be-Dagh Hai Manind-e-Sehar Iss Ki Jawani'
-- 'id': '1_28_15'
+- 'id': '1_28_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
     'text': 'He is not Iqbal but a strange mixture of opposites he is | Treasure of wisdom is his heart, but enigmatic his temper is'
   - 'lang': 'ro'
     'text': 'Majmooa-e-Azdaad Hai, Iqbal Nahin Hai | Dil Daftar-e-Hikmat Hai, Tabiat Khuftani'
-- 'id': '1_28_16'
+- 'id': '1_28_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -158,7 +158,7 @@
     'text': 'He knows spiritual freedom as well as the Shara‘ah | Regarding tasawwuf, he is second only to Mansur'
   - 'lang': 'ro'
     'text': 'Rindi Se Bhi Aagah, Shariat Se Bhi Waqif | Pucho Jo Tasawwuf Ki To Mansoor Ka Sani'
-- 'id': '1_28_17'
+- 'id': '1_28_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -167,7 +167,7 @@
     'text': 'I am unable to understand his reality | Founder of another kind of Islam he appears to be"'
   - 'lang': 'ro'
     'text': 'Iss Shakhs Ki Hum Par To Haqiqat Nahin Khulti | Ho Ga Ye Kisi Aur Hi Islam Ka Bani'
-- 'id': '1_28_18'
+- 'id': '1_28_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -176,7 +176,7 @@
     'text': 'In short he prolonged his sermon very much | He long continued this wonderful speech'
   - 'lang': 'ro'
     'text': 'Al-Qissa Bohat Toul Diya Waaz Kp Apne | Ta Dair Rahi App Ki Ye Nagz Byani'
-- 'id': '1_28_19'
+- 'id': '1_28_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -185,7 +185,7 @@
     'text': 'Everyone soon hears all happenings in this city | I myself heard it through my friends in the city'
   - 'lang': 'ro'
     'text': 'Iss Shehar Men Jo Baat Ho, Urh Jati Hai Sub Mein | Main Ne Suni Apne Ahibba Ki Zubani'
-- 'id': '1_28_20'
+- 'id': '1_28_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -194,7 +194,7 @@
     'text': 'One day as the respected ascetic met me in the street | The old story restarted during the talk in the street'
   - 'lang': 'ro'
     'text': 'Ek Din Jo Sar-e-Rah Mile Hazrat-e-Zahir | Phir Chhir Gyi Baton Mein Wohi Baat Purani'
-- 'id': '1_28_21'
+- 'id': '1_28_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -203,7 +203,7 @@
     'text': 'He said, "That accusation was due to my affection | It was my duty to show you the path of the Shara‘ah"'
   - 'lang': 'ro'
     'text': 'Farmaya, Shikayat Woh Mohabbat Ke Sabab Thi | Tha Farz Mera Rah Shariat Ki Dikhani'
-- 'id': '1_28_22'
+- 'id': '1_28_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -212,7 +212,7 @@
     'text': 'I said, "I have no intention of any complaint at all | It was your right due to being my neighbor'
   - 'lang': 'ro'
     'text': 'Main Ne Ye Kaha Koi Gila Mujh Ko Nahin Hai | Ye App Ka Haq Tha Zarah-e-Qurb-e-Makani'
-- 'id': '1_28_23'
+- 'id': '1_28_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -221,7 +221,7 @@
     'text': 'I bow my head respectfully before you | My youth is accustomed to respect for the old'
   - 'lang': 'ro'
     'text': 'Kham Hai Sar-e-Tasleem Mera App Ke Agay | Peeri Hai Tawazaa Ke Sabab Meri Jawani'
-- 'id': '1_28_24'
+- 'id': '1_28_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -230,7 +230,7 @@
     'text': 'If you do not know the reality about me | It does not show any lack of pantology'
   - 'lang': 'ro'
     'text': 'Gar App Ko Maloom Nahin Meri Haqiqat | Paida Nahin Kuch Iss Se Qasoor-e-Hamadani'
-- 'id': '1_28_25'
+- 'id': '1_28_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -239,7 +239,7 @@
     'text': 'I myself do not know my reality | Very deep is the sea of my thoughts'
   - 'lang': 'ro'
     'text': 'Main Khud Bhi Nahin Apni Haqiqat Ka Shanasa | Gehra Hai Mere Behr-e-Khiyalaat Ka Pani'
-- 'id': '1_28_26'
+- 'id': '1_28_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -248,7 +248,7 @@
     'text': 'Since long I am also longing to see Iqbal | For long I have shed tears in his separation'
   - 'lang': 'ro'
     'text': 'Mujh Ko Bhi Tammana Hai Ke ‘Iqbal’ Ko Dekhun | Ki Iss Ki Juddai Mein Bohat Ashak Fishani'
-- 'id': '1_28_27'
+- 'id': '1_28_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

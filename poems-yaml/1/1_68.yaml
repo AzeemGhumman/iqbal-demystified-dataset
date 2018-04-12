@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem carries the message that Man’s good deeds would last for ever, even after the sun and the stars would cease to exist, i.e. even after the Day of Judgment.'
 'sher':
-- 'id': '1_68_1'
+- 'id': '1_68_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The dawn’s star was weeping and saying this | "I got the eye but not the leisure for Sight'
   - 'lang': 'ro'
     'text': 'Sitara Subah Ka Rota Tha Aur Ye Kehta Tha | Mili Nigah Magar Fursat-e-Nazar Na Mili'
-- 'id': '1_68_2'
+- 'id': '1_68_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Everything has come to life through the sun’s energy | Only I did not get protection under the morning’s skirt'
   - 'lang': 'ro'
     'text': 'Huwi Hai Zinda Dam-e-Aftab Se Har Shay | Aman Mujhi Ko Teh-e-Daman-e-Sehar Na Mili'
-- 'id': '1_68_3'
+- 'id': '1_68_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'After all what is the capacity of the dawn’s star | It is like bubble’s breath, like the spark’s brightness"'
   - 'lang': 'ro'
     'text': 'Bisat Kya Hai Bhala Subah Ke Sitare Ki | Nafas Habab Ka, Tabindagi Sharare Ki'
-- 'id': '1_68_4'
+- 'id': '1_68_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'I said "O beautiful jewel of the dawn’ s forehead | Do you have fear of death? Come down from the sky'
   - 'lang': 'ro'
     'text': 'Kaha Ye Main Ne Ke Ae Zaiwar-e-Jabeen-e-Sehar ! | Gham-e-Fana Hai Tujhe ! Gunbad-e-Falak Se Uter'
-- 'id': '1_68_5'
+- 'id': '1_68_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Drop down from the sky’s height with the dew | My poetry’s field will be invigorating to you'
   - 'lang': 'ro'
     'text': 'Tapak Bulandi-e-Gardoon Se Hum-Rah-e-Shabnam | Mere Riyaz-e-Sukhan Ki Faza Hai Jaan Parwar'
-- 'id': '1_68_6'
+- 'id': '1_68_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

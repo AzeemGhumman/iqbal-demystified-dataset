@@ -8,7 +8,7 @@
   'text': 'Every atom pants for glory'
 'description': []
 'sher':
-- 'id': '2_47_1'
+- 'id': '2_47_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Every atom pants for glory: greed | Of self‐fruition earth’s whole creed!'
   - 'lang': 'ro'
     'text': 'Har Cheez Hai Mehw-e-Khudnumai | Har Zarra Shaheed-e-Kibriyai'
-- 'id': '2_47_2'
+- 'id': '2_47_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Life that thirsts for no flowering—death: | Self‐creation—a godlike deed;'
   - 'lang': 'ro'
     'text': 'Be-Zauq-e-Namood Zindagi, Mout | Tameer-e-Khudi Mein Hai Khudai'
-- 'id': '2_47_3'
+- 'id': '2_47_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Through self the mustard‐seed becomes | A hill: without, the hill a seed.'
   - 'lang': 'ro'
     'text': 'Rayi Zor-e-Khudi Se Parbat | Parbat Zu’af-e-Khudi Se Rayi'
-- 'id': '2_47_4'
+- 'id': '2_47_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The stars wander and do not meet, | To all things severance is decreed;'
   - 'lang': 'ro'
     'text': 'Taare Awara-o-Kam Maiz | Taqdeer-e-Wujood Hai Juddai'
-- 'id': '2_47_5'
+- 'id': '2_47_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Pale is the moon of night’s last hour | No whispered things of friendship speed.'
   - 'lang': 'ro'
     'text': 'Ye Pichle Peher Ka Zard-Ru Chehra | Be Raaz-o-Niaz-e-Ashnai'
-- 'id': '2_47_6'
+- 'id': '2_47_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Own self is all the light you need; | # translation missing'
   - 'lang': 'ro'
     'text': 'Teri Qandeel Hai Tera Dil | Tu Aap Hai Apni Roshanai'
-- 'id': '2_47_7'
+- 'id': '2_47_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'You are this world’s sole truth, all else, | Illusion such as sorceries breed.'
   - 'lang': 'ro'
     'text': 'Ek Tu Hai Ke Haq Hai Iss Jahan Mein | Baqi Hai Namood-e-Seemiyai'
-- 'id': '2_47_8'
+- 'id': '2_47_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

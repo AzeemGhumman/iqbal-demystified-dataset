@@ -8,7 +8,7 @@
   'text': 'O pilgrim, who tread mystic path'
 'description': []
 'sher':
-- 'id': '3_197_1'
+- 'id': '3_197_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O pilgrim, who tread mystic path, Your goal with case you can attain | Man''s Conscience can bear out this fact, That Faqr''s high rank isn''t hard to gain.'
   - 'lang': 'ro'
     'text': 'Adam Ka Zameer Iss Ki Haqiqat Pe Hai Shahid | Mushkil Nahin Ae Salik-e-Rah! Ilm-e-Faqeeri'
-- 'id': '3_197_2'
+- 'id': '3_197_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The steel can never make or forge, A sharp and sturdy sword at all | If steel is smooth and soft, like silk, Such toys, true sword one can not call.'
   - 'lang': 'ro'
     'text': 'Foulad Kahan Rehta Hai Shamsheer Ke Laeek | Paida Ho Agar Iss Ki Tabiat Mein Harairi'
-- 'id': '3_197_3'
+- 'id': '3_197_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'If Faqr possesses no self esteem, It means God Mighty''s ire and wrath | If respect for Self keeps in view, To riches great it paves the path.'
   - 'lang': 'ro'
     'text': 'Khud-Dar Na Ho Faqr To Hai Qehr-e-Elahi | Ho Sahib-e-Ghairat To Hai Tamheed-e-Ameeri'
-- 'id': '3_197_4'
+- 'id': '3_197_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

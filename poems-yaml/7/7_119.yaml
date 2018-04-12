@@ -8,7 +8,7 @@
   'text': '(119)'
 'description': []
 'sher':
-- 'id': '7_119_1'
+- 'id': '7_119_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Somnath.'
       'meaning': 'Somnath (Sumnat). An idol-temple in Gujerat (India) destroyed by Mahmud Ghaznawi.'
       'occurrence': !!int '1'
-- 'id': '7_119_2'
+- 'id': '7_119_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

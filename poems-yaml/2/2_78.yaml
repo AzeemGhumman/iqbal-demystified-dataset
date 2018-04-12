@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem introduces one of Iqbal''s basic understanding about the downfall of Islamic civilization in political as well as social and religious spheres.  Therefore, he creates a comparison of understanding of religion in Muslims in their golden age and today''s Islamic conceptualization. | {Contributed by user: Saad Mahmood}'
 'sher':
-- 'id': '2_78_1'
+- 'id': '2_78_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The style may not he vivid and lively, still | Perhaps the meaning may penetrate thy mind:'
   - 'lang': 'ro'
     'text': 'Andaz-e-Byan Gharche Bohat Shaukh Nahin Hai | Shaid Ke Utar Jaye Tere Dil Mein Meri Baat'
-- 'id': '2_78_2'
+- 'id': '2_78_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The faith of men of God and ecstasy | Is like the call to prayer echoing in the skies;'
   - 'lang': 'ro'
     'text': 'Ya Wusaat-e-Aflak Mein Takbeer-e-Musalsal | Ya Khak Ke Aghosh Mein Tasbeeh-o-Munajat'
-- 'id': '2_78_3'
+- 'id': '2_78_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

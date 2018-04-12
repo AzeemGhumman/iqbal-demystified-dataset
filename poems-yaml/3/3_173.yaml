@@ -8,7 +8,7 @@
   'text': 'ADVICE'
 'description': []
 'sher':
-- 'id': '3_173_1'
+- 'id': '3_173_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A Frankish Lord advised his son to seek | Such aim that is always pleasant, neʹer bleak.'
   - 'lang': 'ro'
     'text': 'Ek Lurd-e-Farangi Ne Kaha Apne Pisar Se | Manzar Woh Talab Kar Ke Teri Ankh Na Ho Sair'
-- 'id': '3_173_2'
+- 'id': '3_173_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'If lionʹs temper is to lamb revealed, | It will entirely make its blood congealed.'
   - 'lang': 'ro'
     'text': 'Bechare Ke Haq Mein Hai Yehi Sub Se Bara Zulm | Barre Pe Agar Faash Karain Qaeda-e-Sher'
-- 'id': '3_173_3'
+- 'id': '3_173_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Much good if regal point remains in heart: | In dominating men sword plays no part.'
   - 'lang': 'ro'
     'text': 'Seene Mein Rahe Raaz-e-Mulookana To Behter | Karte Nahin Mehkoom Ko Taegon Se Kabhi Zair'
-- 'id': '3_173_4'
+- 'id': '3_173_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Pour the self in cultureʹs acid strong; | When it becomes soft, mould it as you long.'
   - 'lang': 'ro'
     'text': 'Taleem Ke Tezaab Mein Daal Iss Ki Khudi Ko | Ho Jaye Malayam To Jidhar Chahe, Isse Phair'
-- 'id': '3_173_5'
+- 'id': '3_173_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

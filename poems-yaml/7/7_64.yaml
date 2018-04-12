@@ -8,14 +8,14 @@
   'text': '(64)'
 'description': []
 'sher':
-- 'id': '7_64_1'
+- 'id': '7_64_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'وفا ناآشنا بیگانہ خو بود | نگاہش بیقرار از جستجو بود'
   - 'lang': 'en'
     'text': 'Perfidious, cold, aloof, and all the time | In search of someone, with a restless eye,'
-- 'id': '7_64_2'
+- 'id': '7_64_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

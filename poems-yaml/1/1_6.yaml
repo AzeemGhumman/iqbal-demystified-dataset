@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem and the six which follow it are apologues with lessons and morals for children. This one has two lessons, viz. (i) that exquisite beauty exists in the whole creation of God, even in humble objects like the spider''s nest and the fly''s body. This must be admired, and (ii) falling to flattery is an evil which leads to destruction and must be avoided.'
 'sher':
-- 'id': '1_6_1'
+- 'id': '1_6_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'One day a spider said to a fly | "Though you pass this way daily'
   - 'lang': 'ro'
     'text': 'Ek Din Kisi Makhi Se Ye Kehne Laga Makra | Iss Rah Se Hota Hai Guzar Roz Tumhara'
-- 'id': '1_6_2'
+- 'id': '1_6_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'My hut has never been honored by you | By making a chance visit inside by you'
   - 'lang': 'ro'
     'text': 'Lekin Meri Kutiya Ki Na Jagi Kabhi Kismat | Bhoole Se Kabhi Tum Ne Yahan Paun Na Rakha'
-- 'id': '1_6_3'
+- 'id': '1_6_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Though depriving strangers of a visit does not matter | Evading the near and dear ones does not look good'
   - 'lang': 'ro'
     'text': 'Ghairon Se Na Miliye To Koi Baat Nahin Hai | Apno Se Magar Chahiye Yun Khinch Ke Na Rehna'
-- 'id': '1_6_4'
+- 'id': '1_6_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'My house will be honored by a visit by you | A ladder is before you if you decide to step in'
   - 'lang': 'ro'
     'text': 'Aao Jo Mere Ghar Mein To Izzat Hai Ye Meri | Woh Samne Seerhi Hai Jo Manzoor Ho Ana'
-- 'id': '1_6_5'
+- 'id': '1_6_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Hearing this the fly said to the spider, | "Sire, you should entice some simpleton thus'
   - 'lang': 'ro'
     'text': 'Makhi Ne Suni Baat Jo Makre Ki To Boli | Hazrat! Kisi Nadan Ko Dijiye Ga Ye Dhoka'
-- 'id': '1_6_6'
+- 'id': '1_6_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'This fly would never be pulled into your net | Whoever climbed your net could never step down"'
   - 'lang': 'ro'
     'text': 'Iss Jaal Mein Makhi Kabhi Aane Ki Nahin Hai | Jo Aap Ki Seerhi Pe Charha, Phir Nahin Utra'
-- 'id': '1_6_7'
+- 'id': '1_6_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'The spider said, "How strange, you consider me a cheat | I have never seen a simpleton like you in the world'
   - 'lang': 'ro'
     'text': 'Makre Ne Kaha Wah! Farebi Mujhay Samjhe | Tum Sa Koi Nadan Zamane Mein Na Ho Ga'
-- 'id': '1_6_8'
+- 'id': '1_6_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'I only wanted to entertain you | I had no personal gain in view'
   - 'lang': 'ro'
     'text': 'Manzoor Tumhari Mujhe Khatir Thi Wagarna | Kuch Faida Apna To Mera Iss Mein Nahin Tha'
-- 'id': '1_6_9'
+- 'id': '1_6_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'You have come flying from some unknown distant place | Resting for a while in my house would not harm you'
   - 'lang': 'ro'
     'text': 'Urti Huwi Ayi Ho Khuda Jane Kahan Se | Thehro Jo Mere Ghar Mein To Hai Iss Mein Bura Kya!'
-- 'id': '1_6_10'
+- 'id': '1_6_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Many things in this house are worth your seeing | Though apparently a humble hut you are seeing'
   - 'lang': 'ro'
     'text': 'Iss Ghar Mein Khai Tum Ko Dikhane Ki Hain Cheezain | Bahir Se Nazar Ata Hai Chotti Si Ye Kutiya'
-- 'id': '1_6_11'
+- 'id': '1_6_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Dainty drapes are hanging from the doors | And I have decorated the walls with mirrors'
   - 'lang': 'ro'
     'text': 'Latke Huay Darwazon Pe Bareek Hain Parde | Diwaron Ko Aaeyno Se Hai Mein Ne Sajaya'
-- 'id': '1_6_12'
+- 'id': '1_6_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'Beddings are available for guests’ comforts | Not to everyone’s lot do fall these comforts".'
   - 'lang': 'ro'
     'text': 'Mehmanon Ke Aaram Ko Hazir Hain Bichone | Her Shaks Ko Saman Ye Mayaser Nahin Hota'
-- 'id': '1_6_13'
+- 'id': '1_6_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'The fly said, "All this may very well be | But do not expect me to enter your house'
   - 'lang': 'ro'
     'text': 'Makhi Ne Kaha Khair, Ye Sub Theek Hai Lekin | Mein Aap Ke Ghar Aaun, Ye Umeed Na Rakhna'
-- 'id': '1_6_14'
+- 'id': '1_6_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
     'text': '"May God protect me from these soft beds | Once asleep in them getting up again is impossible"'
   - 'lang': 'ro'
     'text': 'In Naram Bichonon Se Khuda Mujh Ko Bachaye | So Jaye Koi In Pe To Phir Uth Nahin Sakta'
-- 'id': '1_6_15'
+- 'id': '1_6_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -145,7 +145,7 @@
     'text': 'The spider spoke to itself on hearing this talk | "How to trap it? This wretched fellow is clever'
   - 'lang': 'ro'
     'text': 'Makre Ne Kaha Dil Mein, Suni Baat Jo Uss Ki | Phansun Issay Kis Tarha Ye Kambakhat Hai Dana'
-- 'id': '1_6_16'
+- 'id': '1_6_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -154,7 +154,7 @@
     'text': 'Many desires are fulfilled with flattery in the world | All in the world are enslaved with flattery"'
   - 'lang': 'ro'
     'text': 'So Kaam Khushamad Se Nikalte Hain Jahan Mein | Dekho Jise Duniya Mein Khushamad Ka Hai Banda'
-- 'id': '1_6_17'
+- 'id': '1_6_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
     'text': 'Thinking this the spider spoke to the fly thus! | "Madam, God has bestowed great honors on you!'
   - 'lang': 'ro'
     'text': 'Ye Soch Ke Makhi Se Kaha Uss Ne Bari Bee ! | Allah Ne Bakhsha Hai Bara Aap Ko Rutba'
-- 'id': '1_6_18'
+- 'id': '1_6_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -172,7 +172,7 @@
     'text': 'Everyone loves your beautiful face | Even if someone sees you for the first time'
   - 'lang': 'ro'
     'text': 'Hoti Hai Ussay Aap Ki Soorat Se Mohhabat | Ho Jis Ne Kabi Aik Nazar Aap Ko Dekha'
-- 'id': '1_6_19'
+- 'id': '1_6_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
     'text': 'Your eyes look like clusters of glittering diamonds | God has adorned your beautiful head with a plume'
   - 'lang': 'ro'
     'text': 'Aankhain Hain Ke Heeray Ki Chamakti Huwi Kaniyan | Ser Aap Ka Allah Ne Kalgi Se Sajaya'
-- 'id': '1_6_20'
+- 'id': '1_6_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'This beauty, this dress, this elegance, this neatness! | And all this is very much enhanced by singing in flight".'
   - 'lang': 'ro'
     'text': 'Ye Husn, Ye Poshak, Ye Khubi, Ye Safai | Phir Iss Pe Qayamat Hai Ye Urte Huay Gana'
-- 'id': '1_6_21'
+- 'id': '1_6_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'The fly was touched by this flattery | And spoke, "I do not fear you any more'
   - 'lang': 'ro'
     'text': 'Makhi Ne Suni Jab Ye Khushamad To Pasiji | Boli Ke Nahin Aap Se Mujh Ko Koi Khatka'
-- 'id': '1_6_22'
+- 'id': '1_6_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -208,7 +208,7 @@
     'text': 'I hate the habit of declining requests | Disappointing somebody is bad indeed"'
   - 'lang': 'ro'
     'text': 'Inkar Ki Aadat Ko Samajhti Hun Bura Mein | Sach Ye Hai Ke Dil Torna Acha Nahin Hota'
-- 'id': '1_6_23'
+- 'id': '1_6_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -217,7 +217,7 @@
     'text': 'Saying this it flew from its place | When it got close the spider snapped it'
   - 'lang': 'ro'
     'text': 'Ye Baat Kahi Aur Uri Apni Jagha Se | Paas Ayi To Makre Ne Uchal Ker Ussay Pakra'
-- 'id': '1_6_24'
+- 'id': '1_6_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

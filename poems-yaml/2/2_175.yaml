@@ -8,7 +8,7 @@
   'text': 'FREEDOM OF THOUGHT'
 'description': []
 'sher':
-- 'id': '2_175_1'
+- 'id': '2_175_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Falling down is the destiny of that bird | Whose duality of nature renders him unable to fly.'
   - 'lang': 'ro'
     'text': 'Jo Dooni Fitrat Se Nahin Laik-e-Parwaz | Uss Murghak-e-Bechara Ka Anjaam Hai Uftaad'
-- 'id': '2_175_2'
+- 'id': '2_175_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Not every heart is an abode to the trusty Gabriel, | Nor can every thought ensnare the Paradise like a bird.'
   - 'lang': 'ro'
     'text': 'Har Seena Naheman Nahin Jibreel-e-Ameen Ka | Har Fikar Nahin Tair-e-Firdous Ka Sayyad'
-- 'id': '2_175_3'
+- 'id': '2_175_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The ecstasy of thought is dangerous in a nation | Where the individuals observe no rule.'
   - 'lang': 'ro'
     'text': 'Uss Qoum Mein Hai Shoukhi-e-Andesha Khatarnak | Jis Qoum Ke Afraad Hon Har Band Se Azad'
-- 'id': '2_175_4'
+- 'id': '2_175_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

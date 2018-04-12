@@ -8,14 +8,14 @@
   'text': 'XI-II'
 'description': []
 'sher':
-- 'id': '11_331_1'
+- 'id': '11_331_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ثباتش دہ کہ میر شش جہات است | بدست او زمام کائنات است'
   - 'lang': 'en'
     'text': 'To king of six nooks give a lasting soul, | Who holds the reins of the cosmos whole.'
-- 'id': '11_331_2'
+- 'id': '11_331_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

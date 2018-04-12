@@ -8,7 +8,7 @@
   'text': 'SOUL AND BODY'
 'description': []
 'sher':
-- 'id': '3_52_1'
+- 'id': '3_52_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Since times antique the mind of man, In complex problems is involved: | What is the source of clay‐born man, And how the soul has been evolved?'
   - 'lang': 'ro'
     'text': 'Aqal Muddat Se Hai Iss Pechaak Mein Uljhi Huwi | Rooh Kis Johar Se, Khaak-e-Teerah Kis Johar Se Hai'
-- 'id': '3_52_2'
+- 'id': '3_52_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Pain, anguish, glee and rapture sweet, Are spiritual states that man must face: | What is of much worth, cup or wine, Is knotty point you wish to trace?'
   - 'lang': 'ro'
     'text': 'Meri Mushkil, Masti-o-Shor-o-Suroor-o-Dard-o-Dagh | Teri Mushkil, Mai Se Hai Saghir Ke Mai-e-Saghir Se Hai'
-- 'id': '3_52_3'
+- 'id': '3_52_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

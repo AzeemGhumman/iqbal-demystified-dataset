@@ -8,7 +8,7 @@
   'text': 'SYRIA AND PALESTINE'
 'description': []
 'sher':
-- 'id': '3_176_1'
+- 'id': '3_176_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Heaven’s blessing on those brazen Frenchmen shine! | Aleppo’s rare glass brims with their red wine.'
   - 'lang': 'ro'
     'text': 'Rindan-e-Faransis Ka Maikhana Salamat | Pur Hai Mai-e-Gulrang Se Har Sheesha Halab Ka'
-- 'id': '3_176_2'
+- 'id': '3_176_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': '—If the Jew claims the soil of Palestine, | Why not the Arab Spain? Some new design'
   - 'lang': 'ro'
     'text': 'Hai Khak-e-Falasteen Pe Yahoodi Ka Agar Haq | Haspania Pe Haq Nahin Kyun Ahl-e-Arab Ka'
-- 'id': '3_176_3'
+- 'id': '3_176_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

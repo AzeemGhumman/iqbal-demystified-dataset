@@ -8,14 +8,14 @@
   'text': '(13)'
 'description': []
 'sher':
-- 'id': '7_13_1'
+- 'id': '7_13_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دلا نارائے پروانہ تا کی | نگیری شیوۂ مردانہ تا کی'
   - 'lang': 'en'
     'text': 'How long this moth-like fluttering, O heart? | Why do you not adopt a manlier part?'
-- 'id': '7_13_2'
+- 'id': '7_13_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'I-II'
 'description': []
 'sher':
-- 'id': '11_282_1'
+- 'id': '11_282_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'یکی از حجرۂ خلوت برون  ی | بباد صبحگاہی سینہ بگشای'
   - 'lang': 'en'
     'text': 'Leave thy solitude cell for a while please, | Ope thy bosom thus from the morning breeze.'
-- 'id': '11_282_2'
+- 'id': '11_282_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

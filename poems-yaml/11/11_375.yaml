@@ -8,7 +8,7 @@
   'text': 'III-V'
 'description': []
 'sher':
-- 'id': '11_375_1'
+- 'id': '11_375_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'worlds'
       'meaning': '        Andurz advice, a will, a maxim.'
       'occurrence': !!int '1'
-- 'id': '11_375_2'
+- 'id': '11_375_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

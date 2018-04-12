@@ -8,7 +8,7 @@
   'text': 'KNOWLEDGE AND LOVE'
 'description': []
 'sher':
-- 'id': '3_8_1'
+- 'id': '3_8_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Knowledge said to me, Love is madness; | Love said to me, Knowledge is calculation—'
   - 'lang': 'ro'
     'text': 'Ilm Ne Mujh Se Kaha Ishq Hai Diwana-Pan | Ishq Ne Mujh Se Kaha Ilm Hai Takhmeen-o-Zan'
-- 'id': '3_8_2'
+- 'id': '3_8_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'O slave of calculation, do not be a bookworm! | Love is Presence entire, Knowledge nothing but a Veil.'
   - 'lang': 'ro'
     'text': 'Band-e-Takhmeen-o-Zan! Kirm-e-Kitabi Na Ban | Ishq Sarapa Huzoor, Ilm Sarapa Hijab!'
-- 'id': '3_8_3'
+- 'id': '3_8_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The universe is moved by the warmth of Love; | Knowledge deals with the Attributes, Love is a vision of the Essence;'
   - 'lang': 'ro'
     'text': 'Ishq Ki Garmi Se Hai Maarka-e-Kainat | Ilm Maqam-e-Sifat, Ishq Tamasha-e-Zaat'
-- 'id': '3_8_4'
+- 'id': '3_8_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Love is peace and permanence, Love is Life and Death: | Knowledge is the rising question, Love is the hidden answer.'
   - 'lang': 'ro'
     'text': 'Ishq Sukoon-o-Sabat,Ishq Hayat-o-Mamat | Ilm Hai Paida Sawal, Ishq Hai Pinhan Jawab!'
-- 'id': '3_8_5'
+- 'id': '3_8_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Kingdom, faith and faqr are all miracles of Love; | The crowned kings and lords are base slaves of Love;'
   - 'lang': 'ro'
     'text': 'Ishq Ke Hain Maujazat Saltanat-o-Faqr-o-Deen | Ishq Ke Adna Ghulam Sahib-e-Taj-o-Nageen'
-- 'id': '3_8_6'
+- 'id': '3_8_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Love is the Space and the Creation, Love is Time and Earth! | Love is conviction entire, and conviction is the key!'
   - 'lang': 'ro'
     'text': 'Ishq Makan-o-Makeen, Ishq Zaman-o-Zameen | Ishq Sarapa Yaqeen, Aur Yaqeen Fatah-e-Bab!'
-- 'id': '3_8_7'
+- 'id': '3_8_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'The luxury of destination is forbidden in the religion of Love; | Fighting the storms is permitted, but the comfort of the shore is forbidden;'
   - 'lang': 'ro'
     'text': 'Shara-e-Mohabbat Mein Hai Ishrat-e-Manzil Haraam | Shorish-e-Toofan Halal, Lazzat-e-Sahil Haraam'
-- 'id': '3_8_8'
+- 'id': '3_8_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

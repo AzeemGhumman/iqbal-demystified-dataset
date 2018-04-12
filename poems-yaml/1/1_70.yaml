@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'In this poem also ‘Allamah Iqbal uses a common object like a cat in somebody’s lap for explaining a mystic truth. This mystic truth is the universality of the Love of God in everything in the universe. This concept is contained in the first verses of Surahs 59 , 61, 62 and 64 of the Holy Qur‘an, according to which everything in the universe is so intoxicated with the Love of God that either it spontaneously declares His praises and Glory or is about to do so.'
 'sher':
-- 'id': '1_70_1'
+- 'id': '1_70_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Who has taught you this glancing with shyness? | Who has taught you the riddle of Love’s initiation?'
   - 'lang': 'ro'
     'text': 'Tujh Ko Duz Didah Nigahi Ye Sikha Di Kis Ne | Ramz Aghaz-e-Mohabbat Ki Bata Di Kis Ne'
-- 'id': '1_70_2'
+- 'id': '1_70_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Love comes out of each grace of yours | Wit is dripping from the blue eyes of yours'
   - 'lang': 'ro'
     'text': 'Har Ada Se Teri Paida Hai Mohabat Kaisi | Neeli Ankhon Se Tapakti Hai Zakawat Kaisi'
-- 'id': '1_70_3'
+- 'id': '1_70_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'You see him sometimes, you shy away sometimes | Rise up sometimes, lie down and sleep sometimes'
   - 'lang': 'ro'
     'text': 'Dekhti Hai Kabhi In Ko, Kabhi Sharmati Hai | Kabhi Uthti Hai, Kabhi Lait Ke So Jati Hai'
-- 'id': '1_70_4'
+- 'id': '1_70_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Is your eye bewildered like the mirror? | Are you recognized by the glow of knowledge?'
   - 'lang': 'ro'
     'text': 'Ankh Teri Sift-e-Aaeena Heran Hai Kya | Noor-e-Agahi Se Roshan Teri Pehchan Hai Kya'
-- 'id': '1_70_5'
+- 'id': '1_70_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'You strike him with wrists, this is a strange playfulness! | Is it aversion or anger? Or a way of Love it is?'
   - 'lang': 'ro'
     'text': 'Maarti Hai Inhain Ponhchon Se, Ajab Naaz Hai Ye | Chair Hai, Gussa Hai Ya Pyar Ka Andaz Hai Ye?'
-- 'id': '1_70_6'
+- 'id': '1_70_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'You will be removed from the lap if you will be naughty | You will be beaten if the flower on the breast will fall'
   - 'lang': 'ro'
     'text': 'Shaukh Tu Ho Gi To Godi Se Utarain Ge Tujhe | Gir Gya Phool Jp Seene Ka To Marain Ge Tujhe'
-- 'id': '1_70_7'
+- 'id': '1_70_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'What are you longing for? What are you seeking? | Ah! Are you also in Love with the same thing?'
   - 'lang': 'ro'
     'text': 'Kya Tajasus Hai Tujhe, Kis Ki Tamanai Hai | Ah! Kya Tu Bhi Issi Cheez Ki Sodayi Hai'
-- 'id': '1_70_8'
+- 'id': '1_70_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'The feeling for Beauty is not special to Man | Like the heart it is present in everything'
   - 'lang': 'ro'
     'text': 'Khas Insan Se Kuch Husn Ka Ehsas Nahin | Soorat-e-Dil Hai Ye Har Cheez Ke Batin Mein Makeen'
-- 'id': '1_70_9'
+- 'id': '1_70_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'In the flask of time Love is like the pure wine | Love is the sun’s spirit, and the blood in moon’s veins'
   - 'lang': 'ro'
     'text': 'Sheesha-e-Dehr Mein Manind-e-Mai-e-Naab Hai Ishq | Rooh-e-Khursheed Hai, Khoon-e-Rag-e-Mehtab Hai Ishq'
-- 'id': '1_70_10'
+- 'id': '1_70_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Its pain is concealed in every speck’s core | This is the light which is reflected in everything'
   - 'lang': 'ro'
     'text': 'Dil-e-Har Zarra Mein Poshida Kasak Haai Iss Ki | Noor Ye Wo Hai Ke Har Shay Mein Jhalak Hai Uss Ki'
-- 'id': '1_70_11'
+- 'id': '1_70_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'I-XII'
 'description': []
 'sher':
-- 'id': '11_173_1'
+- 'id': '11_173_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز رازی حکمت قرآن بیاموز | چراغی از چراغ او بر افروز'
   - 'lang': 'en'
     'text': 'From Razi thus learn the Quran’s insight, | From his lamp he lit up his own lamp’s light.'
-- 'id': '11_173_2'
+- 'id': '11_173_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

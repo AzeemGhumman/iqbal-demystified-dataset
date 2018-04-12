@@ -8,14 +8,14 @@
   'text': 'XV-XIV'
 'description': []
 'sher':
-- 'id': '11_273_1'
+- 'id': '11_273_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'شتر را بچہ او گفت در دشت | نمی بینم خدای چار سو را'
   - 'lang': 'en'
     'text': 'To a camel addressed its youngest foal, | No God I have seen in the desert whole.'
-- 'id': '11_273_2'
+- 'id': '11_273_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This group of twenty nine poems are sarcasm on the contemporary political-social-economic problems. Many of them were written in the early part of ‘Allamah Iqbal’s literary career and most of them refer to the affairs of the Indian sub-continent. Hence, there is a good amount of local color in the choice of words and expressions. ‘Allamah Iqbal is reported to have been of a pleasant and amiable temperament when in social circles and his letters reveal a fair amount of humor. However, his serious views on the matters contained in these humorous poems prevailed over his pleasant nature and in some poems he has not been able to avoid passing into serious discourse. The last poem (147-29) is an example of this.'
 'sher':
-- 'id': '1_172_1'
+- 'id': '1_172_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mashriq Mein Asool Deen Ban Jate Hain | Maghrib Mein Magar Machine Ban Jate Hain'
-- 'id': '1_172_2'
+- 'id': '1_172_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'We do not retain even one of them | There one is changed into three'
   - 'lang': 'ro'
     'text': 'Rehta Nahin Aik Bhi Humare Palle | Waan Aik Ke Teen Teen Ban Jate Hain'
-- 'id': '1_172_3'
+- 'id': '1_172_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'The girls are learning English | The nation prosperity’s way has found'
   - 'lang': 'ro'
     'text': 'Larkiyan Parh Rahi Hain Angraizi | Dhoond Li Qoum Ne Falah Ki Rah'
-- 'id': '1_172_4'
+- 'id': '1_172_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'The ways of the West are in view | Eastern ways sinful are found'
   - 'lang': 'ro'
     'text': 'Rawish-e-Maghrabi Hai Madd-e-Nazar | Wazaa-e-Mashriq Ko Jante Hain Gunah'
-- 'id': '1_172_5'
+- 'id': '1_172_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'What scenes will this drama produce? | On curtain’s rising this will be found'
   - 'lang': 'ro'
     'text': 'Ye Drama Dikhaye Ga Kya Seen | Parda Uthne Ki Muntazir Hai Nigah'
-- 'id': '1_172_6'
+- 'id': '1_172_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'The Shaikh also is not a supporter of women’s seclusion | The college boys unnecessarily suspicious of him became'
   - 'lang': 'ro'
     'text': 'Shiekh Sahib Bhi To Parde Ke Koi Haami Nahin | Muft Mein Collge Ke Larke Un Se Badzan Ho Gye'
-- 'id': '1_172_7'
+- 'id': '1_172_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Waaz Mein Farma Diya Kal Aap Ne Ye Saaf Saaf | “Parda Akhir Kis Se Ho Jab Mard Hi Zan Ho Gye”'
-- 'id': '1_172_8'
+- 'id': '1_172_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -90,7 +90,7 @@
     'text': 'O wise man! This is a matter of a few days only | Neither you will be modest nor woman will seclusion want'
   - 'lang': 'ro'
     'text': 'Ye Koi Din Ki Baat Hai Ae Mard-e-Hosh Mand! | Ghairat Na Tujh Mein Ho Gi, Na Zan Owt Chahe Gi'
-- 'id': '1_172_9'
+- 'id': '1_172_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -99,7 +99,7 @@
     'text': 'That time is approaching when instead of children | Votes for the council’s membership will she want'
   - 'lang': 'ro'
     'text': 'Ata Hai Ab Woh Dour Ke Aulad Ke Ewz | Council Ki Member Ke Liye Vote Chahe Gi'
-- 'id': '1_172_10'
+- 'id': '1_172_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -108,7 +108,7 @@
     'text': 'Western education is very encouraging | Its first lesson is to brag sitting in the college'
   - 'lang': 'ro'
     'text': 'Taleem-e-Maghrabi Hai Bohat Juraat Afreen | Pehla Sabaq Hai, Baith Ke College Mein Maar Deeng'
-- 'id': '1_172_11'
+- 'id': '1_172_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -117,7 +117,7 @@
     'text': 'As only the purchasers inhabit India | Afghans also bring assafoetida from their country'
   - 'lang': 'ro'
     'text': 'Baste Hain Hind Mein Jo Khareedar Hi Faqat | Agha Bhi Le Ate Hain Apne Watan Se Heeng'
-- 'id': '1_172_12'
+- 'id': '1_172_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -126,7 +126,7 @@
     'text': 'My condition is that I lick the toe of the boot | She says “Beware do not be crawling on my carpet”'
   - 'lang': 'ro'
     'text': 'Mera Ye Haal, Boot Ki Tou Chatta Hun Main | Un Ka Ye Hukam, Dekh! Mere Farash Par Na Reeng'
-- 'id': '1_172_13'
+- 'id': '1_172_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -135,7 +135,7 @@
     'text': 'The camel is said to be a somewhat clumsy animal | The cow is good as she has slender horns'
   - 'lang': 'ro'
     'text': 'Kehne Lage Ke Unth Hai Bhadda Sa Janwar | Achi Hai Gaye, Rakhti Hai Ka Naukdar Seeng'
-- 'id': '1_172_14'
+- 'id': '1_172_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -144,7 +144,7 @@
     'text': 'It does not matter if the preacher is poor | He should bend to the new civilization'
   - 'lang': 'ro'
     'text': 'Kuch Gham Nahin Jo Hazrat-e-Waaiz Hain Tang Dast | Tehzeeb-e-Nau Ke Samne Sar Apna Kham Karain'
-- 'id': '1_172_15'
+- 'id': '1_172_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -157,7 +157,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Rad-e-Jihad Mein To Bohat Kuch Likha Gya | Tardeed-e-Hajj Mein Koi Risala Raqam Karain'
-- 'id': '1_172_16'
+- 'id': '1_172_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tehzeeb Ke Mareez Ko Goli Se Faida! | Dafa-e-Marz Ke Waaste ‘Pill’ Paish Kijiye'
-- 'id': '1_172_17'
+- 'id': '1_172_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'There was a time when in exchange for the teacher’s services | One wanted that the gift of the heart he should present!'
   - 'lang': 'ro'
     'text': 'The Woh Bhi Din Ke Khidmat-e-Ustad Ke Ewz | Dil Chahta Tha Hadiya-e-Dil Paish Kijiye'
-- 'id': '1_172_18'
+- 'id': '1_172_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'Times have changed so much that the pupil after the lesson | Says to the teacher “You should present the bill”'
   - 'lang': 'ro'
     'text': 'Badla Zamana Aesa Ke Larka Pas Az Sabaq | Kehta Hai Master Se Ke “Bill Paish Kijiye!”'
-- 'id': '1_172_19'
+- 'id': '1_172_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'Will there be an end to this, how long should we buy | Umbrellas, handkerchiefs, mufflers, shirts from Japan'
   - 'lang': 'ro'
     'text': 'Intiha Bhi Iss Ki Hai? Akhir Khareedain Kab Talak | Chatriyan, Rumal, Maflar, Pairhan Japan Se'
-- 'id': '1_172_20'
+- 'id': '1_172_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -206,7 +206,7 @@
     'text': 'If this condition of our complacence continues | Washers of the dead will come from Kabul, shrouds from Japan'
   - 'lang': 'ro'
     'text': 'Apni Ghaflat Ki Yehi Halat Agar Qaeem Rahi | Ayen Ge Ghussal Kabul Se, Kafan Japan Se'
-- 'id': '1_172_21'
+- 'id': '1_172_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -215,7 +215,7 @@
     'text': 'We poor Easterners have been entangled in the West | All crystal decanters are there, only an old earthen jar is here'
   - 'lang': 'ro'
     'text': 'Hum Mashriq Ke Maskeenon Ka Dil Maghrib Mein Ja Atka Hai | Waan Kantar Sub Ballori Hain Yaan Aik Purana Matka Hai'
-- 'id': '1_172_22'
+- 'id': '1_172_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -224,7 +224,7 @@
     'text': 'All will be annihilated in this age except the one | Who established in his ways and firm in his thought is'
   - 'lang': 'ro'
     'text': 'Iss Dour Mein Sub Mit Jaen Ge, Haan! Baqi Woh Rehjaye Ga | Jo Qaeem Apni Rah Pe Hai Aur Pakka Apni Hat Ka Hai'
-- 'id': '1_172_23'
+- 'id': '1_172_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -233,7 +233,7 @@
     'text': 'O Shaikh and Brahman do you listen to what people with insight say? | Heaven from great heights has thrown down those nations'
   - 'lang': 'ro'
     'text': 'Ae Shiekh-o-Barhman, Sunte Ho! Kya Ahl-e-Basirat Kehte Hain | Gardoon Ne Kitni Bulandi Se In Qoumon Ko De Tapka Hai'
-- 'id': '1_172_24'
+- 'id': '1_172_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -246,7 +246,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ya Baham Pyar Ke Jalse The, Dastoor-e-Mohabbat Qaeem Tha | Ya Behas Mein Urdu Hindi Hai Ya Qurbani Ya Jhatka Hai'
-- 'id': '1_172_25'
+- 'id': '1_172_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -255,7 +255,7 @@
     'text': '“The search, the witness and the thing witnessed are the same” | If this saying of Ghalib is true there is no strangeness'
   - 'lang': 'ro'
     'text': '“Asal-e-Shuhood-o-Shahid-o-Mashood Aik Hai” | Ghalib Ka Qoul Sach Hai To Phir Zikr-e-Ghair Kya'
-- 'id': '1_172_26'
+- 'id': '1_172_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -264,7 +264,7 @@
     'text': 'O Shaikh! Have you heard something? | What the temple’s people’s say to the Ka`bah’s people!'
   - 'lang': 'ro'
     'text': 'Kyun Ae Janab-e-Sheikh! Suna App Ne Bhi Kuch | Kehte The Kaabe Se Kal Ahle-e-Dair Kya'
-- 'id': '1_172_27'
+- 'id': '1_172_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -273,7 +273,7 @@
     'text': '“We ask the Muslim with the disposition of a lover | If you love the idols why is enmity with the Brahman?”'
   - 'lang': 'ro'
     'text': 'Hum Puchte Hain Muslim-e-Ashiq Mazaj Se | Ulfat Buton Se Hai To Barhman Se Bair Kya!'
-- 'id': '1_172_28'
+- 'id': '1_172_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -282,7 +282,7 @@
     'text': 'We have lost all material resources | The thought of Judgment Day has gone also'
   - 'lang': 'ro'
     'text': 'Hathon Se Apne Daman-e-Duya Nikal Gya | Rukhsat Huwa Dilon Se Khiyal-e-Ma’ad Bhi'
-- 'id': '1_172_29'
+- 'id': '1_172_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -295,7 +295,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Qunoon-e-Waqf Ke Liye Larte The Sheikh Ji | Pucho To, Waqf Ke Liye Hai Jaidad Bhi!'
-- 'id': '1_172_30'
+- 'id': '1_172_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -304,7 +304,7 @@
     'text': 'As I tried to commit suicide the Miss exclaimed | “O lover! If you are civilized do not transgress the limits'
   - 'lang': 'ro'
     'text': 'Woh Miss Boli Irada Khudkushi Ka Jab Kiya Main Ne | Muhazzib Hai Tu Ae Ashiq! Qadam Bahir Na Dhar Had Se'
-- 'id': '1_172_31'
+- 'id': '1_172_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -313,7 +313,7 @@
     'text': 'Without courage or dagger suicide’s intention is strange | Even granting your pain of failure has exceeded the limits”'
   - 'lang': 'ro'
     'text': 'Na Juraat Hai, Na Khanjar Hai To Qasad-e-Khudkushi Kaisa | Ye Mana Dard-e-Nakami Gya Tera Guzr Had Se'
-- 'id': '1_172_32'
+- 'id': '1_172_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -322,7 +322,7 @@
     'text': 'I said, “O dear, give me some cash | I shall hire some Afghan from the Frontier Province”'
   - 'lang': 'ro'
     'text': 'Kaha Main Ke Ae Jaan-e-Jahan Kuch Naqad Dilwa Do | Karaye Par Mangwa Loon Ga Koi Afghan Sarhad Se'
-- 'id': '1_172_33'
+- 'id': '1_172_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -331,7 +331,7 @@
     'text': 'So naive were they not to appreciate the Arabs’ worth | What they got was that assault and battery they escaped not'
   - 'lang': 'ro'
     'text': 'Nadan The Iss Qadar Ke Na Jani Arab Ki Qadar | Hasil Huwa Yehi, Na Bache Maar Peet Se'
-- 'id': '1_172_34'
+- 'id': '1_172_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -340,7 +340,7 @@
     'text': 'In the West camel is called ship of the desert | The Turks made use of this fleet not'
   - 'lang': 'ro'
     'text': 'Maghrib Mein Hai Jahaz-e-Byaban Shutar Ka Naam | Turkon Ne Kaam Kuch Na Liya Iss Fleet Se'
-- 'id': '1_172_35'
+- 'id': '1_172_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -349,7 +349,7 @@
     'text': 'In India councils are a part of the government | This is the start of our political perfection'
   - 'lang': 'ro'
     'text': 'Hindustan Mein Juzw-e-Hukumat Hain Councilain | Aghaz Hai Humare Siasi Kamal Ka'
-- 'id': '1_172_36'
+- 'id': '1_172_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -362,7 +362,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hum Tou Faqeer The Hi, Humara Tou Kaam Tha | Sikhain Saliqa Ab Umra Bhi ‘Sawal’ Ka'
-- 'id': '1_172_37'
+- 'id': '1_172_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -371,7 +371,7 @@
     'text': 'Membership of the Imperial council is not at all difficult | Votes will be available; Will we be paid money also?'
   - 'lang': 'ro'
     'text': 'Memberi Imperial Council Ki Kuch Mushkil Nahin | Vote To Mil Jaen Ge, Paise Bhi Dilwaen Ge Kya?'
-- 'id': '1_172_38'
+- 'id': '1_172_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -380,7 +380,7 @@
     'text': 'May God bless Mirza Ghalib, who has rightly said | “We are prepared to live in Delhi, how shall we subsist”?'
   - 'lang': 'ro'
     'text': 'Mirza Ghalib, Khuda Bakhse Baja Farma Gye | “Hum Ne Ye Mana Ke Dili Mein Rahain, Khaen Ge Kya?”'
-- 'id': '1_172_39'
+- 'id': '1_172_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -389,7 +389,7 @@
     'text': 'What will be a better proof of affection and fidelity | With no love for you how intolerable will this cruelty be'
   - 'lang': 'ro'
     'text': 'Daleel-e-Mehr-o-Wafa Iss Se Barh Ke Kya Ho Gi | Na Ho Huzoor Se Ulfat To Ye Sitam Na Sahain'
-- 'id': '1_172_40'
+- 'id': '1_172_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -402,7 +402,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Musir Hai Halqa, Committee Mein Kuch Kahain Hum Bhi | Magar Razaye Collector Ko Bhanp Lain To Kahain'
-- 'id': '1_172_41'
+- 'id': '1_172_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -411,7 +411,7 @@
     'text': 'Obtain the testimonial, it will be of use for sons | He is favorable now, later he may or may not be'
   - 'lang': 'ro'
     'text': 'Sanad To Lijiye, Larkon Ke Kaam Aye Ge | Woh Mehrban Hain Ab, Phir Rahain Rahain Na Rahain'
-- 'id': '1_172_42'
+- 'id': '1_172_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -420,7 +420,7 @@
     'text': 'Indians cannot find a place on the earth | But the oceans’ bottom available may be'
   - 'lang': 'ro'
     'text': 'Zameen Parto Nahin Hindiyon Ko Ja Milti | Magar Jahan Mein Hain Khali Samundar Ki Tehain'
-- 'id': '1_172_43'
+- 'id': '1_172_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -429,7 +429,7 @@
     'text': 'Like the insensitive boat we are subservient to orders | We are bound to the bank or float as your desire may be'
   - 'lang': 'ro'
     'text': 'Misal-e-Kashti-e-Behiss Matee-e-Farman Hain | Kaho To Basta-e-Sahil Rahain, Kaho To Bahain'
-- 'id': '1_172_44'
+- 'id': '1_172_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -438,7 +438,7 @@
     'text': 'The Shaikh was giving a sermon on the mode of operation | “The infidels of India are very hard working in business'
   - 'lang': 'ro'
     'text': 'Farma Rahe The Shiekh Tareeq-e-Amal Pe Waaz | Kuffar Hind Ke Hain Tijarat Mein Sakht Kosh'
-- 'id': '1_172_45'
+- 'id': '1_172_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -447,7 +447,7 @@
     'text': 'Polytheists are those having trade relations with polytheists | But our nation’s people are lacking in intelligence and sense'
   - 'lang': 'ro'
     'text': 'Mushriq Hain Woh Jo Rakhte Hain Mushriq Se Lain Dain | Lekin Humari Qoum Hai Mehroom-e-Aqal-o-Hosh'
-- 'id': '1_172_46'
+- 'id': '1_172_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -456,7 +456,7 @@
     'text': 'Unclean is the article touched by the infidel | Should listen if Muslim’s ears are amenable to truth!'
   - 'lang': 'ro'
     'text': 'Napaak Cheez Hoti Hai Kafir Ke Hath Ki | Sun Le, Agar Hai Gosh Musalman Ka Haq Neewosh'
-- 'id': '1_172_47'
+- 'id': '1_172_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -465,7 +465,7 @@
     'text': 'A drunkard was also present in the sermon’s assembly | To whom such talks as those of the preacher were irksome'
   - 'lang': 'ro'
     'text': 'Ek Badah Kash Bhi Waaz Ki Mehfil Mein Tha Shareek | Jis Ke Liye Nasihat-e-Waaiz Thi Baar-e-Gosh'
-- 'id': '1_172_48'
+- 'id': '1_172_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -474,7 +474,7 @@
     'text': 'He said, “It is atrocious that in such restrictions | Are imprisoned the dealings in articles of eating and drink”'
   - 'lang': 'ro'
     'text': 'Kehne Laga Sitam Hai Ke Aese Quyood Ki | Paband Ho Tijarat-e-Saman-e-Khurd-o-Nosh'
-- 'id': '1_172_49'
+- 'id': '1_172_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -487,7 +487,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Main Ne Kaha Ke App Ko Mushkil Nahin Koi | Hindustan Mein Hain Kalmia Go Bhi Mai Farosh'
-- 'id': '1_172_50'
+- 'id': '1_172_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -496,7 +496,7 @@
     'text': 'Let us see how long this business of the East lasts | People are buying cups and jars instead of din’s goblets'
   - 'lang': 'ro'
     'text': 'Dekhiye Chalti Hai Mashriq Ki Tijarat Kab Tak | Shisha-e-Deen Ke Ewz Jaam-o-Saboo Leta Hai'
-- 'id': '1_172_51'
+- 'id': '1_172_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -505,7 +505,7 @@
     'text': 'The cure of Love is the new education’s lancet | My surgeon is drawing blood from the Millat’s vein'
   - 'lang': 'ro'
     'text': 'Hai Madawaye Junoon Nashtar-e-Taleem-e-Jadeed | Mera Sarjan Rag-e-Millat Se Lahoo Leta Hai'
-- 'id': '1_172_52'
+- 'id': '1_172_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -514,7 +514,7 @@
     'text': 'The cow one day started saying to the camel | Nothing in the world rests in one condition'
   - 'lang': 'ro'
     'text': 'Gaye Ek Roz Huwi Unth Se Yun Garm-e-Sukhan | Nahin Ek Haal Pe Dunya Mein Kisi Shay Ko Qarar'
-- 'id': '1_172_53'
+- 'id': '1_172_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -523,7 +523,7 @@
     'text': 'I am ignominious by breaking my rope | I hear you have also broken your nose string'
   - 'lang': 'ro'
     'text': 'Main To Badnaam Huwi Tor Ke Rassi Apni | Sunti Hun App Ne Bhi Tor Ke Rakh Di Hai Muhar'
-- 'id': '1_172_54'
+- 'id': '1_172_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -532,7 +532,7 @@
     'text': 'Though you are important in India for political reasons | But due to railway the Arabian desert finds no use for you'
   - 'lang': 'ro'
     'text': 'Hind Mein App Tawazooye Siasat Hain Aham | Rail Chalne Se Magar Dasht-e-Arab Mein Baikar'
-- 'id': '1_172_55'
+- 'id': '1_172_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -541,7 +541,7 @@
     'text': 'Till yesterday you were avoiding the cow’s companionship | The voice of ‘never’ on your hanging lips was persistent'
   - 'lang': 'ro'
     'text': 'Kal Talak App Ko Tha Gaye Ki Mehfil Se Hazar | Thi Latakte Huwe Honton Pe Sadaye Zanhaar'
-- 'id': '1_172_56'
+- 'id': '1_172_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -550,7 +550,7 @@
     'text': 'What is the matter that you are so favorable to me today | That old displeasure does not exist in your heart today'
   - 'lang': 'ro'
     'text': 'Aaj Ye Kya Hai Ke Hum Par Hai Inayat Itni | Na Taha Aaeena-e-Dil Mein Woh Deerina Ghubaar'
-- 'id': '1_172_57'
+- 'id': '1_172_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -559,7 +559,7 @@
     'text': 'Hearing this speech the camel bashfully said | I am also to be counted among your lovers'
   - 'lang': 'ro'
     'text': 'Jab Ye Taqreer Suni Unth Ne, Sharma Ke Kaha | Hai Tere Chahne Walon Mein Hamara Bhi Shumaar'
-- 'id': '1_172_58'
+- 'id': '1_172_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -568,7 +568,7 @@
     'text': 'The envy of hundreds of camel’s ogle is your one frisk | Since long I am the lover of such a frisk'
   - 'lang': 'ro'
     'text': 'Rashak-e-Sad Ghamzada-e-Ushtar Hai Teri Aik Kulail | Hum To Hain Aesi Kulailon Ke Purane Bimaar'
-- 'id': '1_172_59'
+- 'id': '1_172_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -577,7 +577,7 @@
     'text': 'The effects of your tumults have spread in the forest such | That speech has produced its taste even among the speechless'
   - 'lang': 'ro'
     'text': 'Tere Hangamon Ki Taseer Ye Phaili Ban Mein | Be-Zubanon Mein Bhi Paida Hai Mazaq-e-Guftar'
-- 'id': '1_172_60'
+- 'id': '1_172_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -586,7 +586,7 @@
     'text': 'I am living only in one desert since a long time | As I have nothing I am fed on borrowed money'
   - 'lang': 'ro'
     'text': 'Aik Hi Ban Mein Hai Muddat Se Basera Apna | Gharche Kuch Paas Nahin, Chara Bhi Khate Hain Udhar'
-- 'id': '1_172_61'
+- 'id': '1_172_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -595,7 +595,7 @@
     'text': 'If goat, camel, cow, leopard and the lame donkey | All exist in the same condition we shall have prestige'
   - 'lang': 'ro'
     'text': 'Go Safand-o-Shutar-o-Gao-o-Palang-o-Khar-e-Lang | Aik Hi Rang Mein Rangeen Hon To Hai Apna Waqar'
-- 'id': '1_172_62'
+- 'id': '1_172_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -604,7 +604,7 @@
     'text': 'If the gardener learns the lesson of uniformity | Why should not the gardens’ birds live in harmony'
   - 'lang': 'ro'
     'text': 'Baghban Ho Sabaq Amoz Jo Yak Rangi Ka | Hum-Zuban Ho Ke Rahain Kyun Na Tayoor-e-Gulzar'
-- 'id': '1_172_63'
+- 'id': '1_172_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -613,7 +613,7 @@
     'text': 'Give me also the same cup as only this appears proper | You should be intoxicated, your companions should also be intoxicated'
   - 'lang': 'ro'
     'text': 'De Wohi Jam Humain Bhi Ke Manasib Hai Yehi | Tu Bhi Sarshaar Ho, Tere Rufaqa Bhi Sarshaar'
-- 'id': '1_172_64'
+- 'id': '1_172_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -622,7 +622,7 @@
     'text': '“The patched garment of Hafiï is worthless, color him with wine | Then bring him to the market, lost and intoxicated'
   - 'lang': 'ro'
     'text': '“Dalaq-e-Hafiz Bacha Arzad Ba Maish Rangeen Kun | Wanghash  Mast-o-Kharab Azrah-e-Bazar Byar”'
-- 'id': '1_172_65'
+- 'id': '1_172_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -631,7 +631,7 @@
     'text': 'Last night the mosquito related to me | The whole story of his failures'
   - 'lang': 'ro'
     'text': 'Raat Machar Ne Keh Diya Mujh Se | Majra Apni Na-Tamami Ka'
-- 'id': '1_172_66'
+- 'id': '1_172_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -640,7 +640,7 @@
     'text': '“They give me only one drop of blood | In return for the whole night’s labor'
   - 'lang': 'ro'
     'text': 'Mujh Ko Dete Hain Aik Boond Lahoo | Sila Shab Bhar Ki Tashna Kaami Ka'
-- 'id': '1_172_67'
+- 'id': '1_172_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -649,7 +649,7 @@
     'text': 'And this land owner without any effort | Sucked all the blood of the cultivator”'
   - 'lang': 'ro'
     'text': 'Aur Ye Biswadar Be-Zehmat | Pe Gya Sub Lahoo Asami Ka'
-- 'id': '1_172_68'
+- 'id': '1_172_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -658,7 +658,7 @@
     'text': 'This new `verse’ was revealed to me from the jail | That the Qur’an is in the Gata and the Gata is in the Qur’an'
   - 'lang': 'ro'
     'text': 'Ye Aaya-e-Nau, Jail Se Nazil Huwi Mujh Par | Gita Mein Hai Quran To Quran Mein Geeta'
-- 'id': '1_172_69'
+- 'id': '1_172_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -667,7 +667,7 @@
     'text': 'How well friendship developed between Shaikh and Brahman | In this battle after all neither this nor that was winning'
   - 'lang': 'ro'
     'text': 'Kya Khoob Huwi Aashti-e-Sheikh-o-Barhman | Iss Jang Mein Akhir Na Ye Hara Na Woh Jeeta'
-- 'id': '1_172_70'
+- 'id': '1_172_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -680,7 +680,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mandar Se To Bezar Tha Pehle Hi Se ‘Badri’ | Masjid Se Nikalta Nahin, Ziddi Hai ‘Masita’'
-- 'id': '1_172_71'
+- 'id': '1_172_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -689,7 +689,7 @@
     'text': 'Life may be lost but truth should not be lost | This one principle is the core of all religions'
   - 'lang': 'ro'
     'text': 'Jaan Jaye Hath Se Jaye Na Sat | Hai Yehi Ek Baat Har Mazhab Ka Tat'
-- 'id': '1_172_72'
+- 'id': '1_172_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -698,7 +698,7 @@
     'text': 'They are the birds of the same feather, | Banking, landlordship, monarchy'
   - 'lang': 'ro'
     'text': 'Chatte Batte Aik Hi Thaili Ke Hain | Sahu-Kari, Biswah Dari, Saltanat'
-- 'id': '1_172_73'
+- 'id': '1_172_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -707,7 +707,7 @@
     'text': 'Capital and labor are in confrontation with each other | Let us see how many people’s expectations are destroyed'
   - 'lang': 'ro'
     'text': 'Mehnat-o-Sarmaya Dunya Mein Saf Aara Ho Gye | Dekhiye Hota Hai Kis Kis Ki Tamanaon Ka Khoon'
-- 'id': '1_172_74'
+- 'id': '1_172_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -720,7 +720,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hikmat-o-Tadbeer Se Ye Fitna-e-Ashob | Tal Nahin Sakta ''Wa Qad Quntum Bihi Tastaajiloon'''
-- 'id': '1_172_75'
+- 'id': '1_172_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -733,7 +733,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': '‘Khul Gye’ Yajooj Majooj Ke Lashkar Tamam | Chashme-e-Muslim Dekh Le Tafseer-e-Harf-e- ‘Yansiloon’'
-- 'id': '1_172_76'
+- 'id': '1_172_076'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -746,7 +746,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sham Ki Sarhad Se Rukhsat Hai Woh Rind-e-Lam-Yazil | Rakh Ke Maikhane Ke Sare Qaeede Balaye Taaq'
-- 'id': '1_172_77'
+- 'id': '1_172_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -755,7 +755,7 @@
     'text': 'If so, how much is this the occasion for admonition | The blue sky changes its colors in a moment'
   - 'lang': 'ro'
     'text': 'Ye Agar Sach Hai To Hai Kis Darja Ibrat Ka Maqam | Rang Ek Pal Mein Badal Jata Hai Ye Neeli Riwaaq'
-- 'id': '1_172_78'
+- 'id': '1_172_078'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -768,7 +768,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hazrat-e-Karzon Ko Ab Fikr-e-Madawa Hai Zaroor | Hukm Baradari Ke Maide Mein Hai Dard-e-La Yutaaq'
-- 'id': '1_172_79'
+- 'id': '1_172_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -781,7 +781,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Wafad Hindustan Se Karte Hain Sir Agha Khan Talab | Kya Ye Chooran Hai Pe-e-Hazm-e-Falasteen-o-Iraq'
-- 'id': '1_172_80'
+- 'id': '1_172_080'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -790,7 +790,7 @@
     'text': 'One day a dispute arose between the farmer and the owner | Each of them was saying that the land belonged to him'
   - 'lang': 'ro'
     'text': 'Takrar Thi Mazara-o-Malik Men Aik Roz | Dono Ye Keh Rahe The, Mera Maal Hai Zameen'
-- 'id': '1_172_81'
+- 'id': '1_172_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -799,7 +799,7 @@
     'text': 'The farmer said that the field belonged to the cultivator | The owner said that the farmer had become demented'
   - 'lang': 'ro'
     'text': 'Kehta Tha Woh, Kare Jo Zaraat Ussi Ka Kahait | Kehta Tha Ye Ke Aqal Thikane Teri Nahin'
-- 'id': '1_172_82'
+- 'id': '1_172_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -808,7 +808,7 @@
     'text': 'I asked the land as to whose property it was | It replied that it was believing only this:'
   - 'lang': 'ro'
     'text': 'Pucha Zameen Se Main Ne Ke Hai Kis Ka Maal Tu | Boli Mujhe To Hai Faqt Iss Baat Ka Yaqeen'
-- 'id': '1_172_83'
+- 'id': '1_172_083'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -817,7 +817,7 @@
     'text': 'Whether it be the owner or the wretched farmer | Whatever is under the sky is property of the land'
   - 'lang': 'ro'
     'text': 'Malik Hai Ya Mazara-e-Shourida Haal Hai | Jo Zair-e-Asman Hai, Woh Dharti Ka Maal Hai'
-- 'id': '1_172_84'
+- 'id': '1_172_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -826,7 +826,7 @@
     'text': 'Throw them out in the alley | The new civilization’s eggs are rotten'
   - 'lang': 'ro'
     'text': 'Utha Kar Phaink Do Bahir Gali Mein | Nayi Tehzeeb Ke Ande Hain Gande'
-- 'id': '1_172_85'
+- 'id': '1_172_085'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -835,7 +835,7 @@
     'text': 'Election, membership, council, presidency | The nooses of independence are very strange'
   - 'lang': 'ro'
     'text': 'Election, Memberi, Council, Sadarat | Banaye Khoob Azadi Ne Phande'
-- 'id': '1_172_86'
+- 'id': '1_172_086'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -844,7 +844,7 @@
     'text': 'The carpenter has also been pared | The Europe’s planes are very sharp'
   - 'lang': 'ro'
     'text': 'Mian Najjar Bhi Cheele Gye Sath | Nihayat Taiz Hain Yourap Ke Rande'
-- 'id': '1_172_87'
+- 'id': '1_172_087'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -853,7 +853,7 @@
     'text': 'The owner of the factory is a useless man | He is very pleasure loving, hard work does not suit him'
   - 'lang': 'ro'
     'text': 'Karkhane Ka Hai Malik Mardak-e-Na Kardah Kaar | Aysh Ka Putla Hai, Mehnat Hai Isse Na-Saazgar'
-- 'id': '1_172_88'
+- 'id': '1_172_088'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -866,7 +866,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hukm-e-Haq Hai Lesa Lil-Insani Illah Ma Sa’aa | Khaye Kyun Mazdoor Ki Mehnat Ka Phal Sarmaya-Dar'
-- 'id': '1_172_89'
+- 'id': '1_172_089'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -875,7 +875,7 @@
     'text': 'I have heard this was the talk in the factory yesterday | “The artisans only in old huts have their abode'
   - 'lang': 'ro'
     'text': 'Suna Hai Main Ne, Kal Ye Guftagoo Thi Karkhane Mein | Purane Jhonparon Mein Hai Thikana Dast Karwan Ka'
-- 'id': '1_172_90'
+- 'id': '1_172_090'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -884,7 +884,7 @@
     'text': 'But what a good council hall the government has made | In this city the capitalists did not have any abode”'
   - 'lang': 'ro'
     'text': 'Magar Sarkar Ne Kya Khoob Council Haal Banwaya | Koi Iss Sheher Mein Takiya Na Tha Sarmaya Daron Ka'
-- 'id': '1_172_91'
+- 'id': '1_172_091'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -893,7 +893,7 @@
     'text': 'Though the mosque was built overnight by the believers | Our heart being old sinner for years devout could not be'
   - 'lang': 'ro'
     'text': 'Masjid To Bana Di Shab Bhar Mein Iman Ki Hararat  Walon Ne | Mann Apna Purana Papi Hai, Barsoun Mein Namazi Ban Na Saka'
-- 'id': '1_172_92'
+- 'id': '1_172_092'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -909,7 +909,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kya Khoob Ameer-e-Faisal Ko Sannosi Ne Paigham Diya | Tu Naam-o-Nasb Ka Hijazi Hai Par Dil Ka Hijazi Ban Na Saka'
-- 'id': '1_172_93'
+- 'id': '1_172_093'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -918,7 +918,7 @@
     'text': 'Though eyes become wet there is no pleasure is in this weeping | If by mixture of affliction’s blood tears pink could not be'
   - 'lang': 'ro'
     'text': 'Tar Ankhain To Ho Jati Hain, Kya Lazzat Iss Rone Mein | Jab Khoon-e-Jigar Ki Amaizish Se Ashak Piyazi Ban Na Saka'
-- 'id': '1_172_94'
+- 'id': '1_172_094'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

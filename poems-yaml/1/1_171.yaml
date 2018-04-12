@@ -8,7 +8,7 @@
   'text': 'THOUGH YOU ARE BOUND BY CAUSE AND EFFECT'
 'description': []
 'sher':
-- 'id': '1_171_1'
+- 'id': '1_171_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Though you are bound by cause and effect | Keep your heart a little independent'
   - 'lang': 'ro'
     'text': 'Garcha Tu Zindani-e-Asbab Hai | Qalb Ko Lekin Zara Azad Rakh'
-- 'id': '1_171_2'
+- 'id': '1_171_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Intellect is not free from criticism | Establish the foundation of your deeds on Love'
   - 'lang': 'ro'
     'text': 'Aqal Ko Tanqeed Se Fusat Nahin | Ishq Par Amaal Ki Bunyad Rakh'
-- 'id': '1_171_3'
+- 'id': '1_171_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -39,7 +39,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Musalman! Har Ghari Paish-e-Nazar | Aaya-e- ‘La Yukhliful Miaad’ Rakh'
-- 'id': '1_171_4'
+- 'id': '1_171_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

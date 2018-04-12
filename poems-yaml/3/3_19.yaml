@@ -8,7 +8,7 @@
   'text': 'AUTHORITY AND FAITH'
 'description': []
 'sher':
-- 'id': '3_19_1'
+- 'id': '3_19_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Autocrats like Alexander and Genghis, Have trampled men beneath their feet, | Not once but hundred times so far, They brought man down from honoured seat.'
   - 'lang': 'ro'
     'text': 'Iskandar-o-Changaiz Ke Hathon Se Jahan Mein | Sou Bar Huwi Hazrat-e-Insan Ki Qaba Chaak'
-- 'id': '3_19_2'
+- 'id': '3_19_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The annals right from history’s dawn, The message eternal bear as such, | “O man, with insight great endowed, The wine of might is dangerous much.ʺ'
   - 'lang': 'ro'
     'text': 'Tareekh-e-Ummam Ka Ye Payam -e-Azali Hai | ‘Sahib Nazaran ! Nasha-e-Quwwat Hai Khatarnaak’'
-- 'id': '3_19_3'
+- 'id': '3_19_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Before this quickly flowing flood, That spreads to all the tracts with speed: | Art, insight, intellect and science, Are carried along like straw and reed.'
   - 'lang': 'ro'
     'text': 'Iss Seel-E-Subaq Sair-o-Zameengeer Ke Agay | Aqal-o-Nazar-o-Ilm-o-Hunar Hain Khs-o-Khashak'
-- 'id': '3_19_4'
+- 'id': '3_19_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

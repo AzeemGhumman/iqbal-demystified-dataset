@@ -8,7 +8,7 @@
   'text': 'STATESMANSHIP OF THE FRANKS'
 'description': []
 'sher':
-- 'id': '3_158_1'
+- 'id': '3_158_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Thy rival, God! The Frankish statecraft is, | Though none but rich and great join in its worship.'
   - 'lang': 'ro'
     'text': 'Teri Hareef Hai Ya Rab Siasat-e-Afrang | Magar Hain Iss Ke Pujari Faqt Ameer-o-Raees'
-- 'id': '3_158_2'
+- 'id': '3_158_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

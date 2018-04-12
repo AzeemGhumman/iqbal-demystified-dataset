@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is an elegant expression of ‘Allamah Iqbal’s principle that an individual as well as a nation should fight and struggle for their rightful needs and not beg others for them . This is more so for the Muslim Ummah whom the Holy Qur’an has declared as the ‘best nation’ (3:110). Also, we learn from the Holy Qur’an that man can have only what he strives for (53:39-42). | This poem was written when the Muslims all over the world generally, and in the Indian sub-continent particularly, were working for the restoration of the Khilafah in Turkey. However, a great part of their effort consisted of approaching the British Government in London and the League of Nations in Geneva for doing justice to Muslims. ‘Allamah Iqbal tells them in this poem that such efforts would be of no avail. This proved to be true. Another poem, given below, is also on the allied subject of Palestine and the occupation of the same by the Jews: | Falasèana ‘Arab Se (Addressed to the Palestinian Arab) | (216) From whose heat the world is not yet relieved | I know that fire is in your existence | (217) Your remedy is neither in Geneva nor in London | As the Europe’s jugular vein is in Jews’ clutches | (218) I have heard that the relief of nations from slavery | Is in nurture of self-cognizance and assertion’s taste'
 'sher':
-- 'id': '1_160_1'
+- 'id': '1_160_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'If the territory is being lost let it be lost | You should not be disloyal to God’s commands'
   - 'lang': 'ro'
     'text': 'Agar Mulk Hathon Se Jata Hai, Jaye | Tu Ahkam-e-Haq Se Na Kar Be-Wafai'
-- 'id': '1_160_2'
+- 'id': '1_160_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Do you not have knowledge of history? | You have started begging for the Khilafah!'
   - 'lang': 'ro'
     'text': 'Nahin Tujh Ko Tareekh Se Aghi Kya | Khilafat Ki Karne Laga Tu Gadai'
-- 'id': '1_160_3'
+- 'id': '1_160_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'If we do not purchase with our own blood | Such sovereignty is a disgrace to the Muslim!'
   - 'lang': 'ro'
     'text': 'Khareedain Na Jis Ko Hum Apne Lahoo Se | Musalman Ko Hai Nanang Woh Padshai'
-- 'id': '1_160_4'
+- 'id': '1_160_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

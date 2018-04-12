@@ -8,7 +8,7 @@
   'text': 'II-I'
 'description': []
 'sher':
-- 'id': '11_47_1'
+- 'id': '11_47_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'ripes’'
       'meaning': 'The 4th line of this quatrain has been taken by Iqbal from Iraqi, whose full name is Fakhr-ud-Din Ibrahim Iraqi. He died at Damascus in 688 Hijra, where he had finally settled. He also visited Multan with a hand of Qalandars (ascetics) and accepted the initiation of Khawaja Baha-ud-Din Zakriya.'
       'occurrence': !!int '1'
-- 'id': '11_47_2'
+- 'id': '11_47_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

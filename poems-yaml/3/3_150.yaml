@@ -8,7 +8,7 @@
   'text': 'REVOLUTION'
 'description': []
 'sher':
-- 'id': '3_150_1'
+- 'id': '3_150_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Death to man’s soul is Europe, death is Asia | To man’s will; neither feels the vital current.'
   - 'lang': 'ro'
     'text': 'Na Asia Mein Na Yorap Mein Souz-o-Saaz-e-Hayat | Khudi Ki Mout Hai Ye, Aur Woh Zameer Ki Mout'
-- 'id': '3_150_2'
+- 'id': '3_150_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

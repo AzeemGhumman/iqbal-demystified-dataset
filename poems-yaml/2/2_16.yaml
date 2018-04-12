@@ -8,7 +8,7 @@
   'text': 'Lovely, oh Lord, this fleeting world'
 'description': []
 'sher':
-- 'id': '2_16_1'
+- 'id': '2_16_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Lovely, oh Lord, this fleeting world; but why | Must the frank heart, the quick brain, droop and sigh?'
   - 'lang': 'ro'
     'text': 'Ya Rab! Ye Jahan-e-Guzran Khoob Hai Lekin | Kyun Khawar Hain Mardan-e-Safa Kaish-o-Hunar Mand'
-- 'id': '2_16_2'
+- 'id': '2_16_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Though usury mingle somewhat with his godship, | The white man is the world’s arch‐deity;'
   - 'lang': 'ro'
     'text': 'Go Us Ski Khudai Mein Mahajan Ka Bhi Hai Haath | Dunya To Samajhti Hai Farangi Ko Khudawand'
-- 'id': '2_16_3'
+- 'id': '2_16_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'His asses graze in fields of rose and poppy: | One wisp of hay to genius You deny;'
   - 'lang': 'ro'
     'text': 'To Barg-e-Gya Hai Nadhi Ahle-e-Khirad Ra | Aur Kisht-e-Gul-o-Lala Babkhashand Ba Kharay Chand'
-- 'id': '2_16_4'
+- 'id': '2_16_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'His Church abounds with roasts and ruby wines: | Sermons and saws are all Your mosques supply.'
   - 'lang': 'ro'
     'text': 'Hazir Hain Kalisa Mein Kabab-o-Ma’ay Gulgoon | Masjid Mein Dhara Kya Hai Bajaz Moaza-o-Pand'
-- 'id': '2_16_5'
+- 'id': '2_16_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Your laws are just, but their expositors | Bedevil the Koran, twist it awry;'
   - 'lang': 'ro'
     'text': 'Ahkaam Tere Haq Hain Magar Apne Mufassir | Taveel Se Quran Ko Bana Sakte Hain Pazand'
-- 'id': '2_16_6'
+- 'id': '2_16_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Your paradise no‐one has seen: in Europe | No village but with paradise can view.'
   - 'lang': 'ro'
     'text': 'Firdous Jo Tera Hai, Kisi Ne Nahin Dekha | Afrang Ka Har Qariya Hai Firdous Ki Manand'
-- 'id': '2_16_7'
+- 'id': '2_16_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'Long, long have my thoughts wandered about heaven; | Now in the moon’s blind caverns let them sty!'
   - 'lang': 'ro'
     'text': 'Muddat Se Hai Awara’ay Aflaak Mera Fikar | Kar De Isse Ab Chand Ki Gharon Mein Nazarband'
-- 'id': '2_16_8'
+- 'id': '2_16_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'I, dowered by Nature with empyreal essence, | Am dust—but not through dust does my way lie;'
   - 'lang': 'ro'
     'text': 'Fitrat Ne Mujhe Bakhse Hain Johar-e-Malkooti | Khaki Hun Magar Khaak Se Rakhta Nahin Paewand'
-- 'id': '2_16_9'
+- 'id': '2_16_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'Nor East, nor west my home, nor Samarkand, | Nor Ispahan nor Delhi; in ecstasy,'
   - 'lang': 'ro'
     'text': 'Darvesh-e-Khuda Mast Na Sharqi Hai Na Gharbi | Ghar Mera Na Dilli, Na Safahan, Na Samarqand'
-- 'id': '2_16_10'
+- 'id': '2_16_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'God‐filled, I roam, speaking what truth I see— | No fool for priests, nor yet of this age’s fry.'
   - 'lang': 'ro'
     'text': 'Kehta Hun Wohi Baat Samajhta Hun Jise Haq | Ne Abla-e-Masjid Hun, Na Tehzeeb Ka Farzand'
-- 'id': '2_16_11'
+- 'id': '2_16_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'My folk berate me, the stranger does not love me: | Hemlock for sherbet I could never cry;'
   - 'lang': 'ro'
     'text': 'Apne Bhi Khafa Mujh Se Hain, Begane Bhi Na-Khush | Main Zehar-e-Halahil Ko Kabhi Keh Na Saka Qand'
-- 'id': '2_16_12'
+- 'id': '2_16_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'How could a weigher of truth see Mount Damawand | And think a common refuse‐heap as high?'
   - 'lang': 'ro'
     'text': 'Mushkil Hai Ke Ek Banda’ay Haq Been-o-Haq Andesh | Khashaak Ke To De Ko Kahe Koh-e-Damawand'
-- 'id': '2_16_13'
+- 'id': '2_16_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'In Nimrod’s fire faith’s silent witness, not | Like mustard‐seed in the grate, burned splutteringly—'
   - 'lang': 'ro'
     'text': 'Hun Atish-e-Namrood Ke Shaolon Mein Bhi Khamosh | Main Band’ay Momin Hun, Nahin Dana’ay Aspand'
-- 'id': '2_16_14'
+- 'id': '2_16_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'Blood warm, gaze keen, right‐following, wrong‐forswearing, | In fetters free, prosperous in penury,'
   - 'lang': 'ro'
     'text': 'Pursoz-o-Nazarbaz-o-Nikobeen-o-Kam Azar | Azad-o-Giraftar-o-Tehi Keesa-o-Khorsand'
-- 'id': '2_16_15'
+- 'id': '2_16_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'In fair of foul untamed and light of heart— | Who can steal laughter from a flower’s bright eye?'
   - 'lang': 'ro'
     'text': 'Har Haal Mein Mera Dil-e-Be Qaid Hai Khurram | Kya Cheenay Ga Gunche Se Koi Zauq-e-Shakar Khand !'
-- 'id': '2_16_16'
+- 'id': '2_16_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

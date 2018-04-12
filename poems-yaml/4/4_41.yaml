@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'On receiving a cheque of one thousand rupees as ‘entertainment’ from the privy purse of the Nizam, which is in the charge of the Chief Minister'
 'sher':
-- 'id': '4_41_1'
+- 'id': '4_41_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'It was God’s command that the pomp of Parviz | Be given to the qalandar, for he has angelic attributes.'
   - 'lang': 'ro'
     'text': 'Tha Ye Allah Ka Farman K Shikwa-E-Parwaiz | Do Qalander Ko K Hain Iss Mein Mulukana Sifaat'
-- 'id': '4_41_2'
+- 'id': '4_41_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'I was told: Take it and be an emperor; | Confer permanence on the ephemeral with your talent.'
   - 'lang': 'ro'
     'text': 'Mujh Se Farmaya K Le, Aur Shehanshahi Kar | Husn-E-Tadbeer Se De Ani-O-Fani Ko Sibat'
-- 'id': '4_41_3'
+- 'id': '4_41_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'I would have much honoured this trust— | All bitterness tastes sweet to the mouth of a dervish.'
   - 'lang': 'ro'
     'text': 'Mein To Iss Bar-E-Amanat Ko Uthata Sar-E-Dosh | Kaam-E-Darvesh Mein Har Talakh Hai Manind-E-Nabat'
-- 'id': '4_41_4'
+- 'id': '4_41_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

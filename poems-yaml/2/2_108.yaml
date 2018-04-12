@@ -8,7 +8,7 @@
   'text': 'It was Abul Hassan who stressed the truth'
 'description': []
 'sher':
-- 'id': '2_108_1'
+- 'id': '2_108_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'It was Abul Hassan who stressed the truth, | That the soul does not expire with the body''s death;'
   - 'lang': 'ro'
     'text': 'Ye Nukta Main Ne Sikha Bu-Al-Hassan Se | Ke Jaan Marti Nahin Marg-e-Badan Se'
-- 'id': '2_108_2'
+- 'id': '2_108_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

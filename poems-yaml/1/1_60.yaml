@@ -8,7 +8,7 @@
   'text': 'WHEN THAT BENIAZ OPENS HIS GRACEFUL HAND'
 'description': []
 'sher':
-- 'id': '1_60_1'
+- 'id': '1_60_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -21,7 +21,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kushada Dast-e-Karam Jab Woh Be-Niaz Kare | Niazmand Na Kyun Ajazi Pe Naaz Kare'
-- 'id': '1_60_2'
+- 'id': '1_60_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -34,7 +34,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Bitha Ke Arsh Pe Rakha Hai Tu Ne Ae Waaiz! | Khuda Woh Kya Hai Jo Bandon Se Ehtraz Kare'
-- 'id': '1_60_3'
+- 'id': '1_60_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Meri Nigah Mein Woh Rind Hi Nahin Saqi | Jo Hoshiyari-o-Masti Mein Imtiaz Kare'
-- 'id': '1_60_4'
+- 'id': '1_60_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Always remain very attentive to the heart, this orchestra is such | If broken, it would produce the music of the Secret'
   - 'lang': 'ro'
     'text': 'Madaam Gosh Ba Dil Reh, Ye Saaz Hai Aesa | Jo Ho Shikasta To Paida Nawa-e-Raaz Kare'
-- 'id': '1_60_5'
+- 'id': '1_60_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'Somebody should ask how it hurts the preacher | If God shows His Grace even to the sinner'
   - 'lang': 'ro'
     'text': 'Koi Ye Puche Ke Waaiz Ka Kya Bigarta Hai | Jo Be-Amal Pe Bhi Rehmat Woh Be-Niaz Kare'
-- 'id': '1_60_6'
+- 'id': '1_60_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'O God! From where does poetry acquire its heat? | This is a thing with which even stone would soften'
   - 'lang': 'ro'
     'text': 'Sukhan Mein Souz, Elahi Kahan Se Ata Ha | Ye Cheez Woh Hai Ke Pathar Ko Bhi Gudaz Kare'
-- 'id': '1_60_7'
+- 'id': '1_60_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'Nightingale’s lament comes from discrimination between tulip and rose | No one in the world should open the discriminating eye'
   - 'lang': 'ro'
     'text': 'Tameez-e-Lala-o-Gul Se Hai Nala-e-Bulbul | Jahan Mein Wa Na Koi Chashm-e-Imtiaz Kare'
-- 'id': '1_60_8'
+- 'id': '1_60_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -99,7 +99,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ghuroor-e-Zuhd Ne Shikhla Diya Hai Waaiz Ko | Ke Bandgan-e-Khuda Par Zuban Daraz Kare'
-- 'id': '1_60_9'
+- 'id': '1_60_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

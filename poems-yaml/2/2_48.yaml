@@ -8,7 +8,7 @@
   'text': 'This wonder by some glance is wrought'
 'description': []
 'sher':
-- 'id': '2_48_1'
+- 'id': '2_48_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This wonder by some glance is wrought, Or Fortune’s wheel has come full round: | At last the Frankish charm has broke, The East by which in past was bound.'
   - 'lang': 'ro'
     'text': 'Ejaz Hai Kisi Ka Ya Gardish-e-Zamana! | Toota Hai Asia Mein Seher-e-Farangiyana'
-- 'id': '2_48_2'
+- 'id': '2_48_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'By the building of my nest, This secret hid was brought to view | That for the bards that sing and chant, The choice of nest is bolt from blue.'
   - 'lang': 'ro'
     'text': 'Tameer-e-Ashiyan Se Main Ne Ye Raaz Paya | Ahl-e-Nawa Ke Haq Mein Bijli Hai Ashiyana'
-- 'id': '2_48_3'
+- 'id': '2_48_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'If slave to God, you grow divine, If slave to world a beggar mean: | You are the master of your fate, So make the choice the two between.'
   - 'lang': 'ro'
     'text': 'Ye Bandagi Khudai, Woh Bandagi Gadai | Ya Banda-e-Khuda Ban Ya Banda-e-Zamana!'
-- 'id': '2_48_4'
+- 'id': '2_48_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Of selfhood heedless never be, Your gaze to self always confine: | Who knows, you mat anon become, The threshold of some sacred shrine.'
   - 'lang': 'ro'
     'text': 'Ghafil Na Ho Khudi Se, Kar Apni Pasbani | Shaid Kisi Haram Ka Tub Hi Hai Astana'
-- 'id': '2_48_5'
+- 'id': '2_48_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'O heir to creed no god but He, In you I see no sign or trace | Of mighty deeds that terror strike, Your talk devoid of charm and grace.'
   - 'lang': 'ro'
     'text': 'Ae LA ILAH Ke Waris! Baqi Nahin Hai Tujh Mein | Guftar-e-Dilbarana, Kirdar-e-Qaharana'
-- 'id': '2_48_6'
+- 'id': '2_48_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Your glances bold would strike the heart, With awe, though sheathed within the breast: | Alas! a qalandar’s fervent zeal, In you is dead and is at rest.'
   - 'lang': 'ro'
     'text': 'Teri Nigah Se Dil Seenon Mein Kanpte The | Khoya Gya Hai Tera Jazb-e-Qalandarana'
-- 'id': '2_48_7'
+- 'id': '2_48_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

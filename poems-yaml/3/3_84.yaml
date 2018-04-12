@@ -8,7 +8,7 @@
   'text': 'FOUL AND FAIR'
 'description': []
 'sher':
-- 'id': '3_84_1'
+- 'id': '3_84_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Just like the stars that shine in azure sky, | Thoughts have short span of life and soon they die.'
   - 'lang': 'ro'
     'text': 'Sitargan-e-Faza Haye Neelgoon Ki Tarah | Takhiyyulat Bhi Hain Taba-e-Tulu-o-Ghuroob'
-- 'id': '3_84_2'
+- 'id': '3_84_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The realm of self has its ups and downs, | Even here, the Fair and Foul exchange their frowns.'
   - 'lang': 'ro'
     'text': 'Jahan Khudi Ka Bhi Hai Sahib-e-Faraz-o-Nashaib | Yahan Bhi Maarka Aara Hai Khoob Se Na-Khoob'
-- 'id': '3_84_3'
+- 'id': '3_84_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

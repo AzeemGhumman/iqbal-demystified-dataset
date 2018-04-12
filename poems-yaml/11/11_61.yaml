@@ -8,14 +8,14 @@
   'text': 'VIII-II'
 'description': []
 'sher':
-- 'id': '11_61_1'
+- 'id': '11_61_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'حکیمان را بھا کمتر نہادند | بہ نادان جلوہ مستانہ دادند'
   - 'lang': 'en'
     'text': 'To wise he gave less wealth and affluence, | The duffer got lustres of raptures hence.'
-- 'id': '11_61_2'
+- 'id': '11_61_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

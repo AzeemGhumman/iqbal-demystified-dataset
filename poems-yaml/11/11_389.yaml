@@ -8,14 +8,14 @@
   'text': 'V-I'
 'description': []
 'sher':
-- 'id': '11_389_1'
+- 'id': '11_389_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'فرنگ  ئین رزاقی بداند | بہ این بخشد از دوامی ستاند'
   - 'lang': 'en'
     'text': 'The English mind knows God’s Food Law Rules, | He takes from debtors to give to his tools.'
-- 'id': '11_389_2'
+- 'id': '11_389_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

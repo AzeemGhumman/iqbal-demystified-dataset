@@ -8,7 +8,7 @@
   'text': 'CIVILIZATION’S CLUTCHES'
 'description': []
 'sher':
-- 'id': '3_172_1'
+- 'id': '3_172_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Iqbal has no doubt of Europe’s humaneness: | She sheds tears for all peoples groaning beneath oppression;'
   - 'lang': 'ro'
     'text': 'Iqbal Ko Shak Iss Ki Sharafat Mein Nahin Hai | Har Millat-e-Mazloom Ka Yourap Hai Khareedar'
-- 'id': '3_172_2'
+- 'id': '3_172_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Her reverend churchmen furnish her liberally | With wiring and bulbs for moral illumination.'
   - 'lang': 'ro'
     'text': 'Ye Peer-e-Kaleesa Ki Karamat Hai Ke Uss Ne | Bijli Ke Charaghon Se Munawwar Kiye Afkar'
-- 'id': '3_172_3'
+- 'id': '3_172_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'And yet, my heart burns for Syria and Palestine, | And finds for this knotty puzzle no explanation—'
   - 'lang': 'ro'
     'text': 'Jalta Hai Magar Sham-o-Falasteen Pe Mera Dil | Tadbeer Se Khulta Nahin Ye Uqda-e-Dushwar'
-- 'id': '3_172_4'
+- 'id': '3_172_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

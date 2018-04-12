@@ -8,7 +8,7 @@
   'text': 'GHAZAL'
 'description': []
 'sher':
-- 'id': '3_93_1'
+- 'id': '3_93_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'That man alone in life shall find, To aim and end a certain sign: | Whose eyes in pitch dark night can see, And like the eyes of panther shine.'
   - 'lang': 'ro'
     'text': 'Mile Ga Manzil-e-Maqsood Ka Ussi Ko Suragh | Andheri Shab Mein Hai Cheete Ki Ankh Jis Ka Charagh'
-- 'id': '3_93_2'
+- 'id': '3_93_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The slaves can get repose and rest, In world confined by Time and Space; | But men of high and noble birth, Havenʹt leisure in worldly race.'
   - 'lang': 'ro'
     'text': 'Mayassar Ati Hai Fursat Faqt Ghulamon Ko | Nahin Hai Banda-e-Hur Ke Liye Jahan Mein Faragh'
-- 'id': '3_93_3'
+- 'id': '3_93_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The progress great that West has mad, Has bedazzled your eyes a deal: | May Prophet guard your precious sight, To vouch him God did Najm reveal!'
   - 'lang': 'ro'
     'text': 'Farogh-e-Mueez Byan Kheerah Kar Raha Hai Tujhe | Teri Nazar Ka Nigehban Ho Sahib-e-‘Ma Zagh’'
-- 'id': '3_93_4'
+- 'id': '3_93_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'These revels do not last for long, Like guests they stay for a breath or so; | The bowls of wine that glint like stars, Are soon deprived of gloss and glow.'
   - 'lang': 'ro'
     'text': 'Woh Bazm-e-Aysh Hai Mehman Ak Nafas Do Nafas | Chamak Rahe Hain Misal-e-Sitara Jis Ke Ayagh'
-- 'id': '3_93_5'
+- 'id': '3_93_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'MUHAMMAD ALI BAB'
 'description': []
 'sher':
-- 'id': '3_42_1'
+- 'id': '3_42_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Before assembled Muslim priests,, Bab made a speech with apt remarks; | That fellow could not read aright, ʹSamawatsʹ with its syntactic marks.'
   - 'lang': 'ro'
     'text': 'Thi Khoob Huzoor-e-Ulema Baab Ki Taqreeq | Bechara Galat Parthta Tha Araab-e-Samawat'
-- 'id': '3_42_2'
+- 'id': '3_42_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The scholars smiled with contempt, At stupid error that he made. | He said with courage and aplomb, They knew not his spiritual grade:'
   - 'lang': 'ro'
     'text': 'Uss Ki Ghalat Par Ulema The Mutabassam | Bola, Tumhain Maloom Nahin Mere Maqamat'
-- 'id': '3_42_3'
+- 'id': '3_42_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

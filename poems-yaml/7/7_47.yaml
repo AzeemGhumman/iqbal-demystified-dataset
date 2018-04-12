@@ -8,14 +8,14 @@
   'text': '(47)'
 'description': []
 'sher':
-- 'id': '7_47_1'
+- 'id': '7_47_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بگو جبریل را از من پیامی | مرا آن پیکر نوری ندادند'
   - 'lang': 'en'
     'text': 'Go and tell this to Gabriel from me: | Though not all light like him, I yet aspire'
-- 'id': '7_47_2'
+- 'id': '7_47_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

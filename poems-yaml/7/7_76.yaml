@@ -8,14 +8,14 @@
   'text': '(76)'
 'description': []
 'sher':
-- 'id': '7_76_1'
+- 'id': '7_76_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بپای خود مزن زنجیر تقدیر | تہ این گنبد گردان رہی ہست'
   - 'lang': 'en'
     'text': 'Do not put chains of fate upon your feet. | There is a way under this rolling dome.'
-- 'id': '7_76_2'
+- 'id': '7_76_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

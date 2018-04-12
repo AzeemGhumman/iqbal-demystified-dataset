@@ -8,7 +8,7 @@
   'text': 'Thy vision is not lofty, ethereal'
 'description': []
 'sher':
-- 'id': '2_88_1'
+- 'id': '2_88_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Thy vision is not lofty, ethereal, | Thou dost not have the flight of a faith inspired;'
   - 'lang': 'ro'
     'text': 'Tera Andesha Aflaki Nahin Hai | Teri Parwaz Loulaki Nahin Hai'
-- 'id': '2_88_2'
+- 'id': '2_88_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

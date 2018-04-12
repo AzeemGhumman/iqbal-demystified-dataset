@@ -8,14 +8,14 @@
   'text': 'I-III'
 'description': []
 'sher':
-- 'id': '11_348_1'
+- 'id': '11_348_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو اشک اندر دل فطرت تپیدم | تپیدم تا بہ چشم او رسیدم'
   - 'lang': 'en'
     'text': 'In the heart of nature like tears I groan, | Till I got in her eyes a place by moans.'
-- 'id': '11_348_2'
+- 'id': '11_348_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'EDUCATION AND WOMEN'
 'description': []
 'sher':
-- 'id': '3_103_1'
+- 'id': '3_103_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If Frankish culture blights the motherly urge, | For human race it means a funeral dirge.'
   - 'lang': 'ro'
     'text': 'Tehzeeb-e-Farangi Hai Agar Marg-e-Umoomat | Hai Hazrat-e-Insan Ke Liye Iss Ka Samar Mout'
-- 'id': '3_103_2'
+- 'id': '3_103_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The lore that makes a woman lose her rank | Is naught but death in eyes of wise and frank.'
   - 'lang': 'ro'
     'text': 'Jis Ilm Ki Taseer Se Zan Hoti Hai Na-Zan | Kehte Hain Ussi Ilm Ko Arbab-e-Nazar Mout'
-- 'id': '3_103_3'
+- 'id': '3_103_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

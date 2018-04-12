@@ -8,7 +8,7 @@
   'text': '(33)'
 'description': []
 'sher':
-- 'id': '7_33_1'
+- 'id': '7_33_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'Khizar'
       'meaning': 'Khizar (Khizr). The prophet Khizr, who discovered and drank of the water of life, thereby becoming immortal. According to Oriental tradition, lie was a wazir of Iskandar. He is also regarded as the guardian spirit of the sea.'
       'occurrence': !!int '1'
-- 'id': '7_33_2'
+- 'id': '7_33_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'IV-I'
 'description': []
 'sher':
-- 'id': '11_293_1'
+- 'id': '11_293_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرا یاد است از دانای افرنگ | بسا رازی کہ از بود و عدم گفت'
   - 'lang': 'en'
     'text': 'I know many savants and gems of west, | On being and non being they felt the same quest.'
-- 'id': '11_293_2'
+- 'id': '11_293_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

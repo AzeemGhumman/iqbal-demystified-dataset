@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Khush‐hal Khan Khattak was a well-known patriotic poet of Pushto who forged a union of Afghan tribes of the Frontier to liberate Afghanistan from the Mughals. Only the Afridis among the tribes remained on his side till the last. About a hundred of his po ms were published in translation from London in 1862.'
 'sher':
-- 'id': '2_154_1'
+- 'id': '2_154_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Let the tribes be lost in the unity of the nation, | So that the Afghans gain prestige!'
   - 'lang': 'ro'
     'text': 'Qabail Hon Millat Ki Wahdat Mein Gum | Ke Ho Naam Afghaniyon Ka Buland'
-- 'id': '2_154_2'
+- 'id': '2_154_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The youth to whom the stars are not out of bounds | Are the ones I love indeed—'
   - 'lang': 'ro'
     'text': 'Mohhabbat Mujhe Un Jawanon Se Hai | Sitaron Pe Jo Dalte Hain Kum'
-- 'id': '2_154_3'
+- 'id': '2_154_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'In no way is this child of the mountains, | Inferior to the Mughal.'
   - 'lang': 'ro'
     'text': 'Mughal Se Kisi Tarah Kamtar Nahin | Kehistan Ka Ye Bacha-e-Arjumand'
-- 'id': '2_154_4'
+- 'id': '2_154_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'May I tell you my secret, O Comrade: | Khush‐hal Khan would much like that his burial place'
   - 'lang': 'ro'
     'text': 'Kahun Tujh Se Ae Hum Nasheen Dil Ki Baat | Who Madfan Hai Khushhal Khan Ko Pasand'
-- 'id': '2_154_5'
+- 'id': '2_154_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

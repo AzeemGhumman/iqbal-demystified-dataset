@@ -8,7 +8,7 @@
   'text': 'IX-VI'
 'description': []
 'sher':
-- 'id': '11_327_1'
+- 'id': '11_327_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'basil'
       'meaning': '        Gul-o-Rachan (Roz and haezil as pronounced in English). This phrase conveys a vast meaning in Persian literature, viz. (i) influence, victory, (ii) power and hold, (iii) in wealth, (iv) kindness, (v) verdure and lush, (vi) food, ease and comfortable life. As such visuatise these meanings in reading this couplet.'
       'occurrence': !!int '1'
-- 'id': '11_327_2'
+- 'id': '11_327_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

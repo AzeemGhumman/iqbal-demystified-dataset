@@ -8,7 +8,7 @@
   'text': 'Reason is but a wayside lamp that gives'
 'description': []
 'sher':
-- 'id': '2_100_1'
+- 'id': '2_100_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Reason is but a wayside lamp that gives | Eyes to the wayfarer on a dark night;'
   - 'lang': 'ro'
     'text': 'Khirad Se Rahru Roshan Basar Hai | Khirad Kya Hai, Charagh-e-Rah Guzar Hai'
-- 'id': '2_100_2'
+- 'id': '2_100_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

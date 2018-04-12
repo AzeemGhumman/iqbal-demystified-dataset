@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is in praise of contentment and freedom from care for material gains. “I” represents the contented man and “you” the average man of materialistic outlook.'
 'sher':
-- 'id': '1_134_1'
+- 'id': '1_134_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'My eye is unacquainted with the taste for the Sight | Your eye is the knower of Nature’s secret, so what?'
   - 'lang': 'ro'
     'text': 'Mazaq-e-Deed Se Na-Ashna Nazar Hai Meri | Teri Nigah Hai Fitrat Ki Raazdaan, Phir Kya'
-- 'id': '1_134_2'
+- 'id': '1_134_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'My tongue is indebted to the complaint against time | The universe’s rotation depends on your will, so what ?'
   - 'lang': 'ro'
     'text': 'Raheen-e-Shikwa-e-Ayyam Hai Zuban Meri | Teri Murad Pe Hai Door-e-Asman, Phir Kya'
-- 'id': '1_134_3'
+- 'id': '1_134_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The sky kept me wandering in garden like the breeze’s current | The sky has bestowed the abode over you, so what ?'
   - 'lang': 'ro'
     'text': 'Rakha Mujhe Chaman Awarah Misl-e-Mouj-e-Naseem | Atta Falak Ne Kiya Tujh Ko Ashiyan, Phir Kya'
-- 'id': '1_134_4'
+- 'id': '1_134_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The wealth of your life is free of desire for gain | In my heart is the anxiety of loss, so what ?'
   - 'lang': 'ro'
     'text': 'Fuzoon Hai Sood Se Sarmaya-e-Hayat Tera | Mere Naseeb Mein Hai Kawish-e-Zyan, Phir Kya'
-- 'id': '1_134_5'
+- 'id': '1_134_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Your planes are flying about in the air | My ship is devoid of the sail, so what?'
   - 'lang': 'ro'
     'text': 'Hawa Mein Tairte Phirte Hain Tere Tayyare | Mera Jahaz Hai Mehroom-e-Badbaan, Phir Kya'
-- 'id': '1_134_6'
+- 'id': '1_134_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'I became strong, so what , I became weak, so what? | This happened, so what , that happened, so what?'
   - 'lang': 'ro'
     'text': 'Qawi Shadem Che Shad, Natawan Shaem Che Shad | Chaneen Shadem Cha Shad Ya Chanan Shadem Cha Shad'
-- 'id': '1_134_7'
+- 'id': '1_134_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

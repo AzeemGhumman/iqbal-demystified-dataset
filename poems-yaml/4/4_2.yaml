@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is a poem in which Iqbal  presents that the old father is giving pieces of advice to his son to love his own home land and that it is better than other countries. Serve your own state. When you serve any other country, then Muslims are in loss . He says that don''t lose your self respect. Believe in yourself. Every member is the future of the country. | {Contributed by user: Muhammad Bilal} | This beautiful poem is titled as an advice from an old Baloch to his son; but the poem is not only for Baloch or a special community... | Its a set of advices for humanity to get out of inferiority complex and have proud on what nature has provided to you. | After a short part of consolidation speech Iqbal starts narratimg laws of nature to progress in the life of nation. | These words are an assert for the society to advance in the international community. | {Contributed by user: Zain Abbas}'
 'sher':
-- 'id': '4_2_1'
+- 'id': '4_2_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Winds of these wasteland be your love! | Bokhara, Delhi, are worth no more.'
   - 'lang': 'ro'
     'text': 'Ho Tere Bayaban Ki Hawa Tujh Ko Gawara | Iss Dasht Se Behter Hai Na Dilli Na Bukhara'
-- 'id': '4_2_2'
+- 'id': '4_2_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Like running water Go where you will: | these desert plains are ours, and Ours are these valleys.'
   - 'lang': 'ro'
     'text': 'Jis Simat Mein Chahe Sifat-e-Seel-e-Rawan Chal | Wadi Ye Humari Hai, Woh Sehra Bhi Humara'
-- 'id': '4_2_3'
+- 'id': '4_2_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Honour, that high thing in a world of troubling, | Sets on the hermit’s head Darius’ crown.'
   - 'lang': 'ro'
     'text': 'Ghairat Hai Bari Cheez Jahan-e-Tagg-o-Dou Mein | Pehnati Hai Darvesh Ko Taj-e-Sar-E-Dara'
-- 'id': '4_2_4'
+- 'id': '4_2_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'How Glass is forged flint‐hard—this strange craft they tell of | Learn from some master!'
   - 'lang': 'ro'
     'text': 'Hasil Kisi Kamil Se Ye Poshida Hunar Kar | Kehte Hain Ke Sheeshe Ko Bana Sakte Hain Khara'
-- 'id': '4_2_5'
+- 'id': '4_2_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Fortunes of States through individual prowess ripen | Each man one star of their ascendant:'
   - 'lang': 'ro'
     'text': 'Afrad Ke Hathon Mein Hai Aqwam Ki Taqdeer | Har Fard Hai Millat Ke Muqaddar Ka Sitara'
-- 'id': '4_2_6'
+- 'id': '4_2_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Ocean withholds her treasure when the diver | Groping for pearlshells Clings by land’s margin.'
   - 'lang': 'ro'
     'text': 'Mehroom Raha Doulat-e-Darya Se Woh Ghawwas | Karta Nahin Jo Souhbat-e-Sahil Se Kinara'
-- 'id': '4_2_7'
+- 'id': '4_2_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'To the Muslim freedom Gained at the price of casting off religion | Makes an ill bargain!'
   - 'lang': 'ro'
     'text': 'Deen Hath Se De Kar Agar Azad Ho Millat | Hai Aesi Tajarat Mein Musalman Ka Khasara'
-- 'id': '4_2_8'
+- 'id': '4_2_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'In our world, where once more Civilization | Looses its wild beasts, in one more encounter Spirit and flesh meet;'
   - 'lang': 'ro'
     'text': 'Dunya Ko Hai Phir Ma’arka-e-Rooh-o-Badan Paish | Tehzeeb Ne Phir Apne Darindon Ko Ubhara'
-- 'id': '4_2_9'
+- 'id': '4_2_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'on the true‐believer’s Manhood God’s trust lies— | the machines of Europe Satan’s alliance.'
   - 'lang': 'ro'
     'text': 'Allah Ko Pa-Mardi-e-Momin Pe Bharosa | Iblees Ko Yourap Ki Machinon Ka Sahara'
-- 'id': '4_2_10'
+- 'id': '4_2_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Who knows the nation’s fates?— | but signs abound, if Muslims are wakeful.'
   - 'lang': 'ro'
     'text': 'Taqdeer-e-Umam Kya Hai, Koi Keh Nahin Sakta | Momin Ki Firasat Ho To Kafi Hai Ishara'
-- 'id': '4_2_11'
+- 'id': '4_2_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'DEMOCRACY'
 'description': []
 'sher':
-- 'id': '3_166_1'
+- 'id': '3_166_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -21,7 +21,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Iss Raaz Ko Ek Mard-e-Farangi* Ne Kiya Fash | Har Chand Ke Dana Isse Khila Nahin Karte'
-- 'id': '3_166_2'
+- 'id': '3_166_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

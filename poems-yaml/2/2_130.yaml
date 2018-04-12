@@ -8,7 +8,7 @@
   'text': 'MENDICANCY'
 'description': []
 'sher':
-- 'id': '2_130_1'
+- 'id': '2_130_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A witty man in a tavern spoke with a tongue untamed: | ‘The ruler of our state is a beggar unashamed;'
   - 'lang': 'ro'
     'text': 'Maikude Mein Aik Din Ek Rind-e-Zeerak Ne Kaha | Hai Humare Shehar Ka Wali Gadaye Be-Haya'
-- 'id': '2_130_2'
+- 'id': '2_130_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'How many go bare-headed to deck him with a crown? | How many go naked to supply his golden gown?'
   - 'lang': 'ro'
     'text': 'Taj Pehnaya Hai Kis Ki Be-Klahi Ne Isse | Kis Ki Uryani Ne Bakhshi Hai Isse Zareen Qaba'
-- 'id': '2_130_3'
+- 'id': '2_130_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The blood of the poor turns into his red wine; | And they starve so that he may in luxury dine.'
   - 'lang': 'ro'
     'text': 'Uss Ke Aab-e-Lalagoon Ki Khoon-e-Dehqan Se Kasheed | Tere Mere Khait Ki Mitti Hai Iss Ki Keemiya'
-- 'id': '2_130_4'
+- 'id': '2_130_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The epicure’s table is loaded with delights, | Stolen from the needy, stripped of all their rights.'
   - 'lang': 'ro'
     'text': 'Iss Ke Naimat Khane Ki Har Cheez Hai Mangi Huwi | Dene Wala Kon Hai, Mard-e-Ghareeb-o-Be-Nawa'
-- 'id': '2_130_5'
+- 'id': '2_130_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

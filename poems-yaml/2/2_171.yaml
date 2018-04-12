@@ -8,7 +8,7 @@
   'text': 'DISCIPLES IN REVOLT'
 'description': []
 'sher':
-- 'id': '2_171_1'
+- 'id': '2_171_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Not a rushlight for us,—in our Master’s | Fine windows electric lights blaze!'
   - 'lang': 'ro'
     'text': 'Hum Ko To Mayassar Nahin Mitti Ka Diya Bhi | Ghar Peer Ka Bijli Ke Charaghon Se Hai Roshan'
-- 'id': '2_171_2'
+- 'id': '2_171_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Town or village, the Muslim’s a duffer— | To his Brahmins like idols he prays.'
   - 'lang': 'ro'
     'text': 'Shehri Ho, Dahati Ho, Musalman Hai Sada | Manind-e-Poojte Hain Kaabe Ke Barhman'
-- 'id': '2_171_3'
+- 'id': '2_171_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Not mere gifts—compound interest these saints want, | In each hair‐shirt a usurer’s dressed,'
   - 'lang': 'ro'
     'text': 'Nazrana Nahin, Sood Hai Peeran-e-Haram Ka | Har Kharqa-e-Saaloos Ke Andar Hai Mahajan'
-- 'id': '2_171_4'
+- 'id': '2_171_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

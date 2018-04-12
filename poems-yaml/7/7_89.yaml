@@ -8,14 +8,14 @@
   'text': '(89)'
 'description': []
 'sher':
-- 'id': '7_89_1'
+- 'id': '7_89_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ چندین جلوہ در زیر نقابی | نگاہ شوق ما را بر نتابی'
   - 'lang': 'en'
     'text': 'With all Your glory, You keep Yourself veiled; | You cannot bear our Passion’s eager gaze.'
-- 'id': '7_89_2'
+- 'id': '7_89_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

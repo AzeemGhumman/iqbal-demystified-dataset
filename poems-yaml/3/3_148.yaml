@@ -8,7 +8,7 @@
   'text': 'COMMUNISM'
 'description': []
 'sher':
-- 'id': '3_148_1'
+- 'id': '3_148_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'From wont and ways of nations all, These facts so clear with ease I learn, | The Russians seem to be in haste, To gain the goal for which they yearn.'
   - 'lang': 'ro'
     'text': 'Qoumon Ki Rawish Se Mujhe Hota Hai Ye Maloom | Be Sood Nahin Roos Ki Ye Garmi-e-Raftar'
-- 'id': '3_148_2'
+- 'id': '3_148_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The world is red tip with the modes, That arenʹt in vogue and are outworn; | My intellect, that was tame and mild, Much pert and insolent has grown.'
   - 'lang': 'ro'
     'text': 'Andesha Huwa Shaukhi-e-Afkaar Pe Majboor | Farsooda Tareeqon Se Zamana Huwa Bezar'
-- 'id': '3_148_3'
+- 'id': '3_148_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'These mysteries which the greed of man, Had kept in veils of stuff so coarse | Are step by step emerging now, And coming forth by dint of force.'
   - 'lang': 'ro'
     'text': 'Insaan Ki Hawas Ne Jinhain Rakha Tha Chupa Kar | Khule Nazar Aate Hain Batadreej Woh Asrar'
-- 'id': '3_148_4'
+- 'id': '3_148_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'O Muslim, dive deep in the Book, Which was revealed to Prophetsʹ Seal; | May God, by grace on you bestow, Politeness, for good deeds much zeal!'
   - 'lang': 'ro'
     'text': 'Quran Mein Ho Ghota-Zan Ae Mard-e-Musalman | Allah Kare Tujh Ko Atta Jiddat-e-Kirdar'
-- 'id': '3_148_5'
+- 'id': '3_148_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'DEATH'
 'description': []
 'sher':
-- 'id': '3_66_1'
+- 'id': '3_66_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If self of man perfection gains, Devoid of rest his heart remains: | Even in the niche of grave, Presence and Absence he must brave.'
   - 'lang': 'ro'
     'text': 'Lahad Mein Bhi Yehi Ghaib-o-Huzoor Rehta Hai | Agar Hi Zinda To Dil Na-Saboor Rehta Hai'
-- 'id': '3_66_2'
+- 'id': '3_66_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The Moon and stars shine like a spark, For moments few and then the dark: | The rapture caused by egoʹs wine, Is as eternal as things divine.'
   - 'lang': 'ro'
     'text': 'Meh-o-Sitara, Misal-e-Shararah Yak Do Nafas | Mai-e-Khudi Ka Abad Tak Suroor Rehta Hai'
-- 'id': '3_66_3'
+- 'id': '3_66_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

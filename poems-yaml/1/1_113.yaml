@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem emphasizes the value of modesty. It is one of those poems in which ‘Allamah Iqbal teaches high thinking through simple objects or incidents. The names of persons are irrelevant to the lesson.'
 'sher':
-- 'id': '1_113_1'
+- 'id': '1_113_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'How rightly Jogender said this yesterday | “The car of Zulfiqar ‘Ala Khan is so quiet'
   - 'lang': 'ro'
     'text': 'Kaisi Pate Ki Baat Jugandar Ne Kal Kahi | Motor Hai Zulfiqar Ali Khan Ka Kya Khamosh'
-- 'id': '1_113_2'
+- 'id': '1_113_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Its elegant and graceful pace is not noisy | Fast like lightning, like breeze it is quiet”'
   - 'lang': 'ro'
     'text': 'Hangama Afreen Nahin Iss Ka Kharaam-e-Naaz | Manind-e-Barq Taez, Misal-e-Hawa Khamosh'
-- 'id': '1_113_3'
+- 'id': '1_113_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'I replied “This is not restricted to car | In the path of life every fleet footed is quiet'
   - 'lang': 'ro'
     'text': 'Mein Ne Kaha, Nahin Hai Ye Motor Pe Munhasir | Hai Jadah-e-Hayat Mein Har Taez Pa Khamosh'
-- 'id': '1_113_4'
+- 'id': '1_113_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The bell is footless from its habit of lamenting | The caravan of fragrance like zephyr is quiet'
   - 'lang': 'ro'
     'text': 'Hai Pa Shakista Shewa-e-Faryad Se Jaras | Nikhat Ka Karwan Hai Misal-e-Sehba Khamosh'
-- 'id': '1_113_5'
+- 'id': '1_113_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Meena Madaam Sourish-e-Qulqul Se Pa Ba Gil | Lekin Mazaj-e-Jaam-e-Kharaam Ashna Khamosh'
-- 'id': '1_113_6'
+- 'id': '1_113_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

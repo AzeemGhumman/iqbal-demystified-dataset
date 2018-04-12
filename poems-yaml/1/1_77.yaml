@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short and extremely beautiful poem is an expression of the joy and happiness which one derives from the Love of God. Apparently, the Love of God is a series of trials and tribulations, like any other love. However, the Lover feels some degree of joy and pleasure in his condition of Love. In the same way the Love of God is full of trials and tribulations of the extreme magnitude, but for His Lover they are also sources of joy of the highest order. As God is the Highest and Most Supreme Existence, His Love is the source of trials and tribulations as well as that of joy and happiness of the highest order, which can be felt and appreciated only by those who are so graced by Him. For others it is "lunacy", as love is often called.'
 'sher':
-- 'id': '1_77_1'
+- 'id': '1_77_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'My life is similar to that of the silent violin | The lap of which is full of all kinds of melodies'
   - 'lang': 'ro'
     'text': 'Zindagaani Hai Meri Misl-e-Rubab-e-Khamosh | Jis Ki Har Rang Ke Naghmon Se Hai Labraiz Aghosh'
-- 'id': '1_77_2'
+- 'id': '1_77_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The harp of the universe is sacrificed on whose silence | Every string of which is the grave of hundreds of melodies'
   - 'lang': 'ro'
     'text': 'Barbat-e-Kon-o-Makan Jis Ki Khamoshi Pe Nisar | Jis Ke Har Taar Mein Hain Saikrhon Naghmon Ke Mazar'
-- 'id': '1_77_3'
+- 'id': '1_77_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The silence of which is the custodian of music''s perfection | And the silence of which is not obligated to any uproar'
   - 'lang': 'ro'
     'text': 'Mehsharistan-e-Nawa Ka Hai Ameen Jis Ka Sukoot | Aur Minnat Kash-e-Hangama Nahin Jis Ka Sukoot'
-- 'id': '1_77_4'
+- 'id': '1_77_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Ah ! The hope of my Love was never fulfilled | This instrument was never hit by the plectrum'
   - 'lang': 'ro'
     'text': 'Aah! Umeed Mohabbat Ki Bar Ayi Na Kabhi | Chot Mizrab Ki Iss Saaz Ne Khayi Na Kabhi'
-- 'id': '1_77_5'
+- 'id': '1_77_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'But sometimes the zephyr of the garden of Tur flows | And sometimes the breeze of Houri’s breath from the sky'
   - 'lang': 'ro'
     'text': 'Magar Ati Hai Naseem-e-Chaman-e-Toor Kabhi | Simat-e-Gurdoon Se Hawaye Nafas-e-Hoor Kabhi'
-- 'id': '1_77_6'
+- 'id': '1_77_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Which gently touches the string of my life | And frees the imprisoned soul of my life'
   - 'lang': 'ro'
     'text': 'Chair Ahista Se Deti Hai Mera Taar-e-Hayat | Jis Se Hoti Hai Riha Rooh-e-Graftar-e-Hayat'
-- 'id': '1_77_7'
+- 'id': '1_77_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'The gentle sound of the music of despair rises | The clarion''s call for the caravan of tears rises'
   - 'lang': 'ro'
     'text': 'Naghma-e-Yaas Ki Dheemi Si Sada Uthti Hai | Ashak Ke Qafle Ko Bang-e-Dra Uthti Hai'
-- 'id': '1_77_8'
+- 'id': '1_77_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

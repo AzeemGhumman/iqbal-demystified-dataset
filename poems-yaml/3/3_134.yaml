@@ -8,7 +8,7 @@
   'text': 'UNLAWFUL MUSIC'
 'description': []
 'sher':
-- 'id': '3_134_1'
+- 'id': '3_134_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'My remembrance lacks the warmth, And zeal that mystics oft attain: | My thought is not a scale at all, For deeds deserving need or pain.'
   - 'lang': 'ro'
     'text': 'Na Mere Zikr Mein Sufiyon Ka Souz-o-Suroor | Na Mera Fikr Hai Pemana-e-Sawab-o-Azab'
-- 'id': '3_134_2'
+- 'id': '3_134_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'I wish that jurist of the town, Who knows the rules that Prophet taught | And is adept at Book revealed, To my own point of view be brought.'
   - 'lang': 'ro'
     'text': 'Khuda Kare Ke Usse Ittefaq Ho Mujh Se | Faqeeh-e-Shehr Ke Hai Mehram-e-Hadees-o-Kitab'
-- 'id': '3_134_3'
+- 'id': '3_134_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

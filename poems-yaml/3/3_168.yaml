@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': '(To his rivals east and west)'
 'sher':
-- 'id': '3_168_1'
+- 'id': '3_168_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'What, are crimes like Mussolini’s so unheard of in this age? | Why should they put Europe’s goodies into such a silly rage?'
   - 'lang': 'ro'
     'text': 'Kiya Zamane Se Nirala Hai Missulini Ka Jurm! | Be-Mehal Bighra Hai Masooman-e-Yourap Ka Mazaj'
-- 'id': '3_168_2'
+- 'id': '3_168_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Need the pot feel so indigent when the kettle wears a blot? | We are Culture’s twin utensils—I the kettle, you the pot.'
   - 'lang': 'ro'
     'text': 'Main Phatakta Hun To Chalni Ko Bura Lagta Hai Kyun | Hain Sabhi Tehzeeb Ke Auzar ! Tu Chhalni, Main Chhaj'
-- 'id': '3_168_3'
+- 'id': '3_168_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'You have watched my lust for conquest and dominion with a frown— | But have you not knocked the brittle walls of feeble countries down?'
   - 'lang': 'ro'
     'text': 'Mere Soda’ay Mulookiat Ko Thukrate Ho Tum | Tum Ne Kya Torhe Nahin Kamzor Qoumon Ke Zujaj?'
-- 'id': '3_168_4'
+- 'id': '3_168_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'To whose empires is that clever piece of trickery so dear, | By which royal seats survive but kings and kingdoms disappear.'
   - 'lang': 'ro'
     'text': 'Ye Ajaeb Shaubde Kis Ki Mulookiat Ke Hain | Rajdahani Hai, Magar Baqi Na Raja Hai Na Raaj'
-- 'id': '3_168_5'
+- 'id': '3_168_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'We, the children of the Caesars, strove to water heath and sand— | You could never bear to leave untaxed the earth’s most barren land!'
   - 'lang': 'ro'
     'text': 'Aal Seezar Chob-e-Ne Ki Aabyarimein Rahe | Aur Tum Dunya Ke Banjar Bhi Na Choro Be Kharaaj!'
-- 'id': '3_168_6'
+- 'id': '3_168_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'You have plundered tents of nomads of the little wealth they own, | You have plundered peasants ploughlands, you have plundered crown and throne—'
   - 'lang': 'ro'
     'text': 'Tum Ne Loote Ne-Nawa Sehra Nasheenon Ke Khayam | Tum Ne Looti Kisht-e-Dehqan, Tum Ne Loote Takht-o-Taaj'
-- 'id': '3_168_7'
+- 'id': '3_168_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

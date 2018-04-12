@@ -8,14 +8,14 @@
   'text': 'TO DAUGHTERS OF THE NATION | Chapter 12'
 'description': []
 'sher':
-- 'id': '11_243_1'
+- 'id': '11_243_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہل ای دخترک این دلبری ہا | مسلمان را نزیبد کافری ہا'
   - 'lang': 'en'
     'text': 'Learn O’ daughterling this loveliness trend, | To Muslim suits not the heathen’s blend.'
-- 'id': '11_243_2'
+- 'id': '11_243_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

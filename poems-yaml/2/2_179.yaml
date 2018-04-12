@@ -8,7 +8,7 @@
   'text': 'The mentor exhorted his. disciples once'
 'description': []
 'sher':
-- 'id': '2_179_1'
+- 'id': '2_179_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The mentor exhorted his. disciples once: | Listen to my words, in value greater than gold:'
   - 'lang': 'ro'
     'text': 'Kal Apne Mureedon Se Kaha Peer-e-Maghan Ne | Qeemat Mein Ye Maani Hai Dar-e-Naab Se Deh-Chand'
-- 'id': '2_179_2'
+- 'id': '2_179_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

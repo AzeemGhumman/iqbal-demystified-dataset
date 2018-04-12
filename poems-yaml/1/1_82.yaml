@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': '`Allamah Iqbal was an ardent lover and supporter of late night prayers and supplications and has given expression to these feelings frequently. This poem is also one such expression, in which he extols the blessings of the silent and quiet prayers and supplications in the silence of the night.'
 'sher':
-- 'id': '1_82_1'
+- 'id': '1_82_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Why are you sad in the night''s loneliness? | Are not the stars your close associates?'
   - 'lang': 'ro'
     'text': 'Tanhai-e-Shab Mein Hai Hazeen Kya | Anjum Nahin Tere Hum-Nasheen Kya?'
-- 'id': '1_82_2'
+- 'id': '1_82_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'This elegant dignity of the silent sky | This sleeping earth, this silent world'
   - 'lang': 'ro'
     'text': 'Ye Riffat-e-Asman-e-Khamosh | Khawabidah Zameen, Jahan-e-Khamosh'
-- 'id': '1_82_3'
+- 'id': '1_82_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'This moon, wilderness, environment, mountains, | Nature is a prolific garden of white roses'
   - 'lang': 'ro'
     'text': 'Ye Chand, Ye Dasht-o-Dar, Ye Kuhsar | Fitrat Hai Tamam Nasteran Zaar'
-- 'id': '1_82_4'
+- 'id': '1_82_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The colorful pearls, are variegate and beautiful | Seem to be the stars of your tears'
   - 'lang': 'ro'
     'text': 'Moti Khush Rang, Pyare Pyare | Tani Tere Aansuon Ke Tare'
-- 'id': '1_82_5'
+- 'id': '1_82_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(12)'
 'description': []
 'sher':
-- 'id': '7_12_1'
+- 'id': '7_12_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نہ من انجام و نی آغاز جویم | ہمہ رازم جھان راز جویم'
   - 'lang': 'en'
     'text': 'The origin and end of this world–these | I do not seek; but I seek mysteries;'
-- 'id': '7_12_2'
+- 'id': '7_12_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

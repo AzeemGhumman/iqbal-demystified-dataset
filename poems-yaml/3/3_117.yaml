@@ -8,7 +8,7 @@
   'text': 'TO THE ARTISTS'
 'description': []
 'sher':
-- 'id': '3_117_1'
+- 'id': '3_117_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Sun, moon and Jupiter shine their hour; | Your self burns on, fed by Love’s power.'
   - 'lang': 'ro'
     'text': 'Mehr-o-Mah-o-Mushtari, Chand Nafs Ka Farogh | Ishq Se Hai Paidar Teri Khudi Ka Wujood'
-- 'id': '3_117_2'
+- 'id': '3_117_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Your creed knows nothing of race or hue: | No credit in white or black, or blue!'
   - 'lang': 'ro'
     'text': 'Tere Haram Ka Zameer Aswad-o-Ahmar Se Paak | Tang Hai Tere Liye Surkh-o-Spaid-o-Kubood'
-- 'id': '3_117_3'
+- 'id': '3_117_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Where selfhood droops, doubts fight ding‐dong; | Where it blooms—a world of verse and song!'
   - 'lang': 'ro'
     'text': 'Teri Khudi Ka Ghayaab Maarka-e-Zikr-o-Fikr | Teri Khudi Ka Huzoor Alam-e-Shair-o-Surood'
-- 'id': '3_117_4'
+- 'id': '3_117_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'If your soul rot under slavery’s blight, | Your art an idolater’s soulless rite;'
   - 'lang': 'ro'
     'text': 'Rooh Agar Hai Teri Ranj-e-Ghulami Se Zaar | Tere Hunar Ka Jahan Dair-o-Tawaf-o-Sujood'
-- 'id': '3_117_5'
+- 'id': '3_117_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

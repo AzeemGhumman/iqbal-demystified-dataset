@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem abstractly illustrates the relationship between the Creator and His creation; the curiosity of the creation to be with omnipresent Creator. | {Contributed by user: Saifuddin Abdullah} | In this poem, Allama wanted to elaborate the relationship of man and God by giving a simple example of an artist and his master piece. | He wantd to explain that first step of knowing God is knowing yourself and understanding the miracle within yourself. | {Contributed by user: Zain Abbas}'
 'sher':
-- 'id': '4_3_1'
+- 'id': '4_3_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'THE PORTRAIT'
   - 'lang': 'ro'
     'text': 'Tasveer'
-- 'id': '4_3_2'
+- 'id': '4_3_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Said the portrait to its Painter: | “My manifestation attests to Thine unbounded Skill;'
   - 'lang': 'ro'
     'text': 'Kaha Tasveer Ne Tasweer Gar Se | Numaish Hai Meri Tere Hunar Se'
-- 'id': '4_3_3'
+- 'id': '4_3_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'And yet what a violation of justice it is that | Thou shouldst remain hid from my sight!'
   - 'lang': 'ro'
     'text': 'Wa Lekin Kis Qaddar Na-Munsafi Hai | Ke Tu Poshida Ho Meri Nazar Se!'
-- 'id': '4_3_4'
+- 'id': '4_3_004'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'THE PAINTER'
   - 'lang': 'ro'
     'text': 'musawar'
-- 'id': '4_3_5'
+- 'id': '4_3_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The vision endowed to those that observe find it oppressive: | See for thyself how the spark burnt itself out when it saw the world!'
   - 'lang': 'ro'
     'text': 'Garan Hai Chasm-E-Bina Didah Wer Par | Jahan Beeni Se Kya Guzri Sharar Par!'
-- 'id': '4_3_6'
+- 'id': '4_3_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'What aught is sight but sadness, gloom, feverishness and self‐torment: | Rest, or thou ignorant (of the mysteries), upon report.'
   - 'lang': 'ro'
     'text': 'Nazar Dard-o-Gham-o-Souz-o-Tab-o-Taab | Tu Ae Nadan, Qana’at Kar Khabar Par'
-- 'id': '4_3_7'
+- 'id': '4_3_007'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'THE PORTRAIT'
   - 'lang': 'ro'
     'text': 'tasweer'
-- 'id': '4_3_8'
+- 'id': '4_3_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'What aught is report but the impotence of ratiocination and wisdom? | Vision is the eternal springtide of life.'
   - 'lang': 'ro'
     'text': 'Khabar, Aqal-o-Kirad Ki Natawani | Nazar, Dil Ki Hayat Javedani'
-- 'id': '4_3_9'
+- 'id': '4_3_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'The hustle and the bustle of the present age does not permit one | To express oneself melodiously.'
   - 'lang': 'ro'
     'text': 'Nahin Hai Iss Zamane Ki Tag-o-Taaz | Sazawar-e-Hadees-e-''Lan Tarani'''
-- 'id': '4_3_10'
+- 'id': '4_3_010'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'THE PAINTER'
   - 'lang': 'ro'
     'text': 'Musawwar'
-- 'id': '4_3_11'
+- 'id': '4_3_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Thou doth exist because the Perfection of My Art. | Do not, then, feel cast out in disappointment with Him that hath drawn thee.'
   - 'lang': 'ro'
     'text': 'Tu Hai Mere Kamalat-e-Hunar Se | Na Ho Naumeed Apne Naqsh Gar Se'
-- 'id': '4_3_12'
+- 'id': '4_3_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

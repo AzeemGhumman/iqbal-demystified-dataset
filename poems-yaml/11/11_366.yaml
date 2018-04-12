@@ -8,7 +8,7 @@
   'text': 'I-XXI'
 'description': []
 'sher':
-- 'id': '11_366_1'
+- 'id': '11_366_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'wine'
       'meaning': '        My wine (or booze); my education. As such pub is the school.'
       'occurrence': !!int '1'
-- 'id': '11_366_2'
+- 'id': '11_366_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

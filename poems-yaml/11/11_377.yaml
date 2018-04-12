@@ -8,7 +8,7 @@
   'text': 'III-VII'
 'description': []
 'sher':
-- 'id': '11_377_1'
+- 'id': '11_377_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'shoon.'
       'meaning': '        Shoon (archaic or dial.) p1: of shoe. Pooh (poo) (slang) an exclamation of disdain, hate or impatience.'
       'occurrence': !!int '1'
-- 'id': '11_377_2'
+- 'id': '11_377_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

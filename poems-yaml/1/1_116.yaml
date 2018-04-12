@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Celebration of festivals in Islam is not an occasion for raveling but one of reminiscence and stock taking. The sight of the Eid crescent produced similar thought in ‘Allamah Iqbal’s mind. He took stock of the state of the Muslim Ummah and recounted some of it’s misfortunes. He has given some more reasons for downfall of the Muslims in addition to those given in the pervious poem. However, the next poem, i.e. 99. Sham‘a Awr Sha‘ir (The Candle and the Poet) and 103. Jawab-i-Shakwah (The Response to the Complaint) give more details of this tragedy.'
 'sher':
-- 'id': '1_116_1'
+- 'id': '1_116_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gurrah-e-Shawwal! Ae Noor-e-Nigah-e-Rozadar | Aa Ke The Tere Liye Muslim Sarapa Intizar'
-- 'id': '1_116_2'
+- 'id': '1_116_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'The message of Eid is written on your forehead | Your evening is the preface to the dawn of pleasure'
   - 'lang': 'ro'
     'text': 'Teri Peshani Pe Tehreer-e-Payam-e-Eid Hai | Sham Teri Kya Hai, Subah-e-Aysh Ki Tamheed Hai'
-- 'id': '1_116_3'
+- 'id': '1_116_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sargazasht-e-Millat-e-Baiza Ka Tu Aaeena Hai | Ae Mah-e-Nau! Hum Ko Tujh Se Ulfat-e-Dairina Hai'
-- 'id': '1_116_4'
+- 'id': '1_116_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
     'text': 'The banner 3 under whose shade we wielded our swords | Under whose shade we used the blood of our enemies'
   - 'lang': 'ro'
     'text': 'Jis Ilm Ke Saye Mein Taigh Azma Hote The Hum | Dushmanon Ke Khoon Se Rangeen Qaba Hote The Hum'
-- 'id': '1_116_5'
+- 'id': '1_116_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -67,7 +67,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Teri Qismat Mein Hum Aghoshi Ussu Raayat Ki Hai | Husn-e-Roz Afzoon Se Tere Aabru Millat Ki Hai'
-- 'id': '1_116_6'
+- 'id': '1_116_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
     'text': 'Our nation is cherisher of friends, fidelity is your way | This silvery shirt of yours is the propagator of love'
   - 'lang': 'ro'
     'text': 'Ashana Parwar Hai Qoum Apni, Wafa Aaeen Tera | Hai Muhabbat Khaiz Ye Pairhan-e-Seemeen Tera'
-- 'id': '1_116_7'
+- 'id': '1_116_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'Look at the earth’s habitation from your celestial apses! | Look at the depth of our abode from your eminence!'
   - 'lang': 'ro'
     'text': 'Auj-e-Gurdoon Se Zara Dunya Ki Basti Dekh Le | Apni Riffat Se Humare Ghar Ki Pasti Dekh Le!'
-- 'id': '1_116_8'
+- 'id': '1_116_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
     'text': 'Look at the caravans and also look at their fast speed | At the destitute traveler’s estrangement with destination also look'
   - 'lang': 'ro'
     'text': 'Qafle Dekh Aur Un Ki Barq Raftari Bhi Dekh | Rahru-e-Darmandah Ki Manzil Se Bezari Bhi Dekh'
-- 'id': '1_116_9'
+- 'id': '1_116_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -103,7 +103,7 @@
     'text': 'On sighting you we used to give charity lavishly | O empty cup ! Today at our indigence also look'
   - 'lang': 'ro'
     'text': 'Dekh Kar Tujh Ko Ufaq Par Hum Lutate The Guhar | Ae Tehi Saghar! Humari Aaj Nadari Bhi Dekh'
-- 'id': '1_116_10'
+- 'id': '1_116_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -112,7 +112,7 @@
     'text': 'Muslims are tightly bound in chains of sectarianism | Look at your freedom and at their bondage also look'
   - 'lang': 'ro'
     'text': 'Firqa Aarayi Ki Zanjeeron Mein Hain Muslim Aseer | Apni Azadi Bhi Dekh, Un Ki Giraftari Bhi Dekh'
-- 'id': '1_116_11'
+- 'id': '1_116_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -121,7 +121,7 @@
     'text': 'In the mosque look at disintegration of the priest’s love | In the temple at the Brahman’s strong idol-worship also look'
   - 'lang': 'ro'
     'text': 'Dekh Masjid Mein Shikast-e-Rishta-e-Tasbeeh-e-Sheikh | But Kade Mein Barhaman Ki Pukhta Zunnari Bhi Dekh'
-- 'id': '1_116_12'
+- 'id': '1_116_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -130,7 +130,7 @@
     'text': 'Look at the sight of the Muslim ways in the infidels’ life | And at your Muslims’ tormenting other Muslims also look'
   - 'lang': 'ro'
     'text': 'Kafiron Ki Muslim Aaeeni Ka Bhi Nazara Kar | Aur Apne Muslamon Ki Muslim Aazari Bhi Dekh'
-- 'id': '1_116_13'
+- 'id': '1_116_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -139,7 +139,7 @@
     'text': 'Be the spectator of the shower of rocks of misfortunes | At the frailty of the Muslims Ummah’s abodes also look'
   - 'lang': 'ro'
     'text': 'Barish-e-Sang-e-Hawadis Ka Tamashayi Bhi Ho | Ummat-e-Marhoom Ki Aaeena Deewari Bhi Dekh'
-- 'id': '1_116_14'
+- 'id': '1_116_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -148,7 +148,7 @@
     'text': 'Yes, look at the advance flattery of the ‘honorable’ people | And at the self-respect of the formerly shameless people also look'
   - 'lang': 'ro'
     'text': 'Haan, Tamlluq Paishgi Dekh Aabru Walon Ki Tu | Aur Jo Be-Aabu The, Un Ki Khuddari Bhi Dekh'
-- 'id': '1_116_15'
+- 'id': '1_116_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -157,7 +157,7 @@
     'text': 'Whom we got acquainted with the taste of eloquence | At the haughty speech of that former speechless adversary look'
   - 'lang': 'ro'
     'text': 'Jis Ko Hum Ne Ashna Lutf-e-Takallum Se Kiya | Uss Hareef-e-Bezuban Ki Garm Guftari Bhi Dekh'
-- 'id': '1_116_16'
+- 'id': '1_116_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Saaz-e-Ishrat Ki Sada Magrib Ke Aewanon Mein Sun | Aur Iran Mein Zara Matam Ki Tayyari Bhi Dekh'
-- 'id': '1_116_17'
+- 'id': '1_116_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -183,7 +183,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Chaak Kar Di Turk-e-Nadan Ne Khilafat Ki Qaba | Sadgi Muslim Ki Dekh, Auron Ki Ayyari Bhi Dekh'
-- 'id': '1_116_18'
+- 'id': '1_116_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

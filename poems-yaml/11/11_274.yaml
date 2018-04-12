@@ -8,14 +8,14 @@
   'text': 'SEARCH FOR FOOD AND LIVING | Chapter 16'
 'description': []
 'sher':
-- 'id': '11_274_1'
+- 'id': '11_274_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'پریدن از سر بامی بہ بامی | نبخشد جرہ بازان را مقامی'
   - 'lang': 'en'
     'text': 'If the hawks too fly for roof to roof race, | Amongst the birds of prey they find no place.'
-- 'id': '11_274_2'
+- 'id': '11_274_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'WESTERN CULTURE'
 'description': []
 'sher':
-- 'id': '3_73_1'
+- 'id': '3_73_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Western culture depraves both heart and vision, | Because the soul of that culture is no longer chaste.'
   - 'lang': 'ro'
     'text': 'Fasad-e-Qalb-o-Nazar Hai Farang Ki Tehzeeb | Ke Rooh Iss Madniyat Ki Reh Saki Na Ufeef'
-- 'id': '3_73_2'
+- 'id': '3_73_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

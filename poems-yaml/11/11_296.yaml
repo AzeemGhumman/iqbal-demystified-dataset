@@ -8,14 +8,14 @@
   'text': 'V-II'
 'description': []
 'sher':
-- 'id': '11_296_1'
+- 'id': '11_296_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ ضرب تیشہ بشکن بیستون را | کہ فرصت اندک و گردون دو رنگ است'
   - 'lang': 'en'
     'text': 'With battle axe smite the Bistoon Mountain, | The time is short trust on sky too in vain.'
-- 'id': '11_296_2'
+- 'id': '11_296_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

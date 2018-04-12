@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Man has only the potential for reaching the high position of the Vicegerent of God on earth and needs very hard work for attaining it. This effort includes an ardent Love of God and the Holy Prophet S.A.W. Such Love would lead Man to the state of complete submission of his own will to the Will of God, to lead a life of complete devotion to God; complete self discipline and a state of the mind in which he would consider no sacrifice too great in the struggle for His Cause. For greater details attention is invited to ‘Allamah Iqbal''s two books titled Asrar-i-Khuda and Rumuz-i-Bekhuda. The net result of the loss of Khuda has led the present day Man away from submission to God and towards submission to óaghut. This has resulted in greed, jealousy, arrogance and prejudice, which are Man''s cardinal sins and the root of all sins, individual as well as social, national and international. | As the re-establishment and propagation of Islamic values and the struggle for the reconstruction of Islamic society, which would struggle for and establish the super-national Islamic State, was the raison d''etre of ‘Allamah Iqbal''s poetry this thought abounds in his works, including the present poem. It is not sufficient to claim the Love of God verbally. This Love has to be demonstrated and proven by sacrifices in His Cause. ‘Allamah Iqbal emphasizes the need for participating in the ‘abadah in the broad sense of the term and not just personal piety and hair splitting of the intricacies of the Shara‘ah. He has forcefully emphasized throughout his works the need for the Love of God to be the motivation of all human efforts in order to make them effective as well as acceptable to God: | (172) All wisdom of Angelic World, all knowledge of Celestial World | If it cures not the maladies of the Islamic World is all but naught | (173) The midnight remembrance, meditations, the spiritual joys of yours | If they guard not your Khuda they are all but naught | The present poem gives some indication of what the true Love of God means. It shows that the highest dangers and the greatest losses in His Cause are imminent for those struggling therein and that, though they may lead to material losses and even loss of life, the result is the reward of eternal bliss, which only those can appreciate and enjoy whom God has endowed with such light (The Holy Qur''an 2:153-57).'
 'sher':
-- 'id': '1_30_1'
+- 'id': '1_30_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Qissa-e-Dar-o-Rasan Bazi-e-Tiflana-e-Dil | Iltijaye ‘Arini’ Surkhi-e-Afsana Dil'
-- 'id': '1_30_2'
+- 'id': '1_30_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O Lord! How powerful the full cup of that wine would be? | The Way to eternity is each single line on the measuring cup of the Heart'
   - 'lang': 'ro'
     'text': 'Ya Rab Iss Saghir-e-Labraiz Ki Mai Kya Ho Gi | Jadah-e-Mulk-e-Baqa Hai Khat-e-Pemane-e-Dil'
-- 'id': '1_30_3'
+- 'id': '1_30_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'O Lord! Was it the cloud of mercy or the thunderbolt of Love | When the life''s crop got burned down, sprouted the seed of the Heart'
   - 'lang': 'ro'
     'text': 'Abar-e-Rehmat Tha Ke Thi Ishq Ki Bijli Ta Rab! | Jal Gyi Mazraa-e-Hasti To Uga Dana-e-Dil'
-- 'id': '1_30_4'
+- 'id': '1_30_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -57,7 +57,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Husn Ka Janj-e-Giran Maya Tujhe Mil Jata | Tu Ne Farhad! Na Khoda Kabhi Weera-e-Dil'
-- 'id': '1_30_5'
+- 'id': '1_30_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -66,7 +66,7 @@
     'text': 'Now it looks like the ‘ ‘Arsh ’, now like the Ka''bah | O God! Whose lodging is the abode of my Heart'
   - 'lang': 'ro'
     'text': 'Arsh Ka Hai Kabhi Kaabe Ka Hai Dhoka Iss Par | Kis Ki Manzil Hai Elahi! Mera Kashana-e-Dil'
-- 'id': '1_30_6'
+- 'id': '1_30_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -79,7 +79,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Iss Ka Apna Hai Junoon Aur Mujhe Souda Apna | Dil Kisi Aur Ka Diwana, Mein Diwana-e-Dil'
-- 'id': '1_30_7'
+- 'id': '1_30_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -88,7 +88,7 @@
     'text': 'You do not comprehend this, O simple hearted ascetic! | Envy of a thousand prostrations is one slip of the Heart'
   - 'lang': 'ro'
     'text': 'Tu Samajta Nahin Ae Zahid-e-Nadan Iss Ko | Rashk-e-Sad Sajda Hai Ek Laghzish-e-Mastana-e-Dil'
-- 'id': '1_30_8'
+- 'id': '1_30_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -97,7 +97,7 @@
     'text': 'It changes the heap of earth into elixir | Such is the power of the ashes of the Heart'
   - 'lang': 'ro'
     'text': 'Khak Ke Dhair Ko Ikseer Bana Deti Hai | Woh Asar Rakhti Hai Khakstar-e-Parwana-e-Dil'
-- 'id': '1_30_9'
+- 'id': '1_30_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

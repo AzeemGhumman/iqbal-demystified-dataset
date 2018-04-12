@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem was written in reply to a letter from some unspecified friend persuading ‘Allamah Iqbal to try for a career in politics. Beniaza, qana‘at, tawakkul and self-respect were strong pillars in the edifice of ‘Allamah Iqbal’s character and also constitute the basic ingredients of his message. The poem is an unambiguous reflection of the above qualities of his character. The last verse is the climax of the matter and is taken from Hafiï of Sharaz.'
 'sher':
-- 'id': '1_143_1'
+- 'id': '1_143_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Even if I have greed I do not have the strength for exertion | Acquiring position is connected with the taste for search'
   - 'lang': 'ro'
     'text': 'Hawas Bhi Ho To Nahin Mujh Mein Himmat-e-Tag-o-Taaz | Husool-e-Jah Hai Wabasta-e-Mazaq-e-Talash'
-- 'id': '1_143_2'
+- 'id': '1_143_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'A thousand thanks to God that my nature is contentment | A thousand thanks to God that my mind is not mischievous'
   - 'lang': 'ro'
     'text': 'Hazar Shukar, Tabiat Hai Raiza Kaar Meri | Hazar Shukar, Nahin Hai Damagh-e-Fitna-e-Tarash'
-- 'id': '1_143_3'
+- 'id': '1_143_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Cultivations of human hearts flourish with my writings | In the world I am creative like the ocean feeding cloud'
   - 'lang': 'ro'
     'text': 'Mere Sukhan Se Dilon Hain Khaitian Sar Sabz | Jahan Mein Hun Main Missal-e-Sihaab Darya Pash'
-- 'id': '1_143_4'
+- 'id': '1_143_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Congratulations to you on these secrets of politics | As my finger nail by Love’s grace is breast-excoriating'
   - 'lang': 'ro'
     'text': 'Ye Uqdah Haye Siasat Tujhe Mubarik Hon | Ke Faiz-e-Ishq Se Nakhan Mera Hai Seena Kharash'
-- 'id': '1_143_5'
+- 'id': '1_143_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Desire for audience with kings is a sign of lifelessness | This secret has been exposed by Hafiï of elegant poetry'
   - 'lang': 'ro'
     'text': 'Hawaye Bazm-e-Salateen Daleel-e-Murda Dili | Kiya Hai Hafiz-e-Rangeen Nawa Ne Raaz Ye Fash'
-- 'id': '1_143_6'
+- 'id': '1_143_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

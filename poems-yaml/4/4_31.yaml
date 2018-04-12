@@ -8,7 +8,7 @@
   'text': 'A free man’s vein is hard like stone’s'
 'description': []
 'sher':
-- 'id': '4_31_1'
+- 'id': '4_31_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A free man’s vein is hard like stone’s, | a slave’s is tender like vine’s;'
   - 'lang': 'ro'
     'text': 'Azad Ki Rag Sakht Hai Manind Rag-E-Sang | Mehkoom Ki Rag Naram Hai Manind-E-Rag-E-Taak'
-- 'id': '4_31_2'
+- 'id': '4_31_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'a slave’s heart is dead, frustrated and never sees the light of hope; | a free man’s heart is alive, full of zest and happiness.'
   - 'lang': 'ro'
     'text': 'Mehkoom Ka Dil Murda-O-Afsurda-O-No Meed | Azad Ka Dil Zinda-O-Pursoz-O-Tarab Naak'
-- 'id': '4_31_3'
+- 'id': '4_31_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'A free man’s wealth, a shining heart and warm breath, | that of slave, only moist eyes.'
   - 'lang': 'ro'
     'text': 'Azad Ki Doulat-E-Dil Roshan, Nafs-E-Garam | Mehkoom Ka Sarmaya Faqt Didah’ay Namnaak'
-- 'id': '4_31_4'
+- 'id': '4_31_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The slave lacks sincerity and generosity | though he be adept in argumentation.'
   - 'lang': 'ro'
     'text': 'Mehkoom Hai Begana’ay Ikhlas-O-Marawwat | Har Chand K Mantaq Ki Daleelon Mein Hai Chalaak'
-- 'id': '4_31_5'
+- 'id': '4_31_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

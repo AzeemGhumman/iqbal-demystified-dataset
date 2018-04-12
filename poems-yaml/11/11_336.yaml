@@ -8,7 +8,7 @@
   'text': 'XII-VI'
 'description': []
 'sher':
-- 'id': '11_336_1'
+- 'id': '11_336_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'chess'
       'meaning': '        Here waste land is a hint (an allusion) to man''s intrinsic nature, devoid of good qualities.'
       'occurrence': !!int '1'
-- 'id': '11_336_2'
+- 'id': '11_336_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

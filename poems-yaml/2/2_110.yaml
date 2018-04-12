@@ -8,7 +8,7 @@
   'text': 'To be God is to do a million tasks'
 'description': []
 'sher':
-- 'id': '2_110_1'
+- 'id': '2_110_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'To be God is to do a million tasks; | To be God, no doubt, is a wearisome headache;'
   - 'lang': 'ro'
     'text': 'Khudai Ehtamam-e-Khushk-o-Tar Hai | Khudawand! Khudai Dard-e-Sar Hai'
-- 'id': '2_110_2'
+- 'id': '2_110_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

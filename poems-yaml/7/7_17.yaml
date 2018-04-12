@@ -8,14 +8,14 @@
   'text': '(17)'
 'description': []
 'sher':
-- 'id': '7_17_1'
+- 'id': '7_17_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'گذشتی تیز گام ای اختر صبح | مگر از خواب ما بیزار رفتی'
   - 'lang': 'en'
     'text': 'O morning star, you came and swiftly fled, | Schocked, I suspect, to find us still in bed.'
-- 'id': '7_17_2'
+- 'id': '7_17_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Love seeks sometimes the solitude of hills'
 'description': []
 'sher':
-- 'id': '2_106_1'
+- 'id': '2_106_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Love seeks sometimes the solitude of hills; | At other times, the tuneful chords of life;'
   - 'lang': 'ro'
     'text': 'Kabhi Tanhai-e-Koh-o-Daman Ishq | Kabhi Souz-o-Suroor-o-Anjuman Ishq'
-- 'id': '2_106_2'
+- 'id': '2_106_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

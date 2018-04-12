@@ -8,7 +8,7 @@
   'text': 'Reason has devised again the magic of ancient days'
 'description': []
 'sher':
-- 'id': '2_55_1'
+- 'id': '2_55_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Reason has devised again the magic of ancient days; | What the magic needs, is a new Moses’ wand.'
   - 'lang': 'ro'
     'text': 'Taza Phir Danish-e-Hazir Ne Kiya Sahar-e-Qadeem | Guzar Iss Ehad Mein Mumkin Nahin Be-Chob-e-Kaleem'
-- 'id': '2_55_2'
+- 'id': '2_55_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The intellect, in its cunning. assumes a thousand shapes; | But love, a simpleton, is not a mullah, nor is wise.'
   - 'lang': 'ro'
     'text': 'Aqal Ayyar Hai, Sau Bhais Bana Leti Hai | Ishq Bechara Na Mullah Hai Na Zahid Na Hakeem!'
-- 'id': '2_55_3'
+- 'id': '2_55_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Travellers on the path of love should deny themselves a goal; | We are all travellers, but seem to have a home.'
   - 'lang': 'ro'
     'text': 'Aysh-e-Manzil Hai Ghareeban-e-Mohabbat Pe Haram | Sub Musafir Hain, Bazahir Nazar Ate Hain Maqeem'
-- 'id': '2_55_4'
+- 'id': '2_55_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Grieve not about thy equipment in travel, | Mountains and rivers can be crossed like a breeze.'
   - 'lang': 'ro'
     'text': 'Hai Garan Sair Gham-e-Rahla-o-Zaad Se Tu | Koh-o-Darya Se Guzar Sakte Hain Manind-e-Naseem'
-- 'id': '2_55_5'
+- 'id': '2_55_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

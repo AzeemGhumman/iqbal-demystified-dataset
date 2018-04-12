@@ -8,7 +8,7 @@
   'text': 'RUMI'
 'description': []
 'sher':
-- 'id': '3_128_1'
+- 'id': '3_128_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Your half‐shut eyes still fail to see | What subtle fact this life may be.'
   - 'lang': 'ro'
     'text': 'Galat-e-Nigar Hai Teri Chashm-e-Neem Baaz Ab Tak | Tera Wujood Tere Waste Hai Raaz Ab Tak'
-- 'id': '3_128_2'
+- 'id': '3_128_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Too meek to have a fondling will, | Devoid of qiam your worship still.'
   - 'lang': 'ro'
     'text': 'Tera Niaz Nahin Ashnaye Naaz Ab Tak | Ke Hai Qayam Se Khali Teri Namaz Ab Tak'
-- 'id': '3_128_3'
+- 'id': '3_128_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

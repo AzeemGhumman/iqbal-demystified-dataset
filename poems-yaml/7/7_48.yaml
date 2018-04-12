@@ -8,14 +8,14 @@
   'text': '(48)'
 'description': []
 'sher':
-- 'id': '7_48_1'
+- 'id': '7_48_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ھمای علم تا افتد بدامت | یقین کم کن گرفتار شکی باش'
   - 'lang': 'en'
     'text': 'If you seek knowledge, then be of two minds; | Increase your doubt, decrease your certainty.'
-- 'id': '7_48_2'
+- 'id': '7_48_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

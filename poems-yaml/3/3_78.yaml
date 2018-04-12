@@ -8,7 +8,7 @@
   'text': 'UPBRINGING OF SELFHOOD'
 'description': []
 'sher':
-- 'id': '3_78_1'
+- 'id': '3_78_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If self is bred with perfect care, Such force and strength it can acquire | That handful dust of man with ease, Can set untruths and wrongs afire.'
   - 'lang': 'ro'
     'text': 'Khudi Ki Parwarish-o-Tarbiat Pe Hai Moqoof | Ke Musht-e-Khak Mein Paida Ho Atish-e-Hama Souz'
-- 'id': '3_78_2'
+- 'id': '3_78_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

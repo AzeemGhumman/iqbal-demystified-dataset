@@ -8,7 +8,7 @@
   'text': 'Hill and vale once more under the poppy’s lamps are bright'
 'description': []
 'sher':
-- 'id': '2_23_1'
+- 'id': '2_23_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Hill and vale once more under the poppy’s lamps are bright, | In my heart the nightingale has set new songs alight;'
   - 'lang': 'ro'
     'text': 'Phir Charagh-E-Lala Se Roshan Huway Koh-O-Daman | Mujh Ko Phir Naghmon Pe Uksane Laga Murg-E-Chaman'
-- 'id': '2_23_2'
+- 'id': '2_23_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Violet, violet, azure, azure, golden, golden, mantles— | Flowers, or fairies of the desert, rank on rank in sight?'
   - 'lang': 'ro'
     'text': 'Phool Hain Sehra Mein Ya Pariyan Qitar Andar Qitar | Ude Ude, Neele Neele, Peele Peele Payrhan'
-- 'id': '2_23_3'
+- 'id': '2_23_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'On the rosy‐spray dawn’s soft breeze has left a pearl of dew, | Now the sunbeam turns this gem a yet more glittering white.'
   - 'lang': 'ro'
     'text': 'Barg-E-Gul Par Rakh Gyi Shabnam Ka Moti Bad-E-Subah | Aur Chamkati Hai Iss Moti Ko Sooraj Ki Kiran'
-- 'id': '2_23_4'
+- 'id': '2_23_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Town or woodland, which is sweeter, if for her unveiling | Careless beauty love towns less than where green woods invite?'
   - 'lang': 'ro'
     'text': 'Husn-E-Beparwa Ko Apni Be-Naqabi Ke Liye | Hun Agar Shehron Se Bann Payare To Shehar Ache K Bann'
-- 'id': '2_23_5'
+- 'id': '2_23_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Delve into your soul and there seek our life’s buried tracks; | Will you not be mine? then be not mine, be your own right!'
   - 'lang': 'ro'
     'text': 'Apne Mann Mein Doob Kar Pa Ja Suragh-E-Zindagi | Tu Agar Mera Nahin Banta Na Bann, Apna To Bann'
-- 'id': '2_23_6'
+- 'id': '2_23_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'World of soul—the world of fire and ecstasy and longing: | World of sense—the world of gain that fraud and cunning blight;'
   - 'lang': 'ro'
     'text': 'Mann Ki Duniya! Mann Ki Dunya Souz-O-Masti, Jazab-O-Shauq | Tann Ki Dunya! Tann Ki Dunya Sood-O-Soda, Maker-O-Fann'
-- 'id': '2_23_7'
+- 'id': '2_23_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'Treasure of the soul once won is never lost again: | Treasure gold, a shadow—wealth soon comes and soon takes flight.'
   - 'lang': 'ro'
     'text': 'Mann Ki Doulat Hath Ati Hai To Phir Jati Nahin | Tann Ki Doulat Chaon Hai, Ata Hai Dhan Jata Hai Dhan'
-- 'id': '2_23_8'
+- 'id': '2_23_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'In the spirit’s world I have not seen a white man’s Raj, | In that world I have not seen Hindu and Muslim fight.'
   - 'lang': 'ro'
     'text': 'Mann Ki Duniya Mein Na Paya Mein Ne Afrangi Ka Raaj | Man Ki Duniya Mein Na Dekhe, Mein Ne Sheikh-O-Barhaman'
-- 'id': '2_23_9'
+- 'id': '2_23_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

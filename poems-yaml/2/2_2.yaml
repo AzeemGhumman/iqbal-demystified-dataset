@@ -8,7 +8,7 @@
   'text': 'If the stars are astray'
 'description': []
 'sher':
-- 'id': '2_2_1'
+- 'id': '2_2_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If the stars have strayed— To whom do the heavens belong, You or Me? | Why must I worry about the world— To whom does this world belong, You or Me?'
   - 'lang': 'ro'
     'text': 'Meri Nawa’ay Shauq Se Shor Hareem-e-Zaat Mein | Ghalghala Ha’ay Al-Aman But Kada’ay Sifaat Mein'
-- 'id': '2_2_2'
+- 'id': '2_2_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'If the Placeless Realm Offers no lively scenes of passion and longing, | Whose fault is that, my Lord?— Does that realm belong to You or to me?'
   - 'lang': 'ro'
     'text': 'Hoor-o-Farishta Hain Aseer Mere Takhiyulat Mein | Meri Nigah Se Khalal Teri Tajaliat Mein'
-- 'id': '2_2_3'
+- 'id': '2_2_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'On the morning of eternity he dared to say ʹNoʹ, | But how would I know why— Is he Your confidant, or is he mine?'
   - 'lang': 'ro'
     'text': 'Garche Hai Meri Justujoo Dair-e-Haram Ki Naqsh Band | Meri Faghan Se Rustkhaiz Kaaba-O-Somanat Mein'
-- 'id': '2_2_4'
+- 'id': '2_2_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Muhammad is Yours, Gabriel is Yours, The Qurʹan is Yours— | But this discourse, This exposition in melodious tunes, Is it Yours or is it mine?'
   - 'lang': 'ro'
     'text': 'Gah Meri Nigah-e-Taiz Cheer Gyi Dil-e-Wujood | Gah Uljah Ke Reh Gyi Meri Touwahamaat Mein'
-- 'id': '2_2_5'
+- 'id': '2_2_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Your world is illuminated, By the radiance of the same star | Whose loss was the fall of Adam, that creature of earth, Was it Yours or mine?'
   - 'lang': 'ro'
     'text': 'Tu Ne Ye Kya Ghazab Kiya, Mujh Ko Bhi Fash Kar Diya | Main Hi Tou Aik Raaz Tha Sina’ay Kainat Mein !'
-- 'id': '2_2_6'
+- 'id': '2_2_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'All potent wine is emptied of Thy cask; | Art Thou, indeed, a Cup‐bearer, may I ask?'
   - 'lang': 'ro'
     'text': 'Tere Shishe Mein May Baqi Nahin Hai | Bata, Kya Tu Mera Saqi Nahi Hai'
-- 'id': '2_2_7'
+- 'id': '2_2_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Events as yet folded in the scroll of Time'
 'description': []
 'sher':
-- 'id': '2_60_1'
+- 'id': '2_60_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Events as yet folded in the scroll of Time | Reflect in the mirror of my perception.'
   - 'lang': 'ro'
     'text': 'Hadsa Woh Jo Abhi Parda-e-Aflak Mein Hai | Aks Uss Ka Mere Aaeena-e-Idraak Mein Hai'
-- 'id': '2_60_2'
+- 'id': '2_60_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Neither the planets, nor the spinning skies— | Only my bold song—can tell you your destiny.'
   - 'lang': 'ro'
     'text': 'Na Sitare Mein Hai, Ne Gardish-e-Aflak Mein Hai | Teri Taqdeer Mere Nala-e-Bebaak Mein Hai'
-- 'id': '2_60_3'
+- 'id': '2_60_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Either my sighs are devoid of fire, | Or else your straw and thorns as yet retain some sap;'
   - 'lang': 'ro'
     'text': 'Ya Meri Aah Mein Koi Sharar-e-Zinda Nahin | Ya Zara Nam Abhi Tere Khs-o-Khashak Mein Hai'
-- 'id': '2_60_4'
+- 'id': '2_60_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Yet perchance my morning song | May quicken the fire that your dust contains—'
   - 'lang': 'ro'
     'text': 'Kya Ajab Meri Nawa Haye Sehargahi Se | Zinda Ho Jaye Woh Atish Ke Teri Khak Mein Hai'
-- 'id': '2_60_5'
+- 'id': '2_60_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

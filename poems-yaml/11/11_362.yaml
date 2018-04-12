@@ -8,7 +8,7 @@
   'text': 'I-XVII'
 'description': []
 'sher':
-- 'id': '11_362_1'
+- 'id': '11_362_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'dole'
       'meaning': '        Dole, n., pain, grief. (arch and in poetry), heaviness of heart. Hence doleful., adj.'
       'occurrence': !!int '1'
-- 'id': '11_362_2'
+- 'id': '11_362_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

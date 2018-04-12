@@ -8,7 +8,7 @@
   'text': 'V-III'
 'description': []
 'sher':
-- 'id': '11_391_1'
+- 'id': '11_391_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'warriors'
       'meaning': '        Warriors; (Liter and Rhet:) Soldier, a fighter. Otherwise use soldier or fighter in preference to Warriors. Arbab-I-Humam; men of courage, viz Warriors. Here Iqbal has made three categories of paradise in a sarcastic manner.'
       'occurrence': !!int '1'
-- 'id': '11_391_2'
+- 'id': '11_391_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

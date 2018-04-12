@@ -8,7 +8,7 @@
   'text': 'The partridge flies with the majesty of the falcons'
 'description': []
 'sher':
-- 'id': '4_26_1'
+- 'id': '4_26_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The partridge flies with the majesty of the falcons; | the hunter is nonplussed: is it a partridge or a falcon?'
   - 'lang': 'ro'
     'text': 'Durraj Ki Parwaz Mein Hai Shaukat-E-Shaheen | Hairat Mein Hai Sayyadm Ye Shaheen Hai Kh Durraj !'
-- 'id': '4_26_2'
+- 'id': '4_26_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Every nation is astir, her thoughts in a constant flux; | today we see in the East the signs of tomorrow’s resurrection.'
   - 'lang': 'ro'
     'text': 'Har Qoum Ke Afkar Mein Paida Hai Talatum | Mashriq Mein Hai Farda’ay Qayamat Ki Namood Aaj'
-- 'id': '4_26_3'
+- 'id': '4_26_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Allama Iqbal told about the impatient moments of man before the death (The word death meant meeting with GOD). Allama Iqbal briefly described the passion and gnosis of love for GOD. | {Contributed by user: Zain Zaheer}'
 'sher':
-- 'id': '4_4_1'
+- 'id': '4_4_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'THE CORPSE (TO ITS GRAVE)'
   - 'lang': 'ro'
     'text': 'murda'
-- 'id': '4_4_2'
+- 'id': '4_4_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'What is it, this Resurrection Day? Of what present is it the future? | 0 my ancient sleeping‐chamber, What is Resurrection Day?'
   - 'lang': 'ro'
     'text': 'Kya Shay Hai, Kis Amroz Ka Farda Hai Qayamat | Ae Mere Shabistan-E-Kuhan ! Kya Hai Qayamat?'
-- 'id': '4_4_3'
+- 'id': '4_4_003'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'THE GRAVE'
   - 'lang': 'ro'
     'text': 'qabar'
-- 'id': '4_4_4'
+- 'id': '4_4_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'O corpse of a hundred years, don’t you know | That every death implies a call for resurrection?'
   - 'lang': 'ro'
     'text': 'Ae Murda’ay Sad Sala ! Tujhe Kya Nahin Maloom? | Har Mout Ka Poshida Taqaza Hai Qayamat !'
-- 'id': '4_4_5'
+- 'id': '4_4_005'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'THE CORPSE'
   - 'lang': 'ro'
     'text': 'Murda'
-- 'id': '4_4_6'
+- 'id': '4_4_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'A death that implies resurrection | Such a death does not entrap me!'
   - 'lang': 'ro'
     'text': 'Jis Mout Ka Poshida Taqaza Hai Qayamat | Uss Mout Ke Phande Mein Giraftar Nahin Main'
-- 'id': '4_4_7'
+- 'id': '4_4_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'It is true that I have been dead for a hundred years, | But I am not tired of this dark chamber in the earth.'
   - 'lang': 'ro'
     'text': 'Har Chand Ke Hun Murda’ay Sad Sala Walekin | Zulmat Kudda’ay Khak Se Bezaar Nahin Main'
-- 'id': '4_4_8'
+- 'id': '4_4_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'The soul should once again ride the poor body | If this is resurrection, then I am not a taker!'
   - 'lang': 'ro'
     'text': 'Ho Rooh Phir Ek Bar Sawar-e-Badan-e-Zaar | Aesi Hai Qayamat To Kharidar Nahin Main'
-- 'id': '4_4_9'
+- 'id': '4_4_009'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'A VOICE FROM THE UNSEEN'
   - 'lang': 'ro'
     'text': 'Sada’ay Ghaib'
-- 'id': '4_4_10'
+- 'id': '4_4_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Death is not for snakes and scorpions, Or for birds and beasts of prey, | Eternal death is the lot of slave nations alone.'
   - 'lang': 'ro'
     'text': 'Ne Naseeb-e-Maar Wa Kuzdum, Ne Naseeb-e-Dawam Wa Dad | Hai Faqat Mehkoom Qoumon Ke Liye Marg-e-Abad'
-- 'id': '4_4_11'
+- 'id': '4_4_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Even Israfil’s trumpet cannot bring back to life those | Whose bodies, when they lived, had no souls.'
   - 'lang': 'ro'
     'text': 'Bang-e-Israfeel Un Ko Zinda Kar Sakti Nahin | Rooh Se Tha Zindagi Mein Bhi Tehi Jin Ka Jasad'
-- 'id': '4_4_12'
+- 'id': '4_4_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'To spring back to life after death ‐only the free can do that, | Even though all living beings are headed, Into the arms of the grave.'
   - 'lang': 'ro'
     'text': 'Mar Ke Ji Uthna Faqat Azad Mardon Ka Hai Kaam | Garcha Har Zee Rooh Ki Manzil Hai Aagosh-E-Lehad'
-- 'id': '4_4_13'
+- 'id': '4_4_013'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'THE GRAVE (TO ITS CORPSE)'
   - 'lang': 'ro'
     'text': 'qabar'
-- 'id': '4_4_14'
+- 'id': '4_4_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
     'text': 'You vicious creature! In the world you were a slave! | I had failed to understand why my soil was as hot as fire!'
   - 'lang': 'ro'
     'text': 'Ah Zalim! Tu Jahan Mein Banda’ay Mehkoom Tha | Main Na Samjhi Thi Ke Hai Kyun Khak Meri Souz Naak'
-- 'id': '4_4_15'
+- 'id': '4_4_015'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -145,7 +145,7 @@
     'text': 'NAAK'
   - 'lang': 'ro'
     'text': 'naak'
-- 'id': '4_4_16'
+- 'id': '4_4_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -154,7 +154,7 @@
     'text': 'Your corpse makes my darkness even darker. | It rips the earth’s veil of honour.'
   - 'lang': 'ro'
     'text': 'Teri Mayyat Se Meri Tareekiyan Tareek Tar | Teri Mayyat Se Zameen Ka Parda’ay Namoos Chaak'
-- 'id': '4_4_17'
+- 'id': '4_4_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
     'text': 'Beware, beware a hundred times of a slave’s corpse! | O Israfil! O Lord of the universe! O soul that is chaste and pure!'
   - 'lang': 'ro'
     'text': 'Alhazar, Mehkoom Ki Mayyat Se Sou Bar Alhazar | Ae Sarafeel ! Ae Khuda’ay Kainat ! Ae Jaan-E-Pak'
-- 'id': '4_4_18'
+- 'id': '4_4_018'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -172,7 +172,7 @@
     'text': 'THE VOICE FROM THE UNSEEN'
   - 'lang': 'ro'
     'text': 'Sada’ay Ghaib'
-- 'id': '4_4_19'
+- 'id': '4_4_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
     'text': 'Resurrection upsets the order of the universe, | But it is this commotions that reveals the secrets of existence.'
   - 'lang': 'ro'
     'text': 'Garcha Barham Hai Qayamat Se Nizam-E-Hast-O-Bood | Hain Issi Aashob Se Beparda Asrar-E-Wajood'
-- 'id': '4_4_20'
+- 'id': '4_4_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'An earthquake makes mountains fly like clouds, | But it also starts new springs flowing in the valleys.'
   - 'lang': 'ro'
     'text': 'Zalzale Se Koh-O-Dar Urtte Hain Manind-E-Sihab | Zalzale Se Wadiyon Mein Taza Chashmon Ki Namood'
-- 'id': '4_4_21'
+- 'id': '4_4_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'Total destruction must come before any re‐creation – | For in this way the problems of existence are resolved.'
   - 'lang': 'ro'
     'text': 'Har Nayi Tameer Ko Lazim Hai Takhreeb-E-Tamam | Hai Issi Mein Mushkilat-E-Zindagani Ki Kushood'
-- 'id': '4_4_22'
+- 'id': '4_4_022'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -208,7 +208,7 @@
     'text': 'THE EARTH'
   - 'lang': 'ro'
     'text': 'Zameen'
-- 'id': '4_4_23'
+- 'id': '4_4_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -217,7 +217,7 @@
     'text': 'Oh, this eternal death! Oh, this struggle that marks life! | Will this conflict in the world ever end?'
   - 'lang': 'ro'
     'text': 'Ah Ye Marg-E-Dawam, Ah Ye Razm-E-Hayat | Khatam Bhi Ho Gi Kabhi Kashmakash-E-Kainat !'
-- 'id': '4_4_24'
+- 'id': '4_4_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -226,7 +226,7 @@
     'text': 'Reason cannot free itself from its idols; | The commoners and the elite‐all are slaves to Lat and Manat.'
   - 'lang': 'ro'
     'text': 'Aqal Ko Milti Nahin Apne Button Se Nijaat | Arif-O-Aami Tamam Band’ay Laat-O-Manaat'
-- 'id': '4_4_25'
+- 'id': '4_4_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

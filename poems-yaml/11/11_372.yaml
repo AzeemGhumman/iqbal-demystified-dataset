@@ -8,7 +8,7 @@
   'text': 'III-II'
 'description': []
 'sher':
-- 'id': '11_372_1'
+- 'id': '11_372_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'gold.'
       'meaning': '        A conscience of gold; (fig ) having brilliant qualities of head and heart.'
       'occurrence': !!int '1'
-- 'id': '11_372_2'
+- 'id': '11_372_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(143)'
 'description': []
 'sher':
-- 'id': '7_143_1'
+- 'id': '7_143_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرا مثل نسیم آوارہ کردند | دلم مانند گل صد پارہ کردند'
   - 'lang': 'en'
     'text': 'Mine is to wander like the breeze of morn | With a heart like a full-blown rose’s rent'
-- 'id': '7_143_2'
+- 'id': '7_143_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

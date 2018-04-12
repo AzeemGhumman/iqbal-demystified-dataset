@@ -8,7 +8,7 @@
   'text': 'Does freshness of thought, Exist in any school?'
 'description': []
 'sher':
-- 'id': '2_59_1'
+- 'id': '2_59_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Does freshness of thought, Exist in any school? | And do the sanctums provide, Pleasures esoteric?'
   - 'lang': 'ro'
     'text': 'Maktabon Mein Kahin Raanayi-e-Afkaar Bhi Hai? | Khanqahon Mein Kahin Lazzat-e-Asrar Bhi Hai?'
-- 'id': '2_59_2'
+- 'id': '2_59_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Thy goal is far away, The journey a Herculean task; | Is there a leader of men, Who could guide this caravan?'
   - 'lang': 'ro'
     'text': 'Manzil-e-Rahrawan Door Bhi, Dushwar Bhi Hai | Koi Iss Qafle Mein Qafla Salaar Bhi Hai?'
-- 'id': '2_59_3'
+- 'id': '2_59_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'This war for faith is greater, Than the Khayber war; | Is there in our age, A warrior as brave as Ali?'
   - 'lang': 'ro'
     'text': 'Barh Ke Khayber Se Hai Ye Maarka-e-Deen-o-Watan | Iss Zamane Mein Koi Haidar-e-Karar Bhi Hai?'
-- 'id': '2_59_4'
+- 'id': '2_59_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Beyond the realm of knowledge, Are pleasures for the Muslim— | he pleasures of ecstasy, The pleasures of a vision.'
   - 'lang': 'ro'
     'text': 'Ilm Ki Had Se Pare, Banda-e-Momin Ke Liye | Lazzat-e-Shauq Bhi Hai, Naimat-e-Didar Bhi Hai'
-- 'id': '2_59_5'
+- 'id': '2_59_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

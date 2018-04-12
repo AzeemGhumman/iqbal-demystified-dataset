@@ -8,14 +8,14 @@
   'text': '(23)'
 'description': []
 'sher':
-- 'id': '7_23_1'
+- 'id': '7_23_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بکویش رہ سپاری ای دل ایدل | مرا تنھا گذاری ای دل ایدل'
   - 'lang': 'en'
     'text': 'You go so often to His street, O heart, | For Saqing me in my retreat, O heart.'
-- 'id': '7_23_2'
+- 'id': '7_23_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

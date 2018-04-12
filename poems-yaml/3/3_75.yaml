@@ -8,7 +8,7 @@
   'text': 'THE TESTAMENT OF TIPU SULTAN'
 'description': []
 'sher':
-- 'id': '3_75_1'
+- 'id': '3_75_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If you traverse the road of love, Donʹt yearn to seek repose or rest: | If Layla be your companion close, That litter shun with great contempt.'
   - 'lang': 'ro'
     'text': 'Tu Reh Naward-e-Shauq Hai, Manzil Na Kar Qabool | Laila Bhi Hum-Nasheen Ho To Mehmil Na Kar Qabool'
-- 'id': '3_75_2'
+- 'id': '3_75_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'O streamlet, onward flow and get, Transformed to torrent strong and deep: | If bank is eʹer on you bestowed, Abstain, flow on with mighty sweep.'
   - 'lang': 'ro'
     'text': 'Ae Jooye Aab Barh Ke Ho Darya-e-Tund-o-Taiz | Sahil Tujhe Atta Ho To Sahil Na Kar Qabool'
-- 'id': '3_75_3'
+- 'id': '3_75_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Donʹt lose your bearings in this world, Because with idols it is full: | The assemblage here can cast a spell, Disdain, or strings of heart shall pull.'
   - 'lang': 'ro'
     'text': 'Khoya Na Ja Sanamkada-e-Kainat Mein | Mehfil Gudaz! Garmi-e-Mehfil Na Kar Qabool'
-- 'id': '3_75_4'
+- 'id': '3_75_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Gabriel on Creationʹs Early Morn, A piece of useful counsel gave: | He bade me not accept a heart, Enchained by mind of man like slave.'
   - 'lang': 'ro'
     'text': 'Subah-e-Azal Ye Mujh Se Kaha Jibreel Ne | Jo Aqal Ka Ghulam Ho, Woh Dil Na Kar Qabool Gabriel  on Creationʹs Early Morn, a piece of useful counsel gave:'
-- 'id': '3_75_5'
+- 'id': '3_75_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

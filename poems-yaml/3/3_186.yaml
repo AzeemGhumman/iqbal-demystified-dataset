@@ -8,7 +8,7 @@
   'text': 'The Sun, the Moon and Sphere all go astray'
 'description': []
 'sher':
-- 'id': '3_186_1'
+- 'id': '3_186_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Sun, the Moon and Sphere all go astray, | Are vagrants who still straggle on the way.'
   - 'lang': 'ro'
     'text': 'Kya Charkh-e-Kajro, Kya Meher, Kya Mah | Sub Rahru Hain Wa Manda-e-Rah'
-- 'id': '3_186_2'
+- 'id': '3_186_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Alexander fell on world like thunder clap, | But death soon caught him in its deadly trap.'
   - 'lang': 'ro'
     'text': 'Karka Sikandar Bijli Ki Manind | Tujh Ko Khabar Hai Ae Marg-e-Nagah'
-- 'id': '3_186_3'
+- 'id': '3_186_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'King Nadir plundered Delhi''s hoarded wealth, | Whereas his Chiefs put him to sword by stealth.'
   - 'lang': 'ro'
     'text': 'Nadir Ne Looti Dilli Ki Doulat | Ek Zarb-e-Shamsheer,  Afsana Kotah'
-- 'id': '3_186_4'
+- 'id': '3_186_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The Afghans and their hills e''en now remain. | Sovereignty and kingdom are only God’s'
   - 'lang': 'ro'
     'text': 'Afghan Baqi, Kuhsar Baqi | Alhukmu Lillah! Almulku Lillah!'
-- 'id': '3_186_5'
+- 'id': '3_186_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Free heroes are Compelled by wont and need, | These change a lion bold to fox indeed.'
   - 'lang': 'ro'
     'text': 'Hajat Se Majboor Mardan-e-Azad | Karti Hai Hajat Sheron Ko Rubah'
-- 'id': '3_186_6'
+- 'id': '3_186_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'When Faqr with Self gets free and frank, | Both you and I attain the regal rank.'
   - 'lang': 'ro'
     'text': 'Mehram Khudi Se Jis Dam Huwa Faqr | Tu Bhi Shehenshah, Mein Bhi Shehenshah'
-- 'id': '3_186_7'
+- 'id': '3_186_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

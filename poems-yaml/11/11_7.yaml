@@ -8,14 +8,14 @@
   'text': 'II-II'
 'description': []
 'sher':
-- 'id': '11_7_1'
+- 'id': '11_7_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'صبنت الکاس عنا ام عمرو | وکان الکاس مجراہا الیمنیا'
   - 'lang': 'en'
     'text': 'O Amrine, thou hast turn’d the cup of wine, | Which ought to have moved from the right hand line,'
-- 'id': '11_7_2'
+- 'id': '11_7_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'X-I'
 'description': []
 'sher':
-- 'id': '11_38_1'
+- 'id': '11_38_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'یکی اندازہ کن سود و زیان را | چو جنت جاودانی کن جہان را'
   - 'lang': 'en'
     'text': 'So calculate once all the losses and gains, | To give to this world a heavenly reign.'
-- 'id': '11_38_2'
+- 'id': '11_38_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

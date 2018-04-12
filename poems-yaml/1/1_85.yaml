@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This and the next poem are complementary to each other and contain a flood of his longings and ambitions for service to Islam and Muslims. He got the motivation for this poem from the good organization of the society and government of European countries and focusing of their attention to the work of national reconstruction and advancement. At that time he could not do better than express his feelings to his long term friend and confidante, Sir ‘Abd al‑Qadir, Barrister at Law, Lahore who was also the editor of the famous Urdu magazine, Makhzan . At that time he only expressed his thoughts as they occurred to him. He made this task the ambition and purpose of his life and produced a vast amount of literature in Urdu, Persian and English on this subject, mostly in verse. Some of this work has already appeared in this commentary and much more will appear as we proceed with the study of "Bang-i-Dara ".'
 'sher':
-- 'id': '1_85_1'
+- 'id': '1_85_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Rise, as darkness has appeared on the eastern horizon | We should light up the assemblage with blazing songs'
   - 'lang': 'ro'
     'text': 'Uth Ke Zulmat Huwi Paida Ufaq-e-Khawar Par | Bazm Mein Shoala Nawayi Se Ujala Kar Dain'
-- 'id': '1_85_2'
+- 'id': '1_85_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aik Faryad Hai Manind-e-Sipand Apni Bisat | Issi Hangame Se Mehfil Tah-o-Bala Kar Dain'
-- 'id': '1_85_3'
+- 'id': '1_85_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ahl-e-Mehfil Ko Dikha Dain Asr-e-Saqeel-e-Ishq | Sang-e-Amroz Ko Aeena-e-Farda Kar Dain'
-- 'id': '1_85_4'
+- 'id': '1_85_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -61,7 +61,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jalwa-e-Yousaf-e-Gum Gashta Dikha Kar In Ko | Tapish Aamadah Tar Az Khoon-e-Zulekha Kar Dain'
-- 'id': '1_85_5'
+- 'id': '1_85_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -70,7 +70,7 @@
     'text': 'By giving the lesson of the law of growth to this garden | We should turn the insignificant drop of dew into the ocean'
   - 'lang': 'ro'
     'text': 'Iss Chaman Ko Sabaq Aaeene-e-Namoo Ka Dar Kar | Qatra-e-Shabnam-e-Be-Maya Ko Darya Kar Dain'
-- 'id': '1_85_6'
+- 'id': '1_85_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Rakht-e-Jaan Butkuda-e-Cheen De Utha Lain Apna | Sub Ko Mehv-e-Rukh-e-Saadi-o-Sulema Kar Dain'
-- 'id': '1_85_7'
+- 'id': '1_85_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -102,7 +102,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dekh! Yasrab Mein Huwa Naqa-e-Laila Baikar | Qias Ko Arzoo-e-Nau Se Shanasa Kar Dain'
-- 'id': '1_85_8'
+- 'id': '1_85_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -111,7 +111,7 @@
     'text': 'The wine should be mature and so hot that with it | We should soften the heart of the glass, the goblet, and the decanter'
   - 'lang': 'ro'
     'text': 'Badah Dairina Ho Aur Garam Ho Aesa Ke Gudaz | Jigar-e-Shisha-o-Pemana-o-Meena Kar Dain'
-- 'id': '1_85_9'
+- 'id': '1_85_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -120,7 +120,7 @@
     'text': 'The grief which kept us warm in the cold of the West | Opening up the breast we should make it public'
   - 'lang': 'ro'
     'text': 'Garam Rakhta Tha Humain Sardi-e-Maghrib Mein Jo Dagh | Cheer Kar Seena Usse Waqf-e-Tamasha Kar Dain'
-- 'id': '1_85_10'
+- 'id': '1_85_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -129,7 +129,7 @@
     'text': 'In the world''s congregation we should live like the candle | We should burn ourselves and open up the rivals'' eyes'
   - 'lang': 'ro'
     'text': 'Shama Ki Tarah Jabeen Bazm Gah-e-Alam Mein | Khud Jalain, Didah-e-Aghyar Ko Beena Kar Dain'
-- 'id': '1_85_11'
+- 'id': '1_85_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

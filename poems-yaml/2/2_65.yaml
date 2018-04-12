@@ -8,7 +8,7 @@
   'text': 'On me no subtle brain though Nature spent'
 'description': []
 'sher':
-- 'id': '2_65_1'
+- 'id': '2_65_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'On me no subtle brain though Nature spent, | My dust hides strength to dare the high ascent—'
   - 'lang': 'ro'
     'text': 'Fitrat Ne Na Bakhsha Mujhe Andaisha-e-Chalaak | Rakhti Hai Magar Taqat-e-Parwaz Meri Khak'
-- 'id': '2_65_2'
+- 'id': '2_65_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'That frantic dust whose eye outranges reason, | Dust by whose madness Gabriel’s rose is rent;'
   - 'lang': 'ro'
     'text': 'Woh Khak Ke Hai Jis Ka Junoon Saqeel-e-Idraak | Woh Khak Ke Jibreel Ki Hai Jis Se Qaba Chaak'
-- 'id': '2_65_3'
+- 'id': '2_65_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'That will not creep about its garden gathering | Straw for a nest—un‐housed and yet content.'
   - 'lang': 'ro'
     'text': 'Woh Khak Ke Parwaye Nasheeman Nahin Rakhti | Chunti Nahin Pehnaye Chaman Se Khs-o-Khashak'
-- 'id': '2_65_4'
+- 'id': '2_65_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

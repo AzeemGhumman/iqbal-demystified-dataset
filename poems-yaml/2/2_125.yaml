@@ -8,7 +8,7 @@
   'text': 'LENIN BEFORE GOD'
 'description': []
 'sher':
-- 'id': '2_125_1'
+- 'id': '2_125_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'All space and all that breathes bear witness; truth | It is indeed; Thou art, and dost remain.'
   - 'lang': 'ro'
     'text': 'Ae Anfus-o-Afaq Mein Paida Tere Ayaat | Haq Ye Hai Ke Hai Zinda-o-Paenda Teri Zaat'
-- 'id': '2_125_2'
+- 'id': '2_125_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'How could I know that God was or was not, | Where Reason''s reckonings shifted hour by hour?'
   - 'lang': 'ro'
     'text': 'Main Kaise Samajhta Ke Tu Hai Ya Ke Nahin Hai | Har Dam Mutaghyyar The Khird Ke Nazariyat'
-- 'id': '2_125_3'
+- 'id': '2_125_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The peerer at planets, the counter-up of plants, | Heard nothing there of Nature''s infinite music;'
   - 'lang': 'ro'
     'text': 'Mehram Nahin Fitrat Ke Sarood-e-Azali Se | Beenaye Kawakib Ho Ke Dana’ay Nabataat'
-- 'id': '2_125_4'
+- 'id': '2_125_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'To-day I witnessing acknowledge realms | That I once thought the mummery of the Church.'
   - 'lang': 'ro'
     'text': 'Aj Ankh Ne Dekha To Woh Alam Huwa Sabit | Main Jis Ko Samajhta Tha Kalisa Ke Khurafat'
-- 'id': '2_125_5'
+- 'id': '2_125_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'We, manacled in the chains of day and night! | Thou, moulder of all time''s atoms, builder of aeons'
   - 'lang': 'ro'
     'text': 'Hum Band-e-Shab-o-Roz Mein Jakre Huwe Bande | Tu Khaliq-e-Aasaar-o-Nigarindah’ay Aanat !'
-- 'id': '2_125_6'
+- 'id': '2_125_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Let me have leave to ask this question, one | Not answered by the subtleties of the schools,'
   - 'lang': 'ro'
     'text': 'Ek Baat Agar Mujh Ko Ijazat Ho To Puchun | Hal Kar Na Sake Jis Ko Hakeemon Ke Maqalat'
-- 'id': '2_125_7'
+- 'id': '2_125_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'That while I lived under the sky-tent''s roof | Like a thorn rankled in my heart, and made'
   - 'lang': 'ro'
     'text': 'Jab Tak Mein Jiya Khaima-e-Aflak Ke Neeche | Kante Ki Tarah Dil Mein Khatakti Rahi Ye Baat'
-- 'id': '2_125_8'
+- 'id': '2_125_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'Such chaos in my soul of all its thoughts | I could not keep my tumbling words in bounds.'
   - 'lang': 'ro'
     'text': 'Guftar Ke Asloob Pe Qaboo Nahin Rehta | Jab Rooh Ke Andar Mutaltum Hon Khayalat'
-- 'id': '2_125_9'
+- 'id': '2_125_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'Oh, of what mortal race art Thou the God? | Those creatures formed of dust beneath these heavens?'
   - 'lang': 'ro'
     'text': 'Woh Kon Sa Adam Hai Ke Tu Jis Ka Maabood | Woh Adam-e-Khaki Ke Jo Hai Zair-e-Samawat?'
-- 'id': '2_125_10'
+- 'id': '2_125_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'Europe''s pale checks are Asia''s pantheon, | And Europe''s pantheon her glittering metals.'
   - 'lang': 'ro'
     'text': 'Mashriq Ke Khudawand Saifedan-e-Farangi | Maghrib Ke Khudawand Darakhshandah Filzaat'
-- 'id': '2_125_11'
+- 'id': '2_125_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'A blaze of art and science lights the West | With darkness that no Fountain of Life dispels;'
   - 'lang': 'ro'
     'text': 'Yourap Mein Bohat Roshani-e-Ilm-o-Hunar Hai | Haq Ye Hai Ke Be-Chashma’ay Haiwan Hai Ye Zulmat'
-- 'id': '2_125_12'
+- 'id': '2_125_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'In high-reared grace, in glory and in grandeur, | The towering Bank out-tops the cathedral roof;'
   - 'lang': 'ro'
     'text': 'Raanayi-e-Tameer Mein, Ronaq Mein, Safa Mein | Girjon Se Kahin Barh Ke Hain Bankon Ki Amarat'
-- 'id': '2_125_13'
+- 'id': '2_125_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'What they call commerce is a game of dice | For one, profit, for millions swooping death.'
   - 'lang': 'ro'
     'text': 'Zahir Mein Tajarat Hai, Haqiqat Mein Juwa Hai | Sood Aik Ka Lakhon Ke Liye Marg-e-Mafajat'
-- 'id': '2_125_14'
+- 'id': '2_125_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'There science, philosophy, scholarship, government, | Preach man''s equality and drink men''s blood;'
   - 'lang': 'ro'
     'text': 'Ye Ilm, Ye Hikmat, Ye Tadabur, Ye Hukumat | Peete Hain Lahoo, Dete Hain Taleem-e-Masawat'
-- 'id': '2_125_15'
+- 'id': '2_125_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'Naked debauch, and want, and unemployment | Are these mean triumphs of the Frankish arts'
   - 'lang': 'ro'
     'text': 'Bekari-o-Uryani-o-Maikhawari-o-Iflaas | Kya Kaam Hain Farangi Madniyat Ke Fatuhaat'
-- 'id': '2_125_16'
+- 'id': '2_125_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'Denied celestial grace a nation goes | No further than electricity or steam'
   - 'lang': 'ro'
     'text': 'Woh Qoum Ke Faizan-e-Samawi Se Ho Mehroom | Had Uss Ke Kamalaat Ki Hai Barq-o-Bukharaat'
-- 'id': '2_125_17'
+- 'id': '2_125_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'Death to the heart, machines stand sovereign, | Engines that crush all sense of human kindness.'
   - 'lang': 'ro'
     'text': 'Hai Dil Ke Liye Mout Machinon Ki Hukumat | Ehsas-e-Marawwat Ko Kuchal Dete Hain Aalaat'
-- 'id': '2_125_18'
+- 'id': '2_125_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': '-Yet signs are counted here and there that Fate, | The chess-player has check-mated all their cunning.'
   - 'lang': 'ro'
     'text': 'Asaar To Kuch Kuch Nazar Ate Hain Ke Akhir | Tadbeer Ko Taqdeer Ke Shatar Ne Kiya Maat'
-- 'id': '2_125_19'
+- 'id': '2_125_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'The Tavern shakes, its warped foundations crack, | The Old Men of Europe sit there numb with fear;'
   - 'lang': 'ro'
     'text': 'Maikhane Ki Bunyad Mein Aya Hai Tazalzul | Baithe Hain Issi Fikar Mein Peeran-e-Kharabat'
-- 'id': '2_125_20'
+- 'id': '2_125_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'What twilight flush is left those faces now | Is paint and powder, or lent by flask and cup.'
   - 'lang': 'ro'
     'text': 'Chehron Pe Jo Surkhi Nazar Ati Hai Sar-e-Shaam | Ya Ghazah Hai Ya Saghir-o-Meena Ki Karamat'
-- 'id': '2_125_21'
+- 'id': '2_125_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'Omnipotent, righteous, Thou; but bitter the hours, | Bitter the labourer''s chained hours in Thy world!'
   - 'lang': 'ro'
     'text': 'Tu Qadir-o-Adil Hai Magar Tere Jahan Mein | Hain Talakh Bohat Banda’ay Mazdoor Ke Auqat'
-- 'id': '2_125_22'
+- 'id': '2_125_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

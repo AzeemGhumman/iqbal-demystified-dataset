@@ -8,7 +8,7 @@
   'text': 'A host of peril though you face, Yet your tongue with heart ally'
 'description': []
 'sher':
-- 'id': '2_27_1'
+- 'id': '2_27_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A host of peril though you face, Yet your tongue with heart ally: | From times antique and hoar, Qalandars on this mode rely.'
   - 'lang': 'ro'
     'text': 'Hazar Khof Ho Lekin Zuban Ho Dil Ki Rafeeq | Yehi Raha Hai Azal Se Qalanderon La Tareeq'
-- 'id': '2_27_2'
+- 'id': '2_27_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Men congregate in numbers large, In the mart where wine is sold, | For polite and courteous seems, The Head of Mart, the Magian Old.'
   - 'lang': 'ro'
     'text': 'Hajoom Kyun Hai Zaida Sharab Khane Mein | Faqat Ye Baat Ke Peer-e-Mughan Hai Mard-e-Takhleeq'
-- 'id': '2_27_3'
+- 'id': '2_27_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Though the points by Razi touched, May be subtle and profound, | Yet against infirm belief, No cure in them is ever found.'
   - 'lang': 'ro'
     'text': 'Ilaj-e-Zu''af-e-Yaqeen In Se Ho Nahin Sakta | Gareeb Agarcha Hain Razi Ke Nukta Ha''ay Daqeeq'
-- 'id': '2_27_4'
+- 'id': '2_27_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The disciple blind shed copious tears, Of sinful life he felt contrite. | May God aid the shaykh as well, To feel ashamed and do the right!'
   - 'lang': 'ro'
     'text': 'Mureed Sada Tou Ro Ro Ke Ho Gaya Ta''eb | Khuda Kare Ke Mile Sheikh Ko Bhi Ye Toufeeq'
-- 'id': '2_27_5'
+- 'id': '2_27_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Man is bound still hand and foot, In chains by this talisman old, | For idols of the age of past, Still men within their armpits hold.'
   - 'lang': 'ro'
     'text': 'Ussi Talism-e-Kuhan Mein Aseer Hai Adam | Baghal Mein Uss Ki Hain Ab Tak Butan-e-Ehad-e-Ateeq'
-- 'id': '2_27_6'
+- 'id': '2_27_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Enough for me that I affirm, With tongue alone my faith and creed: | A thousand thanks for mullah’s claim, That he with heart avows, indeed.'
   - 'lang': 'ro'
     'text': 'Mere Liye Tou Hai Iqrar-e-Bil-Lisan Bhi Bohat | Hazar Shukar Ke Mullah Hain Sahib-e-Tasdeeq'
-- 'id': '2_27_7'
+- 'id': '2_27_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

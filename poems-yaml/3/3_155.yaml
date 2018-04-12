@@ -8,7 +8,7 @@
   'text': 'BOLSHEVIK RUSSIA'
 'description': []
 'sher':
-- 'id': '3_155_1'
+- 'id': '3_155_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Unsearchably God’s edicts move; who knows | What thoughts are stirring up deep in the world‐mind!'
   - 'lang': 'ro'
     'text': 'Rawish Qazaye Elahi Ki Hai Ajeeb-o-Ghareeb | Khabar Nahin Ke Zameer-e-Jahan Mein Hai Kya Baat'
-- 'id': '3_155_2'
+- 'id': '3_155_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Those are appointed to pull down, who lately | Held it salvation to protect, the priests;'
   - 'lang': 'ro'
     'text': 'Huwe Hain Kasr-e-Chalipa Ke Waste Maamoor | Wohi Ke Hifz-e-Chalipa Ko Jante The Nijat'
-- 'id': '3_155_3'
+- 'id': '3_155_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

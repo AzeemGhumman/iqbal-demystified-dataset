@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'For Haj Mar Saiyyid Raza Danish. ‘Allamah Iqbal has included one of his verses in the last two verses of this poem. The poem has stressed the permanence and the majesty of the Love for God by alluding to the Love of S. Musa A.S. and S. Ibraham A.S. as described in the Holy Qur’an 7: 142-145 and 21: 51-71.'
 'sher':
-- 'id': '1_145_1'
+- 'id': '1_145_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'One day Iqbal questioned the Kalam of tur | “ O You whose foot-prints converted the Valley of Sinai into a garden!'
   - 'lang': 'ro'
     'text': 'Aik Din Iqbal Ne Pucha Kaleem-e-Toor Se | Ae Ke Tere Naqsh-e-Pa Se Wadi Seena-e-Chaman'
-- 'id': '1_145_2'
+- 'id': '1_145_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aatish-e-Namrood Hai Ab Tak Jahan Mein Shaola Raiz | Ho Gya Ankhon Se Pinhan Kyun Tera Souz-e-Kuhan'
-- 'id': '1_145_3'
+- 'id': '1_145_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'The reply of Sinai’s Master was “If you are a Muslim | Leaving the Invisible do not become the lover of the visible'
   - 'lang': 'ro'
     'text': 'Tha Jawab-e-Sahib-e-Seena Ke Muslim Hai Agar | Chor Kar Ghaeeb Ko Tu Hazir Ka Shedai Na Ban'
-- 'id': '1_145_4'
+- 'id': '1_145_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'If you have taste for the visible you need the Faith of Khalal | Otherwise ashes are the adornments of your life'
   - 'lang': 'ro'
     'text': 'Zauq-e-Hazir Hai Tou Phir Lazim Hai Iman-e-Khalil (A.S.) | Warna Khakstar Hai Teri Zindagi Ka Pairhan'
-- 'id': '1_145_5'
+- 'id': '1_145_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'If you are Lover of the Invisible do not care at all | Set your lamp in the Valley of Faran and remain waiting'
   - 'lang': 'ro'
     'text': 'Hai Agar Diwana-e-Ghaeeb To Kuch Parwa Na Kar | Muntazir Reh Wadi-e-Faran Mein Ho Kar Khema Zan'
-- 'id': '1_145_6'
+- 'id': '1_145_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'The visible’s glory is temporary, the Invisibile’s Majesty is permanent | This Truth has the body-and-soul connection with Love'
   - 'lang': 'ro'
     'text': 'Aarzi Hai Shan-e-Hazir, Sitwat-e-Ghaeeb Madaam | Iss Sadaqat Ko Mohabbat Se Hai Rabt-e-Jaan-o-Tan'
-- 'id': '1_145_7'
+- 'id': '1_145_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

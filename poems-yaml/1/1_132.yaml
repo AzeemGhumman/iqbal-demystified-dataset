@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The Ruhalahs were an Afghan tribe who had inhabited an area about 10,000 square miles north east of Delhi. They had acquired much influence and political power by the fourth decade of the eighteenth century. At that time they were a formidable force and proved very effective in breaking the back bone of the Marhatas in the third battle of Panipat, near Delhi in 1761. This battle was fought mainly by the Afghan leader, Ahmad Shah Abdala, helped by Najab al-Daulah, the Prime Minister of the Mughal Emperor with some help from the Ruhalahs. This watershed event occurred under the able and timely political move of the great ‘alim and sufi of Delhi, Shah Wala Allah. Notwithstanding these services to Islam Ruhalahs helped themselves as well to the spoils of the chaos resulting from the decline and break up of the Mughal Empire. This poem relates an anecdote of the attack of Ghulam Qadir Ruhalah on the Red Fort, Delhi in which he blinded the Mughal Emperor and entered into the conversation described in the poem. The last line of the poem is also its lesson, which is that in luxury and indolence a nation loses the will to strive for a virile and self-respecting life. As ‘Allamah Iqbal says: | (202) What was unacceptable gradually became accepted | In slavery nation’s conscience becomes spoiled'
 'sher':
-- 'id': '1_132_1'
+- 'id': '1_132_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'How cruel, tyrant and vindictive the Ruhalah was | He blinded the Mughal Emperor with the point of his dagger'
   - 'lang': 'ro'
     'text': 'Ruhela Kis Qadar Zalim, Jafa Joo, Keena Parwar Tha | Nikalain Shah-e-Taimoori Ki Ankhain Nauk-e-Khanjar Se'
-- 'id': '1_132_2'
+- 'id': '1_132_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The tyrant ordered members of the royal household to dance | This tyranny was no less than the Judgment Day’s signal'
   - 'lang': 'ro'
     'text': 'Diya Ahl-e-Haram Ko Raqs Ka Farman Sitamgar Ne | Ye Andaz-e-Sitam Kuch Kam Na Tha Asaar-e-Mehshar Se'
-- 'id': '1_132_3'
+- 'id': '1_132_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'For the delicate ladies of the royal household it was | Utterly impossible to comply with this shameless order'
   - 'lang': 'ro'
     'text': 'Bhala Tameel Iss Farman-e-Ghairat Kush Ki Mumkin Thi! | Shahenshahi Haram Ki Nainaan-e-Saman Bar Se'
-- 'id': '1_132_4'
+- 'id': '1_132_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Ah ! The merciless one made them the means of pleasure | Whose beauty had been veiled from sun’s, moon’s and stars'
   - 'lang': 'ro'
     'text': 'Banaya Ah! Saman-e-Tarab Bedard Ne Un Ko | Nihan Tha Husn Jin Ka Chasm-e-Mehr-o-Mah-o-Akhtar Se'
-- 'id': '1_132_5'
+- 'id': '1_132_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The feeble hearts were throbbing, the feet were forced to move | A river of blood was flowing from the wet eyes of the princesses'
   - 'lang': 'ro'
     'text': 'Larazte The Dil-e-Nazuk, Qadam Majboor-e-Junbish The | Rawan Darya-e-Khoon, Shehzadiyon Ke Dida-e-Tar Se'
-- 'id': '1_132_6'
+- 'id': '1_132_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Yunhi Kuch Dair Tak Mehw-e-Nazar Ankhain Raheen Uss Ki | Kiya Ghabra Ke Phir Azad Sar Ko Baar-e-Mighfar Se'
-- 'id': '1_132_7'
+- 'id': '1_132_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'He untied the deadly, fire-spitting sword from the waist | Whose sharpness was a source of luminescence to the stars'
   - 'lang': 'ro'
     'text': 'Qamar Se, Uth Ke Taigh-e-Jaan Satan, Aatish Fashan Kholi | Sabaq Aamoz-e-Tabani Hun Anjum Jis Ke Jouhar Se'
-- 'id': '1_132_8'
+- 'id': '1_132_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'He put the dagger in front, and lied down in some thought | Sleep was demanding rest from the red eyes so to say'
   - 'lang': 'ro'
     'text': 'Rakha Khanjar Ko Agay Aur Phir Kuch Soch Kar Leta | Taqaza Kar Rahi Thi Neend Goya Chasm-e-Ahmar Se'
-- 'id': '1_132_9'
+- 'id': '1_132_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'The water of sleep extinguished the embers of his eyes | The tyrant’s sight became ashamed of the painful spectacle!'
   - 'lang': 'ro'
     'text': 'Bujhaye Khawab Ke Pani Ne Akhgar Uss Ki Ankhon Ke | Nazar Sharma Gi Zalim Ki Dard-Angaiz Manzar Se'
-- 'id': '1_132_10'
+- 'id': '1_132_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'He got up and started saying this to Taimur’s household | “You should have no complaint against your fate”'
   - 'lang': 'ro'
     'text': 'Phir Utha Aur Taimoori Haram Se Yun Laga Kehne | Shikayat Chahye Tum Ko Na Kuch Apne Muqaddar Se'
-- 'id': '1_132_11'
+- 'id': '1_132_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'My sleeping in the couch was a mere show, an affectation | Because stupor is foreign to the dignity of fighters'
   - 'lang': 'ro'
     'text': 'Mera Masnad Pe Sou Jana Banawat Thi, Takaluf Tha | Ke Ghaflat Door Hai Shaan-e-Saf Aryaan-e-Lashkar Se'
-- 'id': '1_132_12'
+- 'id': '1_132_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'It was my intention that some daughter of Taimur | Considering me unconscious might kill me with my own dagger,'
   - 'lang': 'ro'
     'text': 'Ye Maqsad Tha Mera Iss Se, Koi Taimoor Ki Beti | Mujhe Ghafil Samajh Kar Maar Dale Mere Khanjar Se'
-- 'id': '1_132_13'
+- 'id': '1_132_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

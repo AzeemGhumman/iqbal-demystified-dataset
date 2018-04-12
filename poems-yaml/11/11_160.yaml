@@ -8,14 +8,14 @@
   'text': 'XIII-VII'
 'description': []
 'sher':
-- 'id': '11_160_1'
+- 'id': '11_160_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز افرنگی صنم بیگانہ تو شو | کہ پیمانش نمی ارزد بیک جو'
   - 'lang': 'en'
     'text': 'To anglian idols pay not a heed, | The worth of her bonds is not a malt’s seed.'
-- 'id': '11_160_2'
+- 'id': '11_160_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'TO THE READER OF THE BOOK'
 'description': []
 'sher':
-- 'id': '10_1_1'
+- 'id': '10_1_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Sanctuary.'
       'meaning': 'Sanctuary, Haram, the sacred precincts at Mecca. For Iqbal, this word also stands for Muslims or Muslim society.'
       'occurrence': !!int '1'
-- 'id': '10_1_2'
+- 'id': '10_1_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -30,14 +30,14 @@
     - 'phrase': 'Madeness'
       'meaning': 'Madness (Junun), in Iqbal, stands for Intuition and Love in contrast to Intellect and Reason. See my articles Intellect and Intuition . . ." in Iqbal, IV/3 (January 1956), 60-105 and " ''Iim wa ''Ishq" in Adabi Dunya, "Iqbal Number" (1972), p. 24.'
       'occurrence': !!int '1'
-- 'id': '10_1_3'
+- 'id': '10_1_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ آن مقام رسیدم چو در برش کردم | طواف بام و در من سعادت خرد است'
   - 'lang': 'en'
     'text': 'Donning this garment, I attained to a station | where it would be honour for the Intellect to walk around my house (like a pilgrim).'
-- 'id': '10_1_4'
+- 'id': '10_1_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

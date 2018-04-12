@@ -8,7 +8,7 @@
   'text': 'EUROPE AND THE JEWS'
 'description': []
 'sher':
-- 'id': '3_153_1'
+- 'id': '3_153_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Unbridled luxury, State pomp and pride, Rich commerce; | but to dwell inside That lampless breast all tranquil thoughts refuse.'
   - 'lang': 'ro'
     'text': 'Ye Aesh-e-Farawan, Ye Hukumat, Ye Tajarat | Dil-e-Seena-e-Be Noor Mein Mehroom-e-Tasalli'
-- 'id': '3_153_2'
+- 'id': '3_153_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Dark is the white man’s country with the grime Of engines, | No valley that might see Splendour descending on a burning tree;'
   - 'lang': 'ro'
     'text': 'Tareek Hai Afrang Machinon Ke Duhween Se | Ye Wadi-e-Ayman Nahin Shayaan-e-Tajalli'
-- 'id': '3_153_3'
+- 'id': '3_153_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

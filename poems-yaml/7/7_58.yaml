@@ -8,14 +8,14 @@
   'text': '(58)'
 'description': []
 'sher':
-- 'id': '7_58_1'
+- 'id': '7_58_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو تاب از خود بگیرد قطرۂ آب | میان صد گہر یک دانہ گردد'
   - 'lang': 'en'
     'text': 'A water-drop, with native lustre, can | Outshine a hundred pearls. In company'
-- 'id': '7_58_2'
+- 'id': '7_58_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

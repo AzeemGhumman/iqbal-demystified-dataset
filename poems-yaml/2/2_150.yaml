@@ -8,7 +8,7 @@
   'text': 'MUSSOLINI'
 'description': []
 'sher':
-- 'id': '2_150_1'
+- 'id': '2_150_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'What is the originality of thought and action?—a taste for revolution. | What is the originality of thought and action?—the age of youth for a nation.'
   - 'lang': 'ro'
     'text': 'Nudrat-e-Fikar-o-Amal Kya Shay Hai, Zauq-e-Inqilab | Nudrat-e-Fikar-o-Amal Kya Shay Hai, Millat Ka Shabab'
-- 'id': '2_150_2'
+- 'id': '2_150_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Originality of thought and action creates miracles of life: | It turns pebbles into ruby stones.'
   - 'lang': 'ro'
     'text': 'Nudrat-e-Fikar-o-Amal Se Maujazat-e-Zindagi | Nudrat-e-Fikar-o-Amal Se Sang-e-Khar-Ul-Amal Naab'
-- 'id': '2_150_3'
+- 'id': '2_150_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O Great Rome! Your conscience has changed altogether: | Is this a dream I see or is this for real!'
   - 'lang': 'ro'
     'text': 'Roma-Tul-Kubra! Digargoon Ho Gya Tera Zameer | Aynke Mee Beenam Ba Baidarist A Rab Ya Ba Khawab!'
-- 'id': '2_150_4'
+- 'id': '2_150_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Your old have the gleam of life in their eyes; | The flame of desire warms up the hearts of your young.'
   - 'lang': 'ro'
     'text': 'Chashme-e-Peeran-e-Kuhan Mein Zindagaani Ka Farough | Naujawan Tere Hain Souz-e-Arzoo Se Sina Taab'
-- 'id': '2_150_5'
+- 'id': '2_150_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'This warmth of love, this longing and this self‐expression: | Flowers cannot hide themselves in the season of Spring.'
   - 'lang': 'ro'
     'text': 'Ye Mohabbat Ki Hararat, Ye Tamanna, Ye Namood | Fasl-e-Gul Mein Phool Reh Sakte Nain Zair-e- Hijab'
-- 'id': '2_150_6'
+- 'id': '2_150_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Songs of passion fill your air now— | The instrument of your nature was awaiting someone to play on it!'
   - 'lang': 'ro'
     'text': 'Naghma-e-Haye Shuaq Se Teri Faza Maamoor Hai | Zakhmawar Ka Muntazir Tha Teri Fitrat Ka Rubab'
-- 'id': '2_150_7'
+- 'id': '2_150_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

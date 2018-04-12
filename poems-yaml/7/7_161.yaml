@@ -8,14 +8,14 @@
   'text': '(161)'
 'description': []
 'sher':
-- 'id': '7_161_1'
+- 'id': '7_161_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ہنوز از بند آب و گل نرستی | تو گوئی رومی و افغانیم من'
   - 'lang': 'en'
     'text': 'You are still tied to colour and to race, | So you call me Afghan or Turkoman.'
-- 'id': '7_161_2'
+- 'id': '7_161_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

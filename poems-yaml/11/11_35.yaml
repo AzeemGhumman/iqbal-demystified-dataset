@@ -8,14 +8,14 @@
   'text': 'VIII-II'
 'description': []
 'sher':
-- 'id': '11_35_1'
+- 'id': '11_35_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مریدی فاقہ مستی گفت با شیخ | کہ یزدان را ز حال ما خبر نیست'
   - 'lang': 'en'
     'text': 'A hungry seeker begged his Sheikh to plead, | Does God has no knowledge of peoples’ need.'
-- 'id': '11_35_2'
+- 'id': '11_35_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

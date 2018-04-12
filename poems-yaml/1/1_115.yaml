@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'As has been stated at several places earlier the material as well as spiritual deterioration of the Muslim world was a deep wound to ‘Allamah Iqbal. This is one of the poems expressing its pain. As the youth are the future hope of a nation the poem is addressed to them in the hope that it would rouse them from deep slumber. However, only one aspect of the problem has been stated in this poem, i.e. the Ummah’s distancing itself from Islamic literature and the heritage of their ancestors.'
 'sher':
-- 'id': '1_115_1'
+- 'id': '1_115_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O Muslim youth ! Have you ever used your prudence | What was that sky of which you are a fallen star?'
   - 'lang': 'ro'
     'text': 'Kabhi Ae Naujawan Muslim, Tadabbur  Bhi Kiya Tu Ne | Woh Kya Gardoon Tha Tu Jis Ka Hai Ek Toota Huwa Tara'
-- 'id': '1_115_2'
+- 'id': '1_115_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tujhe Iss Qoum Ne Pala Hai Aghosh-e-Muhabbat Mein | Kuchal Dala Tha Jis Ne Paon Mein Taj-e-Sar-e-Dara'
-- 'id': '1_115_3'
+- 'id': '1_115_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'Civilization’s formulator, creator of rules of world government | Was that desert of Arabia, that is the cradle of camel drivers'
   - 'lang': 'ro'
     'text': 'Tamaddun Afreen, Khallaq-e-Aaeen-e-Jahandari | Woh Sehra-e-Arab Yani Shutar-Banon Ka Gehwara'
-- 'id': '1_115_4'
+- 'id': '1_115_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -57,7 +57,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sama ‘Al-Faqru Fakhri’ Ka Raha Shan-e-Amarat Mein | ‘Baab-o-Rang-o-Khal-o-Khat Che Hajat Rooye Zaibara’'
-- 'id': '1_115_5'
+- 'id': '1_115_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -66,7 +66,7 @@
     'text': 'Even in poverty those men of God were so high-minded | That the rich could not avoid charity for beggar’s fear'
   - 'lang': 'ro'
     'text': 'Gadai Mein Bhi Woh Allah Wale The Ghayoor Itne | Ke Mun’em Ko Gada Ke Dar Se Bakhshish Ka Na Tha Yara'
-- 'id': '1_115_6'
+- 'id': '1_115_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -75,7 +75,7 @@
     'text': 'In short what should I tell you what those wanderers in wilderness were | They were world conquerors, world rulers, world administrators, and world adorners'
   - 'lang': 'ro'
     'text': 'Gharz Main Kya Kahun Tujh Se Ke Woh Sehra Nasheen Kya The | Jahangeer-o-Jahan Dar-o-Jahan Baan-o-Jahan Aara'
-- 'id': '1_115_7'
+- 'id': '1_115_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -84,7 +84,7 @@
     'text': 'If I wish to present their picture in words I can | But that scene is beyond the comprehension of your imagination'
   - 'lang': 'ro'
     'text': 'Agar Chahon To Naqsha Khainch Kar Alfaz Mein Rakh Dun | Magar Tere Takhiyyul Se Se Fazoon Tar Hai Woh Nazara'
-- 'id': '1_115_8'
+- 'id': '1_115_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -93,7 +93,7 @@
     'text': 'You cannot have any relationship with your ancestors | You are talk, they were action, you are stars, they were planets'
   - 'lang': 'ro'
     'text': 'Tujhe Aaba Se Apne Koi Nisbat Ho Nahin Sakti | Ke Tu Guftar Woh Kirdar, Tu Sabit Woh Sayyara'
-- 'id': '1_115_9'
+- 'id': '1_115_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -106,7 +106,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ganwa Di Hum Ne Jo Aslaf Se Meeras Payi Thi | Surreya Se Zameen Par Asman Ne Hum Ko De Mara'
-- 'id': '1_115_10'
+- 'id': '1_115_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -115,7 +115,7 @@
     'text': 'Why should we cry for suzerainty, as it was temporary | There is no escape from the world’s established principles'
   - 'lang': 'ro'
     'text': 'Hukumat Ka To Kya Rona Ke Woh Ek Aarzi Shay Thi | Nahin Dunya Ke Aaeen-e-Musallam Se Koi Chara'
-- 'id': '1_115_11'
+- 'id': '1_115_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -124,7 +124,7 @@
     'text': 'But those pearls of wisdom, those books of our ancestors | By seeing them in Europe the heart is rent asunder'
   - 'lang': 'ro'
     'text': 'Magar Woh Ilm Ke Moti, Kitabain Apne Aaba Ki | Jo Dekhain In Ko Yourap Mein Tou Dil Hota Hai Seepara'
-- 'id': '1_115_12'
+- 'id': '1_115_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

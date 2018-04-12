@@ -8,7 +8,7 @@
   'text': 'A VOICE FROM BEYOND'
 'description': []
 'sher':
-- 'id': '4_8_1'
+- 'id': '4_8_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'From the Emperium enquires A voice at dawn: | how did You lose your essential quality Of enquiry and understanding?'
   - 'lang': 'ro'
     'text': 'Ati Hai Dam-E-Subah Sadda Arsh-E-Bareen Se | Khoya Gya Kis Tarah Tera Johar-E-Idraak !'
-- 'id': '4_8_2'
+- 'id': '4_8_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'How was blunted Your scalpel of research? | Why do you not rend open The hearts of stars?'
   - 'lang': 'ro'
     'text': 'Kis Tarah Huwa Kund Tera Nashtar-E-Tehqeeq | Hote Nahin Kyun Tujh Se Sitaron Ke Jagar Chaak'
-- 'id': '4_8_3'
+- 'id': '4_8_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'You deserve to dominate and rule over All that is visible as well as esoteric. | Can a flame be the slave of Dry sticks and grass?'
   - 'lang': 'ro'
     'text': 'Tu Zahir-O-Batin Ki Khilafat Ka Sazawaar | Kya Shaola Bhi Hota Hai Ghulam-E-Khs-O-Khashaak'
-- 'id': '4_8_4'
+- 'id': '4_8_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Why are the sun, moon and stars not Under your suzerainty? | Why don’t heavens shudder With a mere glance from you?'
   - 'lang': 'ro'
     'text': 'Mehar-O-Mah-O-Anjum Nahin Mehkoom Tere Kyun | Kyun Teri Nigahon Se Larazte Nahin Aflaak'
-- 'id': '4_8_5'
+- 'id': '4_8_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'True! Even to‐day blood courses Through your veins, | but Your thoughts do not inspire, Nor is your thinking fearless.'
   - 'lang': 'ro'
     'text': 'Ab Tak Hai Rawan Gharcha Lahoo Teri Raagon Mein | Ne Garmi-E-Afkaar, Na Andaish-e-Bebaak'
-- 'id': '4_8_6'
+- 'id': '4_8_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'An eye which in its vision, Does not imbibe pure virtue | Is capable of seeing, no doubt, But is not all‐seeing.'
   - 'lang': 'ro'
     'text': 'Roshan To Woh Hoti Hai, Jahan Been Nahin Hoti | Jis Ankh Ke Pardon Mein Nahin Hai Nigah-E-Pak'
-- 'id': '4_8_7'
+- 'id': '4_8_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

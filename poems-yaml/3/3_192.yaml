@@ -8,7 +8,7 @@
   'text': 'That youth is held in high esteem'
 'description': []
 'sher':
-- 'id': '3_192_1'
+- 'id': '3_192_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'That youth is held in high esteem, By all the members of his tribe, | Whose prime of life is pure and chaste, Dread blows to him we can ascribe.'
   - 'lang': 'ro'
     'text': 'Wohi Jawan Hai Qabeele Ki Ankh Ka Tara | Shabaab Jis Ka Hai Be-Dagh, Zarb Hai Kari'
-- 'id': '3_192_2'
+- 'id': '3_192_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In days of war he can surpass, Tile ferocious lions of the wood | When peace prevails in every place, Like Tartar deer is fine and good.'
   - 'lang': 'ro'
     'text': 'Agar Ho Jang To Sheran-e-Ghab Se Barh Kar | Agar Ho Sulah To Raana Ghazaal-e-Tatari'
-- 'id': '3_192_3'
+- 'id': '3_192_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'There is no wonder, if his glow, May set the things around afire | To burn the bed of reeds one spark, Is ''nough that from the flame does spire.'
   - 'lang': 'ro'
     'text': 'Ajab Nahin Hai Agar Iss Ka Souz Hai Hama Souz | Ke Neestan Ke Liye Bas Hai Aik Chingari'
-- 'id': '3_192_4'
+- 'id': '3_192_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'God Mighty has endowed him with, A monarch''s grandeur, pomp and show | His brand of Faqr has virtues such, That shone on Haider''s valorous brow.'
   - 'lang': 'ro'
     'text': 'Khuda Ne Iss Ko Diya Hai Shikoh-e-Sultani | Ke Iss Ke Faqr Mein Hai Haidari-o-Karrari'
-- 'id': '3_192_5'
+- 'id': '3_192_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

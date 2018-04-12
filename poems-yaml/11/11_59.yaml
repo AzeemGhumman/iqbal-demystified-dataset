@@ -8,14 +8,14 @@
   'text': 'VII-II'
 'description': []
 'sher':
-- 'id': '11_59_1'
+- 'id': '11_59_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'غم راہی نشاط آمیزتر کن | فغانش را جنون انگیزتر کن'
   - 'lang': 'en'
     'text': 'Let the hiker’s grief take a blissful turn, | Let wails be blessed with rapturous burn.'
-- 'id': '11_59_2'
+- 'id': '11_59_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

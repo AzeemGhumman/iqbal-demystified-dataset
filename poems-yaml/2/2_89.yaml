@@ -8,7 +8,7 @@
   'text': 'Neither the Muslim nor his power survives'
 'description': []
 'sher':
-- 'id': '2_89_1'
+- 'id': '2_89_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Neither the Muslim nor his power survives; | The Sufi has outlived his radiant soul;'
   - 'lang': 'ro'
     'text': 'Na Momin Hai Na Momin Ki Ameeri | Raha Sufi, Gyi Roshan Zameeri'
-- 'id': '2_89_2'
+- 'id': '2_89_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

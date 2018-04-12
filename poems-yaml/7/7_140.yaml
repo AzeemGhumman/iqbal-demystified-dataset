@@ -8,14 +8,14 @@
   'text': '(140)'
 'description': []
 'sher':
-- 'id': '7_140_1'
+- 'id': '7_140_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'عجم از نغمہ ہای من جوان شد | ز سودایم متاع او گران شد'
   - 'lang': 'en'
     'text': 'Iran is young again thanks to my song, | Which has enhanced the lustre of her fame.'
-- 'id': '7_140_2'
+- 'id': '7_140_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

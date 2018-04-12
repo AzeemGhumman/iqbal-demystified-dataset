@@ -8,14 +8,14 @@
   'text': 'IV-VIII'
 'description': []
 'sher':
-- 'id': '11_386_1'
+- 'id': '11_386_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بسوزد مومن از سوز و جودش | گشود ہرچہ بستند از گٹودش'
   - 'lang': 'en'
     'text': 'A Momin burns thus in his being’s own heat, | All ties ope quick if he so wished to treat.'
-- 'id': '11_386_2'
+- 'id': '11_386_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

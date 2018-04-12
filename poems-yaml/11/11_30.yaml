@@ -8,7 +8,7 @@
   'text': 'VI-I'
 'description': []
 'sher':
-- 'id': '11_30_1'
+- 'id': '11_30_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'Khisro’s'
       'meaning': '        Khisro Khwaja Abul Hasan of Delhi, one of the nobles of the King, was titled as Bulbul-i-Hind (A nightingale of India), was a disciple of Kh: Nizam-ud-Din, whose mausoleum in Delhi is visited by thousands daily.'
       'occurrence': !!int '1'
-- 'id': '11_30_2'
+- 'id': '11_30_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'TO THE EGYPTIANS'
 'description': []
 'sher':
-- 'id': '3_161_1'
+- 'id': '3_161_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'None other than the Sphinx, the Dread One, lord | Of the secrets of old times, taught me this:'
   - 'lang': 'ro'
     'text': 'Khud Abu-Ul-Hol Ne Ye Nukta Sikhaya Nujh Ko | Woh Abu-Ul-Hol Ke Hai Sahib-e-Asrar-e-Qadeem'
-- 'id': '3_161_2'
+- 'id': '3_161_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Strength That in one hour can swerve the fates of nations | Admits no puzzling intellect for rival,'
   - 'lang': 'ro'
     'text': 'Dafatan Jis Se Badal Jati Hai Taqdeer-e-Ummam | Hai Woh Quwwat Ke Hareef Iss Ki Nahin Aqal-e-Hakeem'
-- 'id': '3_161_3'
+- 'id': '3_161_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

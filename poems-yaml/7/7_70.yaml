@@ -8,14 +8,14 @@
   'text': '(70)'
 'description': []
 'sher':
-- 'id': '7_70_1'
+- 'id': '7_70_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نماید آنچہ ہست این وادی گل | درون لالۂ آتش بجان چیست'
   - 'lang': 'en'
     'text': 'Do we behold for what it is this vale | Of roses? What is in the tulip’s heart'
-- 'id': '7_70_2'
+- 'id': '7_70_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

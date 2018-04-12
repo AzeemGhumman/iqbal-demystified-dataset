@@ -8,7 +8,7 @@
   'text': 'VIII-IV'
 'description': []
 'sher':
-- 'id': '11_63_1'
+- 'id': '11_63_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'meanings’'
       'meaning': '        In Persian ''Mayani'' (or meanings) also mean talents, higher faculties, intrinsic qualities etc.'
       'occurrence': !!int '1'
-- 'id': '11_63_2'
+- 'id': '11_63_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

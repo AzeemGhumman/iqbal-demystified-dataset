@@ -8,14 +8,14 @@
   'text': 'EDUCATION | Chapter 15'
 'description': []
 'sher':
-- 'id': '11_260_1'
+- 'id': '11_260_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تب و تابی کہ باشد جاودانہ | سمند زندگے را تازیانہ'
   - 'lang': 'en'
     'text': 'A shine which lasts with beauty and grace, | To life’s mustang a whip for race.'
-- 'id': '11_260_2'
+- 'id': '11_260_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

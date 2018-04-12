@@ -8,7 +8,7 @@
   'text': 'EMANCIPATION OF WOMEN'
 'description': []
 'sher':
-- 'id': '3_101_1'
+- 'id': '3_101_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I know quite well that one despoils, While other is like candy sweet: | I can not give a verdict true, Which needs of Quest can fully meet.'
   - 'lang': 'ro'
     'text': 'Iss Behas Ka Kuch Faisla Main Kar Nahin Sakta | Go Khoob Samajhta Hun Ke Ye Zaher Hai, Woh Qand'
-- 'id': '3_101_2'
+- 'id': '3_101_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'I like to make no more remark, And earn the wrath of present age: | Already the sons of modern cult, ʹGainst me are full of ire and rage.'
   - 'lang': 'ro'
     'text': 'Kya Faida, Kuch Keh Ke Banon Aur Bhi Maatob | Pehle Hi Khafa Mujh Se Hain Tehzeeb Ke Farzand'
-- 'id': '3_101_3'
+- 'id': '3_101_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The insight owned by woman can, This subtle point with ease reveal: | Constrained and helpless, wise and sage, With knotty point they can not deal.'
   - 'lang': 'ro'
     'text': 'Iss Raaz Ko Aurat Ki Baseerat Hi Kare Faash | Majboor Hain, Maazoor Hain, Mardan-e-Khirdmand'
-- 'id': '3_101_4'
+- 'id': '3_101_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

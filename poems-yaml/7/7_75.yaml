@@ -8,14 +8,14 @@
   'text': '(75)'
 'description': []
 'sher':
-- 'id': '7_75_1'
+- 'id': '7_75_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز انجم تا بہ انجم صد جہان بود | خرد ہر جا کہ پر زد آسمان بود'
   - 'lang': 'en'
     'text': 'There are a hundred worlds from star to star, | And sky on sky, as far as mind can soar.'
-- 'id': '7_75_2'
+- 'id': '7_75_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This apparently simple poem is highly charged with sophisticated Tasawwuf and so is very difficult to understand. It is based on the theories of Wahdat al‑Wujud" and Wahdat al Shuhud. The poem, which belongs to the pre-1905 period is based on the former as is apparent from part three. In the poem "Light” means manifestation of God, and "Beauty" means the Existence of God. Consequently, I have written both these words in capitals.'
 'sher':
-- 'id': '1_47_1'
+- 'id': '1_47_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O Child with moth-like nature , "How strange that | You keep gazing at the flame of the candle for hours'
   - 'lang': 'ro'
     'text': 'Kaisi Hairani Hai Ye Ae Tiflak-e-Parwana Khu! | Shama Ke Shaolon Ko Ghariyon Dekhta Rehta Hai Tu'
-- 'id': '1_47_2'
+- 'id': '1_47_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'What is this movement, when you are in my lap? | Are you intending to embrace the light?'
   - 'lang': 'ro'
     'text': 'Ye Meri Aghosh Mein Baithe Huwe Junbish Hai Kya | Roshni Se Kya Baghal Geeri Hai Tera Mudda?'
-- 'id': '1_47_3'
+- 'id': '1_47_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Iss Nazare Se Tera Nanha Sa Dil Heeran Hai | Ye Kisi Dekhi Huwi Shay Ki Magar Pehchan Hai'
-- 'id': '1_47_4'
+- 'id': '1_47_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Shama Ek Shaola Hai Lekin Tu Sarapa Noor Hai | Ah! Iss Mehfil Mein Ye Uryan Hai Tu Mastoor Hai'
-- 'id': '1_47_5'
+- 'id': '1_47_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
     'text': 'It is not known why the Nature''s hand made it manifest! | And concealed you in the dark soil''s mantle'
   - 'lang': 'ro'
     'text': 'Dast-e-Qudrat Ne Isse Kya Jane Kyun Uryan Kiya! | Tujh Ko Khak-e-Teera Ke Fanoos Mein Pinhan Kiya'
-- 'id': '1_47_6'
+- 'id': '1_47_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Noor Tera Chup Gya Zair-e-Naqab-e-Aaghi | Hai Ghubar-e-Didah-e-Beena Hijab-e-Aaghi'
-- 'id': '1_47_7'
+- 'id': '1_47_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'What is called life really a mirage it is | A dream, a swoon, an ecstasy, oblivion it is'
   - 'lang': 'ro'
     'text': 'Zindagaani Jis Ko Kehte Hain Faramoshi Hai Ye | Khawab Hai, Ghaflat Hai, Sar Masti Hai, Behoshi Hai Ye'
-- 'id': '1_47_8'
+- 'id': '1_47_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
     'text': 'The Nature''s assembly is the Beauty''s boundless ocean | For the discerning eye every drop is the Beauty''s storm'
   - 'lang': 'ro'
     'text': 'Mehfil-e-Qudrat Hai Ek Darye Be-Payan-e-Husn | Ankh Agar Dekhe To Har Qatre Mein Hai Toofan-e-Husn'
-- 'id': '1_47_9'
+- 'id': '1_47_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -103,7 +103,7 @@
     'text': 'Beauty is in the frightening silence of the mountain | In shedding of sun''s light, and in night''s darkness'
   - 'lang': 'ro'
     'text': 'Husn, Kohistan Ki Haibatnaak Khamoshi Mein Hai | Mehr Ki Zou Gastri, Shab Ji Siyah Poshi Mein Hai'
-- 'id': '1_47_10'
+- 'id': '1_47_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -112,7 +112,7 @@
     'text': 'It is in the morning sky''s mirror-like glitter | In the night''s darkness and in the twilight''s floridity'
   - 'lang': 'ro'
     'text': 'Asman-e-Subah Ki Aaeena Poshi Mein Hai Ye | Sham Ki Zulmat, Shafaq Ki Gul Faroshi Mein Hai Ye'
-- 'id': '1_47_11'
+- 'id': '1_47_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -121,7 +121,7 @@
     'text': 'It is in the disappearing relics of the old magnificence | In the small child''s effort to commence speaking'
   - 'lang': 'ro'
     'text': 'Azmat-e-Dairina Ke Mitte Huwe Asaar Mein | Tiflak-e-Na Ashna Ki Koshish-e-Guftar Mein'
-- 'id': '1_47_12'
+- 'id': '1_47_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -130,7 +130,7 @@
     'text': 'It is in the harmony of the denizens of the rose-garden | In the nest-building efforts of the tiny little birds'
   - 'lang': 'ro'
     'text': 'Sakinan-e-Sehan-e-Gulshan Ki Hum Awazi Mein Hai | Nanhe Nanhe Taeeron Ki Ashiyan Saazi Mein Hai'
-- 'id': '1_47_13'
+- 'id': '1_47_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -139,7 +139,7 @@
     'text': 'In the mountain stream, in the ocean''s freedom is Beauty | In the city, the forest, the wilderness, the habitation is Beauty'
   - 'lang': 'ro'
     'text': 'Chashma-e-Kuhsar Mein, Darya Ki Azadi Mein Husn | Shehr Mein, Sehra Mein, Weerane Mein, Abadi Mein Husn'
-- 'id': '1_47_14'
+- 'id': '1_47_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -148,7 +148,7 @@
     'text': 'The soul but longing for some lost object is | Or else why is it lamenting in wilderness like a bell ?'
   - 'lang': 'ro'
     'text': 'Rooh Ko Lekin Kisi Gum Gashta Shay Ki Hai Hawas | Warna Iss Sehra Mein Kyun Nalan Hai Ye Misl-e-Jaras!'
-- 'id': '1_47_15'
+- 'id': '1_47_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

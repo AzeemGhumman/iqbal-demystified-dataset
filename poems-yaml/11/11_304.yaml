@@ -8,14 +8,14 @@
   'text': 'VI-IV'
 'description': []
 'sher':
-- 'id': '11_304_1'
+- 'id': '11_304_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'پریشان ھر دم ما از غمی چند | شریک ہر غمی نامحرمی چند'
   - 'lang': 'en'
     'text': 'My each breath blows with griefs many more, | My friends share not my griefs anymore.'
-- 'id': '11_304_2'
+- 'id': '11_304_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

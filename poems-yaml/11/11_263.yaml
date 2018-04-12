@@ -8,14 +8,14 @@
   'text': 'XV-IV'
 'description': []
 'sher':
-- 'id': '11_263_1'
+- 'id': '11_263_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز من گیر این کہ مردی کور چشمی | ز بینای غلط بینی نکو تر'
   - 'lang': 'en'
     'text': 'A blind eye is better from eyes crook, | Which sees a virtue from evil look.'
-- 'id': '11_263_2'
+- 'id': '11_263_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

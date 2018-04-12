@@ -8,14 +8,14 @@
   'text': '(133)'
 'description': []
 'sher':
-- 'id': '7_133_1'
+- 'id': '7_133_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ضمیر ین فکان غیر از تو کس نیست | نشان بی نشان غیر از تو کس نیست'
   - 'lang': 'en'
     'text': 'You are the meaning of God’s fait, "Be", | The only clue to Being’s mystery.'
-- 'id': '7_133_2'
+- 'id': '7_133_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

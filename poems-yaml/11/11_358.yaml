@@ -8,7 +8,7 @@
   'text': 'I-XIII'
 'description': []
 'sher':
-- 'id': '11_358_1'
+- 'id': '11_358_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'bird'
       'meaning': '        Song bird; (here it means) a poet.'
       'occurrence': !!int '1'
-- 'id': '11_358_2'
+- 'id': '11_358_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

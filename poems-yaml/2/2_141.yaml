@@ -8,7 +8,7 @@
   'text': 'THE MENTOR AND THE DISCIPLE'
 'description': []
 'sher':
-- 'id': '2_141_1'
+- 'id': '2_141_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_2'
+- 'id': '2_141_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Discerning eyes bleed in pain, | For faith is ruined by knowledge in this age.'
   - 'lang': 'ro'
     'text': 'Chashm-e-Beena Se Hai Jari Joo’ay Khoon | Ilm-e-Hazir Se Hai Deen Zaar-o-Zuboon!'
-- 'id': '2_141_3'
+- 'id': '2_141_003'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_4'
+- 'id': '2_141_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Fling it on the body, and knowledge becomes a serpent; | Fling it on the heart, and it becomes a friend.'
   - 'lang': 'ro'
     'text': 'Ilm Ra Bartan Zni Mare Bawad | Ilm Ra Bar Dil Zni Yaare Bawad'
-- 'id': '2_141_5'
+- 'id': '2_141_005'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'THE INDIAN DISCIPLE:'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_6'
+- 'id': '2_141_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Master of love; of God! | I do remember thy noble words:'
   - 'lang': 'ro'
     'text': 'Ae Imam-e-Ashiqaan-e-Dardmand! | Yaad Hai Mujh Ko Tera Harf-e-Buland'
-- 'id': '2_141_7'
+- 'id': '2_141_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': '‘Wherefrom comes this Friendly voice— | Thin, feeble, and dry as a reed?’'
   - 'lang': 'ro'
     'text': '‘Khushk Maghaz-o-Khushk Taar-o-Khushk Post | Az Kuja Mee Ayed Aen Awaz-e-Dost’'
-- 'id': '2_141_8'
+- 'id': '2_141_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'The world today has an eternal sadness, | With neither joy, nor love, nor certitude,'
   - 'lang': 'ro'
     'text': 'Dour-e-Hazir Mast-e-Ching-o-Be-Suroor | Besabat-o-Beyaqeen-o-Behazoor'
-- 'id': '2_141_9'
+- 'id': '2_141_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'What doth it know about this mystery— | Who is the friend, and what is the friend’s voice?'
   - 'lang': 'ro'
     'text': 'Kya Khabar Iss Ko Ke Hai Ye Raaz Kya | Dost Kya Hai, Dost Ki Awaz Kya'
-- 'id': '2_141_10'
+- 'id': '2_141_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'The sound of music is a dirge | In the West’s crumbling pageant.'
   - 'lang': 'ro'
     'text': 'Aah, Yourap Ba-Farogh-o-Taab Naak | Naghma Iss Ko  Khanchta Hai Soo’ay Khak'
-- 'id': '2_141_11'
+- 'id': '2_141_011'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_12'
+- 'id': '2_141_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'Every ear is not attuned to the word of truth, | As a fig suits not the palate of every bird.'
   - 'lang': 'ro'
     'text': 'Bar Samaa-e-Rast Harkas Cheer Neest | Ta’ama-e-Har Murghke Anjeer Neest'
-- 'id': '2_141_13'
+- 'id': '2_141_013'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_14'
+- 'id': '2_141_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'I have mastered knowledge of both the East and the West, | My soul suffers still in agony.'
   - 'lang': 'ro'
     'text': 'Parh Liye Main Ne Uloom-e-Sharaq-o-Gharb | Rooh Mein Baqi Hai Ab Tak Dard-o-Karb'
-- 'id': '2_141_15'
+- 'id': '2_141_015'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_16'
+- 'id': '2_141_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'Quacks sicken you more; | Come to us for a cure.'
   - 'lang': 'ro'
     'text': 'Dast-e-Har Na-Ahl Beemarat Kunad | Soo’ay Madar Aa Ke Teemarat Kunad'
-- 'id': '2_141_17'
+- 'id': '2_141_017'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_18'
+- 'id': '2_141_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': 'Thy glance of wisdom brightens my heart; | Explain to me the order for jihad.'
   - 'lang': 'ro'
     'text': 'Ae Nigah Teri Mere Dil Ki Kushaad | Khol Mujh Par Nukta-e-Hukam-e-Jihad'
-- 'id': '2_141_19'
+- 'id': '2_141_019'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_20'
+- 'id': '2_141_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'Break the image of God by the command of God, | Break the friend’s glass, with the friend’s stone.'
   - 'lang': 'ro'
     'text': 'Naqsh-e-Haq Ra Hum Ba Amar-e-Haq Shikan | Bar Zujaj-e-Dost Sang-e-Dost Zan'
-- 'id': '2_141_21'
+- 'id': '2_141_021'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_22'
+- 'id': '2_141_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -206,7 +206,7 @@
     'text': 'Oriental eyes are dazzled by the West; | Western nymphs are fairer than those in Paradise.'
   - 'lang': 'ro'
     'text': 'Hai Nigah-e-Khawaran Mashoor-e-Gharb | Hoor-e-Jannat Se Hai Khaushtar Hoor-e-Gharb'
-- 'id': '2_141_23'
+- 'id': '2_141_023'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -215,7 +215,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_24'
+- 'id': '2_141_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -224,7 +224,7 @@
     'text': 'Silver glisters white and new, | But blackens the hands and clothes.'
   - 'lang': 'ro'
     'text': 'Zahir-e-Nuqrah Gar Aspaid Ast -o-Nau | Dast-o-Jama Hum She Gard Da Zau!'
-- 'id': '2_141_25'
+- 'id': '2_141_025'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -233,7 +233,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_26'
+- 'id': '2_141_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -242,7 +242,7 @@
     'text': 'The warm‐blooded youths in schools, | Alas, are victims of Western magic!'
   - 'lang': 'ro'
     'text': 'Aah Maktab Ka Jawan-e-Garam Khoon! | Sahir-e-Afrang Ka Sayd-e-Zaboon!'
-- 'id': '2_141_27'
+- 'id': '2_141_027'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -251,7 +251,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_28'
+- 'id': '2_141_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -260,7 +260,7 @@
     'text': 'When an unfledged bird begins its flight, | It becomes a ready feline morsel.'
   - 'lang': 'ro'
     'text': 'Murg-e-Par Narusta Choon Paran Shawad | Ta’ama-e-Har Gur Ba Durran Shawad'
-- 'id': '2_141_29'
+- 'id': '2_141_029'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -269,7 +269,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_30'
+- 'id': '2_141_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -278,7 +278,7 @@
     'text': 'How long this clash between church and state? | Is the body superior to the soul?'
   - 'lang': 'ro'
     'text': 'Ta Kuja Awaizish-e-Deen-o-Watan | Jouhar-e-Jaan Par Maqaddam Hai Badan!'
-- 'id': '2_141_31'
+- 'id': '2_141_031'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -287,7 +287,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_32'
+- 'id': '2_141_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -296,7 +296,7 @@
     'text': 'Coins may jingle at night, | But gold waits for the morrow.'
   - 'lang': 'ro'
     'text': 'Qalb Pehlu Mee Zind Ba Zar Bashab | Intizar-e-Roz Mee Darad Zahab'
-- 'id': '2_141_33'
+- 'id': '2_141_033'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -305,7 +305,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_34'
+- 'id': '2_141_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -314,7 +314,7 @@
     'text': 'Tell me about the secret of man, | Tell how dust is a peer of the stars.'
   - 'lang': 'ro'
     'text': 'Sirr-e-Adam Se Mujhe Agah Kar | Khak Ke Zarre Ko Mehar-o- Mah Kar!'
-- 'id': '2_141_35'
+- 'id': '2_141_035'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -323,7 +323,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_36'
+- 'id': '2_141_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -332,7 +332,7 @@
     'text': 'His outside dies of an insect’s bite, | His inside roams the seven heavens.'
   - 'lang': 'ro'
     'text': 'Zahirish Ra Passha-e-Ard Ba-Charkh | Batinish Amad Muheet-e-Haft Charkh'
-- 'id': '2_141_37'
+- 'id': '2_141_037'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -341,7 +341,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_38'
+- 'id': '2_141_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -350,7 +350,7 @@
     'text': 'Dust with thy help has a luminous eye, | Is man’s purpose knowledge or vision?'
   - 'lang': 'ro'
     'text': 'Khak Tere Noor Se Roshan Basar | Ghayat-e-Adam Khabar Hai Ya Nazar?'
-- 'id': '2_141_39'
+- 'id': '2_141_039'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -359,7 +359,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_40'
+- 'id': '2_141_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -368,7 +368,7 @@
     'text': 'Man is perception; the rest is skin; | Perception is the perception of God.'
   - 'lang': 'ro'
     'text': 'Admi Deed Ast, Baqi Post Ast | Deed Aan Bashad Ke Deed-e-Dost Ast'
-- 'id': '2_141_41'
+- 'id': '2_141_041'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -377,7 +377,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_42'
+- 'id': '2_141_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -386,7 +386,7 @@
     'text': 'The East lives on through your words! | Of what disease nations die?'
   - 'lang': 'ro'
     'text': 'Zinda Hai Mashriq Teri Guftar Se | Ummatain Merti Han Kis Azaar Se?'
-- 'id': '2_141_43'
+- 'id': '2_141_043'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -395,7 +395,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_44'
+- 'id': '2_141_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -404,7 +404,7 @@
     'text': 'Every nation that perished in the past, | Perished for mistaking stone for incense.'
   - 'lang': 'ro'
     'text': 'Har Halak-e-Ummat-e-Paisheen Ke Bood | Zaanke Bar-Jandal Guman Bar Dand Uood'
-- 'id': '2_141_45'
+- 'id': '2_141_045'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -413,7 +413,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_46'
+- 'id': '2_141_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -422,7 +422,7 @@
     'text': 'Muslims have now lost their vigour and force; | Wherefore are they so timid and tame?'
   - 'lang': 'ro'
     'text': 'Ab Musalman Men Nain Who Rang-o-Boo | Sard Kyunkar Ho Gya Iss Ka Lahoo?'
-- 'id': '2_141_47'
+- 'id': '2_141_047'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -431,7 +431,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_48'
+- 'id': '2_141_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -440,7 +440,7 @@
     'text': 'No nation meets its doom, | Until it angers a man of God.'
   - 'lang': 'ro'
     'text': 'Ta Dil-e-Sahibd Le Na Mad Ba Dard | Haich Qoume Ra Khda Ruswa Na Kard'
-- 'id': '2_141_49'
+- 'id': '2_141_049'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -449,7 +449,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_50'
+- 'id': '2_141_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -458,7 +458,7 @@
     'text': 'Though life is a mart without any lustre, | What kind of bargain doth offer some gain?'
   - 'lang': 'ro'
     'text': 'Gharcha Be-Ronaq Hai Bazar-e-Wujood | Kon Se Sode Mein Hai Mardon Ka Sood?'
-- 'id': '2_141_51'
+- 'id': '2_141_051'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -467,7 +467,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_52'
+- 'id': '2_141_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -476,7 +476,7 @@
     'text': 'Sell cleverness and purchase wonder; | Cleverness is doubt; wonder is perception.'
   - 'lang': 'ro'
     'text': 'Zair Ki Ba-Farosh-o-Heerani Bakhar | Zair Ki Zann Ast-o-Heerani Nazar'
-- 'id': '2_141_53'
+- 'id': '2_141_053'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -485,7 +485,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_54'
+- 'id': '2_141_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -494,7 +494,7 @@
     'text': 'My peers consort with kings in court, | While I am a beggar, uncovered, bare‐headed.'
   - 'lang': 'ro'
     'text': 'Hum Nafs Mere Salateen Ke Nadeem | Main Faqeer-e-Ne-Kulah-o-Begaleem'
-- 'id': '2_141_55'
+- 'id': '2_141_055'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -503,7 +503,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_56'
+- 'id': '2_141_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -512,7 +512,7 @@
     'text': 'To be the slave of a man with an illumined heart, | Is better than to rule the ruler’s of’ the land.'
   - 'lang': 'ro'
     'text': 'Banda-e-Yak Mard-e-Roshan Dil Shawi | Ba Ke Bar Farq-e-Sar-e-Shahan Rawi.'
-- 'id': '2_141_57'
+- 'id': '2_141_057'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -521,7 +521,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_58'
+- 'id': '2_141_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -530,7 +530,7 @@
     'text': 'I am at a loss to know the puzzle | Of free will and determination.'
   - 'lang': 'ro'
     'text': 'Ae Shareek-e-Masti-e-Khasaan-e-Badar | Main Nahin Samjha Hadees-e-Jabr-o-Qadr!'
-- 'id': '2_141_59'
+- 'id': '2_141_059'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -539,7 +539,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_60'
+- 'id': '2_141_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -548,7 +548,7 @@
     'text': 'Wings bring a hawk to Kings; | Wings bring a crow to the grave.'
   - 'lang': 'ro'
     'text': 'Bal Bazan Ra Sooye Sultan Bard | Bal Zaghan Ra Baghoristan Bard'
-- 'id': '2_141_61'
+- 'id': '2_141_061'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -557,7 +557,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_62'
+- 'id': '2_141_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -566,7 +566,7 @@
     'text': 'What is the aim of the Prophet’s path— | The rule of the earth, or a monastery?'
   - 'lang': 'ro'
     'text': 'Karobar-e-Khusrawi Ya Rahbi | Kya Hai Akhir Ghaya-e-Deen-e-Nabi (S.A.W.)?'
-- 'id': '2_141_63'
+- 'id': '2_141_063'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -575,7 +575,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_64'
+- 'id': '2_141_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -584,7 +584,7 @@
     'text': 'Prudence in our faith decrees war and power, | In the faith of Jesus—a cave and mount.'
   - 'lang': 'ro'
     'text': 'Muslahat Dar Deen-e-Ma Jang-o-Shikoh | Muslahat Dar Deen-e-Issa (A.S.) Ghaar-o-Koh'
-- 'id': '2_141_65'
+- 'id': '2_141_065'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -593,7 +593,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_66'
+- 'id': '2_141_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -602,7 +602,7 @@
     'text': 'How to discipline the body? | And how to awaken the heart?'
   - 'lang': 'ro'
     'text': 'Kis Tarah Qaboo Mein Aye Aab-o-Gill | Kis Tarah Baidar Ho Seene Mein Dil?'
-- 'id': '2_141_67'
+- 'id': '2_141_067'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -611,7 +611,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_68'
+- 'id': '2_141_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -620,7 +620,7 @@
     'text': 'Be obedient, ride on the earth like a horse, | Not like a corpse borne on shoulders.'
   - 'lang': 'ro'
     'text': 'Banda Bash-o-Bar Zameen Ro Choon Samand | Choon Janaza Ne Ke Bar Gardan Baran'
-- 'id': '2_141_69'
+- 'id': '2_141_069'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -629,7 +629,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_70'
+- 'id': '2_141_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -638,7 +638,7 @@
     'text': 'The secret of faith I do not know; | How to believe in the Day of Judgement?'
   - 'lang': 'ro'
     'text': 'Sirr-e-Deen Adraak Mein Ata Nahin | Kis Tarah Aye Qayamat Ka Yaqeen?'
-- 'id': '2_141_71'
+- 'id': '2_141_071'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -647,7 +647,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_72'
+- 'id': '2_141_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -656,7 +656,7 @@
     'text': 'Be the Judgement Day, and see the Judgement Day; | This is the condition for seeing everything.'
   - 'lang': 'ro'
     'text': 'Pas Qayamat Sho Qayamat Rababeen | Deedan-e-Har Cheez Ast Aen'
-- 'id': '2_141_73'
+- 'id': '2_141_073'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -665,7 +665,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindie'
-- 'id': '2_141_74'
+- 'id': '2_141_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -674,7 +674,7 @@
     'text': 'The selfhood soars up to the skies— | It preys upon the sun and the moon—'
   - 'lang': 'ro'
     'text': 'Asman Mein Rah Karti Hai Khudi | Said-e-Mehar-o-Mah Karti Hai Khudi'
-- 'id': '2_141_75'
+- 'id': '2_141_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -683,7 +683,7 @@
     'text': 'Deprived of the Presence, relying on existence, wearied: | Impoverished by its own preys.'
   - 'lang': 'ro'
     'text': 'Be Huzoor-o-Ba-Farogh-o-Be-Faraagh | Apne Nakhcheeron Ke Hathon Dagh Dagh!'
-- 'id': '2_141_76'
+- 'id': '2_141_076'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -692,7 +692,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_77'
+- 'id': '2_141_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -701,7 +701,7 @@
     'text': 'Love alone is fit to be hunted, | But who can ever ensnare it!'
   - 'lang': 'ro'
     'text': 'Aan Ke Arzd Said Ra Ishq Ast-o-Bas | Lekin Ao Ke Gunajad Andar Daam-e-Kas!'
-- 'id': '2_141_78'
+- 'id': '2_141_078'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -710,7 +710,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_79'
+- 'id': '2_141_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -719,7 +719,7 @@
     'text': 'Thou knowest the heart of the universe; | Tell how a nation can be strong?'
   - 'lang': 'ro'
     'text': 'Tujh Pe Roshan Hai Zamer-e-Kainat | Kis Tarah Muhkam Ho Milat Ki Hayat?'
-- 'id': '2_141_80'
+- 'id': '2_141_080'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -728,7 +728,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_81'
+- 'id': '2_141_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -737,7 +737,7 @@
     'text': 'If thou art a grain, it will be picked by birds, | And if a blossom, it will be picked by urchins.'
   - 'lang': 'ro'
     'text': 'Dana Bashi Murghkanat Bar-Cheenand | Ghuncha Bashi Ko Dkanat Bar Kanand'
-- 'id': '2_141_82'
+- 'id': '2_141_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -746,7 +746,7 @@
     'text': 'Hide thy grain, and be the trap; | Hide thy blossom, and be the grass.'
   - 'lang': 'ro'
     'text': 'Dana Pinhan Kun Sarapa Daam Sho | Ghuncha Pinhan Kun Gyah-e-Baam Sho'
-- 'id': '2_141_83'
+- 'id': '2_141_083'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -755,7 +755,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_84'
+- 'id': '2_141_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -764,7 +764,7 @@
     'text': 'Thou callest me to seek the heart; | To be a seeker of the heart, and to be in a conflict;'
   - 'lang': 'ro'
     'text': 'Tu Ye Kehta Hai Ke Dil Ki Kar Talash | ‘Talib-e-Dil Bash-o-Dar-Paikar Bash’'
-- 'id': '2_141_85'
+- 'id': '2_141_085'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -773,7 +773,7 @@
     'text': 'My heart is in my breast, | Like a mirror, it shows my powers.'
   - 'lang': 'ro'
     'text': 'Jo Mera Dil Hai, Mere Seene Mein Hai | Mera Jouhar Mere Aaeene Mein Hai'
-- 'id': '2_141_86'
+- 'id': '2_141_086'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -782,7 +782,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_87'
+- 'id': '2_141_087'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -791,7 +791,7 @@
     'text': 'Thou sayest thou hast a heart | The heart is not below, but in the empyrean,'
   - 'lang': 'ro'
     'text': 'Tu Hami Goyi Mera Dil Naiz Hast | Dil Faraz-e-Arsh Bashad Ne Ba Past'
-- 'id': '2_141_88'
+- 'id': '2_141_088'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -800,7 +800,7 @@
     'text': 'Thou thinkest thy heart is a heart, | Forsaking the search for illumined hearts.'
   - 'lang': 'ro'
     'text': 'Tu Dil-e-Khud Ra Dile Pind Ashti | Justujooye Ahl-e-Dil Baghazashti!'
-- 'id': '2_141_89'
+- 'id': '2_141_089'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -809,7 +809,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_90'
+- 'id': '2_141_090'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -818,7 +818,7 @@
     'text': 'My mind soars in ethereal flights, | But I grovel in the dust;'
   - 'lang': 'ro'
     'text': 'Asmanon Par Mera Fikar-e-Buland | Main Zameen Par Khwar-o-Zaar-o-Dardmand'
-- 'id': '2_141_91'
+- 'id': '2_141_091'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -827,7 +827,7 @@
     'text': 'I have failed in the affairs of the world; | Kicks and buffets are my lot;'
   - 'lang': 'ro'
     'text': 'Kar-e-Dunya Mein Raha Jata Hun Main | Thokarain Iss Rah Mein Khata Hun Main'
-- 'id': '2_141_92'
+- 'id': '2_141_092'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -836,7 +836,7 @@
     'text': 'Why is material world beyond my reach? | Why are the wise in faith, fools in the world?'
   - 'lang': 'ro'
     'text': 'Kyun Mere Bas Ka Nahin Kaar-e-Zameen | Abla-e-Dunya Hai Kyun Dana’ay Deen?'
-- 'id': '2_141_93'
+- 'id': '2_141_093'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -845,7 +845,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_94'
+- 'id': '2_141_094'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -854,7 +854,7 @@
     'text': 'One who can scale the heights of heaven, | Can tread the path of earth with ease.'
   - 'lang': 'ro'
     'text': 'Aan Ke Bar Aflaak Raftarash Bood | Bar Zameen Raftan Che Dushwarish Bood'
-- 'id': '2_141_95'
+- 'id': '2_141_095'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -863,7 +863,7 @@
     'text': 'THE INDIAN DISCIPLE'
   - 'lang': 'ro'
     'text': 'Mureed-e-Hindi'
-- 'id': '2_141_96'
+- 'id': '2_141_096'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -872,7 +872,7 @@
     'text': 'What is the secret of knowledge and wisdom? | And how to be blessed with passion and pain?'
   - 'lang': 'ro'
     'text': 'Ilm-o-Hikmat Ka Mile Khyunkar Sooragh | Kis Tarah Hath Aye Souz-o-Dard-o-Dagh?'
-- 'id': '2_141_97'
+- 'id': '2_141_097'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -881,7 +881,7 @@
     'text': 'RUMI'
   - 'lang': 'ro'
     'text': 'Peer-e-Rumi'
-- 'id': '2_141_98'
+- 'id': '2_141_098'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -890,7 +890,7 @@
     'text': 'Knowledge and wisdom are born of honest living; | Love and ecstasy are born of honest living.'
   - 'lang': 'ro'
     'text': 'Ilm-o- Hikmat Zayed Az Naan-e-Halal | Ishq-o-Riqqat Ayed Az Naan-e-Halal'
-- 'id': '2_141_99'
+- 'id': '2_141_099'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'

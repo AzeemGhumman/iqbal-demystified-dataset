@@ -8,7 +8,7 @@
   'text': 'GHAZAL'
 'description': []
 'sher':
-- 'id': '3_28_1'
+- 'id': '3_28_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A heart devoid of love is dead, Infuse fresh life in it again: | It is the only cure for folk, Who suffer from some chronic pain.'
   - 'lang': 'ro'
     'text': 'Dil-e-Murda Dil Nahin Hai, Isse Zinda Kar Dobara | Ke Yehi Hai Ummaton Ke Marz-e-Kuhan Ka Chara'
-- 'id': '3_28_2'
+- 'id': '3_28_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Your sea is full of calm and rest, Is it repose or magic art? | No sharks and storms disturb your sea, Intact its coast in every part!'
   - 'lang': 'ro'
     'text': 'Tera Behar Pur-Sukoon Hai, Ye Sukoon Hai Ya Fusoon Hai? | Na Nahang Hai, Na Toofan, Na Kharabi-e-Kinara!'
-- 'id': '3_28_3'
+- 'id': '3_28_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'You are not intimate with laws, That rule the spheres that spin around: | The twinkling stars do not disturb, The calm which in your heart is found!'
   - 'lang': 'ro'
     'text': 'Tu Zameer-e-Asman Se Abhi Ashna Nahin Hai | Nahin Be-Qarar Karta Tujhe Ghamzada-e-Sitara'
-- 'id': '3_28_4'
+- 'id': '3_28_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The dormant spark that buried lay, In my extinguished clay since long | Has set afire your bed of reeds, Assuming form of morning song!'
   - 'lang': 'ro'
     'text': 'Tere Neestan Mein Dala Mere Naghma-e-Sahar Ne | Meri Khak-e-Pay-Sipar Mein Jo Nihan Tha Ek Sharara'
-- 'id': '3_28_5'
+- 'id': '3_28_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

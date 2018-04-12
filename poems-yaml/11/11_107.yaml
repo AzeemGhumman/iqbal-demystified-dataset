@@ -8,14 +8,14 @@
   'text': 'XI-XXIX'
 'description': []
 'sher':
-- 'id': '11_107_1'
+- 'id': '11_107_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خودی دادم ز خود نامحرمی را | گشادم در گل او زمزمی را'
   - 'lang': 'en'
     'text': 'Those who knew not I preached them ego, | For them I e’er caused my fonts to flow.'
-- 'id': '11_107_2'
+- 'id': '11_107_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

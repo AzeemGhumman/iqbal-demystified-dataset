@@ -8,14 +8,14 @@
   'text': '(68)'
 'description': []
 'sher':
-- 'id': '7_68_1'
+- 'id': '7_68_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جہان ما کہ پایانے ندارد | چو ماہی در یم ایام غرق است'
   - 'lang': 'en'
     'text': 'This world of ours, stretched out infinitely, | Is drowned like a fish in the sea of Time.'
-- 'id': '7_68_2'
+- 'id': '7_68_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

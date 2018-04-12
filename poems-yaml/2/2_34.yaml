@@ -8,7 +8,7 @@
   'text': 'The ancient fane in which we live'
 'description': []
 'sher':
-- 'id': '2_34_1'
+- 'id': '2_34_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The ancient fane in which we live, Has heaps of thorns at every turn; | Too hard to cross it safe and sound, Without the aid of sighs that burn.'
   - 'lang': 'ro'
     'text': 'Ye Dair-E-Kuhan Kya Hai, Anbaar-E-Khas-O-Khashaak | Mushkil Hai Guzar Iss Mein Be-Nala’ay Atishnaak'
-- 'id': '2_34_2'
+- 'id': '2_34_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The tale of quarry shot by Love, Is simple, brief and not too long: | The victim feels the joy of prick, And then the rest of saddle thong.'
   - 'lang': 'ro'
     'text': 'Nakhcheer-E-Mohabbat Ka Qissa Nahin Toolani | Lutf-E-Khalish-E-Paikan, Asoodgi-E-Fatraak'
-- 'id': '2_34_3'
+- 'id': '2_34_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The sterling truth to Muslim taught, In feuds of different sects is lost; | How can you catch this truth again, With bias if your mind be fraught?'
   - 'lang': 'ro'
     'text': 'Khoya Kya Jo ''Matlab Haftad Wa Do''-O-Millat Mein | Samjhe Ga Na Tu Jab Taak Be Rang Na Ho Adraak'
-- 'id': '2_34_4'
+- 'id': '2_34_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'One is the outward form of faith, The other its spirit deep and true: | He, who quaffs its spirits deep, Brings secrets hidden to his view.'
   - 'lang': 'ro'
     'text': 'Ek Sharaa-E-Musalmani, Ek Jazb-E-Musalmani | Hai Jazb-E-Musalani Sirr-E-Falak-Ul-Aflaak'
-- 'id': '2_34_5'
+- 'id': '2_34_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'O pilgrim wise, who tread the path, If passion strong for faith you lack, | The bough of faith shall whither fast, Obscure and dim become the path.'
   - 'lang': 'ro'
     'text': 'Ae Rahro-E-Farzana! Be Jazb-E-Musalmani | Ne Rah-E-Amal Paida Ne Shakh-E-Yaqeen Namnaak'
-- 'id': '2_34_6'
+- 'id': '2_34_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Courage and valour are the signs, By which the state of Love is known: | Not every zeal is pert and rude, Nor daring by ev’ry person shown.'
   - 'lang': 'ro'
     'text': 'Ramzain Hain Mohabat Ki Gustakhi-O-Bebaki | Har Shauq Nahin Gustakh, Har Jazb Nahin Bebaak'
-- 'id': '2_34_7'
+- 'id': '2_34_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

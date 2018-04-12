@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Through this short poem ‘Allamah Iqbal conveys the lesson that moral and ethical elegance can be achieved only through developing empathy with the people who are suffering. This lesson is emphasized in the two last verses.'
 'sher':
-- 'id': '1_148_1'
+- 'id': '1_148_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'One day the dew in the garden was saying to the flower bud | “I lived for a long time among the flower buds of Paradise'
   - 'lang': 'ro'
     'text': 'Kali Se Keh Rahi Thi Aik Din Shabnam Gulisan Mein | Rahi Main Aik Muddat Ghuncha Haye Bagh-e-Rizwan Mein'
-- 'id': '1_148_2'
+- 'id': '1_148_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The condition of your garden is so elegant | The Paradise’s sight is concealed in my bewildered eye'
   - 'lang': 'ro'
     'text': 'Tumhare Gulistan Ki Kaifiat Sarshar Hai Aesi | Nigah Firdous Dar Daman Hai Meri Chashm-e-Heeran Mein'
-- 'id': '1_148_3'
+- 'id': '1_148_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'I have heard that some princess is the ruler of this garden | With whose foot-prints the wilderness would produce flowers'
   - 'lang': 'ro'
     'text': 'Suna Hai Koi Shehzadi Hai Hakim Iss Gulistan Ki | Ke Jis Ke Naqsh-e-Pa Se Phool Hon Paida Byaban Mein'
-- 'id': '1_148_4'
+- 'id': '1_148_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Some day take me with you up to her palace | Take me concealed in your skirt like fragrance”'
   - 'lang': 'ro'
     'text': 'Kabhi Sath Apne Uss Ke Astan Tak Mujh Ko Tu Le Chal | Chupa Kar Apne Daman Mein Barang-e-Mouj-e-Bu Le Chal'
-- 'id': '1_148_5'
+- 'id': '1_148_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The flower bud said “On the throne is that princess of ours | By whose kick even stones become resplendent jewels'
   - 'lang': 'ro'
     'text': 'Kali Boli, Sareer Ara Humari Hai Woh Shehzadi | Darkhashan Jis Ki Thoukar Se Hon Pathar  Bhi Nageen Ban Kar'
-- 'id': '1_148_6'
+- 'id': '1_148_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'But your nature is bright and princess’ rank is elegant | It is not possible that you reach her in company with me'
   - 'lang': 'ro'
     'text': 'Magar Fitrat Teri Uftanda Aur Begam Ki Shan Unchi | Nahin Mumkin Ke Tu Pohenche Humari Hum-Nasheen Ban Kar'
-- 'id': '1_148_7'
+- 'id': '1_148_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'However you can reach up to our princess | By becoming the hot tear of some afflicted person'
   - 'lang': 'ro'
     'text': 'Pohench Sakti Hai Tu Lekin Humari Shahzadi Tak | Kisi Dukh Dard Ke Mare Ka Ashak-e-Atisheen Ban Kar'
-- 'id': '1_148_8'
+- 'id': '1_148_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

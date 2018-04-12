@@ -8,14 +8,14 @@
   'text': 'XV-II'
 'description': []
 'sher':
-- 'id': '11_261_1'
+- 'id': '11_261_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز علم چارہ سازی بی گدازی | بسی خوشتر نگاہ پاک بازی'
   - 'lang': 'en'
     'text': 'A knowledge which cures but melts not to trance, | Far better is the eye with sacred glance.'
-- 'id': '11_261_2'
+- 'id': '11_261_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

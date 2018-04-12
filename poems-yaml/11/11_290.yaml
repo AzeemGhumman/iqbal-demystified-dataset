@@ -8,14 +8,14 @@
   'text': 'III-VI'
 'description': []
 'sher':
-- 'id': '11_290_1'
+- 'id': '11_290_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خوشا روزی کہ خود را باز گیری | ہمین فقر است کو بخشد امیری'
   - 'lang': 'en'
     'text': 'I hail that day when he turns to self’s bold, | This is the faqr’s essence which makes him gold'
-- 'id': '11_290_2'
+- 'id': '11_290_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

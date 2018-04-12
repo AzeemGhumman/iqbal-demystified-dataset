@@ -8,14 +8,14 @@
   'text': '(71)'
 'description': []
 'sher':
-- 'id': '7_71_1'
+- 'id': '7_71_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو خورشیدی و من سیارۂ تو | سراپا نورم از نظارۂ تو'
   - 'lang': 'en'
     'text': 'You are the sun; I am a planet that | Revolves round You. illumined by Your sight,'
-- 'id': '7_71_2'
+- 'id': '7_71_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

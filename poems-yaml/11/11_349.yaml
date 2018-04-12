@@ -8,14 +8,14 @@
   'text': 'I-IV'
 'description': []
 'sher':
-- 'id': '11_349_1'
+- 'id': '11_349_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرا از منطق  ید بوی خامے | دلیل او دلیل ناتمامے'
   - 'lang': 'en'
     'text': 'In logic I feel a smell of raws, | Its pleas and reasons are full of flaws.'
-- 'id': '11_349_2'
+- 'id': '11_349_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

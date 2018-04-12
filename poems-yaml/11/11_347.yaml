@@ -8,14 +8,14 @@
   'text': 'I-II'
 'description': []
 'sher':
-- 'id': '11_347_1'
+- 'id': '11_347_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز جانم نغمہء ’’اللہ ہو‘‘ ریخت | چو کرد از رخت ہستی چار سو ریخت'
   - 'lang': 'en'
     'text': 'When the Allah Hoo’s tick did hit my soul, | I dusted the clothes’ of the cosmos whole.'
-- 'id': '11_347_2'
+- 'id': '11_347_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

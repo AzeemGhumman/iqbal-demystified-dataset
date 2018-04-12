@@ -8,14 +8,14 @@
   'text': '(105)'
 'description': []
 'sher':
-- 'id': '7_105_1'
+- 'id': '7_105_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بیا با شاہد فطرت نظر باز | چرا در گوشۂ خلوت گزینی'
   - 'lang': 'en'
     'text': 'Come drink in Nature’s beauty with your eyes. | Why muse like a recluse? O exercise'
-- 'id': '7_105_2'
+- 'id': '7_105_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

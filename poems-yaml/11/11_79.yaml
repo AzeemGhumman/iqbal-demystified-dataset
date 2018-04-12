@@ -8,14 +8,14 @@
   'text': 'XI-I'
 'description': []
 'sher':
-- 'id': '11_79_1'
+- 'id': '11_79_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ملوکیت سراپا شیشہ بازی است | ازو ایمن نہ رومی نی حجازی است'
   - 'lang': 'en'
     'text': 'The kingship as whole is trick and skill, | In Rome or Jeddah none safe from his kill.'
-- 'id': '11_79_2'
+- 'id': '11_79_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

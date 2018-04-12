@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is a continuation of the previous one. A logical corollary of the concept of universality of Islam emphasized in the previous poem is the one of an Ummah, which would be a supranational entity instead of a geographical one. This poem enunciates the political theory of Islam.'
 'sher':
-- 'id': '1_103_1'
+- 'id': '1_103_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Iss Dour Mein Mai Aur Hai, Jaam Aur Hai Jam Aur | Saqi Ne Bina Ki Rawish-e-Lutf-o-Sitam Aur'
-- 'id': '1_103_2'
+- 'id': '1_103_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -36,7 +36,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Muslim Ne Bhi Tameer Kiya Apna Haram Aur | Tehzeeb Ke Azar Ne Tarshawaye Sanam Aur'
-- 'id': '1_103_3'
+- 'id': '1_103_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
     'text': 'Country, is the biggest among these new gods! | What is its shirt is the shroud of Dan'
   - 'lang': 'ro'
     'text': 'In Taza Khudaon Mein Bara Sub Se Watan Hai | Jo Pairhan Iss Ka Hai, Woh Mazhab Ka Kafan Hai'
-- 'id': '1_103_4'
+- 'id': '1_103_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
     'text': 'This idol which is the product of the new civilization | Is the plunderer of the structure of the Holy Prophet’s Dan'
   - 'lang': 'ro'
     'text': 'Ye But Ke Tarashida-e-Tehzeeb-e-Nawi Hai | Gharatgar-e-Kashana-e-Deen-e-Nabwi Hai'
-- 'id': '1_103_5'
+- 'id': '1_103_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -67,7 +67,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Bazu Tera Touheed Ki Quwwat Se Qawi Hai | Islam Tera Dais Hai, Tu Mustafavi Hai'
-- 'id': '1_103_6'
+- 'id': '1_103_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
     'text': 'You should show the old panorama to the world | O Musèafaa’s follower ! You should destroy this idol'
   - 'lang': 'ro'
     'text': 'Nazzara-e-Dairina Zamane Ko Dikha De | Ae Mustafavi Khak Mein Iss Butt Ko Mila De!'
-- 'id': '1_103_7'
+- 'id': '1_103_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'The limitation to country results in destruction | Live like the fish in the ocean free from country'
   - 'lang': 'ro'
     'text': 'Ho Qaid-e-Maqami To Nateeja Hai Tabahi | Reh Behar Mein Azad-e-Watan Soorat-e-Mahi'
-- 'id': '1_103_8'
+- 'id': '1_103_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Tark-e-Watan Sunnat-e- Mehboob (S.A.W.) -e-Elahi | De Tu Bhi Nabuwwat Ki Sadaqat Pe Gawahi'
-- 'id': '1_103_9'
+- 'id': '1_103_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'In political parlance country is something different | In Prophet’s command country is something different'
   - 'lang': 'ro'
     'text': 'Guftar-e-Siasat Mein Watan Aur Hi Kuch Hai | Irshad-e-Nabuwwat Mein Watan Aur Hi Kuch Hai'
-- 'id': '1_103_10'
+- 'id': '1_103_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'The antagonism among world’s nations is created by this alone | Subjugation as the goal of commerce is created by this alone'
   - 'lang': 'ro'
     'text': 'Aqwam-e-Jahan Mein Hai Raqabat To Issi Se | Taskheer Hai Maqsood-e-Tajarat To Issi Se'
-- 'id': '1_103_11'
+- 'id': '1_103_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'Politics have become bereft of sincerity is by this alone | The destruction of the home of the weak is by this alone'
   - 'lang': 'ro'
     'text': 'Khali Hai Sadaqat Se Siasat To Issi Se | Kamzor Ka Ghar Hota Hai Gharat To Issi Se'
-- 'id': '1_103_12'
+- 'id': '1_103_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

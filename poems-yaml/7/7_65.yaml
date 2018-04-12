@@ -8,14 +8,14 @@
   'text': '(65)'
 'description': []
 'sher':
-- 'id': '7_65_1'
+- 'id': '7_65_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مپرس از عشق و از نیرنگی عشق | بہر رنگی کہ خواہی سر بر آرد'
   - 'lang': 'en'
     'text': 'Love’s wizardry is great: it can take on | A hundred shapes. In the heart’s privacy'
-- 'id': '7_65_2'
+- 'id': '7_65_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

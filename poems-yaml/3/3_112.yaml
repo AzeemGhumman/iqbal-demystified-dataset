@@ -8,7 +8,7 @@
   'text': 'MIGHT OF ISLAM MOSQUE'
 'description': []
 'sher':
-- 'id': '3_112_1'
+- 'id': '3_112_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Now naught remains in Muslimʹs breast, His heart devoid of glint and glow: | He avowed with zeal ʹNo God but He,ʹ But dead and cold the zeal for show.'
   - 'lang': 'ro'
     'text': 'Hai Mere Seena Be-Noor Nein Ab Kya Baqi | La Ilaha ’ Murda-o-Afsurda-o-Be-Zauq-e-Namood'
-- 'id': '3_112_2'
+- 'id': '3_112_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The Muslimʹs state has so declined, That Nature fails to know at sight, | Because the slavish acts of Ayaz, Have put Mahmudʹs high rank in plight.'
   - 'lang': 'ro'
     'text': 'Chashme-e-Fitrat Bhi Na Pehchan Sake Gi Mujh Ko | Ke Ayazi Se Digargoon Hai Maqam-e-Mehmood'
-- 'id': '3_112_3'
+- 'id': '3_112_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'You have withstood the ruin of Time, And kept your ground as firm as rock. | Constraint has turned the Muslims weak, You put them all to shame and shock.'
   - 'lang': 'ro'
     'text': 'Kyun Musalman Na Khajal Ho Teri Sangeeni Se | Ke Ghulami Se Huwa Misl-e-Zujaj Iss Ka Wujood'
-- 'id': '3_112_4'
+- 'id': '3_112_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The worship of such Muslims suits, Your structure immense and so vast, | Who with one breath that God is Great, Find truth and lies away cast.'
   - 'lang': 'ro'
     'text': 'Hai Teri Shan Ke Shayan Ussi Momin Ki Namaz | Jis Ki Takbeer Mein Ho Maarka-e-Bood-o-Nuboo'
-- 'id': '3_112_5'
+- 'id': '3_112_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The Muslimʹs breast is quite bereft, Of previous heat and ardour strong: | His blessings, worship are devoid, Of innate heat and fret since long.'
   - 'lang': 'ro'
     'text': 'Ab Kahan Mere Nafs Mein Woh Hararat, Woh Gudaz | Be Tab-o-Taab-e-Duroon Meri Salat Aur Durood'
-- 'id': '3_112_6'
+- 'id': '3_112_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

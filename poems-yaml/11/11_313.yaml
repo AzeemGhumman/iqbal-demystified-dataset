@@ -8,14 +8,14 @@
   'text': 'VIII-III'
 'description': []
 'sher':
-- 'id': '11_313_1'
+- 'id': '11_313_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'زمانہ کار او را میبرد پیش | کہ مرد خود نگہدار است درویش'
   - 'lang': 'en'
     'text': 'His help the world seeks like his slave own, | Since he guarded self with saintly tone.'
-- 'id': '11_313_2'
+- 'id': '11_313_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

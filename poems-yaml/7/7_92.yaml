@@ -8,14 +8,14 @@
   'text': '(92)'
 'description': []
 'sher':
-- 'id': '7_92_1'
+- 'id': '7_92_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'سخن درد و غم آرد ، درد و غم بہ | مرا این نالہ ہای دمبدم بہ'
   - 'lang': 'en'
     'text': 'If poetry is sad, so let it be. | Dear to my heart is sorrow’s minstrelsy.'
-- 'id': '7_92_2'
+- 'id': '7_92_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

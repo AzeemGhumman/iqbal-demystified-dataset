@@ -8,14 +8,14 @@
   'text': '(38)'
 'description': []
 'sher':
-- 'id': '7_38_1'
+- 'id': '7_38_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ میپرسی میان سینہ دل چیست | خرد چون سوز پیدا کرد دل شد'
   - 'lang': 'en'
     'text': 'You ask me what is this heart in your breast. | It is your intellect that has been blest'
-- 'id': '7_38_2'
+- 'id': '7_38_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

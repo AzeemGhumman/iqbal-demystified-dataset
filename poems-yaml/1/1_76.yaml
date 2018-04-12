@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short but beautiful poem brings out an important component of `Allamah Iqbal’s philosophy, viz. that everything is ardently desirous of exhibiting itself. He calls this desire, and the efforts to achieve it, as the very source of real life. The climax is reached in the fifth verse according to which God Himself is anxious to manifest Himself to Man but it is only the human effort which would reveal Him to an individual, if the latter so desires and works for. This is a message to the Muslim youth to develop the philosophy of life in which the goal is unattainable. Outwardly, any effort at achieving such a goal appears futile but it is not so in reality. Really speaking it is not the goal but the longing which is never satisfied.'
 'sher':
-- 'id': '1_76_1'
+- 'id': '1_76_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The dawn is vexed by separation from the sun | The twilight''s eye is raining blood for the evening star'
   - 'lang': 'ro'
     'text': 'Furqat-e-Aftab Mein Khati Hai Paich-o-Taab Subha | Chasm-e-Shafaq Hai Khoon Fashan Akhtar-e-Shaam Ke Liye'
-- 'id': '1_76_2'
+- 'id': '1_76_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Rehti Hai Qais-e-Roz Ko Laila-e-Sham Ki Hawas | Akhtar-e-Subah Muztarib Taab-e-Dawam Ke Liye'
-- 'id': '1_76_3'
+- 'id': '1_76_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'The sky''s polar star was saying to the stars'' caravan | "Companions ! I am tantalized for the pleasure of walking"'
   - 'lang': 'ro'
     'text': 'Kehta Tha Qutb-e-Asman Qafla-e-Najoom Se | Humraho, Main Taras Gya Lutf-e-Kharaam Ke Liye'
-- 'id': '1_76_4'
+- 'id': '1_76_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Springs desire rivers, rivers love the ocean | The ocean wave is in love with the full moon'
   - 'lang': 'ro'
     'text': 'Soton Ko Naddiyon Ka Shauq, Behar Ka Naddiyon Ko Ishq | Moja-e-Behar Ko Tapish Mah-e-Tamam Ke Liye'
-- 'id': '1_76_5'
+- 'id': '1_76_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'The eternal Beauty which is veiled in tulips and roses | Is considered to be restless for general manifestation'
   - 'lang': 'ro'
     'text': 'Husn-e-Azal Ke Parda-e-Lala-o-Gul Mein Hai Nihan | Kehte Hain Be-Qarar Hai Jalwa-e-Aam Ke Liye'
-- 'id': '1_76_6'
+- 'id': '1_76_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

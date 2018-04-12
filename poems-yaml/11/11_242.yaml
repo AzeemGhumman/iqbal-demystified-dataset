@@ -8,14 +8,14 @@
   'text': 'XI-III'
 'description': []
 'sher':
-- 'id': '11_242_1'
+- 'id': '11_242_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ ترکان  رزوئے تازہ دادند | بنای کار شان دیگر نہادند'
   - 'lang': 'en'
     'text': 'The fate thus gave to Turks a verve anew, | And gave them a base for a build up new.'
-- 'id': '11_242_2'
+- 'id': '11_242_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

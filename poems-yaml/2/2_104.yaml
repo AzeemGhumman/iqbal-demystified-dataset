@@ -8,7 +8,7 @@
   'text': 'He is the essence of the worlds of space and spirit'
 'description': []
 'sher':
-- 'id': '2_104_1'
+- 'id': '2_104_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'He is the essence of the worlds of space and spirit; | And what is the world of space? A style of speech.'
   - 'lang': 'ro'
     'text': 'Wohi Asal-e-Makan-o-La Makan Hai | Makan Kya She Hai, Andaz-e-Byan Hai'
-- 'id': '2_104_2'
+- 'id': '2_104_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

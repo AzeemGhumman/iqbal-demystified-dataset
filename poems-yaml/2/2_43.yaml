@@ -8,7 +8,7 @@
   'text': 'O Prisoner of Space! You are not far from the Placeless Realm'
 'description': []
 'sher':
-- 'id': '2_43_1'
+- 'id': '2_43_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O Prisoner of Space! You are not far from the Placeless Realm— | That Audience Hall is not far away from your planet.'
   - 'lang': 'ro'
     'text': 'Tu Ae Aseer-E-Makan! La-Makan Se Door Nahin | Woh Jalwagah Tere Khakdan Se Door Nahin'
-- 'id': '2_43_2'
+- 'id': '2_43_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Grieve not, for a meadow that faces no threat from the Autumn, | Is not far away from your nest.'
   - 'lang': 'ro'
     'text': 'Woh Marghzar Ke Beem-E-Khazan Nahin Jis Mein | Ghameen Na Ho Ke Tere Ashiyan Se Door Nahin'
-- 'id': '2_43_3'
+- 'id': '2_43_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The gist of all Gnostic knowledge is merely this: | That life is an arrow spent and yet from the bow it is not too far!'
   - 'lang': 'ro'
     'text': 'Ye Hai Khulasa-E-Ilm Qalandari Ke Hiyat | Khadang-E-Jasta Hai Lekin Kaman Se Door Nahin'
-- 'id': '2_43_4'
+- 'id': '2_43_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Your station lies a little ahead of all the stars and Pleiades: | Move on, for it is not a long way from the skies.'
   - 'lang': 'ro'
     'text': 'Faza Teri Mah-O-Parveen Se Hai Zara Agay | Qadam Uthao, Ye Maqam Asman Se Door Nahin'
-- 'id': '2_43_5'
+- 'id': '2_43_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

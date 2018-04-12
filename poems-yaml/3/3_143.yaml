@@ -8,7 +8,7 @@
   'text': 'ZEST FOR SIGHT'
 'description': []
 'sher':
-- 'id': '3_143_1'
+- 'id': '3_143_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'How lofty was that Chinese’s self, Who for crime was condemned to death. | On eve of his beheading, he asked headsman, ʺStop for a span of breath!ʺ'
   - 'lang': 'ro'
     'text': 'Khudi Buland Thi Uss Khoon Garifta-Cheeni Ki | Kaha Ghareeb Ne Jallad Se Dam-e-Tazeer'
-- 'id': '3_143_2'
+- 'id': '3_143_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

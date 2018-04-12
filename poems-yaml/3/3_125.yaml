@@ -8,7 +8,7 @@
   'text': 'FINE ARTS'
 'description': []
 'sher':
-- 'id': '3_125_1'
+- 'id': '3_125_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O people with observing eyes, A taste for observation is a good things, but | What good is observation if it does not see, The inwardness of things?'
   - 'lang': 'ro'
     'text': 'Ae Ahl-e-Nazar Zauq-e-Nazar Khoob Hai Lekin | Jo Shay Ki Haqiqat Ko Na Dekhe, Woh Nazar Kya'
-- 'id': '3_125_2'
+- 'id': '3_125_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The aim of art should be to generate, A vital flame that never dies. | What use is a mere momentary spark?'
   - 'lang': 'ro'
     'text': 'Maqsood-e-Hunar Souz-e-Hayat-e-Abdi Hai | Ye Aik Nafs Ya Do Nafs Misl-e-Sharar Kya'
-- 'id': '3_125_3'
+- 'id': '3_125_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'What good, O rain‐drop, if you do not agitate The bosom of the sea, | And are content to be, A pearl lodged in a mother‐of‐pearl’s womb?'
   - 'lang': 'ro'
     'text': 'Jis Se Dil-e-Darya Mutalatum Nahin Hota | Ae Qatra-e-Neesan Woh Sadaf Kya, Woh Guhar Kya'
-- 'id': '3_125_4'
+- 'id': '3_125_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'What good a breath of morning breeze, Whether as poet’s verse or singer’s air, | If it can only make the garden wilt?'
   - 'lang': 'ro'
     'text': 'Shayar Ki Nawa Ho Ke Mughanni Ka Nafas Ho | Jis Se Chaman Afsurdah Ho Woh Baad-e-Sehar Kya'
-- 'id': '3_125_5'
+- 'id': '3_125_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

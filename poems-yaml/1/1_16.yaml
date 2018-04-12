@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is the first poem in Bang-i-Dara representing ‘Allamah Iqbal''s nationalistic sentiments. He laments lack of amity between the Muslims and Hindus, which were the two major nations in the Indian sub-continent. His pain was aggravated by the fact that this lack of amity was delaying the independence of India from Britain. Several poems on this subject will follow. These poems have created misunderstanding about the political ideology of ‘Allamah Iqbal. Opinion has been expressed by some responsible persons that he was initially an Indian nationalist and was only swept away by the "separatist ideology of the Muslim League" into what the Indian Hindus call "communalism". This opinion betrays complete ignorance of the works and thought of ‘Allamah Iqbal as well as the basics of Islam. | Allamah Iqbal loved India and its natural beauty and had respect for its heroes and heroines 1. He wanted to establish Hindu-Muslim amity to hasten India''s independence from Britain. However, his political ideology was not the Western style democratic system but pan-Islamism.'
 'sher':
-- 'id': '1_16_1'
+- 'id': '1_16_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Consumed with grief I am, I get relief in no way | O circumambient waters of the Ganges drown me'
   - 'lang': 'ro'
     'text': 'Jal Raha Hun Kal Nahin Parti Kisi Pehlu Mujhe | Haan Dabo De Ae Muheet-e-Aab-e-Ganga Tu Mujhe'
-- 'id': '1_16_2'
+- 'id': '1_16_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Our land foments excessive mutual enmity | What unity ! Our closeness harbors separation'
   - 'lang': 'ro'
     'text': 'Sarzameen Apni Qayamat Ki Nafaq-Angaiz Hai | Wasl Kaisa, Yaan To Ek Qurb-e-Firaq Angaiz Hai'
-- 'id': '1_16_3'
+- 'id': '1_16_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Enmity instead of sincerity is outrageous | Enmity among the same barn’s grains is outrageous'
   - 'lang': 'ro'
     'text': 'Badle Yak Rangi Ke Ye Nashnayi Hai Ghazab | Aik Hi Khirman Ke Danon Mein Judai Hai Ghazab'
-- 'id': '1_16_4'
+- 'id': '1_16_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'If the brotherly breeze has not entered in a garden | No pleasure can be derived from songs in that garden'
   - 'lang': 'ro'
     'text': 'Jis Ke Phoolon Mein Akhuwat Ki Hawa Ayi Nahin | Uss Cchaman Mein Koi Lutf-e-Naghma Pairayi Nahin'
-- 'id': '1_16_5'
+- 'id': '1_16_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Lazzat-e-Qurb-e-Haqiqi Par Mita Jata Hun Main | Ikhtilat-e-Mouja-o-Sahil Se Ghabrata Hun Main'
-- 'id': '1_16_6'
+- 'id': '1_16_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'The miraculous poet is like the grain from the barn | The grain has no existence if there is no barn'
   - 'lang': 'ro'
     'text': 'Dana-e-Khirman Numa Hai Shayar-e-Maujiz Byan | Ho Na Khirman Hi To Iss Dane Ki Hasti Phir Kahan'
-- 'id': '1_16_7'
+- 'id': '1_16_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'How can beauty unveil itself if no one is anxious for sight | Lighting of the candle is meaningless if there is no assembly'
   - 'lang': 'ro'
     'text': 'Husn Ho Kya Khudnuma Jab Koi Maeel Hi Na Ho | Shama Ko Jalne Se Kya Matlab Jo Mehfil Hi Na Ho'
-- 'id': '1_16_8'
+- 'id': '1_16_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'Why does the taste for speech not change to silence | Why does this brilliance not appear out from my mirror'
   - 'lang': 'ro'
     'text': 'Zauq-e-Goyai Khamoshi Se Badalta Kyun Nahin | Mere Aaeene Se Ye Johar Nikalta Kyun Nahin'
-- 'id': '1_16_9'
+- 'id': '1_16_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'III-II'
 'description': []
 'sher':
-- 'id': '11_286_1'
+- 'id': '11_286_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بیا بر خویش پیچیدن بیاموز | بناخن سینہ کاویدن بیاموز'
   - 'lang': 'en'
     'text': 'Come forward and learn the self seeing art, | Learn the hard task and sufferings of heart.'
-- 'id': '11_286_2'
+- 'id': '11_286_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

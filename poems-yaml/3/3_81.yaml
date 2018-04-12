@@ -8,7 +8,7 @@
   'text': 'GOVERNMENT'
 'description': []
 'sher':
-- 'id': '3_81_1'
+- 'id': '3_81_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'My talk makes Shaykh and Mullah show wrath undue, | Though disciples can put up with what is true.'
   - 'lang': 'ro'
     'text': 'Hai Mureedon Ko To Haq Baat Gawara Lekin | Sheikh-o-Mullah Ko Buri Lagti Hai Darveshon Ki Baat'
-- 'id': '3_81_2'
+- 'id': '3_81_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'That race is soon deprived of glorious deeds, | For talk on Being and Attributes hatred breeds.'
   - 'lang': 'ro'
     'text': 'Qoum Ke Hath Se Jata Hai Mataa-e-Kirdar | Behas Mein Ata Hai Jab Falsafa-e-Zaat-o-Sifat'
-- 'id': '3_81_3'
+- 'id': '3_81_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'This cosmos old is wrought in such a cast | That tavern, saki and flask donʹt for eʹer last.'
   - 'lang': 'ro'
     'text': 'Gharche Iss Dair-e-Kuhan Ka Hai Ye Dastoor-e-Qadeem | Ke Nahin Mai Kudah-o-Saqi-o-Meena Ko Sabaat'
-- 'id': '3_81_4'
+- 'id': '3_81_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'In your wings no charm I find'
 'description': []
 'sher':
-- 'id': '3_190_1'
+- 'id': '3_190_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The crow says, "In your wings no charm I find." | The bat says, "You have no craft, are blind."'
   - 'lang': 'ro'
     'text': 'Zaagh Kehta Hai Nihayat Bad-Numa Hain Tere Par | Shapparak Hehti Hai Tujh Ko Kaur Chashm-o-Be-Hunar'
-- 'id': '3_190_2'
+- 'id': '3_190_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'O hawk, these low-caste birds of vast expanse, | Of azure heaven''s twists and turns haven''t sense.'
   - 'lang': 'ro'
     'text': 'Lekin Ae Shahbaz! Ye Murghan-e-Sehra Ke Achoot | Hain Fazaye Neelgun Ke Paich-o-Kham Se Be-Khabar'
-- 'id': '3_190_3'
+- 'id': '3_190_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

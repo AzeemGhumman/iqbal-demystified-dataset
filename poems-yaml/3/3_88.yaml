@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'In this poem, Allama Iqbal is trying to tell us that what is a student and what is he supposed to do | {Contributed by user: Faisal Azizi Bandagi}'
 'sher':
-- 'id': '3_88_1'
+- 'id': '3_88_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'God bring you acquainted with some storm! | No billow in your sea break in foam,'
   - 'lang': 'ro'
     'text': 'Khuda Tujhe Kisi Toofan Se Ashna Kar De | Ke Tere Behar Ki Moujon Mein Iztarab Nahin'
-- 'id': '3_88_2'
+- 'id': '3_88_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

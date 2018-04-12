@@ -8,7 +8,7 @@
   'text': 'AT NAPOLEON’S TOMB'
 'description': []
 'sher':
-- 'id': '2_149_1'
+- 'id': '2_149_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The destiny of the world, Is a mystery unknown; | It is the force of character, That unlocks its heart.'
   - 'lang': 'ro'
     'text': 'Raaz Hai, Raaz Hai Taqdeer-e-Jahan-e-Tag-o-Taaz | Josh-e-Kirdar Se Khl Jate Hain Taqdeer Ke Raaz'
-- 'id': '2_149_2'
+- 'id': '2_149_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'It was the force that powered, Alexander’s mighty sword— | The sword that shattered all, That came in its way.'
   - 'lang': 'ro'
     'text': 'Joshe-e-Kirdar Se Shamsheer-e-Sikandar Ka Tulu | Koh-e-Alwand Huwa Js Ki Harart Se Gudaz'
-- 'id': '2_149_3'
+- 'id': '2_149_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'It was the force that launched, Tamburlaine’s conquering hordes— | The hordes that swept through, Rivers and hills and dales.'
   - 'lang': 'ro'
     'text': 'Josh-e-Kirdar Se Taimoor Ka Sail-e-Hamageer | Sail Ke Samne Kya Shay Hai Nashaib Aur Faraz'
-- 'id': '2_149_4'
+- 'id': '2_149_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The call to prayer by men of God, In the battle front, | Through the power of character, Becomes the voice of God.'
   - 'lang': 'ro'
     'text': 'Sifat-e-Jangah Mein Mardan-e-Khuda Ki Takbeer | Josh-e-Kirdar Se Banti Hai Khuda Ki Awaz'
-- 'id': '2_149_5'
+- 'id': '2_149_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'But the body’s valour, And the power of will, | After a moment’s pause, Are swallowed up by the grave.'
   - 'lang': 'ro'
     'text': 'Hai Magar Fursat-e-Kirdar Nasf Ya Do Nafs | Ewz-e-Yak Do Nafs Qabar Ki Shab Haye Daraz'
-- 'id': '2_149_6'
+- 'id': '2_149_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

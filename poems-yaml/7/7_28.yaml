@@ -8,14 +8,14 @@
   'text': '(28)'
 'description': []
 'sher':
-- 'id': '7_28_1'
+- 'id': '7_28_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ترا از خویشتن بیگانہ سازد | من آن آبی طربناکی ندارم'
   - 'lang': 'en'
     'text': 'I do not sell the stuff that generates | Forgetfulness and that inebriates.'
-- 'id': '7_28_2'
+- 'id': '7_28_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

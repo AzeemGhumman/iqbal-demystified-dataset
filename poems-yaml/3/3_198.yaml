@@ -8,7 +8,7 @@
   'text': 'The nations suffer death'
 'description': []
 'sher':
-- 'id': '3_198_1'
+- 'id': '3_198_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The nations suffer death, From centre if they part | If they have centre strong, Godhead it can impart,'
   - 'lang': 'ro'
     'text': 'Qoumon Ke Liye Mout Hai Markaz Se Juddai | Ho Sahib-e-Markaz To Khudi Kya Hai, Khudai!'
-- 'id': '3_198_2'
+- 'id': '3_198_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Such Faqr which has a plaint, Against the toils of life | Has beggar''s wont and mode, And can''t bear worldly strife.'
   - 'lang': 'ro'
     'text': 'Jo Faqr Huwa Talkhi-e-Douran Ka Gila Mand | Uss Faqr Mein Baqi Hai Abhi Bu-e-Gadai'
-- 'id': '3_198_3'
+- 'id': '3_198_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'A godly man even now, By wondrous act can chancre | To tiny mustard seed, A lofty mountain range.'
   - 'lang': 'ro'
     'text': 'Iss Dour Mein Bhi Mard-e-Khuda Ko Hai Mayyasar | Jo Maujaza Parbat Ko Bana Sakta Hai Rai'
-- 'id': '3_198_4'
+- 'id': '3_198_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'In fight without your heat, No zeal or zest is found: | Where are you godly man, Take part in combat''s round'
   - 'lang': 'ro'
     'text': 'Dar Maarka Be-Souz-e-To Zauqe Natawaan Yaafat | Ae Banda-e-Momin Tu Kujai, Tu Kujai'
-- 'id': '3_198_5'
+- 'id': '3_198_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

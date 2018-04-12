@@ -8,14 +8,14 @@
   'text': 'IV-V'
 'description': []
 'sher':
-- 'id': '11_188_1'
+- 'id': '11_188_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز من بر صوفی و ملا سلامی | کہ پیغام خدا گفتند ما را'
   - 'lang': 'en'
     'text': 'I salute the Mullah and Sufi old, | Who gave me the message of God as told.'
-- 'id': '11_188_2'
+- 'id': '11_188_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

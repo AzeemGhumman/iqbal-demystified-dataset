@@ -8,7 +8,7 @@
   'text': 'XI-XXXII'
 'description': []
 'sher':
-- 'id': '11_110_1'
+- 'id': '11_110_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'vigour'
       'meaning': '        Nam-o-rang; moist and colour, lustre, beauty, freshness and form, as such vigour covers this sense.'
       'occurrence': !!int '1'
-- 'id': '11_110_2'
+- 'id': '11_110_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

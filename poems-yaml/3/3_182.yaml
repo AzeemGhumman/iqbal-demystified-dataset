@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': '(The ‘Reforms’)'
 'sher':
-- 'id': '3_182_1'
+- 'id': '3_182_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'This pity is the pitiless fowler’s mask; | All the fresh notes I sang—of no avail!'
   - 'lang': 'ro'
     'text': 'Ye Meher Hai Be-Meheri-e-Sayydad Ka Parda | Ayi Na Mere Kaam Meri Taza Safeeri'
-- 'id': '3_182_2'
+- 'id': '3_182_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

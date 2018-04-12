@@ -8,14 +8,14 @@
   'text': '(100)'
 'description': []
 'sher':
-- 'id': '7_100_1'
+- 'id': '7_100_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو در جنت خرامیدم پس از مرگ | بہ چشمم این زمین و آسمان بود'
   - 'lang': 'en'
     'text': 'When after death I walked in Paradise | And found before my eyes this earth, these skies,'
-- 'id': '7_100_2'
+- 'id': '7_100_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

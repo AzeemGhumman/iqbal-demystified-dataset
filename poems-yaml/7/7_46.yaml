@@ -8,14 +8,14 @@
   'text': '(46)'
 'description': []
 'sher':
-- 'id': '7_46_1'
+- 'id': '7_46_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'گدای جلوہ رفتی بر سر طور | کہ جان تو ز خود نامحرمی ہست'
   - 'lang': 'en'
     'text': 'You went to Mount Sinai, soliciting | A sight of God, being a stranger to'
-- 'id': '7_46_2'
+- 'id': '7_46_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

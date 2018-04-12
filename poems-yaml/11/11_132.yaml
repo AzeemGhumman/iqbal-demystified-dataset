@@ -8,7 +8,7 @@
   'text': 'XI-LIV'
 'description': []
 'sher':
-- 'id': '11_132_1'
+- 'id': '11_132_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'need.'
       'meaning': '         Home made wine In Iqbal''s own terminology this term applies to Islamic traditions, culture and civilization.'
       'occurrence': !!int '1'
-- 'id': '11_132_2'
+- 'id': '11_132_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

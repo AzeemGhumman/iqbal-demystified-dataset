@@ -8,7 +8,7 @@
   'text': 'JIHAD'
 'description': []
 'sher':
-- 'id': '3_18_1'
+- 'id': '3_18_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This is an age, our canonist’s new dictum, Assures us, of the pen: | In our world now, The sword has no more virtue.'
   - 'lang': 'ro'
     'text': 'Fatwa Hai Sheikh Ka Ye Zamana Qalam Ka Hai | Dunya Mein Ab Rahi Nahin Talwar Kargar'
-- 'id': '3_18_2'
+- 'id': '3_18_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Has it not reached Our pious oracle’s ear, | That in the Mosque Such sermonizing nowadays has grown Rhymeless and reasonless?'
   - 'lang': 'ro'
     'text': 'Lekin Janab-e-Sheikh Ko Maloom Kya Nahin? | Masjid Mein Ab Ye Waaz Hai Besood-o-Be-Asar'
-- 'id': '3_18_3'
+- 'id': '3_18_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Where, in a Muslim’s hand, Will he find dagger or rifle? | And if there were, Our hearts have lost all memory of delight In death.'
   - 'lang': 'ro'
     'text': 'Taeg-o-Tufnag Dast-e-Musalman Mein Hai Kahan | Ho Bhi, To Dil Hain Mout Ki Lazzat Se Be-Khabar'
-- 'id': '3_18_4'
+- 'id': '3_18_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'To one whose nerves falter at even An infidel cut down, | who would exclaim ‘Die like a Muslim!’'
   - 'lang': 'ro'
     'text': 'Kafir Kimout Se Bhi Larazta Ho Jis Ka Dil | Kehta Hai Kon Usse Ke Musalman Ki Mout Mer'
-- 'id': '3_18_5'
+- 'id': '3_18_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Preach relinquishment Of such crusades | To him whose bloody fist Menaces earth!'
   - 'lang': 'ro'
     'text': 'Taleem Uss Ko Chahye Tark-e-Jahad Ki | Dunya Ko Jis Ke Panja-e-Khoonain Se Ho Khatar'
-- 'id': '3_18_6'
+- 'id': '3_18_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Europe, swathed cap‐a‐pie In mail, | Mounts guard over her glittering reign Of falsehood;'
   - 'lang': 'ro'
     'text': 'Batil Ke Faal-o-Far Ki Hafazat Ke Waste | Yourap Zira Mein Doob Gya Dosh Ta Kamar'
-- 'id': '3_18_7'
+- 'id': '3_18_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'we enquire of our divine, So tender of Christendom: if for the East | War is unhallowed, is not war unhallowed, For Western arms?'
   - 'lang': 'ro'
     'text': 'Hum Poochte Hain Sheikh-e-Kalisa Nawaz Se | Mashriq Mein Jang Shar Hai To Maghrib Mein Bhi Hai Shar'
-- 'id': '3_18_8'
+- 'id': '3_18_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

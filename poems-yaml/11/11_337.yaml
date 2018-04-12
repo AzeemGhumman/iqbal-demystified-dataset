@@ -8,14 +8,14 @@
   'text': 'XIII-I'
 'description': []
 'sher':
-- 'id': '11_337_1'
+- 'id': '11_337_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'فساد عصر حاضر  شکار است | سپہر از زشتی او شرمسار است'
   - 'lang': 'en'
     'text': 'From this world’s clear violence the man is sick. | The sky feels ashamed of her ugly tricks.'
-- 'id': '11_337_2'
+- 'id': '11_337_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

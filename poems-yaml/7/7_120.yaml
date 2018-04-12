@@ -8,14 +8,14 @@
   'text': '(120)'
 'description': []
 'sher':
-- 'id': '7_120_1'
+- 'id': '7_120_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جہانہا روید از مشت گل من | بیا سرمایہ گیر از حاصل من'
   - 'lang': 'en'
     'text': 'Worlds spring like grain from my handful of clay. | Come share my harvest. Though you went astray'
-- 'id': '7_120_2'
+- 'id': '7_120_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

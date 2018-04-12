@@ -8,7 +8,7 @@
   'text': 'ABYSSINIA'
 'description': []
 'sher':
-- 'id': '3_162_1'
+- 'id': '3_162_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Those vultures of the West have yet to learn | What poisons lurk in Abyssinia’s corpse,'
   - 'lang': 'ro'
     'text': 'Yourap Ke Kargason Ko Nahin Hai Abho Khabar | Hai Kitni Zahernaak Abyssinia Ki Lash'
-- 'id': '3_162_2'
+- 'id': '3_162_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'That rotting carcass ready to fall in pieces. | Civilization’s zenith, nadir of virtue;'
   - 'lang': 'ro'
     'text': 'Hone Ko Hai Ye Muda-e-Dairina Qash Qash! | ehzeeb Ka Kamal Sharafat Ka Hai Zawal'
-- 'id': '3_162_3'
+- 'id': '3_162_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'In our world pillage is the nation’s trade, | Each wolf aprowl for inoffensive lambs.'
   - 'lang': 'ro'
     'text': 'Gharatgari Jahan Mein Hai Aqwam Ki Maash | Har Gurg Ko Hai Barah-e-Maasoom Ki Talash!'
-- 'id': '3_162_4'
+- 'id': '3_162_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

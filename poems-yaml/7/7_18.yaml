@@ -8,14 +8,14 @@
   'text': '(18)'
 'description': []
 'sher':
-- 'id': '7_18_1'
+- 'id': '7_18_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تہی از ہای و ہو میخانہ بودی | گل ما از شرر بیگانہ بودی'
   - 'lang': 'en'
     'text': 'Life’s tavern would have lain death-still and dark, | Our dust would not have had a vital spark,'
-- 'id': '7_18_2'
+- 'id': '7_18_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

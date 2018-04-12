@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is an eloquent but sad commentary on the status of Man as it stands at present. All creation in the universe is bound by the laws of its Creator and is busy in the performance of the tasks assigned to it. All creatures enjoy obeying their Creator. However, Man, the masterpiece of creation, by misusing his autonomy, disobeys the laws of his Creator and has landed himself in very un‑enviable situation of strife and other forms of suffering with the added affliction that there is none to sympathize with him in his travail.'
 'sher':
-- 'id': '1_79_1'
+- 'id': '1_79_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'What an ingenious tyranny of Nature it is! | Man has been made a seeker of the Secret'
   - 'lang': 'ro'
     'text': 'Qudrat Ka Ajeeb Ye Sitam Hai! | Insan Ko Raaz Jo Banaya'
-- 'id': '1_79_2'
+- 'id': '1_79_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The Secret has been concealed from his eyes | The taste for awareness is restless'
   - 'lang': 'ro'
     'text': 'Raaz Uss Ki Nigah Se Chupaya | Be-Taab Hai Zauq Aaghi Ka'
-- 'id': '1_79_3'
+- 'id': '1_79_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khulta Nahin Bhaid Zindagi Ka | Hairat Aaghaz-o-Intiha Hai'
-- 'id': '1_79_4'
+- 'id': '1_79_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'What else is there in the mirror''s house? | The river stream is moving fast'
   - 'lang': 'ro'
     'text': 'Aaeene Ke Ghar Mein Aur Kya Hai | Hai Garm-e-Kharaam Mouj-e-Darya'
-- 'id': '1_79_5'
+- 'id': '1_79_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'The river is moving towards the ocean | The wind is blowing the cloud'
   - 'lang': 'ro'
     'text': 'Darya Sooye Behr Jadah Pema | Badal Ko Hawa Urha Rahi Hai'
-- 'id': '1_79_6'
+- 'id': '1_79_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'Is bringing the cloud on its shoulders | Stars are intoxicated with destiny''s wine'
   - 'lang': 'ro'
     'text': 'Shanon Pe Uthaye La Rahi Hai | Taare Mast-e-Sharab-e-Taqdeer'
-- 'id': '1_79_7'
+- 'id': '1_79_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'They are chained in the prison of the sky | The sun, that early rising devotee'
   - 'lang': 'ro'
     'text': 'Zindan-e-Falak Mein Pa Ba Zanjeer | Khursheed, Woh Abid-e-Sehar Khaiz'
-- 'id': '1_79_8'
+- 'id': '1_79_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'That carrier of the message of "rise" | Concealed in the hills of the west'
   - 'lang': 'ro'
     'text': 'Lane Wala Pyam-e-‘Barkhaiz’ | Magrib Ki Pahariyon Mein Chup Kar'
-- 'id': '1_79_9'
+- 'id': '1_79_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'Is drinking wine in twilight''s goblet | Everything is enjoying its existence'
   - 'lang': 'ro'
     'text': 'Peeta Hai Mai-e-Shafaq Ka Saghar | Lazzat Geer-e-Wujood Harshay'
-- 'id': '1_79_10'
+- 'id': '1_79_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

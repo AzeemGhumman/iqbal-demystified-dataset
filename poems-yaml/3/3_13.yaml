@@ -8,7 +8,7 @@
   'text': 'DESTINY'
 'description': []
 'sher':
-- 'id': '3_13_1'
+- 'id': '3_13_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Oft men who donʹt deserve get might and main, | Anon a Personʹs gifts ungraced remain.'
   - 'lang': 'ro'
     'text': 'Na-Ahl Ko Hasil Hai Kabhi Quwwat-o-Jabroot | Hai Khwar Zamane Meinkabhi Johar-e-Zati'
-- 'id': '3_13_2'
+- 'id': '3_13_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Perhaps some rules of Logic are concealed, | Mishaps that lie in wait are not revealed.'
   - 'lang': 'ro'
     'text': 'Shaid Koi Mantaq Ho Nihan Iss Ke Amal Mein | Taqdeer Nahin Tabe-e-Mantaq Nazar Ati'
-- 'id': '3_13_3'
+- 'id': '3_13_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'There is a fact that all of us can know, | World annals much light on this matter throw.'
   - 'lang': 'ro'
     'text': 'Haan, Aik Haqiqat Hai Ke Maloom Hai Sub Ko | Tareekh-e-Ummam Jis Ko Nahin Hum Se Chupati'
-- 'id': '3_13_4'
+- 'id': '3_13_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

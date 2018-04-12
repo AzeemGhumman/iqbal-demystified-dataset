@@ -8,7 +8,7 @@
   'text': 'GHAZAL'
 'description': []
 'sher':
-- 'id': '3_76_1'
+- 'id': '3_76_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I donʹt belong to Faris or Hind, To Iraq or Hijaz donʹt trace my breed: | The self to me this much has taught, Spurn both the worlds and pay no heed'
   - 'lang': 'ro'
     'text': 'Na Main Ajami Na Hindi, Na Iraqi-o-Hijazi | Ke Khudi Se Main Ne Sikhi Do Jahan Se Be-Niazi'
-- 'id': '3_76_2'
+- 'id': '3_76_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'You are a heathen in my view, The same to you may seem my creed | To count the breath, your faith and goal, While melting breath my job and deed.'
   - 'lang': 'ro'
     'text': 'Tu Meri Nazar Mein Kafir, Main Teri Nazar Mein Kafir | Tera Deen Nafas Shumari, Mera Deen Nafas Gudazi'
-- 'id': '3_76_3'
+- 'id': '3_76_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Your change, no doubt, is good and well, And so your change of Muslim creed: | This Faith is meant for men, like hawks, It suits not pheasantsʹ quivering breed.'
   - 'lang': 'ro'
     'text': 'Tu Badal Gya To Behar Ke Badal Gyi Shariat | Ke Mawafiq-e-Tadarowan Nahin Deen-e-Shahbazi'
-- 'id': '3_76_4'
+- 'id': '3_76_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Such passionate Love of God and craze, In wilds and wastes has not caught my sight, | Whose magic force and rapture great, The faults of reason may set right.'
   - 'lang': 'ro'
     'text': 'Tere Dast-o-Dar Mein Mujh Ko Woh Junoon Nazar Na Aya | Ke Sikha Sake Khird Ko Reh-o-Rasm-e-Kaar-Sazi'
-- 'id': '3_76_5'
+- 'id': '3_76_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

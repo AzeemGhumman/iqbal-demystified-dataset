@@ -8,14 +8,14 @@
   'text': '(36)'
 'description': []
 'sher':
-- 'id': '7_36_1'
+- 'id': '7_36_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دمادم نقش ہای تازہ ریزد | بیک صورت قرار زندگی نیست'
   - 'lang': 'en'
     'text': 'Life keeps expressing itself in new ways: | Content with one fixed form it never stays.'
-- 'id': '7_36_2'
+- 'id': '7_36_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'In the maze of eve and morn'
 'description': []
 'sher':
-- 'id': '2_72_1'
+- 'id': '2_72_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'In the maze of eve and morn, O man awake, do not be lost: | Another world there yet exists, That has no future or the past.'
   - 'lang': 'ro'
     'text': 'Kho Na Ja Iss Sehar-o-Sham Mein Ae Sahib-e-Hosh! | Ek Jahan Aur Bhi Hai Jis Mein Na Farda Hai Na Dosh'
-- 'id': '2_72_2'
+- 'id': '2_72_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'None knows that tumult’s worth and price, Which hidden lies in future’s womb: | The mosque, the school and tavern too, Since long are silent like a tomb.'
   - 'lang': 'ro'
     'text': 'Kis Ko Maaloom Hai Hungama-e-Farda Ka Maqam | Masjid-o-Maktab-o-Maikhana Hain Muddat Se Khamosh'
-- 'id': '2_72_3'
+- 'id': '2_72_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'In tears shed at early morn, Is found the gem unique and best, | The gem, whose like is never held, By mother shell within its breast.'
   - 'lang': 'ro'
     'text': 'Main Ne Paya Hai Usse Ashk-e-Sehargahi Mein | Jis Dur-e-Naab Se Khali Hai Sadaf Ki Aagosh'
-- 'id': '2_72_4'
+- 'id': '2_72_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The Culture New is nothing else, Save glamour false and show, indeed: | If the face be fair and bright, Rouge vendors aid it does not need.'
   - 'lang': 'ro'
     'text': 'Nayi Tehzeeb Takaluf Ke Sawa Kuch Bhi Nahin | Chehra Roshan Ho To Kya Hajat-e-Gluguna Farosh!'
-- 'id': '2_72_5'
+- 'id': '2_72_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

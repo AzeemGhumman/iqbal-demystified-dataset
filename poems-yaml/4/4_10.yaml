@@ -8,7 +8,7 @@
   'text': 'Set him free of this world’s affairs'
 'description': []
 'sher':
-- 'id': '4_10_1'
+- 'id': '4_10_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Set him free of this world’s affairs | To be free of casting for everyone snares.'
   - 'lang': 'ro'
     'text': 'Faraghat De Usse Kar-E-Jahan Se | Ke Chootay Har Nafs Ke Imtihan Se'
-- 'id': '4_10_2'
+- 'id': '4_10_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

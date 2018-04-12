@@ -8,7 +8,7 @@
   'text': 'MODERN AGE'
 'description': []
 'sher':
-- 'id': '3_87_1'
+- 'id': '3_87_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Wherefrom a man can find, Ripe thoughts in present age? | The weather of this park, No ripeness can presage.'
   - 'lang': 'ro'
     'text': 'Pukhta Afkar Kahan Dhoondne Jaye Koi | Iss Zamane Ki Hawa Rakhti Hai Har Cheez Ko Khaam'
-- 'id': '3_87_2'
+- 'id': '3_87_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The seats of learning give, The mind of pupils scope: | But leave the thoughts of youth, Unlinked by thread or rope.'
   - 'lang': 'ro'
     'text': 'Madrasa Aqal Ko Azad To Karta Hai Magar | Chor Jata Hai Khayalat Ko Be-Rabt-o-Nizam'
-- 'id': '3_87_3'
+- 'id': '3_87_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

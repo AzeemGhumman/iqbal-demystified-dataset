@@ -8,7 +8,7 @@
   'text': 'Among Muslim men, if one, On firm belief has hold'
 'description': []
 'sher':
-- 'id': '3_199_1'
+- 'id': '3_199_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': '''Mong Muslim men, if one, On firm belief has hold | His glance can set afire, All, whether young or old.'
   - 'lang': 'ro'
     'text': 'Aag Uss Ki Phoonk Deti Hai Barna-o-Peer Ko | Lakhon Mein Aik Bhi Ho Agar Sahib-e-Yaqeen'
-- 'id': '3_199_2'
+- 'id': '3_199_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Off and on men are born, In waste or mountain range, | Who by their dint of Faqr, Pot-sherd to bezel change.'
   - 'lang': 'ro'
     'text': 'Hota Hai Koh-o-Dasht Mein Paida Kabhi Kabhi | Woh Mard Jis Ka Faqr Khazaf Ko Kare Nageen'
-- 'id': '3_199_3'
+- 'id': '3_199_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'You can build up your luck, If courage you can show: | For God has written naught, With His pen on your brow.'
   - 'lang': 'ro'
     'text': 'Tu Apni Sar-Nawisht  Ab Apne Qalam Se Likh | Khali Rakhi Hai Khama-e-Haq Ne Teri Jabeen'
-- 'id': '3_199_4'
+- 'id': '3_199_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'This azure vast expanse, That goes by name of sky | If one has Wings for flight, In fact, is not so high.'
   - 'lang': 'ro'
     'text': 'Ye Neelgun Faza Jise Kehte Hai Asaman | Himmat Ho Par Kusha To Haqiqat Mein Kuch Nahin'
-- 'id': '3_199_5'
+- 'id': '3_199_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

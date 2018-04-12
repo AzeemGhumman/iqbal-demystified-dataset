@@ -8,14 +8,14 @@
   'text': 'XI-V'
 'description': []
 'sher':
-- 'id': '11_83_1'
+- 'id': '11_83_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ چشمش وانمودم زندگی را | گشودم نکتہ فردا و دی را'
   - 'lang': 'en'
     'text': 'I have scanned the whole world through his eye, | So past and future tips I would untie.'
-- 'id': '11_83_2'
+- 'id': '11_83_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

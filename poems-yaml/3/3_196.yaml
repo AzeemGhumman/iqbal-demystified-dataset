@@ -8,7 +8,7 @@
   'text': 'Without a toper''s courage'
 'description': []
 'sher':
-- 'id': '3_196_1'
+- 'id': '3_196_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Without a toper''s courage, Love, Consists of naught save trick and guile | A man, whose Love of God is great, Has brawny arms and is agile.'
   - 'lang': 'ro'
     'text': 'Be Juraat-e-Rindana Har Ishq Hai Rubahi | Bazoo Hai Qawi Jis Ka, Woh Ishq Yadullahi'
-- 'id': '3_196_2'
+- 'id': '3_196_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Alas the love of case and rest, Among the pilgrims seems profound | A man, who journey''s toils may deem, As steed and food, is nowhere found.'
   - 'lang': 'ro'
     'text': 'Jo Sakhti-e-Manzil Ko Saman-e-Safar Samjhe | Ae Waye Tan Asani ! Na-Paid Hai Woh Raahi'
-- 'id': '3_196_3'
+- 'id': '3_196_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O men of plains, do not think, That I teach the beastly mode and art | The lonely desert arid the mounts, The man Self knowledge can impart.'
   - 'lang': 'ro'
     'text': 'Wehshat Na Samajh Iss Ko Ae Mard-e-Maidani ! | Kuhsaar Ki Khalwat Hai Taleem-e-Khud Aagahi'
-- 'id': '3_196_4'
+- 'id': '3_196_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

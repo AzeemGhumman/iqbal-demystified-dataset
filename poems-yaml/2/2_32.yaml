@@ -8,7 +8,7 @@
   'text': 'A recreant captain, a battle‐line thrown back'
 'description': []
 'sher':
-- 'id': '2_32_1'
+- 'id': '2_32_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A recreant captain, a battle‐line thrown back, | The arrow hanging target‐less and slack!'
   - 'lang': 'ro'
     'text': 'Mir-e-Sipah Na Saza, Lashkariyan Shakista Saf | Aah ! Woh Teer-e-Neem Kush Jis Ka Na Ho Koi Hadaf'
-- 'id': '2_32_2'
+- 'id': '2_32_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Nowhere near you that shell which holds life’s pearl; | I have dragged the waves and searched the ocean’s track.'
   - 'lang': 'ro'
     'text': 'Tere Muheet Mein Kahin Gohar-e-Zindagi Nahin | Dhoond Chuka Main Mouj Mouj, Dekh Chuka Sadaf Sadaf'
-- 'id': '2_32_3'
+- 'id': '2_32_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Plunge in your self, on idols dote no more, | Pour our no more heart’s blood for paint to deck'
   - 'lang': 'ro'
     'text': 'Ishq-e-Butan Se Hath Utha, Apni Khudi Mein Doob Ja | Naqsh-o-Nigar-e-Dair Mein Khoon-e-Jigar Na Kar Talaf'
-- 'id': '2_32_4'
+- 'id': '2_32_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Their shrines. I unveil the courts of Love and Death: | Death—life dishonoured; Love—death for honour’s sake.'
   - 'lang': 'ro'
     'text': 'Khol Ke Kya Bayan Karun Sirr-e-Maqam-e-Marg-o-Ishq | Ishq Hai Marg-e-Ba-Sharaf, Marg Hayat-e-Be-Sharaf'
-- 'id': '2_32_5'
+- 'id': '2_32_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'I gleaned in Rumi’s company: one bold heart | Is worth of learned heads the whole tame pack;'
   - 'lang': 'ro'
     'text': 'Sohbat-e-Peer-e-Room Se Mujh Pe Huwa Ye Raaz Fash | Lakh Hakeem Sar Bajeeb, Aik Kaleem Sar Bakaf'
-- 'id': '2_32_6'
+- 'id': '2_32_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Once more that voice from Sinai’s tree would cry | Fear not! if some new Moses led the attack.'
   - 'lang': 'ro'
     'text': 'Misl-e-Kaleem Ho Agar Maarka Azma Koi | Ab Bhi Darkht-e-Toor Se Ati Hai Bang-e-‘LA TAKHAF’'
-- 'id': '2_32_7'
+- 'id': '2_32_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

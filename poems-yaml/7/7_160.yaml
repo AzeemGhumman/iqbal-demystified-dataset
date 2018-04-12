@@ -8,14 +8,14 @@
   'text': '(160)'
 'description': []
 'sher':
-- 'id': '7_160_1'
+- 'id': '7_160_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہر دل عشق رنگ تازہ بر کرد | گہی با سنگ گہ با شیشہ سر کرد'
   - 'lang': 'en'
     'text': 'With every heart Love plays a different part– | Now as a stone, now as a crystal bowl.'
-- 'id': '7_160_2'
+- 'id': '7_160_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

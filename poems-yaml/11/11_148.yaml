@@ -8,7 +8,7 @@
   'text': 'XI-LXX'
 'description': []
 'sher':
-- 'id': '11_148_1'
+- 'id': '11_148_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'conscience'
       'meaning': '        Conscience of life =its truth and realities.'
       'occurrence': !!int '1'
-- 'id': '11_148_2'
+- 'id': '11_148_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

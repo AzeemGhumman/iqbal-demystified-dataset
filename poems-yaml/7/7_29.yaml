@@ -8,14 +8,14 @@
   'text': '(29)'
 'description': []
 'sher':
-- 'id': '7_29_1'
+- 'id': '7_29_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'زیان بینی ز سیر بوستانم | اگر جانت شہید جستجو نیست'
   - 'lang': 'en'
     'text': 'Do not come to my garden if you have | An uninquiring mind, which does not crave'
-- 'id': '7_29_2'
+- 'id': '7_29_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

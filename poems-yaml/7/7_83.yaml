@@ -8,14 +8,14 @@
   'text': '(83)'
 'description': []
 'sher':
-- 'id': '7_83_1'
+- 'id': '7_83_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نہ افغانیم و نی ترک و تتاریم | چمن زادیم و از یک شاخساریم'
   - 'lang': 'en'
     'text': 'Called whether Tartars, Turks or Afghans, we | Belong to one great garden, one great tree,'
-- 'id': '7_83_2'
+- 'id': '7_83_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

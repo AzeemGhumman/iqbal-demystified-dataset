@@ -140,7 +140,7 @@ def removeNoteMarkers(sher):
 
 
 # Get list of .txt files from the input folder
-listInputFiles = glob.glob(os.path.join(os.getcwd(), inputFolder, "*.txt"))
+listInputFiles = glob.glob(os.path.join(os.getcwd(), inputFolder, "**", "*.txt"), recursive = True)
 print (str(len(listInputFiles)) + " input files found..")
 
 for inputFilename in listInputFiles:
@@ -222,7 +222,7 @@ for inputFilename in listInputFiles:
     sherList = []
     for sherIndex in range(len(UrduShers)):
         sherObject = OrderedDict()
-        sherObject["id"] = poemId + "_" + str(sherIndex + 1)
+        sherObject["id"] = poemId + "_" + '{:03d}'.format(sherIndex + 1)
         sherObject["meta"] = UrduShers[sherIndex][1]
 
         sherContent = []
@@ -258,7 +258,13 @@ for inputFilename in listInputFiles:
 
     poemObject = dict(poemObject)
 
-    outputFilename = os.path.join(os.getcwd(), outputFolder, poemId + '.yaml')
+    # TODO: Not proud of this. Doing this because there are sub-folders in input directory
+    # Issue: If the input folder name comes somewhere else in the path, it will get replaced too
+    outputFilename = inputFilename.replace(inputFolder, outputFolder)
+    outputFilename = outputFilename.replace(".txt", ".yaml")
+
+    if not os.path.exists(os.path.dirname(outputFilename)):
+        os.makedirs(os.path.dirname(outputFilename))
 
     with codecs.open(outputFilename, "w", "utf-8") as outputFile:
         yaml.dump(poemObject,

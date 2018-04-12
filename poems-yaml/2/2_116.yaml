@@ -8,7 +8,7 @@
   'text': 'Selfhood''s apostate is the life of reason'
 'description': []
 'sher':
-- 'id': '2_116_1'
+- 'id': '2_116_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Selfhood''s apostate is the life of reason; | Its secret lies in communion with God;'
   - 'lang': 'ro'
     'text': 'Hakeemi, Na-Musalmani Khudi Ki | Kaleemi, Ramz-e-Pinhani Khudi Ki'
-- 'id': '2_116_2'
+- 'id': '2_116_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

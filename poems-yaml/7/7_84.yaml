@@ -8,14 +8,14 @@
   'text': '(84)'
 'description': []
 'sher':
-- 'id': '7_84_1'
+- 'id': '7_84_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نہان در سینۂ ما عالمی ہست | بخاک ما دلی در دل غمی ہست'
   - 'lang': 'en'
     'text': 'There is a world concealed within our breasts, | Hearts in our dust and passion in our hearts.'
-- 'id': '7_84_2'
+- 'id': '7_84_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

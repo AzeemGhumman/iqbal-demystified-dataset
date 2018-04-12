@@ -8,7 +8,7 @@
   'text': 'ISLAM'
 'description': []
 'sher':
-- 'id': '3_21_1'
+- 'id': '3_21_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The fire and light of ego both, The soul of Muslims together bind; | The fire of self is light for life: Godʹs existence brings before the mind.'
   - 'lang': 'ro'
     'text': 'Rooh Islam Ki Hai Noor-e-Khudi, Naar-e-Khudi | Zindagaani Ke Liye Naar-e-Khudi Noor-o-Huzoor'
-- 'id': '3_21_2'
+- 'id': '3_21_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'It fortifies the things of life, It is the cause of all display: | Though Nature always hides this soul, From eyes of mankind far away.'
   - 'lang': 'ro'
     'text': 'Yehi Har Cheez Ki Taqweem, Yehi Asal-e-Namood | Garcha Iss Rooh Ko Fitrat Ne Rakha Hai Mastoor'
-- 'id': '3_21_3'
+- 'id': '3_21_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

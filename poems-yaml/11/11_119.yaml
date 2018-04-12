@@ -8,7 +8,7 @@
   'text': 'XI-XLI'
 'description': []
 'sher':
-- 'id': '11_119_1'
+- 'id': '11_119_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'I?'
       'meaning': '        The underlying thought is given below in a verse: [Two shafts of envy are Mullah and I, Who took the right step did Mullah or I?] Here shaft means arrow or spear. (in figurative sense) as shafts of envy (or ridicule), means expressions of envy.'
       'occurrence': !!int '1'
-- 'id': '11_119_2'
+- 'id': '11_119_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

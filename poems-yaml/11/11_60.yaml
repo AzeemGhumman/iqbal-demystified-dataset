@@ -8,7 +8,7 @@
   'text': 'VIII-I'
 'description': []
 'sher':
-- 'id': '11_60_1'
+- 'id': '11_60_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': '‘Beauty’'
       'meaning': '        Beauty the Gracious Beauty; the God or Prophet.'
       'occurrence': !!int '1'
-- 'id': '11_60_2'
+- 'id': '11_60_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

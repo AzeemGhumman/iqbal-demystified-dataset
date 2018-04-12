@@ -8,14 +8,14 @@
   'text': '(67)'
 'description': []
 'sher':
-- 'id': '7_67_1'
+- 'id': '7_67_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرا روزی گل افسردہ ئی گفت | نمود ما چو پرواز شرار است'
   - 'lang': 'en'
     'text': 'One day a faded rose spoke thus to me: | "Our life is as brief as a spark that flies.'
-- 'id': '7_67_2'
+- 'id': '7_67_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'IV-II'
 'description': []
 'sher':
-- 'id': '11_185_1'
+- 'id': '11_185_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'فرنگی صید بست از کعبہ و دیر | صدا از خانقاہان رفت ’’لاغیر‘‘'
   - 'lang': 'en'
     'text': 'When the English subdued the mosque and fane, | “No aliens are they”, said the convent’s brain.'
-- 'id': '11_185_2'
+- 'id': '11_185_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

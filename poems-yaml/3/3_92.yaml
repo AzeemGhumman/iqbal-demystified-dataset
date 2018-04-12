@@ -8,7 +8,7 @@
   'text': 'TEACHERS'
 'description': []
 'sher':
-- 'id': '3_92_1'
+- 'id': '3_92_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If you desire to breed such ruby which is red, | Donʹt beg light of sun that from course has fled.'
   - 'lang': 'ro'
     'text': 'Maqsad Ho Agar Tarbiat-e-Laal-e-Badkhashan | Be-Sood Hai Bhatke Huwe Khursheed Ka Partou'
-- 'id': '3_92_2'
+- 'id': '3_92_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The world is trapped by traditions old and hoar, | Preceptors helpless quite, can do no more.'
   - 'lang': 'ro'
     'text': 'Dunya Hai Rawayat Ke Phandon Mein Griftar | Kya Madrasa, Kta Madrase Walon Ki Tag-o-Dou!'
-- 'id': '3_92_3'
+- 'id': '3_92_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

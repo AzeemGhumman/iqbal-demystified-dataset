@@ -8,7 +8,7 @@
   'text': 'Grant me the absorption of souls of the past'
 'description': []
 'sher':
-- 'id': '2_107_1'
+- 'id': '2_107_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Grant me the absorption of souls of the past, | And let me be of those who never grieve;'
   - 'lang': 'ro'
     'text': 'Atta Islaf Ka Jazb-e-Daroon Kar | Shareek-e-Zamarahu La Yahzanoon, Kar'
-- 'id': '2_107_2'
+- 'id': '2_107_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

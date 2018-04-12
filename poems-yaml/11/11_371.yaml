@@ -8,7 +8,7 @@
   'text': 'III-I'
 'description': []
 'sher':
-- 'id': '11_371_1'
+- 'id': '11_371_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': '‘Jam’'
       'meaning': '        Dara=Darius. Jam; A title of old Kings of Persia. Jam''s throne; when used with throne it means T-Iazrat ''Solomon''. Jam-i-Jam; (Jam''s cup); Now it means Jam or Jamshed the King of Persia.'
       'occurrence': !!int '1'
-- 'id': '11_371_2'
+- 'id': '11_371_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

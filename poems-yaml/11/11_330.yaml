@@ -8,14 +8,14 @@
   'text': 'DEATH | Chapter 11'
 'description': []
 'sher':
-- 'id': '11_330_1'
+- 'id': '11_330_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'شنیدم مرگ با یزدان چنین گفت | چہ بی نم چشم  ن کز گل بزاید'
   - 'lang': 'en'
     'text': 'The death once said to God in this way, | How shameless his eyes’ though made from clay.'
-- 'id': '11_330_2'
+- 'id': '11_330_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

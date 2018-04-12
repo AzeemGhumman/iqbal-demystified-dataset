@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Mian Sir Fazl-i-Hussain (1877-1936) was a prominent political leader of Punjab. He was among the close and trusted friends of ‘Allamah Iqbal. This poem was written for Sir Fazl-i-Hussain at the time of some very great personal loss of his. However, the achievements of Sir Fazl-i-Hussain as well as the incident prompting the poem are irrelevant to its contents. As has been explained earlier providing hope and succor to the individual as well as the Muslim Ummah was a very strong component of ‘Allamah Iqbal’s works. This poem is similar. The poem is an exegesis of The Holy Qur’an 94:5-6 and excellently provides the necessary succor not only temporarily to Mian Sir Fazl-i-Hussain but for all times to every one of ‘Allamah’s readers in the hour of his trial.'
 'sher':
-- 'id': '1_100_1'
+- 'id': '1_100_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Though the wine of life is the embodiment of pleasure | The cloud of life carries tears also in its skirt'
   - 'lang': 'ro'
     'text': 'Go Sarapa Kaif-e-Ishrat Hai Sharab-e-Zindagi | Ashak Bhi Rakhta Hai Daman Mein Sihab-e-Zindagi'
-- 'id': '1_100_2'
+- 'id': '1_100_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mouj-e-Gham Par Raqs Karta Hai Habab-e-Zindagi | Hai ‘Alam’ Ka Surah Bhi Juzw-e-Kitab-e-Zindagi'
-- 'id': '1_100_3'
+- 'id': '1_100_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'By losing even a single petal the rose ceases to be rose | If the nightingale is unaware of autumn it ceases to be nightingale'
   - 'lang': 'ro'
     'text': 'Aik Bhi Patti Agar Kam Ho To Woh Gul Hi Nahin | Jo Khazan Na-Deedah Ho Bulbul, Woh Bulbul Hi Nahin'
-- 'id': '1_100_4'
+- 'id': '1_100_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'The heart’s story is colored with Longing’s blood | The human music is incomplete without lament’s cry'
   - 'lang': 'ro'
     'text': 'Arzoo Ke Khoon Se Rangeen Hai Dil Ki Dastan | Naghma-e-Insaniat Kamil Nahin Ghair Az Faghan'
-- 'id': '1_100_5'
+- 'id': '1_100_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'For the discerning eye the grief’s scar is insight | For the soul sigh’s mirror is beauty’s accompaniment'
   - 'lang': 'ro'
     'text': 'Didah-e-Beena Mein Dagh-e-Gham Charagh-e-Seena Hai | Rooh Ko Saman-e-Zeenat Aah Ka Aeena Hai'
-- 'id': '1_100_6'
+- 'id': '1_100_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'Incidents of grief give perfection to human nature | The dust of anguish is rouge for the heart’s mirror'
   - 'lang': 'ro'
     'text': 'Hadsat-e-Gham Se Hai Insan Ki Fitrat Ko Kamal | Ghazah Hai Aaeena-e-Dil Ke Liye Gard-e-Malal'
-- 'id': '1_100_7'
+- 'id': '1_100_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'Youth is awakened from sleep’s pleasure by grief | This orchestra wakes up with this plectrum alone'
   - 'lang': 'ro'
     'text': 'Gham Jawani Ko Jaga Deta Hai Lutf-e-Khawab Se | Saaz Ye Baidar Hota Hai Issi Mazrab Se'
-- 'id': '1_100_8'
+- 'id': '1_100_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'For the heart’s bird grief is the strongest feather | The human heart is a secret whose disclosure is grief'
   - 'lang': 'ro'
     'text': 'Tair-e-Dil Ke Liye Gham Shehpar-e-Parwaz Hai | Raaz Hai Insan Ka Dil, Gham Inkashaf-e-Raaz Hai'
-- 'id': '1_100_9'
+- 'id': '1_100_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'Grief is not distress, but is the soul’s silent song | Which is locked in the embrace of existence’ harp'
   - 'lang': 'ro'
     'text': 'Gham Nahin Gham, Rooh Ka Ek Naghma-e-Khamosh Hai | Jo Surood-e-Barbat-e-Hasti Se Hum Aghosh Hai'
-- 'id': '1_100_10'
+- 'id': '1_100_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -108,7 +108,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Shaam Jis Ki Ashnaye Naala-e-‘Ya Rab’ Nahin | Jalwa Pera Jis Ki Shab Mein Ashak Ke Kokab Nahin'
-- 'id': '1_100_11'
+- 'id': '1_100_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -117,7 +117,7 @@
     'text': 'Whose heart’s cup does not know breaking with grief | Who always remained ecstatic with pleasure and exhilaration'
   - 'lang': 'ro'
     'text': 'Jis Ka Jaam-e-Dil Shikast-e-Gham Se Hai Na-Ashna | Jo Sada Mast-e-Sharab-e-Aysh-o-Ishrat Hi Raha'
-- 'id': '1_100_12'
+- 'id': '1_100_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -126,7 +126,7 @@
     'text': 'The gardener whose hand is safe from thorn’s tip | Whose love is unaware of the pathos of separation'
   - 'lang': 'ro'
     'text': 'Hath Jis Gulcheen Ka Hai Mehfooz Nauk-e-Khar Se | Ishq Jis Ka Be Khabar Hai Hijar Ke Azaar Se'
-- 'id': '1_100_13'
+- 'id': '1_100_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -135,7 +135,7 @@
     'text': 'Though grief’s affliction is far from his life | The secret of life is concealed from his eyes'
   - 'lang': 'ro'
     'text': 'Kulfat-e-Gham Gharche Uss Ke Rouz-o-Shab Se Door Hai | Zindagi Ka Raaz Uss Ki Ankh Se Mastoor Hai'
-- 'id': '1_100_14'
+- 'id': '1_100_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -144,7 +144,7 @@
     'text': 'O the one with comprehension of life’s affairs | Why should not grief and sorrow be easy for you?'
   - 'lang': 'ro'
     'text': 'Ae Ke Nazm-e-Dehr Ka Idraak Hai Hasil Tujhe | Kyun Na Asan Ho Gham-o-Andoh Ki Manzil Tujhe'
-- 'id': '1_100_15'
+- 'id': '1_100_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -153,7 +153,7 @@
     'text': 'Love is the introduction to the Eternity’s old treatise | Human intellect is mortal but Love is eternally alive'
   - 'lang': 'ro'
     'text': 'Ha Abad Ke Nuskha-e-Dairina Ki Tamheed Ishq | Aqal-e-Insani Hai Fani, Zinda-e-Javaid Ishq'
-- 'id': '1_100_16'
+- 'id': '1_100_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -162,7 +162,7 @@
     'text': 'The evening of death is no match to the sun of Love | Love is the warmth of life and lasts till eternity'
   - 'lang': 'ro'
     'text': 'Ishq Ke Khursheed Se Sham-e-Ajal Sharminda Hai | Ishq Souz-e-Zindagi Hai , Ta-Abad Paeenda Hai'
-- 'id': '1_100_17'
+- 'id': '1_100_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -171,7 +171,7 @@
     'text': 'If annihilation had been intended for the departed beloved | Love’s zeal would have also departed from the Lover’s heart'
   - 'lang': 'ro'
     'text': 'Rikhsat-e-Mehboob Ka Maqsad Fana Hota Agar | Josh-e-Ulfat Bhi Dil-e-Ashiq Se Kar Jata Safar'
-- 'id': '1_100_18'
+- 'id': '1_100_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -180,7 +180,7 @@
     'text': 'Love does not die by the beloved’s death | It stays in the soul as grief but does not die'
   - 'lang': 'ro'
     'text': 'Ishq Kuch Mehboob Ke Merne Se Mar Jata Nahin | Rooh Mein Gham Ban Ke Rehta Hai, Magar Jata Nahin'
-- 'id': '1_100_19'
+- 'id': '1_100_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -189,7 +189,7 @@
     'text': 'Lover’s immortality is the beloved’s immortality | The beloved’s life is unacquainted with mortality'
   - 'lang': 'ro'
     'text': 'Hai Baqaye Ishq Se Paida Baqa Mehboob Ki | Zindagaani Hai Adam Na-Ashna Mehboob Ki'
-- 'id': '1_100_20'
+- 'id': '1_100_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -198,7 +198,7 @@
     'text': 'The spring comes singing from the mountain top | Teaching the art of singing to the birds of the sky'
   - 'lang': 'ro'
     'text': 'Ati Hai Naddi Jabeen-e-Koh Se Gati Huwi | Asman Ke Taeeron Ko Naghma Sikhlati Huwi'
-- 'id': '1_100_21'
+- 'id': '1_100_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -207,7 +207,7 @@
     'text': 'Its mirror is bright like the Houri’s cheek | But falling on valley’s rocks it is shattered'
   - 'lang': 'ro'
     'text': 'Aaeena Roshan Hai Uss Ka Soorat-e-Rukhsar-e-Hoor | Gir Ke Wadi Ki Chatanon Par Ye Ho Jata Hai Choor'
-- 'id': '1_100_22'
+- 'id': '1_100_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -216,7 +216,7 @@
     'text': 'The river’s pearls ever more beautiful became | That is by this fall they water’s stars became'
   - 'lang': 'ro'
     'text': 'Nehr Jo Thi, Uss Ke Gohar Pyare Pyare Ban Gye | Yani Uss Uftad Se Pani Ke Tare Ban Gye'
-- 'id': '1_100_23'
+- 'id': '1_100_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -225,7 +225,7 @@
     'text': 'The river of flowing mercury spread and became scattered | A whole entire world of restless drops became manifest'
   - 'lang': 'ro'
     'text': 'Jooye Seemab Rawan Phat Kar Preshan Ho Gyi | Muztarib Boondon Ki Ek Dunya Namayan Ho Gyi'
-- 'id': '1_100_24'
+- 'id': '1_100_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -234,7 +234,7 @@
     'text': 'But separation is the training for reunion to those drops | After a while the same river is running like a silver string'
   - 'lang': 'ro'
     'text': 'Hijar, In Qatron Ko Lekin Wasal Ki Taleem Hai | Do Qadam Par Phir Wohi Joo Misl-e-Taar-e-Seem'
-- 'id': '1_100_25'
+- 'id': '1_100_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -243,7 +243,7 @@
     'text': 'The flowing river of life is of the same origin | Falling from high it became the concourse of humanity'
   - 'lang': 'ro'
     'text': 'Aik Asliat Mein Hai Nehr-e-Rawan-e-Zindagi | Gir Ke Riffat Se Hajoom-e-Noo-e-Insan Ban Gayi'
-- 'id': '1_100_26'
+- 'id': '1_100_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -252,7 +252,7 @@
     'text': 'In the depths of this world we part to reunite | But we cry considering temporary parting as permanent'
   - 'lang': 'ro'
     'text': 'Pasti -e-Alam Mein Milne Ko Juda Hote Hain Hum | Aarzi Furqat Ko Dayem Jaan Kar Rote Hain Hum'
-- 'id': '1_100_27'
+- 'id': '1_100_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -261,7 +261,7 @@
     'text': 'Though the dead do die they do not perish | Really they do not get separated from us'
   - 'lang': 'ro'
     'text': 'Merne Wale Merte Hain Lekin Fana Hote Nahin | Ye Haqiqat Mein Kabhi Hum Se Juda Hote Nahin'
-- 'id': '1_100_28'
+- 'id': '1_100_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -270,7 +270,7 @@
     'text': 'When Intellect be surrounded in worldly calamities | Or when it be besieged in the dreary night of youth'
   - 'lang': 'ro'
     'text': 'Aqal Jis Dam Dehr Ki Aafaat Mein Mehsoor Ho | Ya Jawani Ki Andheri Raat Mein Mastoor Ho'
-- 'id': '1_100_29'
+- 'id': '1_100_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -279,7 +279,7 @@
     'text': 'When the heart’s skirt be the battle field of good and evil | When journey to the goal be difficult in road’s darkness'
   - 'lang': 'ro'
     'text': 'Daman-e-Dil Ban Gya Ho Razmgah-e-Khair-o-Shar | Rah Ki Zulmat Se Ho Mushkil Sooye Manzil Safar'
-- 'id': '1_100_30'
+- 'id': '1_100_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -292,7 +292,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khizr-e-Himmat Ho Gya Ho Arzoo Se Gosha-Geer | Fikr Jab Aajiz Ho Aur Khamosh Awaz-e-Zameer'
-- 'id': '1_100_31'
+- 'id': '1_100_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -301,7 +301,7 @@
     'text': 'When not a single fellow-traveler be in the vale of life | When not even fire-fly’s spark to show the way there be'
   - 'lang': 'ro'
     'text': 'Wadi-e-Hasti Mein Koi Hum Safar Tak Bhi Na Ho | Jadoo Dikhlane Ko Jugnoo Ka Sharar Tak Bhi Na Ho'
-- 'id': '1_100_32'
+- 'id': '1_100_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

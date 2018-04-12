@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem contains the ideal wish of a Muslim child. It is frequently taught to and memorized by the Muslim children in the Indo-Pakistan-Bangladesh region. (Audio by user: Fawad bin Faraz)'
 'sher':
-- 'id': '1_9_1'
+- 'id': '1_9_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'My longing comes to my lips as supplication of mine | O God! May like the candle be the life of mine!'
   - 'lang': 'ro'
     'text': 'Lab Pe Aati Hai Dua Ban Ke Tamanna Meri | Zindagi Shamma Ki Surat Ho Khudaya Meri'
-- 'id': '1_9_2'
+- 'id': '1_9_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'May the world''s darkness disappear through the life of mine! | May every place light up with the sparkling light of mine!'
   - 'lang': 'ro'
     'text': 'Door Dunya Ka Mere Dam Se Andhera Ho Jaye | Har Jagha Mere Chamakne Se Ujala Ho Jaye'
-- 'id': '1_9_3'
+- 'id': '1_9_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'May my homeland through me attain elegance | As the garden through flowers attains elegance'
   - 'lang': 'ro'
     'text': 'Ho Mere Dam Se Yunhi Mere Watan Ki Zeenat | Jis Tarha Phool Se Hoti Hai Chaman Ki Zeenat'
-- 'id': '1_9_4'
+- 'id': '1_9_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'May my life like that of the moth be, O Lord! | May I love the lamp of knowledge, O Lord!'
   - 'lang': 'ro'
     'text': 'Zindagi Ho Meri Parwane Ki Surat Ya RAB | Ilm Ki Shamma Se Ho Mujh ko Mohabbat Ya RAB!'
-- 'id': '1_9_5'
+- 'id': '1_9_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'May supportive of the poor my life''s way be | May loving the old, the suffering my way be'
   - 'lang': 'ro'
     'text': 'Ho Mera Kaam Garibon Ki Himayat Karna | Dardmando Se Zaifon Se Mohabbat Karna'
-- 'id': '1_9_6'
+- 'id': '1_9_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

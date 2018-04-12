@@ -8,7 +8,7 @@
   'text': 'VIII-V'
 'description': []
 'sher':
-- 'id': '11_315_1'
+- 'id': '11_315_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': 'Noon.'
       'meaning': '        K and N or Kaf and Nun, are two Arabic alphabets. From K and N, God said ''Kun'' = be, become and the whole cosmos came into being. God says ''be'' (Kun) and it ''becomes'' automatically a reality.'
       'occurrence': !!int '1'
-- 'id': '11_315_2'
+- 'id': '11_315_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

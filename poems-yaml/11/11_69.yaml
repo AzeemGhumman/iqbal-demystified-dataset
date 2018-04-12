@@ -8,7 +8,7 @@
   'text': 'IX-VI'
 'description': []
 'sher':
-- 'id': '11_69_1'
+- 'id': '11_69_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'sky'
       'meaning': '        The Persian poets, (so the Indo-Pakistani), always symbolise ''sky'' going on a perverse policy against the inhabitants of earth. As such literal translation was a necessity to enjoy the true sense.'
       'occurrence': !!int '1'
-- 'id': '11_69_2'
+- 'id': '11_69_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

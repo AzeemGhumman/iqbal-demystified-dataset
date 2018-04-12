@@ -8,7 +8,7 @@
   'text': 'ADAM IS RECEIVED BY THE SPIRIT OF THE EARTH'
 'description': []
 'sher':
-- 'id': '2_140_1'
+- 'id': '2_140_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Open thy eyes and look above, | Look at the streak of dawn;'
   - 'lang': 'ro'
     'text': 'Khol Ankh, Zameen Dekh, Falak Dekh, Faza Dekh | Mashriq Se Ubharte Huwe Suraj Ko Zara Dekh'
-- 'id': '2_140_2'
+- 'id': '2_140_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Look at the veiling of the vision; | Look at the banishment unfair;'
   - 'lang': 'ro'
     'text': 'Iss Jalwa-e-Beparda Ko Pardon Mein Chupa Dekh | Ayyam-e-Judai Ke Sitam Dekh, Jafa Dekh'
-- 'id': '2_140_3'
+- 'id': '2_140_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Look at the battle of hope and fear. | Thine are the clouds, the rains, the skies,'
   - 'lang': 'ro'
     'text': 'Betab Na Ho Maarika-e-Beem-o-Rija Dekh! | Hain Tere Tassaruf Mein Ye Badal, Ye Ghataen'
-- 'id': '2_140_4'
+- 'id': '2_140_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Thine are the winds, the storms, | The woods, the mountains, the rivers are thine;'
   - 'lang': 'ro'
     'text': 'Ye Gunbad-e-Aflak, Ye Khamosh Fazaen | Ye Koh Ye Sehra, Ye Sumandar Ye Hawaen'
-- 'id': '2_140_5'
+- 'id': '2_140_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The world of the angels was a void; | Look at the peopled earth, which is thine.'
   - 'lang': 'ro'
     'text': 'Theen Paish-e-Nazar Kal To Farishton Ki Adaen | Aaeena-e-Ayyam Mein Aaj Apni Ada Dekh!'
-- 'id': '2_140_6'
+- 'id': '2_140_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Thou wilt rule it like a king; | The stars will gaze in wonder;'
   - 'lang': 'ro'
     'text': 'Samjhe Ga Zamana Teri Ankhon Ke Ishare | Dekhain Ge Tujhe Door Se Gardoon Ke Sitare'
-- 'id': '2_140_7'
+- 'id': '2_140_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'Thy vision will encompass the earth; | Thy sighs will reach the heavens;'
   - 'lang': 'ro'
     'text': 'Na-Paid Tere Behar-e-Takhiyyul Ke Kinare | Pohanche Ge Falak Tak Teri Aahon Ke Shirare'
-- 'id': '2_140_8'
+- 'id': '2_140_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'Look at the power of thy pain and passion. | The spark in thee is a radiant sun;'
   - 'lang': 'ro'
     'text': 'Tameer-e-Khudi Kar, Asar-e-Aah-e-Rasa Dekh! | Khurshid-e-Jahan Taab Ki Zou Tere Sharar Mein'
-- 'id': '2_140_9'
+- 'id': '2_140_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'A new world lives in thee; | Thou carest not for a borrowed heaven;'
   - 'lang': 'ro'
     'text': 'Abad Hai Ek Taza Jahan Tere Hunar Mein | Jachte Nahin Bakhshe Huwe Firdous Nazar Mein'
-- 'id': '2_140_10'
+- 'id': '2_140_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'Thy life‐blood has it concealed; | Look at the reward of anguish and toil.'
   - 'lang': 'ro'
     'text': 'Jannat Teri Pinhan Hai Tere Khoon-e-Jigar Mein | Ae Paikar-e-Gil Koshish-e-Peham Ki Jaza Dekh!'
-- 'id': '2_140_11'
+- 'id': '2_140_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'Thy lyre has an eternal plaintive string, | Panting with the passion of love;'
   - 'lang': 'ro'
     'text': 'Nalinda Tere Uood Ka Har Taar Azal Se | Tu Jinse-e-Mohabbat Ka Khireedar Azal Se'
-- 'id': '2_140_12'
+- 'id': '2_140_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

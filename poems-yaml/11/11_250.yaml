@@ -8,14 +8,14 @@
   'text': 'XII-VIII'
 'description': []
 'sher':
-- 'id': '11_250_1'
+- 'id': '11_250_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز شام ما برون  ور سحر را | بہ قر ن باز خوان اہل نظر را'
   - 'lang': 'en'
     'text': 'From my evening’s dusk get a dawn new, | To seeing eyes read the Koran anew.'
-- 'id': '11_250_2'
+- 'id': '11_250_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'XIII-III'
 'description': []
 'sher':
-- 'id': '11_253_1'
+- 'id': '11_253_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جوانان را بد  موز است این عصر | شب ابلیس را روز است این عصر'
   - 'lang': 'en'
     'text': 'To youths of this age he taught evil ways, | It turned the Satan’s night into his days.'
-- 'id': '11_253_2'
+- 'id': '11_253_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

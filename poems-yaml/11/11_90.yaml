@@ -8,7 +8,7 @@
   'text': 'XI-XII'
 'description': []
 'sher':
-- 'id': '11_90_1'
+- 'id': '11_90_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Guibers'
       'meaning': '        Guibers; a fire worshipper, followers of Zoroaster, who was also a Prophet, most probably'
       'occurrence': !!int '1'
-- 'id': '11_90_2'
+- 'id': '11_90_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

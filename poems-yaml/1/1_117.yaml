@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is one of the series of long poems starting with poem 88, Shakwah (The Complaint). As explained in the introduction to that poem this series of poems deals with the rise, glory, achievements, decline and fall of the Muslim world. As stated earlier this subject was the one dearest to ‘Allamah Iqbal and perhaps the raison d`etre of his works. In Shakwah the emphasis is on the services and achievements of the early Muslims in the cause of Islam and God. In the present poem the field has widened. The poem is an allegory describing a conversation with the candle. The poet himself represents an average Muslim leader, spiritual as well as secular. He starts with asking the candle the reason for its effectiveness in creating its love in the moth and the one for his own ineptitude in the field of influencing his own circle. The candle states the reason to be its own sincerity and the lack of it in the leaders. The main cause of the present deplorable condition of the Muslim Ummah is its distancing itself from the Holy Qur’an and Islamic values. The recent efforts at reform are inadequate as well as too late. However, like other works of ‘Allamah Iqbal, in this poem also the state of his frustration is not permanent. The candle gives the message of hope and points out that the Muslim Ummah is waking up to its responsibilities and is starting to face its adversaries with the help of the Holy Qur’an. The great potential of the Ummah is described in detail and the poem ends with firm hope and promise of success for the Ummah and defeat of our enemies and their value system. The climax is reached in the last verse.'
 'sher':
-- 'id': '1_117_1'
+- 'id': '1_117_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The Poet'
   - 'lang': 'ro'
     'text': 'asd'
-- 'id': '1_117_2'
+- 'id': '1_117_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Last night I said to the candle of my desolate house | “Your hair gets combed by the wings of the moth'
   - 'lang': 'ro'
     'text': 'Dosh Mee Gutam Ba Shama-e-Manzil-e-Weeran-e-Khowesh | Gaisuay Tu Azpar-e-Parwana Dar Dashana Ae'
-- 'id': '1_117_3'
+- 'id': '1_117_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'In the world I am like the lamp of the wilderness’ tulip | I am neither in an assembly’s lot, nor in a house’ fortune'
   - 'lang': 'ro'
     'text': 'Dar Jahan Misl-e-Charagh-e-Lala-e-Sehrastam | Ne Naseeb-e-Mehfile, Ne Qismat-e-Kashana Ae'
-- 'id': '1_117_4'
+- 'id': '1_117_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Since a long time I am also burning my breath like you | Though I am circling the flame no moth has hit its wing'
   - 'lang': 'ro'
     'text': 'Madd Te Manind-e-Tou Man Hum Nafas Mee Soukhtam | Dar Tawaf-e-Shaula Am Baale Na Zad Parwana Ae'
-- 'id': '1_117_5'
+- 'id': '1_117_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Many an effulgence is crammed in my life of unfulfilled desires | Not a single loving heart rises in this assembly'
   - 'lang': 'ro'
     'text': 'Mee Tapad Sad Jalwa-e-Dar Jaan-e-Amal Far Sood-e-Mann | Bar Namee Khaizd Azeen Mehfil Dil-e-Diwana Ae'
-- 'id': '1_117_6'
+- 'id': '1_117_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Az Kuja Aen Aatish-e-Alam Faroz Andokhti | Kirmak-e-Be Maya Ra Souz-e-Kaleem Amoskhti'
-- 'id': '1_117_7'
+- 'id': '1_117_007'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'The Candle'
   - 'lang': 'ro'
     'text': 'candle'
-- 'id': '1_117_8'
+- 'id': '1_117_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': '“The blow of breath which gives me the message of death | By the same blow of breath your lip is melodious'
   - 'lang': 'ro'
     'text': 'Mujh Ko Mouj-e-Nafas Deti Hai Paigham-e-Ajal | Lab Issi Mouj-e-Nafas Se Hai Nawa Paira Tera'
-- 'id': '1_117_9'
+- 'id': '1_117_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'I am alight because burning is built into my nature | You are alight so that the moths may have the love of yours'
   - 'lang': 'ro'
     'text': 'Mein To Jalti Hun Ke Hai Muzmir Meri Fitrat Mein Souz | Tu Firouzan Hai Ke Parwanon Ko Ho Soda Tera'
-- 'id': '1_117_10'
+- 'id': '1_117_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'I am weeping because a flood gushes forth from my heart | You shed dew so that garden’s assembly may sing praises yours'
   - 'lang': 'ro'
     'text': 'Girya Saman Main Ke Mere Dil Mein Hai Toofan-e-Ashak | Shabnam Afshan Tu Ke Bazm-e-Gul Mein Ho Charcha Tera'
-- 'id': '1_117_11'
+- 'id': '1_117_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'My morning is adorned with the roses from my night’s toil | Your tomorrow is unaware of the today of yours'
   - 'lang': 'ro'
     'text': 'Gul Ba Daman Hai Meri Shab Ke Lahoo Se Meri Subah | Hai Tere Amroz Se Na-Ashna Farda Tera'
-- 'id': '1_117_12'
+- 'id': '1_117_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'Though you are lightened your are devoid of the inner heat | Like the lamp of the wilderness’ tulip is the flame of yours'
   - 'lang': 'ro'
     'text': 'Yun To Roshan Hai Magar Souz-e-Darun Rakhta Nahin | Shaola  Hai Misl-e-Charagh-e-Lala-e-Sehra Tera'
-- 'id': '1_117_13'
+- 'id': '1_117_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -131,7 +131,7 @@
     'text': 'Just think if cup-bearer’s title is appropriate for you | Assembly is thirsty and the wine-measure is empty of yours'
   - 'lang': 'ro'
     'text': 'Soch To Dil Mein, Laqab Saqi Ka Hai Zaiba Tujhe? | Anjuman Pyasi Hai Aur Pemana Be-Sehba Tera!'
-- 'id': '1_117_14'
+- 'id': '1_117_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
     'text': 'Your ways are different, the law of the Millat is different | Your mirror has been disgraced by the ugly appearance of yours'
   - 'lang': 'ro'
     'text': 'Aur Hai Tera Shua’ar, Aaeene-e-Millat Aur Hai | Zisht Ruyi Se Teri Aaeena Hai Ruswa Tera'
-- 'id': '1_117_15'
+- 'id': '1_117_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
     'text': 'With the Ka‘bah by your side you are temple’s lover | How rebellious is the irresponsible love of yours'
   - 'lang': 'ro'
     'text': 'Kaaba Pehlu Mein Hai Aur Soudai-e-Butkhana Hai | Kis Qadar Shourida Sar Hai Shauq-e-Be-Parwa Tera'
-- 'id': '1_117_16'
+- 'id': '1_117_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -158,7 +158,7 @@
     'text': 'That Qais be produced in your assembly is not possible | Your wilderness is straitened, without Lailah is the litter of yours'
   - 'lang': 'ro'
     'text': 'Qais Paida Hon Teri Mehfil Mein, Ye Mumkin Nahin | Tang Hai Sehra Tera, Mehmil Hai Be-Laila Tera'
-- 'id': '1_117_17'
+- 'id': '1_117_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -167,7 +167,7 @@
     'text': 'O brilliant pearl ! O the one reared in the wave’s lap | Unacquainted with the taste of storms is the ocean of yours'
   - 'lang': 'ro'
     'text': 'Ae Dur-e-Tabinda, Ae Parwardah-e-Aghosh-e-Mouj! | Lazzat-e-Toofan Se Hai Na-Ashna Darya Tera'
-- 'id': '1_117_18'
+- 'id': '1_117_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -176,7 +176,7 @@
     'text': 'Why are you singing now? your garden is in disorder! | Your singing is out of place, your music is out of season'
   - 'lang': 'ro'
     'text': 'Ab Nawa Paira Hai Kya, Gulshan Huwa Barham Tera | Be-Mehel Tera Taranum, Naghma Be-Mousam Tera'
-- 'id': '1_117_19'
+- 'id': '1_117_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -185,7 +185,7 @@
     'text': 'Those who were anxious for the Spectacle have departed | Your coming now with general Sighting’s promise matters little'
   - 'lang': 'ro'
     'text': 'Tha Jinhain Zauq-e-Tamasha, Woh To Rukhsat Ho Gye | Le Ke Ab Tu Wada-e-Didar-e-Aam Aya To Kya'
-- 'id': '1_117_20'
+- 'id': '1_117_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -194,7 +194,7 @@
     'text': 'Those old ardent lovers of wine are gone from the assembly | O cub-bearer ! Your coming now in assembly with strong wine in the cup matters little'
   - 'lang': 'ro'
     'text': 'Anjuman Se Woh Purane Shaola Aasham Uth Gye | Saqiya! Mehfil Mein Tu Aatish Bajaam Aaya To Kya'
-- 'id': '1_117_21'
+- 'id': '1_117_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -203,7 +203,7 @@
     'text': 'Ah ! When the rose garden’s organization has already got disorganized | If the flower got the message of spring breeze matters little'
   - 'lang': 'ro'
     'text': 'Aah, Jab Gulshan Ki Jamiat Preshan Ho Chukki | Phool Ko Baad-e-Bahari Ka Payam Aya To Kya'
-- 'id': '1_117_22'
+- 'id': '1_117_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -212,7 +212,7 @@
     'text': 'The lover’s condition was worth seeing at the night’s end | The Beloved’s arrival early in the morning matters little'
   - 'lang': 'ro'
     'text': 'Akhir-e-Shab Deeb Ke Qabil Thi Bismil Ki Tarap | Subahdam Koi Agar Balaye Baam Aya To Kya'
-- 'id': '1_117_23'
+- 'id': '1_117_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -221,7 +221,7 @@
     'text': 'Extinguished is the flame which was every moth’s objective | If some pursuer of perfect love came now it matters little'
   - 'lang': 'ro'
     'text': 'Bujh Gya Woh Shaola Jo Maqsood-e-Har Parwana Tha | Ab Koi Soudai-e-Souz-e-Tamam Aya To Kya'
-- 'id': '1_117_24'
+- 'id': '1_117_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -230,7 +230,7 @@
     'text': 'The flowers do not care, you may or may not sing | The caravan is callous, the bell may or may not ring'
   - 'lang': 'ro'
     'text': 'Phool Be-Parwa Hain, Tu Garam-e-Nawa Ho Ya Na Ho | Karwan Be-Hiss Hai, Awaz-e-Dra Ho Ya Na Ho'
-- 'id': '1_117_25'
+- 'id': '1_117_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -239,7 +239,7 @@
     'text': 'If devoid of love’s warmth you remained even as assembly’s candle | Your moths also unacquainted with this taste remained'
   - 'lang': 'ro'
     'text': 'Shama-e-Mehfil Ho Ke Tu Jab Souz Se Khali Raha | Tere Parwane Bhi Iss Lazzat Se Baigane Rahe'
-- 'id': '1_117_26'
+- 'id': '1_117_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -248,7 +248,7 @@
     'text': 'If you could string them together on the thread of Love | Then why did the beads of your rosary scattered remain?'
   - 'lang': 'ro'
     'text': 'Rishta-e-Ulfat Mein Jab In Ko Pero Sakta Tha Tu | Phir Preshan Kyun Teri Tasbeeh Ke Dane Rahe'
-- 'id': '1_117_27'
+- 'id': '1_117_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -261,7 +261,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Shauq-e-Beparwa Gya, Fikr-e-Falak Pema Gya | Teri Mehfil Main Na Diwane Na Farzane Rahe'
-- 'id': '1_117_28'
+- 'id': '1_117_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -270,7 +270,7 @@
     'text': 'Gone is that burning of Love, gone is that heart’s pathos | What good it is if the moths round the candle did remain?'
   - 'lang': 'ro'
     'text': 'Woh Jigar Souzi Nahin, Wo Shaola Ashaami Nahin | Faida Phir Kya Jo Gird-e-Shama Parwane Rahe'
-- 'id': '1_117_29'
+- 'id': '1_117_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -279,7 +279,7 @@
     'text': 'Very well, the cup-bearer you may be, whom will you serve wine | Now neither those wine-drinkers nor those taverns did remain'
   - 'lang': 'ro'
     'text': 'Khair, Tu Saqi Sahi Lekin Pilaye Ga Kise | Ab Na Woh Mai-Kash Rahe Baqi Na Maikhane Rahe'
-- 'id': '1_117_30'
+- 'id': '1_117_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -288,7 +288,7 @@
     'text': 'Today a broken decanter is crying for the cup-bearer | Whose goblets in circulation till yesterday did remain'
   - 'lang': 'ro'
     'text': 'Ro Rahi Hai Aaj Ek Tooti Huwi Meena Usse | Kal Talak Gardish Mein Jis Saqi Ke Paimane Rahe'
-- 'id': '1_117_31'
+- 'id': '1_117_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -297,7 +297,7 @@
     'text': 'Today are silent those Love-cherishing expanses | Where Lailah and her lovers dancing did remain'
   - 'lang': 'ro'
     'text': 'Aaj Hain Khamosh Woh Dasht-e-Junoon Parwar Jahan | Raqs Mein Laila Rahi, Laila Ke Diwane Rahe'
-- 'id': '1_117_32'
+- 'id': '1_117_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -306,7 +306,7 @@
     'text': 'How disappointing ! The caravan’s wealth is gone | The feeling of loss from caravan’s heart is gone'
   - 'lang': 'ro'
     'text': 'Waye Nakami! Mataa-e-Karwan Jata Raha | Karwan Ke Dil Se Ehsas-e-Ziyan Jata Raha'
-- 'id': '1_117_33'
+- 'id': '1_117_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -315,7 +315,7 @@
     'text': 'With whose activities the wilderness was once flourishing | Their cities are wiped out, habitations desolate have became'
   - 'lang': 'ro'
     'text': 'Jin Ke Hangamon Se The Aabad Weerane Kabhi | Sheher Un Ke Mit Gaye Abadiyan Ban Ho Gaeen'
-- 'id': '1_117_34'
+- 'id': '1_117_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -324,7 +324,7 @@
     'text': 'The prayers which established the grandeur of Tawhad | Those prayers offerings to Brahman in India have become'
   - 'lang': 'ro'
     'text': 'Siwat-e-Touheed Qayam Jin Namazon Se Huwi | Woh Namazain Hund Mein Nazar-e-Barhman Ho Gaeen'
-- 'id': '1_117_35'
+- 'id': '1_117_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -333,7 +333,7 @@
     'text': 'In this world ever-lasting comfort on laws’ observance depends | To the ocean wave freedoms prelude to lamentation have become'
   - 'lang': 'ro'
     'text': 'Dehr Mein Aysh-e-Dawam Aaeen Ki Pabandi Se Ha | Mouj Ko Azadiyan Saman-e-Shewan Ho Gaeen'
-- 'id': '1_117_36'
+- 'id': '1_117_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -346,7 +346,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khud Tajalli Ko Tamanna Jin Ke Nazaron Ki Thi | Woh Nigahain Na-Umeed-e-Noor-e-Ayman Ho Gayen'
-- 'id': '1_117_37'
+- 'id': '1_117_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -355,7 +355,7 @@
     'text': 'Thousands of nightingales were flying about in the rose-garden | What happened to them that they confined to the nests have become ?'
   - 'lang': 'ro'
     'text': 'Urti Phirti Theen Hazaron Bulbulain Gulzar Mein | Dil Mein Kya Ayi Ke Paband-e-Nasheman Ho Gaeen'
-- 'id': '1_117_38'
+- 'id': '1_117_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -364,7 +364,7 @@
     'text': 'In the celestial expanse whose lightning power was panoramic | Those lightning’s satiated with the barn’s sides have become'
   - 'lang': 'ro'
     'text': 'Wusaat-e-Gardoon Mein Thi Un Ki Tarap Nazara Souz | Bijliyan Aasuda-e-Damaan-e-Khirman Ho Gaeen'
-- 'id': '1_117_39'
+- 'id': '1_117_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -373,7 +373,7 @@
     'text': 'Why should the blood letting eye ingratiated to the rose garden be ? | With continuous tears the eyes fully satiated with embers have become'
   - 'lang': 'ro'
     'text': 'Didah-e-Khunbar Ho Minnat Kash-e-Gulzar Kyun | Ashak-e-Peham Se Nigahain Gul Ba Daman Ho Gaeen'
-- 'id': '1_117_40'
+- 'id': '1_117_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -382,7 +382,7 @@
     'text': 'However, the grief’s night gives the message of ‘Eid’s morning | In the darkness of the night the ray of hope has appeared'
   - 'lang': 'ro'
     'text': 'Sham-e-Gham Lekin Khabar Detai Hai Subah-e-Eid Ki | Zulmat-e-Shab Mein Nazar Ayi Kiran Umeed Ki'
-- 'id': '1_117_41'
+- 'id': '1_117_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -391,7 +391,7 @@
     'text': 'Glad tidings, O cup-bearer of the tavern of Hijaz | After ages your rinds have regained consciousness'
   - 'lang': 'ro'
     'text': 'Muzda Ae Paimana Bardaar-e-Khumistan-e-Hijaz! | Baad Muddat Ke Tere Rindon Ko Phir Aaya Hai Hosh'
-- 'id': '1_117_42'
+- 'id': '1_117_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -400,7 +400,7 @@
     'text': 'Wealth of self-respect was the price for other’s wine | Now your shop is again full of calls for the carousal'
   - 'lang': 'ro'
     'text': 'Naqad-e-Khuddari Bahaye Badah-e-Aghyar Thi | Phir Dukan Teri Hai Labraiz-e-Sadaye Nau Nosh'
-- 'id': '1_117_43'
+- 'id': '1_117_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -413,7 +413,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tootne Ko Hai Talism-e-Mah Seemayaan-e-Hind | Phir Sulema Ko Nazar Deti Hai Pegham-e-Kharosh'
-- 'id': '1_117_44'
+- 'id': '1_117_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -426,7 +426,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Phir Ye Ghogha Hai Ke La Saqi Sharab-e-Khana Saaz | Dil Ke Hangame Mai-e-Maghrib Ne Kar Dale Khamosh'
-- 'id': '1_117_45'
+- 'id': '1_117_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -435,7 +435,7 @@
     'text': 'Sing because this is not the time for silence | The dawn’s sky is shouldering the sun like decanter'
   - 'lang': 'ro'
     'text': 'Naghma Paira Ho Ke Ye Hangam-e-Khamoshi Nahin | Hai Sehar Ka Asman Khursheed Se Meena Badosh'
-- 'id': '1_117_46'
+- 'id': '1_117_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -444,7 +444,7 @@
     'text': 'Burn in sympathy with others and also make others burn | Listen if you can, a bright Hadath has been conveyed to you'
   - 'lang': 'ro'
     'text': 'Dar Gham-e-Deegar Basouz-o-Deegran Rahum Basouz | Guftmat Roshan Hadisay Gar Touwani Daar Gosh!'
-- 'id': '1_117_47'
+- 'id': '1_117_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -453,7 +453,7 @@
     'text': 'Ancestors have said that poetry is a part of prophethood | Yes, convey to the Millat the glad tidings of the Messenger Angel !'
   - 'lang': 'ro'
     'text': 'Keh Gye Hain Shayari Juzweest Az Peghambari | Haan Suna De Mehfil-e-Millat Ko Pegham-e-Sarosh'
-- 'id': '1_117_48'
+- 'id': '1_117_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -462,7 +462,7 @@
     'text': 'Awaken the eye with the promise of the Beloved’s Sight | Bring the heart to life with the warmth of speech’s skill'
   - 'lang': 'ro'
     'text': 'Ankh Ko Baidar Kar De Wadaa-e-Deedar Se | Zinda Kar De Dil Ko Souz-e-Jouhar-e-Guftar Se'
-- 'id': '1_117_49'
+- 'id': '1_117_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -471,7 +471,7 @@
     'text': 'Your love for indulgence became a robber of courage | You were an ocean in wilderness, in garden a brook you became'
   - 'lang': 'ro'
     'text': 'Rahzan-e-Himmat Huwa Zauq-e-Tan Asani Tera | Beher Tha Sehra Mein Tu, Gulshan Mein Misl-e-Joo Huwa'
-- 'id': '1_117_50'
+- 'id': '1_117_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -480,7 +480,7 @@
     'text': 'When you stood firm in your purity, you had the nation also | Caravan of fragrance after leaving the rose scattered became'
   - 'lang': 'ro'
     'text': 'Apni Asliyat Pe Qayam Tha To Jamiat Bhi Thi | Chor Kar Gul Ko Preshan Karwaan-e-Boo Huwa'
-- 'id': '1_117_51'
+- 'id': '1_117_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -489,7 +489,7 @@
     'text': 'The life of the drop has lessons of the secrets of life | Sometimes pearl, sometimes dew, sometimes tear it became'
   - 'lang': 'ro'
     'text': 'Zindagi Qatre Ki Sikhlati Hai Asrar-e-Hayat | Ye Kabhi Gohar, Kabhi Ansu Huwa'
-- 'id': '1_117_52'
+- 'id': '1_117_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -498,7 +498,7 @@
     'text': 'Obtain it from somewhere it is a great wealth | What good is life if the heart unaware of bosom became'
   - 'lang': 'ro'
     'text': 'Phir Kahin Se Iss Ko Paida Kar, Bari Doulat Hai Ye | Zindagi Kaisi Jo Dil Begana-e-Pehlu Huwa'
-- 'id': '1_117_53'
+- 'id': '1_117_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -507,7 +507,7 @@
     'text': 'Your honor depended upon the organization of the Millat | When this organization departed, disgraced world wide you became'
   - 'lang': 'ro'
     'text': 'Aabru Baqi Teri Millat Ki Jamiat Se Thi | Jab Ye Jamiat Gyi, Dunya Mein Ruswa Tu Huwa'
-- 'id': '1_117_54'
+- 'id': '1_117_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -516,7 +516,7 @@
     'text': 'The individual is firm by nation’s coherence, otherwise nothing | The wave is only in the ocean, and outside it is nothing'
   - 'lang': 'ro'
     'text': 'Fard Qayam Rabt-e-Millat Se Hai, Tanha Kuch Nahin | Mouj Hai Darya Mein Aur Bairun-e-Darya Kuch Nahin'
-- 'id': '1_117_55'
+- 'id': '1_117_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -525,7 +525,7 @@
     'text': 'Keep the love concealed in your heart’s veil still | That is do not disgrace your wine like the decanter'
   - 'lang': 'ro'
     'text': 'Parda-e-Dil Mein Mohabbat Ko Abhi Mastoor Rakh | Yani Apni Mai Ko Ruswa Soorat-e-Meena Na Kar'
-- 'id': '1_117_56'
+- 'id': '1_117_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -534,7 +534,7 @@
     'text': 'Pitch your tent in the Valley of Sinai like Kalam | Make the Truth’s flame destroyer of home’s comfort'
   - 'lang': 'ro'
     'text': 'Khema-Zan Ho Wadi-e-Seena Mein Manind-e-Kaleem | Shaola-e-Tehqeeq Ko Gharatgar-e-Kashana Kar'
-- 'id': '1_117_57'
+- 'id': '1_117_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -543,7 +543,7 @@
     'text': 'The candle should also know the result of atrocities | Make the moth’s ashes restorer of the morning'
   - 'lang': 'ro'
     'text': 'Shama Ko Bhi Ho Zara Maloom Anjam-e-Sitam | Sarf-e-Tameer-e-Sehar Khakstar-e-Parwana Kar'
-- 'id': '1_117_58'
+- 'id': '1_117_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -552,7 +552,7 @@
     'text': 'If you are self-respecting be not obliged to the cup-bearer | In the ocean’s midst turn the goblet up side down like the bubble'
   - 'lang': 'ro'
     'text': 'Tu Agar Khuddar Hai, Minnat Kash-e-Saqi Na Ho | Ayn Darya Mein Habab Aasa Nigoon Pema Na Kar'
-- 'id': '1_117_59'
+- 'id': '1_117_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -561,7 +561,7 @@
     'text': 'No joy remains in the old mountains and wilderness | Your love is new, you should create new wilderness'
   - 'lang': 'ro'
     'text': 'Kaifiat Baqi Purane Koh-o-Sehra Mein Nahin | Hai Junoon Tera Naya, Paida Naya Weerana Kar'
-- 'id': '1_117_60'
+- 'id': '1_117_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -570,7 +570,7 @@
     'text': 'If the destiny has destroyed you completely | From downfall make a new rod like the seed'
   - 'lang': 'ro'
     'text': 'Khak Mein Tujh Ko Muqaddar Ne Milya Hai Agar | To Asa Uftaad Se Paida Misal-e-Dana Kar'
-- 'id': '1_117_61'
+- 'id': '1_117_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -579,7 +579,7 @@
     'text': 'Yes !@ Build your nest again on the same old branch | Make the rose garden’s residents martyrs of the song of intoxication'
   - 'lang': 'ro'
     'text': 'Haan, Issi Shakh-e-Kuhan Par Phir Bana Le Ashiyan | Ahl-e-Gulshan Ko Shaheed-e-Naghma-e-Mastana Kar'
-- 'id': '1_117_62'
+- 'id': '1_117_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -588,7 +588,7 @@
     'text': 'In this garden be the nightingale’s follower or rose’ pupil | Either be all complaint or do not produce any music'
   - 'lang': 'ro'
     'text': 'Iss Chaman Mein Pairwe Bulbul Ho Ya Talmeez-e-Gul | Ya Sarapa Nala Ban Ja Ya Nawa Paida Na Kar'
-- 'id': '1_117_63'
+- 'id': '1_117_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -597,7 +597,7 @@
     'text': 'Why are you silent in the garden like dew’s retreat | Open your lips, you are the music of the world’s harp!'
   - 'lang': 'ro'
     'text': 'Kyun Chaman Mein Be-Sada Misl-e-Ram-e-Shabnam Hai Tu | Lab Kusha Ho Ja, Surood-e-Barbat-e-Alam Hai Tu'
-- 'id': '1_117_64'
+- 'id': '1_117_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -606,7 +606,7 @@
     'text': 'Become somewhat acquainted with your own reality O farmer! | The grain, the cultivation, the rain, as well as the produce you are'
   - 'lang': 'ro'
     'text': 'Ashna Apni Haqiqat Se Ho Ae Dehqan Zara | Dana Tu, Khaiti Bhi Tu, Baran Bhi Tu, Hasil Bhi Tu'
-- 'id': '1_117_65'
+- 'id': '1_117_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -615,7 +615,7 @@
     'text': 'Ah ! Whose search keeps you aimlessly wandering | The path, the traveler, the guide, as well as the destination you are'
   - 'lang': 'ro'
     'text': 'Aah, Kis Ki Justujoo Aawara Rakhti Hai Tujhe | Rah Tu, Rahru Bhi Tu, Rahbar Bhi Tu, Manzil Bhi Tu'
-- 'id': '1_117_66'
+- 'id': '1_117_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -624,7 +624,7 @@
     'text': 'Why is your heart trembling with the fear of the storm? | The sailor, the ocean, the boat, as well as the sea-shore you are'
   - 'lang': 'ro'
     'text': 'Kanpta Hai Dil Tera Andesha-e-Toofan Se Kya | Na-Khuda Tu, Beher Tu, Kashti Bhi Tu, Sahil Bhi Tu'
-- 'id': '1_117_67'
+- 'id': '1_117_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -637,7 +637,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dekh Aa Kar Kaucha-e-Chaak-e-Greban Mein Kabhi | Qais Tu, Laila Bhi Tu, Sehra Bhi Tu, Mehmil Bhi Tu'
-- 'id': '1_117_68'
+- 'id': '1_117_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -646,7 +646,7 @@
     'text': 'Woe foolishness ! You are in need of the cup-bearer | The wine, the decanter, the cup-bearer, as well as the assembly you are'
   - 'lang': 'ro'
     'text': 'Waye Nadani Ke Tu Mouhtaj-e-Saqi Ho Gya | Mai Bhi Tu, Meena Bhi Tu, Saqi Bhi Tu, Mehfil Bhi Tu'
-- 'id': '1_117_69'
+- 'id': '1_117_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -655,7 +655,7 @@
     'text': 'Becoming a flame burn down the rubbish of Godlessness | Why are you afraid of the falsehood? The destroyer of falsehood also you are'
   - 'lang': 'ro'
     'text': 'Shaola Ban Kar Phoonk De Khashak-e-Ghair Allah Ko | Khof-e-Batil Kya Ke Hai Gharatgar-e-Batil Bhi Tu'
-- 'id': '1_117_70'
+- 'id': '1_117_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -664,7 +664,7 @@
     'text': 'O imprudent one ! You are the essence of time’s mirror | The ultimate message of God in the world you are !'
   - 'lang': 'ro'
     'text': 'Be-Khabar! Tu Jouhar-e-Aaeena-e-Ayyam Hai | Tu Zamane Mein Khuda Ka Akhri Pegham Hai'
-- 'id': '1_117_71'
+- 'id': '1_117_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -673,7 +673,7 @@
     'text': 'O imprudent one ! Be aware of your own reality as | Though you are only a drop your reality is also like the boundless ocean'
   - 'lang': 'ro'
     'text': 'Apni Asliyat Se Ho Agah Ae Ghafil Ke Tu | Qatra Hai, Lekin Misal-e-Behr Be-Payan Bhi Hai'
-- 'id': '1_117_72'
+- 'id': '1_117_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -682,7 +682,7 @@
     'text': 'Why are you imprisoned in the spell of poor resources | Just look, concealed in you is also the storm’s power!'
   - 'lang': 'ro'
     'text': 'Kyun Giraftar-e-Tilism-e-Haich Maqdari Hai Tu | Dekh To Poushida Tujh Mein Shoukat-e-Toofan Bhi Hai'
-- 'id': '1_117_73'
+- 'id': '1_117_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -695,7 +695,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Seena Hai Tera Amen Uss Ke Payam-e-Naaz Ka | Jo Nazam-e-Dehr Mein Paida Bhi Hai, Pinhan Bhi Hai'
-- 'id': '1_117_74'
+- 'id': '1_117_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -704,7 +704,7 @@
     'text': 'What conquers the whole world without sword and gun | If you understand the material is also in your mettle'
   - 'lang': 'ro'
     'text': 'Haft Kishor Jis Se Ho Taskheer Be-Taigh-o-Tafnang | Tu Agar Samjhe To Tere Paas Woh Saman Bhi Hai'
-- 'id': '1_117_75'
+- 'id': '1_117_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -717,7 +717,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ab Talak Shahid Hai Jis Par Koh-e-Faran Ka Sukoot | Ae Taghafil Paisha! Tujh Ko Yaad Woh Paiman Bhi Hai?'
-- 'id': '1_117_76'
+- 'id': '1_117_076'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -726,7 +726,7 @@
     'text': 'O ignorant one ! Only you became contented with some flower buds | Otherwise in the rose-garden there is also cure for the receiver’s small capacity!'
   - 'lang': 'ro'
     'text': 'Tu Hi Nadaan Chand Kaliyon Par Qinaat Kar Gya | Warna Gulshan Mein Alaj-e-Tangi-e-Damaan Bhi Hai'
-- 'id': '1_117_77'
+- 'id': '1_117_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -735,7 +735,7 @@
     'text': 'The heart’s state is produced in the speech’s curtain | In decanter’s veil the wine is apparent as well as veiled'
   - 'lang': 'ro'
     'text': 'Dil Ki Kaifiat Hai Paida Parda-e-Taqreer Mein | Kiswat-e-Meena Mein Mai Mastoor Bhi, Uryan Bhi Hai'
-- 'id': '1_117_78'
+- 'id': '1_117_078'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -744,7 +744,7 @@
     'text': 'My fiery music has burnt me down | And this is the very means of my life!'
   - 'lang': 'ro'
     'text': 'Phoonk Dala Hai Meri Aatish-Nawayi Ne Mujhe | Aur Meri Zindagaani Ka Yehi Samaan Bhi Hai'
-- 'id': '1_117_79'
+- 'id': '1_117_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -753,7 +753,7 @@
     'text': 'Look into my breast for the secret of this fiery music | Look into heart’s mirror for destiny’s manifestation !'
   - 'lang': 'ro'
     'text': 'Raaz Iss Aatish Nawai Ka Mere Seene Mein Dekh | Jalwa-e-Taqdeer Mere Dil Ke Aaeene Mein Dekh!'
-- 'id': '1_117_80'
+- 'id': '1_117_080'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -762,7 +762,7 @@
     'text': 'The sky will shine mirror-like with the morning’s light | And the night’s darkness will be speeding away!'
   - 'lang': 'ro'
     'text': 'Aasman Ho Ga Sehar Ke Noor Se Aaeena Posh | Aur Zulmat Raat Ki Seemab Pa Ho Jaye Gi'
-- 'id': '1_117_81'
+- 'id': '1_117_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -771,7 +771,7 @@
     'text': 'The spring breeze will be so melody inspiring | That flower-bed’s silent fragrance will become melodious!'
   - 'lang': 'ro'
     'text': 'Iss Qadar Ho Gi Tarannum Aafreen Baad-e-Bahar | Nukhat-e-Khawabeeda Ghunche Ki Nawa Ho Jaye Gi'
-- 'id': '1_117_82'
+- 'id': '1_117_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -780,7 +780,7 @@
     'text': 'The garden’s afflicted ones will unite with other afflicted ones | The zephyr will become companion of the rose’ assembly!'
   - 'lang': 'ro'
     'text': 'Aa Milain Ge Seena Chakaan-e-Chaman Se Seena Chaak | Bazm-e-Gul Ki Hum-Nafas Baad-e-Saba Ho Jaye Gi'
-- 'id': '1_117_83'
+- 'id': '1_117_083'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -789,7 +789,7 @@
     'text': 'My gentle spray of dew will produce warmth and music | Every flower-bud of this garden will become appreciative of pathos!'
   - 'lang': 'ro'
     'text': 'Shabnam Afshani Meri Paida Kare Gi Souz-o-Saaz | Iss Chamanki Har Kali Dard Ashna Ho Jaye Gi'
-- 'id': '1_117_84'
+- 'id': '1_117_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -798,7 +798,7 @@
     'text': 'You will see the result of the glory of the river’s flow | The restless wave itself will become its ankle’s chain!'
   - 'lang': 'ro'
     'text': 'Dekh Lo Ge Sitwat-e-Raftar-e-Darya Ka Ma’al | Mouj-e-Muztar  Hi Isse Zanjeer Pa Ho Jaye Gi'
-- 'id': '1_117_85'
+- 'id': '1_117_085'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -807,7 +807,7 @@
     'text': 'The hearts will again recall the message of prostrations | The foreheads will become acquainted with the Haram’s dust'
   - 'lang': 'ro'
     'text': 'Phir Dilon Ko Yaad Aa Jaye Ga Paigham-e-Sujood | Phir Jabeen Khak-e-Haram Se Aashna Ho Jaye Gi'
-- 'id': '1_117_86'
+- 'id': '1_117_086'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -816,7 +816,7 @@
     'text': 'The hunter’s wailing will give material for the birds’ singing | Colored with flower-picker’s blood the flower-bud will became'
   - 'lang': 'ro'
     'text': 'Nala-e-Sayyad Se Hon Ge Nawa Saman-e-Tayoor | Khoon-e-Gulcheen Se Kali Rangeen Qaba Ho Jaye Gi'
-- 'id': '1_117_87'
+- 'id': '1_117_087'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -825,7 +825,7 @@
     'text': 'Whatever the eye is seeing cannot be described by the lips | I am lost in amazement as to what the world will become !'
   - 'lang': 'ro'
     'text': 'Ankh Jo Kuch Dekhti Hai, Lab Pe Aa Sakta Nahin | Mehw-e-Hairat Hun Ke Dunya Kya Se Kya Ho Jaye Gi'
-- 'id': '1_117_88'
+- 'id': '1_117_088'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

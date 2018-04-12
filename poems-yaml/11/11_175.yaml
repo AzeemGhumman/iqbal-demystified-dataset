@@ -8,14 +8,14 @@
   'text': 'EGO | Chapter 2'
 'description': []
 'sher':
-- 'id': '11_175_1'
+- 'id': '11_175_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو ای نادان دل آگاہ دریاب | بخود مثل نیاکان راہ دریاب'
   - 'lang': 'en'
     'text': 'O ignorant man get a knowing heart, | In wake of thy elders learn thy own part.'
-- 'id': '11_175_2'
+- 'id': '11_175_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

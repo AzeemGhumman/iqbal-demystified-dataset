@@ -8,7 +8,7 @@
   'text': 'Sufis lack the fire, the passion that consumes'
 'description': []
 'sher':
-- 'id': '2_61_1'
+- 'id': '2_61_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Sufis lack the fire, the passion that consumes, | But in miracles and in wonders their circles abound.'
   - 'lang': 'ro'
     'text': 'Raha Na Halqa-e-Sufi Mein Souz-e-Mushtaqi | Fasana Haye Karamaat Reh Gye Baqi'
-- 'id': '2_61_2'
+- 'id': '2_61_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Be it the king’s palace, or the fakir’s sanctum, | Both have. usurped God’s power of providing sustenance.'
   - 'lang': 'ro'
     'text': 'Kharab Ko Shak-e-Sultan-O-Khanqah-e-Faqeer | Faghan Ke Takht-O-Musalla Kamal-e-Zarraqi'
-- 'id': '2_61_3'
+- 'id': '2_61_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'On the Day of Judgement, God will be embarrassed | By the blank book of the Sufi, and the mindless mullah.'
   - 'lang': 'ro'
     'text': 'Kare Gi Dawar-e-Mehshar Ko Sharamsaar Ek Roz | Kitab-e-Sufi-O-Mullah Ki Sada Auraqi'
-- 'id': '2_61_4'
+- 'id': '2_61_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The world— wanderer does not yield to the world’s shackles, | Be it Arabia the blessed, The ‘Immortal City’ or China.'
   - 'lang': 'ro'
     'text': 'Na Cheeni-O-Arabi Woh, Na Rumi-O-Shami | Sama Saka Na Do Alam Mein Mard-e-Afaqi'
-- 'id': '2_61_5'
+- 'id': '2_61_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Inebriation of the night is a vaporous memory now, | But The Cup—bearer’s glances are an eternal flame.'
   - 'lang': 'ro'
     'text': 'Mai-e-Shabana Ki Masti To Ho Chuki, Lekin | Khatak Raha Hai Dilon Mein Karishma-e-Saqi'
-- 'id': '2_61_6'
+- 'id': '2_61_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Bear with my songs, venom — bared and harsh— | For it is venom that acts as an antidote sometimes.'
   - 'lang': 'ro'
     'text': 'Chaman Mein Talakh Nawayi Meri Gawara Kar | Ke Zehar Bhi Kabhi Karta Hai Kar-e-Taryaqi'
-- 'id': '2_61_7'
+- 'id': '2_61_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

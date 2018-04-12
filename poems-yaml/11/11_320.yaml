@@ -8,14 +8,14 @@
   'text': 'VIII-X'
 'description': []
 'sher':
-- 'id': '11_320_1'
+- 'id': '11_320_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نگہ دید و خرد پیمانہ  ورد | کہ پیماید جھان چار سو را'
   - 'lang': 'en'
     'text': 'The glance brought eyes and wisdom a tape band, | To measure four sides and all the world’s land.'
-- 'id': '11_320_2'
+- 'id': '11_320_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

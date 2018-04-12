@@ -8,7 +8,7 @@
   'text': 'It is the sign of living nations'
 'description': []
 'sher':
-- 'id': '4_34_1'
+- 'id': '4_34_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'It is the sign of living nations | their fate changes day and night;'
   - 'lang': 'ro'
     'text': 'Nishan Yehi Hai Zamane Mein Zinda Qoumon Ka | Ke Subha-O-Sham Badalti Hain In Ki Taqdeerain'
-- 'id': '4_34_2'
+- 'id': '4_34_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'their life is sincerity and generosity to perfection, | Nature too forgives their follies;'
   - 'lang': 'ro'
     'text': 'Kamal-E-Sidq-O-Marawwat Hai Zindagi In Ki | Maaf Karti Hai Fitrat Bhi In Ki Taqseerain'
-- 'id': '4_34_3'
+- 'id': '4_34_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'in manners qalandar‐like, in majesty as Iskander: | these people are like naked swords.'
   - 'lang': 'ro'
     'text': 'Qalanderana Ada’en, Sikandarana Jalal | Ye Ummatain Hain Jahan Mein Barhana Shamsheerain'
-- 'id': '4_34_4'
+- 'id': '4_34_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Beauty and majesty of a self‐conscious man flows from khudi: | it is the text, the rest are commentaries.'
   - 'lang': 'ro'
     'text': 'Khudi Se Mard-E-Khud Agah Ka Jamal-O-Jalal | K Ye Kitab Hai, Baqi Tamam Tafseerain'
-- 'id': '4_34_5'
+- 'id': '4_34_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'I don’t deny the splendour of the days of ‘Id, | but alas! only the takbirs of free men are acceptable to God.'
   - 'lang': 'ro'
     'text': 'Shikwa-E-Eid Ka Munkir Nahin Hun Mein, Lekin | Qabool-E-Haq Hain Faqat Mard-E-Hur Ki Takbeerain'
-- 'id': '4_34_6'
+- 'id': '4_34_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

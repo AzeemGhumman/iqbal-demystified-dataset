@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Though outwardly dealing with the mundane subject of the age of infancy the main theme of this poem is that the search for the Truth and the beauty of the creation of God is one of the "Longings" bestowed on Man by Him. This faculty expresses itself from the very infancy. This is the way to learn the secrets of the universe as a step towards obtaining the knowledge of God from "Anfus -o-Afaq", which is also required by the Holy Qur’an in numerous verses, such as 2:164; 3:190; 6:95-99; 10:5-6; 17:12; 30:20-27, 46; 36:37-41; 41: 36-37, 39-40; 42:32-35; 45:3-6; 88:17-20'
 'sher':
-- 'id': '1_3_1'
+- 'id': '1_3_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The earth and sky were unknown worlds to me | Only the expanse of mother''s bosom was a world to me'
   - 'lang': 'ro'
     'text': 'thay diyar e nau zameen o aasman mere liye | wussat e aaghaush e madar ek jahan mere liye'
-- 'id': '1_3_2'
+- 'id': '1_3_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Every movement was a symbol of life''s pleasure to me | My own speech was like a meaningless word to me'
   - 'lang': 'ro'
     'text': 'thi har ek junbish nishan e lutf e jaan mere liye | harf e be matlab thi khud meri zuban mere liye'
-- 'id': '1_3_3'
+- 'id': '1_3_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'During infancy''s pain if somebody made me cry | The noise of the door chain would comfort me'
   - 'lang': 'ro'
     'text': 'dard, tiflee mein agar koi rulata tha mujhe | shorish e zanjeer e dar mein lutf aata tha mujhe'
-- 'id': '1_3_4'
+- 'id': '1_3_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Oh! How I stared at the moon for long hours | Staring at its silent journey among broken clouds'
   - 'lang': 'ro'
     'text': 'takte rehana haye! vo pehron talak suay qamar | vo phate badal mein be aawaz e paa uss ka safar'
-- 'id': '1_3_5'
+- 'id': '1_3_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'pochna reh reh ke uss ke koh o sehra ki khabar | aur vo herat darogh e muslahat aamaz per'
-- 'id': '1_3_6'
+- 'id': '1_3_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

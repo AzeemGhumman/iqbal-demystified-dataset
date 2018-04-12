@@ -8,7 +8,7 @@
   'text': 'That glance can not be termed as true'
 'description': []
 'sher':
-- 'id': '3_201_1'
+- 'id': '3_201_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'That glance can not be termed as true, Which draws; a line ''twixt red and pale | That sight is true which does not like, The light of Sun or Moon to ''vail.'
   - 'lang': 'ro'
     'text': 'Nigah Woh Nahin Jo Surkh-o-Zard Pehchane | Nigah Woh Hai Ke Mouhtaj-e-Mehr-o-Mah Nahin'
-- 'id': '3_201_2'
+- 'id': '3_201_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The aim and goal of Muslim true, Is far beyond the bounds of West | Take longer steps and walk space, As this site is not meant for rest.'
   - 'lang': 'ro'
     'text': 'Farang Se Bohat Aage Hai Manzil-e-Momin | Qadam Utha! Ye Maqam Intahaye Rah Nahin'
-- 'id': '3_201_3'
+- 'id': '3_201_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The marts that sell the wine in West, Always keep their doors ajar: | The rapture caused by Knowledge new, Is removed from sin much afar.'
   - 'lang': 'ro'
     'text': 'Khule Hain Sub Ke Liye Ghareebon Ke Maikhane | Uloom-e-Taza Ki Sarmastiyan Gunah Nahin'
-- 'id': '3_201_4'
+- 'id': '3_201_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'If your frame is bereft or heat, Which words, "No god but He impart", | Then bear in mind this well-known fact, Your soul from body may depart.'
   - 'lang': 'ro'
     'text': 'Issi Suroor Mein Poshida Mout Bhi Hai Teri | Tere Badan Men Agar Souz-e-‘La Ilah’ Nahin'
-- 'id': '3_201_5'
+- 'id': '3_201_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

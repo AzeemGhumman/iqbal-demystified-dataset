@@ -8,7 +8,7 @@
   'text': 'I-XX'
 'description': []
 'sher':
-- 'id': '11_365_1'
+- 'id': '11_365_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     - 'phrase': 'gems?'
       'meaning': '        Guhr; gems.'
       'occurrence': !!int '1'
-- 'id': '11_365_2'
+- 'id': '11_365_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

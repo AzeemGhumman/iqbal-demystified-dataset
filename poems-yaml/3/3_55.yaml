@@ -8,7 +8,7 @@
   'text': 'ADAM'
 'description': []
 'sher':
-- 'id': '3_55_1'
+- 'id': '3_55_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The talisman wrought from mud and clay, Whom we give the name of man, | Is mystery known to God alone, Its essence true we can not scan.'
   - 'lang': 'ro'
     'text': 'Tilism-e-Bood-o-Aadam , Jis Ka Naam Hai Adam | Khuda Ka Raaz Hai, Qadir Nahin Hai Jis Pe Sukhan'
-- 'id': '3_55_2'
+- 'id': '3_55_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Since Creationʹs Early Morn began, Time is engaged in constant flight, | Has tried to leave its trace on man, But has not met success e’en slight.'
   - 'lang': 'ro'
     'text': 'Zamana Subah-e-Azal Se Raha Hai Mehv-e-Safar | Magar Ye Iss Ki Tag-o-Dou Se Ho Saka Na Kuhan'
-- 'id': '3_55_3'
+- 'id': '3_55_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

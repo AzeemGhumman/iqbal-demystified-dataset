@@ -8,7 +8,7 @@
   'text': 'CINEMA'
 'description': []
 'sher':
-- 'id': '2_158_1'
+- 'id': '2_158_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Cinema—or new fetish‐fashioning, | Idol‐making and mongering still?'
   - 'lang': 'ro'
     'text': 'Wohi Bot Faroshi, Wohi Bot Gari Hai | Cinema Hai Ya San’at-e-Azari Hai'
-- 'id': '2_158_2'
+- 'id': '2_158_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Art, men called that olden voodoo— | Art, they call this mumbo‐jumbo;'
   - 'lang': 'ro'
     'text': 'Woh San’at Na Thi, Shewa-e-Kafiri Tha | Ye San’at Nahin, Shewa-e-Sahiri Hai'
-- 'id': '2_158_3'
+- 'id': '2_158_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'That—antiquityʹs poor religion: | This—modernityʹs pigeon‐plucking;'
   - 'lang': 'ro'
     'text': 'Woh Mazhab Tha Aqwam-e-Ehd-e-Kuhan Ka | Ye Tehzeeb-e-Hazir Ki Soudagari Hai'
-- 'id': '2_158_4'
+- 'id': '2_158_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

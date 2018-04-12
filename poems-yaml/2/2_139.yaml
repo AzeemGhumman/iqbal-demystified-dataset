@@ -8,7 +8,7 @@
   'text': 'THE ANGELS BID FAREWELL TO ADAM'
 'description': []
 'sher':
-- 'id': '2_139_1'
+- 'id': '2_139_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Thy soul hath no rest, By day or by night, | Though thou art made of dust, Thy nature is mercurial.'
   - 'lang': 'ro'
     'text': 'Atta Huwi Hai Tujhe Roz-o-Shab Ki Betabi | Khabar Nahin Ke Tu Khaki Hai Ye Ke Seemabi'
-- 'id': '2_139_2'
+- 'id': '2_139_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Dust thou art, indeed, And to dust thou shalt return, | But thy nature links thy soul, With the sun, the moon, and the stars.'
   - 'lang': 'ro'
     'text': 'Suna Hai, Khak Se Teri Namood Hai, Lekin | Teri Sarisht Mein Hai Kokabi-o-Mehtabi'
-- 'id': '2_139_3'
+- 'id': '2_139_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'If thou couldst glimpse thy beauty, Even in a dream, | That morphean dream will be, Far nobler than awakening.'
   - 'lang': 'ro'
     'text': 'Jamal Apna Agar Khawab Mein Bhi Tu Dekhe | Hazar Hosh Se Khushtar Teri Shukar Khawabi'
-- 'id': '2_139_4'
+- 'id': '2_139_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Thy musings and thy sighs, At the first streak of dawn— | A passion that sustains thee— Is the envy of our souls.'
   - 'lang': 'ro'
     'text': 'Garan Baha Hai Tera Girya-e-Sehargahi | Issi Se Hai Tere Nakhl-e-Kuhan Ki Shadabi'
-- 'id': '2_139_5'
+- 'id': '2_139_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

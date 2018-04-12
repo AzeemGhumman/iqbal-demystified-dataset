@@ -8,7 +8,7 @@
   'text': 'Of passion’s glow your heart is blank'
 'description': []
 'sher':
-- 'id': '2_26_1'
+- 'id': '2_26_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Of passion’s glow your heart is blank, Your glances are not chaste and frank: | To wonder at then there is naught, That bold and dauntless you are not.'
   - 'lang': 'ro'
     'text': 'Dil Souz Se Khali Hai, Nigah Paak Nahin Hai | Phir Iss Mein Ajab Kya Ke Tu Be-Baak Nahin Hai'
-- 'id': '2_26_2'
+- 'id': '2_26_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'A longing strong for God’s display, Is also hid in self‐same clay: | O heedless man, let this be known, Brains alone you do not own.'
   - 'lang': 'ro'
     'text': 'Hai Zauq-E-Tajali Bhi Issi Khaak Mein Pinhan | Ghafil! Tu Nira Sahib-E-Adraak Nahin Hai'
-- 'id': '2_26_3'
+- 'id': '2_26_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The eye whose light and luster rest, On collyrium brought from West: | Is full of art, conceit and show, It gets not wet at others’ woe.'
   - 'lang': 'ro'
     'text': 'Who Ankh Ke Hai Surma’ay Afrang Se Roshan | Purkaar-O-Sukhan Saaz Hai, Nam Naak Nahin Hai'
-- 'id': '2_26_4'
+- 'id': '2_26_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'How can the priest and monk assess, The height of craze that I possess? | still sound the hems of robes they wear, Which have no rifts and know no tear.'
   - 'lang': 'ro'
     'text': 'Kya Sufi-O-Mullah Ko Khabar Mere Junoon Ki | Un Ka Sar-E-Daman Bhi Abhi Chaak Nahin Hai'
-- 'id': '2_26_5'
+- 'id': '2_26_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'How long the stars shall hold their sway, On fate of man, sprung from clay? | Either bereft of life I drop, Or the Wheel of Fate must stop.'
   - 'lang': 'ro'
     'text': 'Kab Tak Rahe Mehkoomi-E-Anjum Mein Meri Khaak | Ya Main Nahin, Ya Gardish-E-Aflaak Nahin Hai'
-- 'id': '2_26_6'
+- 'id': '2_26_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Lightning I am and keep my eye, On waste and hill that reach the sky: | Heaps of straw and mounds of dust, Too low they are, avoid I must.'
   - 'lang': 'ro'
     'text': 'Bijli Hun, Nazar Koh-O-Bayanbaan Pe Hai Meri | Mere Liye Shayan-E-Khas-O-Khashaak Nahin Hai'
-- 'id': '2_26_7'
+- 'id': '2_26_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

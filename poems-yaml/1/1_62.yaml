@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The subject matter of this ghazal is a continuation of ghazal 10 in that it emphasizes the need for the Love of God to be selfless and complete. The poem adds another value of Islam, viz. that all actions of a Mu’min should be prompted only by the un-adulterated Love of God and should not have even the motive of thawab. Only that good deed is acceptable to God which is performed purely in pursuit of the Pleasure of God.'
 'sher':
-- 'id': '1_62_1'
+- 'id': '1_62_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Majnoon Ne Sheher Chora Tu Sehra Bhi Chor De | Nazare Ki Hawas Ho To Laila Bhi Chor De'
-- 'id': '1_62_2'
+- 'id': '1_62_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'O preacher! Perfection of abandonment attains the objective | As you have abandoned the world, abandon the Hereafter also'
   - 'lang': 'ro'
     'text': 'Waaiz! Kamal-e-Tark Se Milti Hai Yaan Murad | Dunya Jo Chor Di Ha To Uqba Bhi Chor De'
-- 'id': '1_62_3'
+- 'id': '1_62_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -48,7 +48,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Taqleed Ki Rawish Se To Behter Hai Khudkushi | Rasta Bhi Dhoond, Khizr Ka Soda Bhi Chor De'
-- 'id': '1_62_4'
+- 'id': '1_62_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -57,7 +57,7 @@
     'text': 'Like the pen the un-Islamic message is on your tongue | Abandon unjustified pride in the un-Islamic objects also'
   - 'lang': 'ro'
     'text': 'Manind-e-Khama Teri Zuban Par Hai Harf-e-Ghair | Begana Shay Pe Nazish-e-Bay-Ja Bhi Chor De'
-- 'id': '1_62_5'
+- 'id': '1_62_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -66,7 +66,7 @@
     'text': 'Theology is no pleasure if heart does not have Love’s pathos | If you are not the Wounded, you should abandon fluttering also'
   - 'lang': 'ro'
     'text': 'Lutf-e-Kalaam Kya Jo Na Ho Dil Mein Dard-e-Ishq | Bismil Nahin Hai Tu To Tarapna Bhi Chor De'
-- 'id': '1_62_6'
+- 'id': '1_62_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -75,7 +75,7 @@
     'text': 'Weep like the dew on flowers and leave the garden | Abandon the desire of staying in this garden also'
   - 'lang': 'ro'
     'text': 'Shabnam Ki Tarah Phoolon Pe Ro, Aur Chaman Se Chal | Iss Bagh Mein Qayam Ka Soda Bhi Chor De'
-- 'id': '1_62_7'
+- 'id': '1_62_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -84,7 +84,7 @@
     'text': 'The custom of Love is abandonment of all | Abandon temple, mosque, and church also'
   - 'lang': 'ro'
     'text': 'Hai Ashiqi Mein Rasm Alag Sub Se Baithna | Butkhana Bhi, Haram Bhi, Kaleesa Bhi Chor De'
-- 'id': '1_62_8'
+- 'id': '1_62_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -97,7 +97,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sodagari Nahin, Ye Ibadat Khuda Ki Hai | Ae Be-Khabar! Jaza Ki Tamanna Bhi Chor De'
-- 'id': '1_62_9'
+- 'id': '1_62_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -110,7 +110,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Acha Hai Dil Ke Sath Rahe Paasban-e-Aqal | Lekin Kabhi Kabhi Isse Tanha Bhi Chor De'
-- 'id': '1_62_10'
+- 'id': '1_62_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -119,7 +119,7 @@
     'text': 'What life is that which is dependent on others ? | Abandon dependence on the life of fame also'
   - 'lang': 'ro'
     'text': 'Jeena Woh Kya Jo Ho Nafas-e-Ghair Par Madar | Shohrat Ki Zindagi Ka Bhrosa Bhi Chor De'
-- 'id': '1_62_11'
+- 'id': '1_62_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -128,7 +128,7 @@
     'text': 'Repeated request is a kind of boldness ! O Kalam | The condition for approbation is to abandon urging also'
   - 'lang': 'ro'
     'text': 'Shaukhi Si Hai Sawal-e-Mukarar? Mein Ae Kaleem! | Shart-e-Raza Ye Hai Ke Taqaza Bhi Chor De'
-- 'id': '1_62_12'
+- 'id': '1_62_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

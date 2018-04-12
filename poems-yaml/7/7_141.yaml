@@ -8,14 +8,14 @@
   'text': '(141)'
 'description': []
 'sher':
-- 'id': '7_141_1'
+- 'id': '7_141_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'عجم از نغمہ ام آتش بجان است | صدای من درای کاروان است'
   - 'lang': 'en'
     'text': 'Iran’s soul has been kindled by my song– | The resting caravan’s departing gong.'
-- 'id': '7_141_2'
+- 'id': '7_141_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

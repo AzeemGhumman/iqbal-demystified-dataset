@@ -8,14 +8,14 @@
   'text': '(149)'
 'description': []
 'sher':
-- 'id': '7_149_1'
+- 'id': '7_149_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'رمیدی از خداوندان افرنگ | ولی بر گور و گنبد سجدہ پاشی'
   - 'lang': 'en'
     'text': 'Though you deny the Western demi-gods, | Yet you kneel down and worship tombs and domes.'
-- 'id': '7_149_2'
+- 'id': '7_149_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Where is the moving spirit of my life?'
 'description': []
 'sher':
-- 'id': '2_93_1'
+- 'id': '2_93_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Where is the moving spirit of my life? | The thunder-bolt, the harvest of my life?'
   - 'lang': 'ro'
     'text': 'Woh Mera Ronaq-e-Mehfil Kahan Hai | Meri Bijli, Mera Hasil Kahan Hai'
-- 'id': '2_93_2'
+- 'id': '2_93_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

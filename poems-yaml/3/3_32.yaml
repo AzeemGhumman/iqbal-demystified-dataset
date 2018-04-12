@@ -8,7 +8,7 @@
   'text': 'DEFEATISM'
 'description': []
 'sher':
-- 'id': '3_32_1'
+- 'id': '3_32_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The mystics of the present age, Are devoid of warriorʹs rage: | The claim that they are rapt with wine, Of ’Last and turn from Code Divine!'
   - 'lang': 'ro'
     'text': 'Mujahidana Hararat Rahi Na Sufi Mein | Bahana Be-Amali Ka Bani Sharab-e-Alasst'
-- 'id': '3_32_2'
+- 'id': '3_32_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The jurist has such bent of mind, That makes to monkish mode inclined, | In Holy Wars take rock‐like stand, They are just combats hand to hand.'
   - 'lang': 'ro'
     'text': 'Faqeeh-e-Sheher Bhi Ruhbaniat Pe Hai Majboor | Ke Maarke Hain Shariat Ke Jang-e-Dast-Badast'
-- 'id': '3_32_3'
+- 'id': '3_32_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

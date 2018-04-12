@@ -8,7 +8,7 @@
   'text': 'NEW WORLD'
 'description': []
 'sher':
-- 'id': '3_140_1'
+- 'id': '3_140_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Decrees of Fate are not concealed, From man whose heart throbbing seems: | He sees the image of new World, In slumberous state, during dreams.'
   - 'lang': 'ro'
     'text': 'Zinda Dil Se Nahin Poshida Zameer-e-Taqdeer | Khawab Mein Dekhta Hai Alam-e-Nau Ki Tasveer'
-- 'id': '3_140_2'
+- 'id': '3_140_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'When prayer call at early morn, Transports him to Morpheusʹ domain, | He tries to build the world beheld, With utmost might and utmost main.'
   - 'lang': 'ro'
     'text': 'Aur Jab Bang-e-Zan Karti Hai Baidar Usse | Karta Hai Khawab Mein Dekhi Huwi Dunya Tameer'
-- 'id': '3_140_3'
+- 'id': '3_140_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

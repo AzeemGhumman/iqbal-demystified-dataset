@@ -8,14 +8,14 @@
   'text': 'EGO | Chapter 2'
 'description': []
 'sher':
-- 'id': '11_176_1'
+- 'id': '11_176_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دل تو داغ پنھانی ندارد | تب و تاب مسلمانی ندارد'
   - 'lang': 'en'
     'text': 'Thy heart keeps not that hidden scar. | A Muslim’s shine it lacks so far.'
-- 'id': '11_176_2'
+- 'id': '11_176_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

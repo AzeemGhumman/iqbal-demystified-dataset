@@ -8,14 +8,14 @@
   'text': 'VI-VII'
 'description': []
 'sher':
-- 'id': '11_307_1'
+- 'id': '11_307_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مگو با من خدای ما چنین کرد | کہ شستن میتوان از دامنش گرد'
   - 'lang': 'en'
     'text': 'Blame not the God for this or that hurt, | This dust should be dusted from thy skirt.'
-- 'id': '11_307_2'
+- 'id': '11_307_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

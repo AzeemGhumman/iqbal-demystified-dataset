@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'It is necessary to know the history of the Islamic world in the first quarter of the twentieth century to understand this poem. This has been given in the introductions to several previous poems whose perusal is recommended. This poem relates particularly an incident of the siege of Idarnah (Adrianople) in the Balkans for which see poem 103 Jawab-i-Shakwah (The Response to the Complaint), Note 21. The central theme and the purpose of the poem is to state an important principle of Islamic warfare, which is stated in the last two verses.'
 'sher':
-- 'id': '1_131_1'
+- 'id': '1_131_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'When the struggle between Truth and falsehood began in Europe | The Truth was compelled on wielding the dagger'
   - 'lang': 'ro'
     'text': 'Yourap Mein Jis Ghari Haq-o-Batil Ki Chir Gyi | Haq Khanjar Aazmai Pe Majboor Ho Gya'
-- 'id': '1_131_2'
+- 'id': '1_131_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gard-e-Saleeb, Gard-e-Qamar Halqa Zan Huwi | Shikri Hisar-e-Darna Mein Mehsoor Ho Gya'
-- 'id': '1_131_3'
+- 'id': '1_131_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'Provisions of Muslim soldiers became exhausted | The face of hope from the eye became concealed'
   - 'lang': 'ro'
     'text': 'Muslim Sipahiyon Ke Zakheere Huwe Tamam | Rooye Umeed Aankh Se Mastoor Ho Gya'
-- 'id': '1_131_4'
+- 'id': '1_131_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'At last by the Turkish army commander’s orders | “Martial Law” was proclaimed the law of the city'
   - 'lang': 'ro'
     'text': 'Akhir Ameer-e-Askar-e-Turkey Ke Hukm Se | ‘Aaeen-e-Jang’ Sheher Ka Dastoor Ho Gya'
-- 'id': '1_131_5'
+- 'id': '1_131_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Everything was transferred to the army camp’s store | The eagle became beggar for the grain of the sparrow'
   - 'lang': 'ro'
     'text': 'Har Shay Huwi Zakheera-e-Lashkar Mein Muntaqil | Shaheen Gadaye Dana-e-Usfoor Ho Gya'
-- 'id': '1_131_6'
+- 'id': '1_131_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'But when the Faqah of the city heard this news | He exploded with anger like the thunderbolt of tur'
   - 'lang': 'ro'
     'text': 'Lekin Faqeeh-e-Sheher Ne Jis Dam Suni Ye Baat | Garma Ke Misl-e-Saeeqa-e-Toor Ho Gya'
-- 'id': '1_131_7'
+- 'id': '1_131_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': '‘Zimmi Ka Maal Lashkar-e-Muslim Pe Hai Haraam’ | Fatwa Tamam Sheher Mein Mashoor Ho Gya'
-- 'id': '1_131_8'
+- 'id': '1_131_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

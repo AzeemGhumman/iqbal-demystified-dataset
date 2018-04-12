@@ -8,7 +8,7 @@
   'text': 'The dissolute know the Sufi’s accomplishments'
 'description': []
 'sher':
-- 'id': '4_27_1'
+- 'id': '4_27_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The dissolute know the Sufi’s accomplishments, | though their miracles are not so well‐known.'
   - 'lang': 'ro'
     'text': 'Rindon Ko Bhi Maloom Hain Sufi Ke Kamalaat | Har Chand Ke Mashoor Nahin In Ke Karamaat'
-- 'id': '4_27_2'
+- 'id': '4_27_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Self‐enrichment, self‐respect and the cry of Ana‐al‐Haq— | these are the states of the wayfarer, if he be free;'
   - 'lang': 'ro'
     'text': 'Khud Geeri-O-Khudari-O-Gulbang-E-‘Anl-Ul-Haq’ | Azad Ho Salik  To Hain Ye Uss Ke Maqamaat'
-- 'id': '4_27_3'
+- 'id': '4_27_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

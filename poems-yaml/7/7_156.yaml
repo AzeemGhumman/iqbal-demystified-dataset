@@ -8,14 +8,14 @@
   'text': '(156)'
 'description': []
 'sher':
-- 'id': '7_156_1'
+- 'id': '7_156_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو می گوئی کہ من ہستم خدا نیست | جہان آب و گل را انتہا نیست'
   - 'lang': 'en'
     'text': 'You say that you exist but God does not | And that the universe is infinite.'
-- 'id': '7_156_2'
+- 'id': '7_156_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

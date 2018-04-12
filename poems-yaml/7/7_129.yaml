@@ -8,14 +8,14 @@
   'text': '(129)'
 'description': []
 'sher':
-- 'id': '7_129_1'
+- 'id': '7_129_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو نرگس این چمن نادیدہ مگذر | چو بو در غنچۂ پیچیدہ مگذر'
   - 'lang': 'en'
     'text': 'Do not pass through this garden with eyes closed | Narcissus-like, and do not like scent keep'
-- 'id': '7_129_2'
+- 'id': '7_129_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(45)'
 'description': []
 'sher':
-- 'id': '7_45_1'
+- 'id': '7_45_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خرد اندر سر ھر کس نہادند | تنم چون دیگران از خاک و خون است'
   - 'lang': 'en'
     'text': 'There is an intellect in every man. | My body is, like others’, clay and blood,'
-- 'id': '7_45_2'
+- 'id': '7_45_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

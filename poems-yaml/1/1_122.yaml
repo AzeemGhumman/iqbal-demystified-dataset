@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is difficult to understand. It compares the intoxication of the material kind, which may be caused by intoxicants or the arrogance of material wealth, with the ecstasy of the wine of m‘arifah which gives additional sanity in the form of insight into spiritual truths to the one who drinks it. The Muslim Ummah is addressed as the cup-bearer. In the last verse the Ummah is admonished to wake up from its slumber of several centuries to face the problems of the coming age, which is expressed by the metaphor of dawn. The metaphors of night and dawn in this verse also represent the dark age in the history of the Muslim Ummah, which is about to end, and the new world order in which the Muslim Ummah will be the leader of mankind and will be called upon to shoulder various responsibilities. This thought is expanded in the poem 145 “tulu-i-Islam” (The Dawn of Islam), which is coming later in the book.'
 'sher':
-- 'id': '1_122_1'
+- 'id': '1_122_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Everyone knows how to throw down people with intoxicants | The fun is to convert the intoxicated one to sanity, O cup-bearer'
   - 'lang': 'ro'
     'text': 'Nasha Pila Ke Girana To Sub Ko Ata Hai | Maza To Jab Hai Ke Girton Ko Thaam Le Saqi'
-- 'id': '1_122_2'
+- 'id': '1_122_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Those who were the old wine-drinkers are gradually departing | Bring the water of immortality from somewhere, O cup-bearer'
   - 'lang': 'ro'
     'text': 'Jo Badah Kash The Purane, Woh Uthte Jate Hain | Kaheen Se Aab-e-Baqaye Dawam Le Saqi!'
-- 'id': '1_122_3'
+- 'id': '1_122_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

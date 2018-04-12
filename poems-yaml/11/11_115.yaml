@@ -8,7 +8,7 @@
   'text': 'XI-XXXVII'
 'description': []
 'sher':
-- 'id': '11_115_1'
+- 'id': '11_115_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -22,7 +22,7 @@
     - 'phrase': '“Mountain’s”'
       'meaning': '        Mountain a big power.'
       'occurrence': !!int '1'
-- 'id': '11_115_2'
+- 'id': '11_115_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

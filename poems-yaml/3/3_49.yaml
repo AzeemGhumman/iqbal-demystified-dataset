@@ -8,7 +8,7 @@
   'text': 'RESIGNATION'
 'description': []
 'sher':
-- 'id': '3_49_1'
+- 'id': '3_49_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The twigs and boughs this subtle point explain | That sense of surrounding wide to plants is plain.'
   - 'lang': 'ro'
     'text': 'Har Shakh Se Ye Nukta-e-Pecheeda Hai Paida | Poudon Ko Bhi Ehsas Hai Pehnaye Faza Ka'
-- 'id': '3_49_2'
+- 'id': '3_49_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The seed is not content with dwelling dark, | It has a craze to spire from earth like spark.'
   - 'lang': 'ro'
     'text': 'Zulmat Kada-e-Khak Pe Shakir Nahin Rehta | Har Lehza Hai Dane Ko Junoon Nash-o-Nama Ka'
-- 'id': '3_49_3'
+- 'id': '3_49_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Donʹt bar the path to deeds for Natureʹs claims, | Submission to Will of God has different aims.'
   - 'lang': 'ro'
     'text': 'Fitrat Ke Taqazon Pe Na Kar Rah-e-Amal Band | Maqsood Hai Kuch Aur Hi Tasleem-o-Raza Ka'
-- 'id': '3_49_4'
+- 'id': '3_49_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

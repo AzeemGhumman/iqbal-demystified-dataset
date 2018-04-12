@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is an elegy for Nawab Mirza Khan Dagh written at the time of his death. It pays tribute to the literary genius of Dagh and shows the reverence and love of ‘Allamah Iqbal for him.'
 'sher':
-- 'id': '1_44_1'
+- 'id': '1_44_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The grandeur of Ghalib1 has remained buried since long | Mahdi Majruh1 is the cemetery''s resident since long'
   - 'lang': 'ro'
     'text': 'Azmat-e-Ghalib Hai Ek Muddat Se Pewand-e-Zameen | Mehdi-e-Majrooh Hai Sheher-e-Khamoshan Ka Makeen'
-- 'id': '1_44_2'
+- 'id': '1_44_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tor Dali Mout Ne Ghurbat Mein Meenaye Ameer | Chashme-e-Mehfil Mein Hai Ab Tak Kaif-e-Sehbaye Ameer'
-- 'id': '1_44_3'
+- 'id': '1_44_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'However, today O Companion! The whole garden is mourning! | Lighted candle is extinguished, literary assembly is mourning!'
   - 'lang': 'ro'
     'text': 'Aaj Lekin Hum-Nawa! Sara Chaman Matam Mein Hai | Shama-e-Roshan Bujh Gyi, Bazm-e-Sukhan Matam Mein Hai'
-- 'id': '1_44_4'
+- 'id': '1_44_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'The Delhi''s nightingale made its nest in such a garden | Where all the world''s nightingales are singing in a chorus'
   - 'lang': 'ro'
     'text': 'Bulbul-e-Dilli Ne Bandha Iss Chaman Mein Ashiyan | Hum Nawa Hain Sub Anadil Bagh-e-Hasti Ke Jahan'
-- 'id': '1_44_5'
+- 'id': '1_44_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Chal Basa Dagh! Aah! Mayyat Iss Ki Zaib-e-Dosh Hai | Akhri Shayar Jahan Abad Ka Khamosh Hai'
-- 'id': '1_44_6'
+- 'id': '1_44_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ab Kahan Woh Bankpan, Woh Soukhi-e-Tarz-e-Byaban | Aag Thi Kafoor-e-Peeri Mein Jawani Ki Nihan'
-- 'id': '1_44_7'
+- 'id': '1_44_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'Every heart has the longing which the language of Dagh had | This Lailah was unveiled there, she is behind the veil here'
   - 'lang': 'ro'
     'text': 'Thi Zuban-e-Dagh Par Jo Aarzu Har Dil Mein Hai | Laila-e-Maani Wahan Be Parda, Yaan Mehmil Mein Hai'
-- 'id': '1_44_8'
+- 'id': '1_44_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
     'text': 'Who will ask zephyr now the secret of silence of the rose? | Who in the garden will understand the secret of nightingale''s wailing?'
   - 'lang': 'ro'
     'text': 'Ab Saba Se Kon Puche Ga Sukoot-e-Gul Ka Raaz | Kon Samjhe Ga Chaman Mein Nala-e-Bulbul Ka Raaz'
-- 'id': '1_44_9'
+- 'id': '1_44_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -103,7 +103,7 @@
     'text': 'In his elegant imagination he was not unaware of reality | The bird''s eye remained focused on the nest even in flight'
   - 'lang': 'ro'
     'text': 'Thi Haqiqat Se Na Ghaflat Fikar Ki Parwaz Mein | Aankh Taeer Ki Nasheman Par Rahi Parwaz Mein'
-- 'id': '1_44_10'
+- 'id': '1_44_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -112,7 +112,7 @@
     'text': 'Others will show us the subtleties of linguistic thought | The elevated elegance of the sagacity of their thought'
   - 'lang': 'ro'
     'text': 'Aur Dikhlayen Ge Mazmoon Ki Humain Bareekian | Apne Fikr-e-Nukta Aara Ki Falak Pemaeeyan'
-- 'id': '1_44_11'
+- 'id': '1_44_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -121,7 +121,7 @@
     'text': 'They will make us cry painting the picture of time''s vicissitudes | Or will show us the new world of their imagination'
   - 'lang': 'ro'
     'text': 'Talakhi-e-Doran Ke Naqhe Khainch Kar Rulwayen Ge | Ya Takhiyul Ki Nayi Dunya Humain Dikhlayen Ge'
-- 'id': '1_44_12'
+- 'id': '1_44_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Iss Chaman Mein Hon Ge Paida Bulbul-e-Sheeraz Bhi | Saikron Sahir Bhi Hon Ge, Sahib-e-Ijaz Bhi'
-- 'id': '1_44_13'
+- 'id': '1_44_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -147,7 +147,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Uthain Ge Azar Hazaron Shair Ke Butkhane Se | Mai Pilayen Gen Aye Saqi Naye Pemane Se'
-- 'id': '1_44_14'
+- 'id': '1_44_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -156,7 +156,7 @@
     'text': 'Many commentaries of the book of Love will be written | There will be many interpretations of the youths'' dreams'
   - 'lang': 'ro'
     'text': 'Likhi Jaen Gi Kitab-e-Dil Ki Tafseerain Bohat | Hon Gi Ae Khawab-e-Jawani! Teri Taabeerain Bohat'
-- 'id': '1_44_15'
+- 'id': '1_44_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -165,7 +165,7 @@
     'text': 'However, who will draw the exact picture of Love? | The master having departed who will enchant the heart'
   - 'lang': 'ro'
     'text': 'Hu Bahu Khainche Ga Lekin Ishq Ki Tasveer Kon? | Uth Gya Nawak Fagan, Mare Ga Dil Par Teer Kon?'
-- 'id': '1_44_16'
+- 'id': '1_44_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -174,7 +174,7 @@
     'text': 'I am sowing the seeds of tears in the soil of verse | You also cry, O Delhi''s soil! I am crying for Dagh!'
   - 'lang': 'ro'
     'text': 'Ashak Ke Dane Zameen-e-Shair Mein Bota Hun Main | Tu Bhi Ro Ae Khak-e-Dilli! Dagh Ko Rota Hun Main'
-- 'id': '1_44_17'
+- 'id': '1_44_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -187,7 +187,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Jahan Abad, Ae Sarmaya-e-Bazm-e-Sukhan! | Ho Gya Phir Aaj Pamal-e-Khazan Tera Chaman'
-- 'id': '1_44_18'
+- 'id': '1_44_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -196,7 +196,7 @@
     'text': 'That colorful rose of yours has departed like fragrance | That is, the abode of Urdu has become deprived of Dagh'
   - 'lang': 'ro'
     'text': 'Woh Gul-e-Rangeen Tera Rukhsat Misal-e-Bu Huwa | Ah! Khali Dagh Se Kashana-e-Urdu Huwa'
-- 'id': '1_44_19'
+- 'id': '1_44_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -209,7 +209,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Thi Na Shaid Kuch Kashish Aesi Watan Ki Khak Mein | Woh Mah-e-Kamil Huwa Pinhan Dakkan Ki Khak Mein'
-- 'id': '1_44_20'
+- 'id': '1_44_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -222,7 +222,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Uth Gye Saqi Jo The, Mai-Khana Khali Reh Gya | Yadgar-e-Bazm-e-Dehli Aik Hali Reh Gya'
-- 'id': '1_44_21'
+- 'id': '1_44_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -231,7 +231,7 @@
     'text': 'The tyranny of death makes longing shed tears of blood | The archer of death shoots out arrows in the dark'
   - 'lang': 'ro'
     'text': 'Arzoo Ko Khoon Rulati Hai Baidad-e-Ajal | Maarta Hai Teer Tareeki Mein Sayyad-e-Ajal'
-- 'id': '1_44_22'
+- 'id': '1_44_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -244,7 +244,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khul Nahin Sakti Shakayat Ke Liye Lekin Zuban | Hai Khazan Ka Rang Bhi Wajah-e-Qayam-e-Gulistan'
-- 'id': '1_44_23'
+- 'id': '1_44_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

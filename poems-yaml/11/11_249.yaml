@@ -8,14 +8,14 @@
   'text': 'XII-VII'
 'description': []
 'sher':
-- 'id': '11_249_1'
+- 'id': '11_249_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'اگر پندی ز درویشی پذیری | ہزار امت بمیرد تو نمیری'
   - 'lang': 'en'
     'text': 'If you pay a heed once, to this poor guy, | May die thousand nations but ye won’t die.'
-- 'id': '11_249_2'
+- 'id': '11_249_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

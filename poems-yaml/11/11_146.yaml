@@ -8,7 +8,7 @@
   'text': 'XI-LXVIII'
 'description': []
 'sher':
-- 'id': '11_146_1'
+- 'id': '11_146_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'phase'
       'meaning': '        Phase state.'
       'occurrence': !!int '1'
-- 'id': '11_146_2'
+- 'id': '11_146_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

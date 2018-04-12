@@ -8,14 +8,14 @@
   'text': '(114)'
 'description': []
 'sher':
-- 'id': '7_114_1'
+- 'id': '7_114_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مزاج لالۂ خود رو شناسم | بشاخ اندر گلان را بو شناسم'
   - 'lang': 'en'
     'text': 'I know the ways of the wild tulip well. | I can smell roses’ fragrance in the stem.'
-- 'id': '7_114_2'
+- 'id': '7_114_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

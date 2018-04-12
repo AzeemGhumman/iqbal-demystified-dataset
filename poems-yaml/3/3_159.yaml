@@ -8,7 +8,7 @@
   'text': 'MASTERSHIP'
 'description': []
 'sher':
-- 'id': '3_159_1'
+- 'id': '3_159_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The present age is really the same old age: | It is either the men of prayer or the politicians who are in charge.'
   - 'lang': 'ro'
     'text': 'Dour-e-Hazir Hai Haqiqat Mein Wohi Ehd-e-Qadeem | Ahle-e-Sajadah Hain Ya Ahl-e-Siasat Hain Imam'
-- 'id': '3_159_2'
+- 'id': '3_159_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Neither the miracles of those men of prayer Nor the power of government is the reason for it | For centuries the people have been used to slavery.'
   - 'lang': 'ro'
     'text': 'Iss Mein Peeri Ki Karamat Hai Na Meeri Ka Ha Zor | Saikrhon Sadiyon Se Khugar Hain Ghulami Ke Awam'
-- 'id': '3_159_3'
+- 'id': '3_159_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

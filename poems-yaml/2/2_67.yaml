@@ -8,7 +8,7 @@
   'text': 'To God the angels did complain'
 'description': []
 'sher':
-- 'id': '2_67_1'
+- 'id': '2_67_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'To God the angels did complain ʹGainst Iqbal and did say | That rude and insolent is he, Nature he paints much gay.'
   - 'lang': 'ro'
     'text': 'Ki Haq Se Farishton Ne Iqbal Ki Ghammazi | Gustakh Hai, Karta Hai Fitrat Ki Hina Bandi'
-- 'id': '2_67_2'
+- 'id': '2_67_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Though born of mud and water, yet A god assumes to be: | Not bound to any home or land, Of earthly ties is free.'
   - 'lang': 'ro'
     'text': 'Khaki Hai Magar Iss Ke Andaz Hain Aflaki | Rumi Hai Na Shami Hai, Kashi Na Samarqandi'
-- 'id': '2_67_3'
+- 'id': '2_67_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

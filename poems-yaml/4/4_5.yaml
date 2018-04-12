@@ -8,7 +8,7 @@
   'text': 'A DEPOSED MONARCH'
 'description': []
 'sher':
-- 'id': '4_5_1'
+- 'id': '4_5_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Good luck to that King, cashiered so gracefully, whose | Dismissal shows how a ruling Power behaves!'
   - 'lang': 'ro'
     'text': 'Ho Mubarik Uss Shahenshah-e-Nikofar Jaam Ko | Jis Ki Qurbani Se Asrar-e-Mulookiyat Hain Faash'
-- 'id': '4_5_2'
+- 'id': '4_5_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In Britain’s fane the King is only a plaster | Image its worshippers smash whenever they choose;'
   - 'lang': 'ro'
     'text': '''Shah'' Hai Bartanvi Mandar Mein Ek Mitti Ka But | Jis Ko Kar Sakte Hain, Jab Chahain Poojari Paash Paash'
-- 'id': '4_5_3'
+- 'id': '4_5_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

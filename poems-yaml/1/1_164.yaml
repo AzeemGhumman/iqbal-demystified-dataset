@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal expresses ‘Allamah Iqbal’s deep concern over the poor condition of the Muslim Ummah in material as well as spiritual spheres. It starts with a request to the Holy Prophet (S.A.W.) for supplication to God and passes to the message of activism for the Ummah.'
 'sher':
-- 'id': '1_164_1'
+- 'id': '1_164_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Bad-e-Saba! Kamli Wale (S.A.W.) Se Ja Kehiyo Pegham Mera | Qabze Se Ummat Bechari Ke Deen Bhi Gya, Dunya Bhi Gyi'
-- 'id': '1_164_2'
+- 'id': '1_164_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'The river bank gave this message to the restless wave | “Union with ocean is still far and you have already lost patience in the river”'
   - 'lang': 'ro'
     'text': 'Ye Mouj-e-Pareeshan  Khatar Ko Pegham Lab-e-Sahil Ne Diya | Hai Door Wisaal-e-Behar Abhi, Tu Darya Mein Ghabra Bhi Gyi!'
-- 'id': '1_164_3'
+- 'id': '1_164_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'O Qais! Love’s honor is made durable with litter’s curtain | If litter is lost, glory, honor as well as Lailah is lost!'
   - 'lang': 'ro'
     'text': 'Izzat Hai Mohabbat Ki Qaeem Ae Qais! Hijab-e-Mehmil Se | Mehmil Jo Gya Izzat Bhi Gyi, Ghairat Bhi Gyi, Laila Bhi Gyi'
-- 'id': '1_164_4'
+- 'id': '1_164_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Though the drop got pearl’s dignity by abandoning struggle | It lost taste for wandering and struggle in the river'
   - 'lang': 'ro'
     'text': 'Ki Tark Tag-o-Dou Qatre Ne To Abruye Gohar Bhi Mili | Awargi-e-Fitrat Bhi Gyi Aur Kashmakash-e-Darya Bhi Gyi'
-- 'id': '1_164_5'
+- 'id': '1_164_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

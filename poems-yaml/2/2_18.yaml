@@ -8,7 +8,7 @@
   'text': 'Who is this composer of ghazals, who is burningly passionate and cheerful'
 'description': []
 'sher':
-- 'id': '2_18_1'
+- 'id': '2_18_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Who is this composer of ghazals, who is burningly passionate and cheerful? | He makes the thoughts of the wise full of madness.'
   - 'lang': 'ro'
     'text': 'Ye Kon Ghazal Khawan Hai, Pursouz-o-Nishat Angaiz | Andesha’ay Dana Ko Karta Hai Junoon Amaiz'
-- 'id': '2_18_2'
+- 'id': '2_18_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Although poverty also has royal characteristics, | Kingship is only half complete without a kingdom.'
   - 'lang': 'ro'
     'text': 'Gau Faqr Bhi Rakhta Hai Andaz-e-Mulookana | Na-Pukhta Hai Pervaizi Be-Saltanat-e-Pervaiz'
-- 'id': '2_18_3'
+- 'id': '2_18_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Now in the cell of the Sufi, the same poverty has not remained— | The poverty whose charter is written in the blood of the hearts of lions.'
   - 'lang': 'ro'
     'text': 'Ab Hujra’ay Sufi Mein Woh Faqr Nahin Baqi | Khoon-e-Dil-e-Shairan Ho Jis Faqr Ki Dastavaiz'
-- 'id': '2_18_4'
+- 'id': '2_18_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Ah circle of dervishes, see how the man of God is, | In whose collar is the tumult of Judgement’s Day—'
   - 'lang': 'ro'
     'text': 'Ae Halqa’ay Darveshan! Who Mard-e-Khuda Kaisa | Ho Jis Ke Gireeban Mein Hangama’ay Rastakhaiz'
-- 'id': '2_18_5'
+- 'id': '2_18_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': '—who is as bright as a flame by the heat of repetition of God’s name; | Who is quicker than the lightning by the swiftness of his thought.'
   - 'lang': 'ro'
     'text': 'Jo Zakr Ki Garmi Se Shaule Ki Tarah Roshan | Jo Fikar Ki Sura’at Mein Bajli Se Zaida Taez !'
-- 'id': '2_18_6'
+- 'id': '2_18_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Kingship gives rise to signs of madness— | They are the scalpels of Allah, be they Taimur of Genghis.'
   - 'lang': 'ro'
     'text': 'Karti Hai Mulookiat Asaar-e-Junoon Paida | Allah Ke Nashtar Hain Taimoor Ho Ya Changaiz'
-- 'id': '2_18_7'
+- 'id': '2_18_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

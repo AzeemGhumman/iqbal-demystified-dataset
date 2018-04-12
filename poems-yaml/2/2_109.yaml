@@ -8,7 +8,7 @@
   'text': 'This reason of mine knows not good from evil'
 'description': []
 'sher':
-- 'id': '2_109_1'
+- 'id': '2_109_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This reason of mine knows not good from evil; | And tries to exceed the bounds that nature fixed;'
   - 'lang': 'ro'
     'text': 'Khirad Waqif Nahin Hai Naik-o-Bad Se | Barhi Jati Hai Zalim Apni Had Se'
-- 'id': '2_109_2'
+- 'id': '2_109_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Intuition in the West was clever in its power'
 'description': []
 'sher':
-- 'id': '2_62_1'
+- 'id': '2_62_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Intuition in the West was clever in its power, | But had not the plenitude for absolute abandon.'
   - 'lang': 'ro'
     'text': 'Huwa Na Zor Se Uss Ke Koi Greban Chaak | Agarcha Maghribiyon Ka Junoon Bhi Tha Chalaak'
-- 'id': '2_62_2'
+- 'id': '2_62_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The quintessence of life is the force of faith supreme— | It is a force denied to all our seats of learning.'
   - 'lang': 'ro'
     'text': 'Mai-e-Yaqeen Se Zameer-e-Hayat Hai Pursouz | Naseeb-e-Madrasa Ya Rab Ye Aab-e-Atish Naak'
-- 'id': '2_62_3'
+- 'id': '2_62_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The galaxies, the planets, the firmament, are all | Waiting for man’s rise, like a star in heaven.'
   - 'lang': 'ro'
     'text': 'Urooj-e-Adam-e-Khaki Ke Mutazir Hain Tamam | Ye Kehkashan, Ye Sitare, Ye Neelgoon aflaak'
-- 'id': '2_62_4'
+- 'id': '2_62_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Brains are bright and hearts are dark and eyes are bold, | Is this the sum and substance of what our age has gained?'
   - 'lang': 'ro'
     'text': 'Yehi Zamana-e-Hazir Ki Kainat Hai Kya | Damagh Roshan-o-Dil Teerah-o-Nigah Bebaak'
-- 'id': '2_62_5'
+- 'id': '2_62_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The world is a haystack for the fire of the Muslim soul, | But if thou art eyeless, thou canst not find thy way.'
   - 'lang': 'ro'
     'text': 'Tu Be-Basar Ho To Ye Mana’ay Nigah Bhi Hai | Wagarna Aag Hai Momin, Jahan Khs-o-Khashak'
-- 'id': '2_62_6'
+- 'id': '2_62_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'To a multitude of men, reason is the guide, | They know not that frenzy has a wisdom of its own.'
   - 'lang': 'ro'
     'text': 'Zamana Aqal Ko Samjha Huwa Hai Mashal-e-Rah | Kise Khabar Ke Junoon Bhi Hai Sahib-e-Idraak'
-- 'id': '2_62_7'
+- 'id': '2_62_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

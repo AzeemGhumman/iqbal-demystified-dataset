@@ -8,14 +8,14 @@
   'text': '(125)'
 'description': []
 'sher':
-- 'id': '7_125_1'
+- 'id': '7_125_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'اگر آگاہی از کیف و کم خویش | یمی تعمیر کن از شبنم خویش'
   - 'lang': 'en'
     'text': 'If you know your potentialities, | Then with the dew you are create vast seas.'
-- 'id': '7_125_2'
+- 'id': '7_125_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

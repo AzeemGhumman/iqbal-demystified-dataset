@@ -8,14 +8,14 @@
   'text': '(163)'
 'description': []
 'sher':
-- 'id': '7_163_1'
+- 'id': '7_163_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'گریز آخر ز عقل ذوفنون کرد | دل خود کام را از عشق خون کرد'
   - 'lang': 'en'
     'text': 'At last from artful reason he has freed | Himself and taught his selfish heart to bleed'
-- 'id': '7_163_2'
+- 'id': '7_163_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

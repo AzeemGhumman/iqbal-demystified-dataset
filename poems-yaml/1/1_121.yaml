@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This long poem is part of the series of long poems in which ‘Allamah Iqbal has discussed the rise and fall of the Muslim Ummah and has analyzed its causes, shown his bereavement as well as has offered its cure and has given the message of hope. A few of these poems have been mentioned in the Introduction to Poem 88 “Shakwah” (The Complaint). | The causes of the fall of the Muslim Ummah can be grouped into two classes, viz. the machinations of the Western world and the shortcomings of the Muslim themselves.The present poem is complementary to Shakwah. In Shakwah the ‘Allamah complains to God for the deplorable condition of the Muslim world and society and prays for help. In the present poem he relays the response given by God to Muslims. The details of the response are generally restricted to the Muslims’ own faults. These faults can be summarized as follows: | 1. Muslims have distanced themselves from the Holy Qur’an, Islamic values and the norms of their ancestors, and have adopted Western norms in thought and deeds. | 2. They have given up Islamic learning. | 3. Insincere religious and political leadership has appeared. | 4. Muslims have lost the Love of God and the zeal for Tawhad. | 5.They have fallen into traditionalism | 6. They have given up activism and struggle in the cause of God and have adopted asceticism and monasticism. | 7. They have lost the urge for struggle in the cause of Islam. | 8. Muslim society is riddled with dissensions | 9. Muslims are suffering from intellectual slavery.'
 'sher':
-- 'id': '1_121_1'
+- 'id': '1_121_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Whatever comes out of the heart is effective | It has no wings but has the power of flight'
   - 'lang': 'ro'
     'text': 'Dil Se Jo Baat Nikalti Hai, Asar Rakhti Hai | Par Nahin, Taaqat-e-Parwaaz Magar Rakhti Hai'
-- 'id': '1_121_2'
+- 'id': '1_121_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'It has holy origins, it aims at elegance | It rises from dust, but has access to the celestial world'
   - 'lang': 'ro'
     'text': 'Qudsi-Ul-Asal Hai, Riffat Pe Nazar Rakhti Hai | Khaak Se Uthti Hai, Gardoon Pe Guzar Rakhti Hai'
-- 'id': '1_121_3'
+- 'id': '1_121_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'My love was seditious, rebellious and clever | My fearless wailing rent through the sky'
   - 'lang': 'ro'
     'text': 'Ishq Tha Fitna Gar-o-Sarkash-o-Chalaak Mera | Aasman Cheer Gaya Nala-e-Bebaak Mera'
-- 'id': '1_121_4'
+- 'id': '1_121_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Peer-e-Gardoon Ne Kaha Sun Ke, Kahin Hai Koi! | Bole Sayyaare, Sar-e-Arsh-e-Bareen Hai Koi!'
-- 'id': '1_121_5'
+- 'id': '1_121_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'The moon was saying, “No, it is some inhabitant of the earth!” | The milky way was saying, “Somebody is concealed just here”!'
   - 'lang': 'ro'
     'text': 'Chaand Kahta Tha, Nahin, Ahl-e-Zameen Hai Koi! | Kehkashaan Kehti Thi, Poshida Yahin Hai Koi!'
-- 'id': '1_121_6'
+- 'id': '1_121_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -72,7 +72,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kuch Jo Samjha Tau Mere Shikwe Ko Rizwan Samjha | Mujhe Jannat Se Nikala Huwa Insan Samjha'
-- 'id': '1_121_7'
+- 'id': '1_121_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
     'text': 'Even angels exclaimed in surprise “What could this voice be! | Unknown even to the ‘Arsh’s keepers what the secret could be!'
   - 'lang': 'ro'
     'text': 'Thi Farishton Ko Bhi Hairat, Ke Yeh Awaz Hai Kya! | Arsh Walon Pe Bhi Khulta Nahin Yeh Raaz Hai Kya!'
-- 'id': '1_121_8'
+- 'id': '1_121_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -90,7 +90,7 @@
     'text': 'Is the mankind’s reach really even to the ‘Arsh? | Has this pinch of dust also learned flight?'
   - 'lang': 'ro'
     'text': 'Taa Sar-e-Arsh Bhi Insan Ki Tag-o-Taaz Hai Kya? | Aa Gyi Khak Ki Chutki Ko Bhi Parwaaz Hai Kya?'
-- 'id': '1_121_9'
+- 'id': '1_121_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -99,7 +99,7 @@
     'text': 'How ignorant of good manners the earth’s denizens are! | How bold and insolent these denizens of the low are!'
   - 'lang': 'ro'
     'text': 'Ghafil Aadaab Se Yeh Sukkaan-e-Zameen Kaise Hain | Shokh-o-Gustakh Yeh Pasti Ke Makeen Kaise Hain!'
-- 'id': '1_121_10'
+- 'id': '1_121_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -108,7 +108,7 @@
     'text': 'Is he so insolent that even angry with God he is? | Is he the same Man who once worshipped by angels was ?'
   - 'lang': 'ro'
     'text': 'Iss Qadar Shokh Ke Allah Se Bhi Barham Hai | Tha Jo Masjood-e-Malaeek Yeh Wohi Aadam Hai?'
-- 'id': '1_121_11'
+- 'id': '1_121_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -124,7 +124,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Alam-e-Kaif Hai, Dana-e-Ramooz-e-Kam Hai | Haan, Magar Ijz Ke Asrar Se Namehram Hai'
-- 'id': '1_121_12'
+- 'id': '1_121_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -133,7 +133,7 @@
     'text': 'Mankind are proud of the power of their rhetoric | These ignorant people are incapable of talking”!'
   - 'lang': 'ro'
     'text': 'Naaz Hai Taaqat-e-Guftaar Pe Insanon Ko | Baat Karne Ka Saliqa Nahin Nadanon Ko!'
-- 'id': '1_121_13'
+- 'id': '1_121_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -142,7 +142,7 @@
     'text': 'A voice came “Very pathetic is your story | Full of restless tears is your wine-measure'
   - 'lang': 'ro'
     'text': 'Ayi Aawaz Ghum-Angaiz Hai Afsana Tera | Ashk-e-Betaab Se Labraiz Hai Paimana Tera'
-- 'id': '1_121_14'
+- 'id': '1_121_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -151,7 +151,7 @@
     'text': 'Your ecstatic clamor pervaded the celestial world | How bold in speech is your Loving heart !'
   - 'lang': 'ro'
     'text': 'Asmangeer Huwa Naara-e-Mastana Tera | Kis Qadar Shokh Zuban Hai Dil-e-Diwana Tera'
-- 'id': '1_121_15'
+- 'id': '1_121_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -160,7 +160,7 @@
     'text': 'You sweetened the Remonstrance with elegant graces | You established intercourse between God and His people'
   - 'lang': 'ro'
     'text': 'Shukr Shikwe Ko Kiya Husn-e-Ada Se Tu Ne | Hum Sukhan Kar Diya Bandon Ko Khuda Se Tu Ne'
-- 'id': '1_121_16'
+- 'id': '1_121_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -173,7 +173,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hum Tau Mayal Ba-Karam Hain, Koi Sayal Hi Nahin | Rah Dikhlaen Kise Rahraw-e-Manzil Hi Nahin'
-- 'id': '1_121_17'
+- 'id': '1_121_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -182,7 +182,7 @@
     'text': 'Jewel polishing is common, but there is no proper jewel | There is no clay capable of being molded into Adam'
   - 'lang': 'ro'
     'text': 'Tarbiat Aam Tau Hai, Jauhar-e-Qabil Hi Nahin | Jis Se Taamir Ho Aadam Ki Yeh Woh Gil Hi Nahin'
-- 'id': '1_121_18'
+- 'id': '1_121_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -198,7 +198,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Koi Qabil Ho Tau Hum Shan-e-Kai Dete Hain | Dhoondne Walon Ko Dunya Bhi Nai Dete Hain!'
-- 'id': '1_121_19'
+- 'id': '1_121_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -207,7 +207,7 @@
     'text': 'Arms are feeble, hearts are accustomed to apostasy | The ‘believers’ are a source of disgrace to the Prophet'
   - 'lang': 'ro'
     'text': 'Hath Be-Zor Hain, Ilhaad Se Dil Khoo-Gar Hain | Ummati Baais-e-Ruswai-e-Paighamber (S.A.W) Hain'
-- 'id': '1_121_20'
+- 'id': '1_121_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -223,7 +223,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'But-Shikan Uth Gaye, Baqi Jo Rahe But-Gar Hain | Tha Braheem Pidar, Aur Pisar Aazar Hain'
-- 'id': '1_121_21'
+- 'id': '1_121_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -232,7 +232,7 @@
     'text': 'The wine-drinkers, the wine, even the decanters are new | The sanctuary of the Ka‘bah, the idols, even you are new'
   - 'lang': 'ro'
     'text': 'Badah Aasham Naye, Bada Naya, Khum Bhi Naye | Harm-e-Kaaba Naya, But Bhi Naye, Tum Bhi Naye'
-- 'id': '1_121_22'
+- 'id': '1_121_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -241,7 +241,7 @@
     'text': 'There was a time when this alone was the source of Beauty | The wild tulip was the pride of the season of spring'
   - 'lang': 'ro'
     'text': 'Woh Bhi Din The Ke Yehi Maya-e-Raanai Tha | Nazish-e-Mousam-e-Gul Lala-e-Sahrai Tha!'
-- 'id': '1_121_23'
+- 'id': '1_121_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -254,7 +254,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jo Musalmaan Tha Allah Ka Saudai Tha | Kabhi Mehboob Tumhara Yehi Harjai Tha'
-- 'id': '1_121_24'
+- 'id': '1_121_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -263,7 +263,7 @@
     'text': 'Make the covenant of fealty now with some local one | Make the Ummah of the Holy Prophet a local one!'
   - 'lang': 'ro'
     'text': 'Kisi Yakjai Se Ab Ehd-e-Ghulami Kar Lo | Millat-e- Ahmad (S.A.W.) Ko Maqami Kar Lo!'
-- 'id': '1_121_25'
+- 'id': '1_121_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -272,7 +272,7 @@
     'text': 'How difficult for you is waking up at the dawn! | You have no Love for Us, sleep is dear to you'
   - 'lang': 'ro'
     'text': 'Kis Qadar Tum Pe Garan Subah Ki Baidari Hai | Hum Se Kab Pyar Hai! Haan Neend Tumhain Pyari Hai'
-- 'id': '1_121_26'
+- 'id': '1_121_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -281,7 +281,7 @@
     'text': 'Ramazan’s restriction is irksome to your free nature | You tell us ! Is this the appropriate rule of fidelity?'
   - 'lang': 'ro'
     'text': 'Tabaa-e-Azad Pe Qaid-e-Ramazan Bhari Hai | Tumhi Keh Do, Yehi Aaeen-e-Wafadari Hai?'
-- 'id': '1_121_27'
+- 'id': '1_121_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -290,7 +290,7 @@
     'text': 'A nation exists on the din, you cease to exist if the din does not exist | Without mutual attraction the assembly of stars does not exist'
   - 'lang': 'ro'
     'text': 'Qoum Mazhab Se Hai, Mazhab Jo Nahin, Tum Bhi Nahin | Jazb-e-Baham Jo Nahin, Mehfil-e-Anjum Bhi Nahin'
-- 'id': '1_121_28'
+- 'id': '1_121_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -299,7 +299,7 @@
     'text': 'You are the ones who do not know any art in the world | You are the nation which does not care for its nest'
   - 'lang': 'ro'
     'text': 'Jin Ko Ata Nahin Dunya Mein Koi Fann, Tum Ho | Nahin Jis Qoum Ko Parwaye Nasheman, Tum Ho'
-- 'id': '1_121_29'
+- 'id': '1_121_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -308,7 +308,7 @@
     'text': 'You are the harvest which harbors the lightning | You are those who sell their ancestors’ graves'
   - 'lang': 'ro'
     'text': 'Bijliyan Jis Mein Hon Aasudah, Woh Khirman Tum Ho | Baich Khate Hain Jo Aslaaf Ke Madfan, Tum Ho'
-- 'id': '1_121_30'
+- 'id': '1_121_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -317,7 +317,7 @@
     'text': 'As you have earned a good name by selling graves | Will you not sell if idols of stone you get?'
   - 'lang': 'ro'
     'text': 'Ho Niko Naam Jo Qabaron Ki Tajarat Kar Ke | Kya Na Baicho Ge Jo Mil Jaen Sanam Pathar Ke'
-- 'id': '1_121_31'
+- 'id': '1_121_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -330,7 +330,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Safah-e-Dehr Se Batil Ko Mitaya Kis Ne? | Nau-e-Insan Ko Ghulami Se Chhuraya Kis Ne?'
-- 'id': '1_121_32'
+- 'id': '1_121_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -339,7 +339,7 @@
     'text': 'Who adorned my Ka‘bah with their foreheads in Love? | Who put my Qur’an to their breasts in reverence?'
   - 'lang': 'ro'
     'text': 'Mere Kaabe Ko Jabeenon Se Basaya Kis Ne? | Mere Quran Ko Seenon Se Lagaya Kis Ne?'
-- 'id': '1_121_33'
+- 'id': '1_121_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -348,7 +348,7 @@
     'text': 'They were surely your ancestors, but what are you ? | Sitting in idleness, waiting for tomorrow are you !'
   - 'lang': 'ro'
     'text': 'The Tou Aaba Woh Tumhare Hi, Magar Tum Kya Ho? | Hath Par Hath Dhare Muntazir-e-Farda Ho!'
-- 'id': '1_121_34'
+- 'id': '1_121_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -357,7 +357,7 @@
     'text': 'What did you say? “For the Muslim is only the promise of houri | Even if the Remonstrance be unreasonable decorum is necessary'
   - 'lang': 'ro'
     'text': 'Kya Kaha? "Bahr-e-Musalman Hai Faqt Wade-e-Hoor | Shikwa Be-Ja Bhi Kare Koi Tau Lazim Hai Shaoor!'
-- 'id': '1_121_35'
+- 'id': '1_121_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -366,7 +366,7 @@
     'text': 'Justice is the Creator of Existence’ custom since eternity | When the infidel adopts Muslim ways he receives houris and palaces'
   - 'lang': 'ro'
     'text': 'Adal Hai Fatir-e-Hasti Ka Azal Se Dastoor | Muslim Aaeen Huwa Kafir Tau Mile Hoor-o-Qasoor'
-- 'id': '1_121_36'
+- 'id': '1_121_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -379,7 +379,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tum Mein Hooron Ka Koi Chahne Wala Hi Nahin | Jalwa-e-Toor Tau Maujood Hai, Moosa Hi Nahin'
-- 'id': '1_121_37'
+- 'id': '1_121_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -388,7 +388,7 @@
     'text': 'The gain of this nation is one, also the loss is one | Only one is the prophet of all, dan is one, Iman is one'
   - 'lang': 'ro'
     'text': 'Manfa’at Aik Hai Is Qaum Ki, Nuqsan Bhi Aik | Ek Hi Sab Ka Nabi (S.A.W), Din Bhi, Iman Bhi Aik'
-- 'id': '1_121_38'
+- 'id': '1_121_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -397,7 +397,7 @@
     'text': 'The Holy Haram is one, God is one, Qur’an also is one | Would it have been very difficult for Muslims to be one'
   - 'lang': 'ro'
     'text': 'Harm-e-Paak Bhi, Allah Bhi, Quran Bhi Aik, | Kuch Bari Baat Thi Hote Jo Musalmaan Bhi Aik!'
-- 'id': '1_121_39'
+- 'id': '1_121_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -406,7 +406,7 @@
     'text': 'Sects abound somewhere and somewhere are castes! | Are these the ways to progress in the world?'
   - 'lang': 'ro'
     'text': 'Firqa Bandi Hai Kahin, Aur Kahin Zaatain Hain | Kya Zamane Mein Panapne Ki Yehi Baatain Hain?'
-- 'id': '1_121_40'
+- 'id': '1_121_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -415,7 +415,7 @@
     'text': 'Who is the renouncer of the laws of the Holy Prophet? | The criterion for whose actions is expediency of time ?'
   - 'lang': 'ro'
     'text': 'Kon Hai Taarik-e-Aaeen-e-Rasool-e-Mukhtar (S.A.W.)? | Maslihat Waqt Ki Hai Kis Ke Amal Ka Maayaar?'
-- 'id': '1_121_41'
+- 'id': '1_121_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -424,7 +424,7 @@
     'text': 'Who is enamored with the customs of the enemies | Whose thinking is disgusted with ancestors’ ways?'
   - 'lang': 'ro'
     'text': 'Kis Ki Ankhon Mein Samaya Hai Sha’ar-e-Aghyar | Ho Gyi Kis Ki Nigah Tarz-e-Salaf Se Baizar?'
-- 'id': '1_121_42'
+- 'id': '1_121_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -433,7 +433,7 @@
     'text': 'No warmth is in the heart, no feeling is in the soul | There is no respect for the message of Muhammad in you!'
   - 'lang': 'ro'
     'text': 'Qalb Mein Souz Nahin, Rooh Mein Ehsas Nahin | Kuch Bhi Paigham-e-Muhammad (S.A.W.) Ka Tumhain Paas Nahin'
-- 'id': '1_121_43'
+- 'id': '1_121_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -442,7 +442,7 @@
     'text': 'If some array themselves in mosques, it is the poor | If some endure the discomfort of fasting it is the poor'
   - 'lang': 'ro'
     'text': 'Jaa Ke Hote Hain Masajid Mein Saf-Aara, Tau Ghareeb | Zehmat-e-Roza Jo Karte Hain Gawara, Tau Ghareeb'
-- 'id': '1_121_44'
+- 'id': '1_121_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -451,7 +451,7 @@
     'text': 'If some are reverent to Us it is the poor | If some hide your faults it is the poor'
   - 'lang': 'ro'
     'text': 'Naam Leta Hai Agar Koi Hamara, Tau Ghareeb | Pardah Rakhta Hai Agar Koi Tumhara, Tau Ghareeb'
-- 'id': '1_121_45'
+- 'id': '1_121_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -460,7 +460,7 @@
     'text': 'The rich in their arrogance of wealth are negligent of Us | The Millat-i-Baiza is alive on the strength of the poor'
   - 'lang': 'ro'
     'text': 'Umra Nasha-e-Doulat Mein Hain Ghafil Hum Se | Zinda Hai Millat-e-Baiza Ghurba Ke Dam Se'
-- 'id': '1_121_46'
+- 'id': '1_121_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -469,7 +469,7 @@
     'text': 'That mature thinking of the nation’s preacher is gone | That natural lightning is gone, fiery speeches are gone'
   - 'lang': 'ro'
     'text': 'Waaiz-e-Qoum Ki Woh Pukhta Khayali Na Rahi | Barq Taba’ee Na Rahi, Shaola Maqali Na Rahi'
-- 'id': '1_121_47'
+- 'id': '1_121_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -485,7 +485,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Reh Gyi Rasm-e-Azan, Rooh-e-Bilali Na Rahi | Falsafa Reh Gya, Talqeen-e-Ghazali Na Rahi'
-- 'id': '1_121_48'
+- 'id': '1_121_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -494,7 +494,7 @@
     'text': 'Mosques are lamenting that the reciters of prayers are gone | That is those with attributes of Hijaz’ people are gone'
   - 'lang': 'ro'
     'text': 'Masjidain Marsiya Khawan Hain Ke Namazi Na Rahe | Yani Woh Sahib-e-Ausaf-e-Hijazi Na Rahe'
-- 'id': '1_121_49'
+- 'id': '1_121_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -503,7 +503,7 @@
     'text': 'Clamor is that Muslims have disappeared from the world | We ask whether the Muslims were present anywhere?'
   - 'lang': 'ro'
     'text': 'Shor Hai Ho Gaye Dunya Se Musalman Nabood | Hum Ye Kehte Hain Ke The Bhi Kahin Muslim Maujood!'
-- 'id': '1_121_50'
+- 'id': '1_121_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -512,7 +512,7 @@
     'text': 'In fashion you are Christians, in culture you are Hindus | Are these Muslims ! Who put the Jews to embarrassment!'
   - 'lang': 'ro'
     'text': 'Waza Mein Tum Ho Nisara, Tau Tamaddun Mein Hanood, | Yeh Musalman Hain! Jinhain Dekh Ke Sharmaen Yahood?'
-- 'id': '1_121_51'
+- 'id': '1_121_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -521,7 +521,7 @@
     'text': 'Sure, you are even Saiyyid, Mirza and Afghan also | You are all these, say whether you are Musalmans also?'
   - 'lang': 'ro'
     'text': 'Yun To Syed Bhi Ho, Mirza Bhi Ho, Afghan Bhi Ho | Tum Sabhi Kuch Ho, Batao To Musalman Bhi Ho!'
-- 'id': '1_121_52'
+- 'id': '1_121_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -530,7 +530,7 @@
     'text': 'During speech the candor of the Muslim was fearless | His justice was strong, undefiled by consideration of bias'
   - 'lang': 'ro'
     'text': 'Dam-e-Taqreer Thi Muslim Ki Sadaqat Bebak | Adal Uss Ka Tha Qawi, Loos-e-Mara’at Se Pak'
-- 'id': '1_121_53'
+- 'id': '1_121_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -539,7 +539,7 @@
     'text': 'The tree of Muslim’s nature was watered with modesty | In valor he was an incomprehensible existence'
   - 'lang': 'ro'
     'text': 'Shajar-e-Fitrat-e-Muslim Tha Haya Se Namnak | Tha Shujaat Mein Woh Ek Hasti-e-Fouq-Ul-Idraak'
-- 'id': '1_121_54'
+- 'id': '1_121_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -548,7 +548,7 @@
     'text': 'Internal warmth was the essence of his wine’s quality | To empty itself was the custom of his decanter'
   - 'lang': 'ro'
     'text': 'Khud Gudazi Nam-e-Kaifiat-e-Sehbayesh Bood | Khali Az Khawaish Shudan Soorat-e-Meenayesh Bood'
-- 'id': '1_121_55'
+- 'id': '1_121_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -557,7 +557,7 @@
     'text': 'Every Muslim was a lancet for the vein of infidelity | Activism was the polish to the mirror of his life'
   - 'lang': 'ro'
     'text': 'Har Musalman Rag-e-Batil Ke Liye Nashtar Tha | Uss Ke Aaeena-e-Hasti Mein Amal Jouhar Tha'
-- 'id': '1_121_56'
+- 'id': '1_121_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -566,7 +566,7 @@
     'text': 'Whatever trust he had, on his own strength it was | You are afraid of death, he afraid of God alone was'
   - 'lang': 'ro'
     'text': 'Jo Bharosa Tha Usse Quwwat-e-Bazoo Par Tha | Hai Tumhain Mout Ka Dar, Uss Ko Khuda Ka Dar Tha'
-- 'id': '1_121_57'
+- 'id': '1_121_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -575,7 +575,7 @@
     'text': 'If the art of the father not well-known to the son be | How can the son worthy of the heritage of the father be!'
   - 'lang': 'ro'
     'text': 'Baap Ka Ilm Na Bete Ko Agar Azbar Ho | Phir Pisar Qabil-e-Miraas-e-Pidar Kyunkar Ho!'
-- 'id': '1_121_58'
+- 'id': '1_121_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -584,7 +584,7 @@
     'text': 'Everyone is intoxicated with the wine of indulgence | Are you Muslims? To you is this the way of Islam?'
   - 'lang': 'ro'
     'text': 'Har Koi Mast-e-Mai-e-Zauq-e-Tan Asani Hai, | Tum Musalman Ho? Ye Andaaz-e-Musalmani Hai?'
-- 'id': '1_121_59'
+- 'id': '1_121_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -600,7 +600,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Haidari Faqr Hai Ne Doulat-e-Usmani Hai | Tum Ko Aslaaf Se Kya Nisbat-e-Rohani Hai?'
-- 'id': '1_121_60'
+- 'id': '1_121_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -609,7 +609,7 @@
     'text': 'They were respected in the world by being Muslims | And you became disgraced by abandoning the Qur’an'
   - 'lang': 'ro'
     'text': 'Woh Zamane Mein Mu’azzaz The Musalman Ho Kar | Aur Tum Khawar Huwe Taarik-e-Quran Ho Kar'
-- 'id': '1_121_61'
+- 'id': '1_121_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -618,7 +618,7 @@
     'text': 'You are indignant to each other, beneficent they were | You are guilty and prying into guilts, forgiving and merciful they were'
   - 'lang': 'ro'
     'text': 'Tum Ho Apas Mein Ghazabnak, Woh Apas Mein Raheem | Tum Khatakaar-o-Khatabeen, Woh Khata Posh-o-Kareem'
-- 'id': '1_121_62'
+- 'id': '1_121_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -627,7 +627,7 @@
     'text': 'Though everybody wants to reach the zenith of Thurayyah | Every body must first cultivate that kind of affable heart'
   - 'lang': 'ro'
     'text': 'Chahte Sub Hain Ke Hon Auj-e-Surayya Pe Muqeem, | Pehle Waisa Koi Paida Tau Kare Qalb-e-Salim!'
-- 'id': '1_121_63'
+- 'id': '1_121_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -640,7 +640,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Takht-e-Faghfoor Bhi Un Ka Tha, Sareer-e-Ke Bhi | Yunhi Baatain Hain Ke Tum Mein Woh Hameeyyat Hai Bhi?'
-- 'id': '1_121_64'
+- 'id': '1_121_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -649,7 +649,7 @@
     'text': 'You are self-destructive, zealous and self-respecting they were | You flee from brotherhood, lovers and brotherhood they were'
   - 'lang': 'ro'
     'text': 'Khudkushi Shewa Tumhara, Woh Ghayoor-o-Khuddar | Tum Akhuwat Se Gurezan, Woh Akhuwat Pe Nisar'
-- 'id': '1_121_65'
+- 'id': '1_121_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -658,7 +658,7 @@
     'text': 'You are head to foot talk, action incarnate they were | You tantalize for flower-bud, with garden in their lap they were'
   - 'lang': 'ro'
     'text': 'Tum Ho Guftar Sarapa, Woh Sarapa Kirdar | Tum Taraste Ho Kali Ko, Woh Gulistan Bah Kinar'
-- 'id': '1_121_66'
+- 'id': '1_121_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -667,7 +667,7 @@
     'text': 'Even now nations remember their story | Impressed on existence’s sheet is their fidelity!'
   - 'lang': 'ro'
     'text': 'Ab Talak Yaad Hai Qoumon Ko Hikayat Un Ki | Naqsh Hai Safah-e-Hasti Pe Sadaqat Un Ki'
-- 'id': '1_121_67'
+- 'id': '1_121_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -676,7 +676,7 @@
     'text': 'Like stars on the nation’s horizon you appeared also | In the Indian idol’s love you became a Brahman also'
   - 'lang': 'ro'
     'text': 'Misl-e-Anjum Ufaq-e-Qoum Pe Roshan Bhi Huwe | But-e-Hindi Ki Mohabbat Mein Barhman Bhi Huwe'
-- 'id': '1_121_68'
+- 'id': '1_121_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -685,7 +685,7 @@
     'text': 'In the love for flying you became separated from the nest also | Indolent were the youth already, became suspicious of dan also'
   - 'lang': 'ro'
     'text': 'Shauq-e-Parwaz Mein Mehjoor-e-Nasheman Bhi Huwe | Be-Amal The Hi Jawan, Deen-e-Se Badzan Bhi Huwe'
-- 'id': '1_121_69'
+- 'id': '1_121_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -694,7 +694,7 @@
     'text': 'They have been freed from every restraint by ‘civilization’ | Having been brought from Ka‘bah, they have been settled in the temple'
   - 'lang': 'ro'
     'text': 'In Ko Tehzeeb Ne Har Bande Se Azad Kiya | La Ke Kaabe Se Sanamkhane Mein Abad Kiya'
-- 'id': '1_121_70'
+- 'id': '1_121_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -703,7 +703,7 @@
     'text': 'Qais may not continue enduring hardships of seclusion in the wilderness | May stroll in the city, may not remain wandering in wilderness'
   - 'lang': 'ro'
     'text': 'Qais Zehmat Kash-e-Tanhai-e-Sehra Na Rahe | Shehr Ki Khaye Huwa, Bad Ye Pema Na Rahe!'
-- 'id': '1_121_71'
+- 'id': '1_121_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -712,7 +712,7 @@
     'text': 'He is insane, he may or may not in the city remain | It is necessary the Lailah’s veil may not remain'
   - 'lang': 'ro'
     'text': 'Woh To Diwana Hai, Basti Mein Rahe Ya Na Rahe | Ye Zaroori Hai Hijab-e-Rukh-e-Laila Na Rahe!'
-- 'id': '1_121_72'
+- 'id': '1_121_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -721,7 +721,7 @@
     'text': 'Let there be no wailing against ‘tyranny’ or complaint of ‘injustice’ | Love is free, why should not the Beauty be free also?'
   - 'lang': 'ro'
     'text': 'Gila-e-Jor Na Ho, Shikwa-e-Baidad Na Ho | Ishq Azad Hai, Kyun Husn Bhi Azad Na Ho!'
-- 'id': '1_121_73'
+- 'id': '1_121_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -730,7 +730,7 @@
     'text': 'The new age is a lightning, consuming every barn is | Safe from this no wilderness and no rose-garden is'
   - 'lang': 'ro'
     'text': 'Ehd-e-Nau Barq Hai, Aatish Zan-e-Har Khirman Hai | Ayman Is Se Koi Sehra No Koi Gulshan Hai'
-- 'id': '1_121_74'
+- 'id': '1_121_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -739,7 +739,7 @@
     'text': 'Of this new fire old nations are the fuel | The Ummah of the last Prophet is set afire'
   - 'lang': 'ro'
     'text': 'Is Nayi Aag Ka Aqwam-e-Kuhan Indhan Hai | Millat-e-Khatam-e-Rusal (S.A.W.) Shaola Ba Perahan Hai'
-- 'id': '1_121_75'
+- 'id': '1_121_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -748,7 +748,7 @@
     'text': 'If the Iman of Ibrahim is acquired even now | Fire can create the garden’s norm even now'
   - 'lang': 'ro'
     'text': 'Aaj Bhi Jo Baraheem (A.S.) Ka Imaan Paida | Aag Kar Sakti Hai Andaz-e-Gulistan Paida'
-- 'id': '1_121_76'
+- 'id': '1_121_076'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -757,7 +757,7 @@
     'text': 'The gardener should not be upset by seeing the garden’s state | Branches are about to appear from the bunches of buds'
   - 'lang': 'ro'
     'text': 'Dekh Kar Rang-e-Chaman Ho Na Pareshan Mali | Koukab-e-Ghuncha Se Shakhain Hain Chamakne Wali'
-- 'id': '1_121_77'
+- 'id': '1_121_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -766,7 +766,7 @@
     'text': 'The garden will be cleared soon of the waste and trash | The red of the martyrs’ blood will be producing rose buds'
   - 'lang': 'ro'
     'text': 'Khas-o-Khashaak Se Hota Hai Gulistan Khali | Gul Bar Andaaz Hai Khoon-e-Shuhada Ki Laali'
-- 'id': '1_121_78'
+- 'id': '1_121_078'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -775,7 +775,7 @@
     'text': 'Look a little the color of the sky somewhat red is | This the glowing of the horizon by the rising sun is!'
   - 'lang': 'ro'
     'text': 'Rang Gardoon Ka Zara Dekh Tau Unnabi Hai | Yeh Nikalte Huwe Suraj Ki Ufaq Taabi Hai'
-- 'id': '1_121_79'
+- 'id': '1_121_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -784,7 +784,7 @@
     'text': 'Some nations in the existence’s garden benefited from their labors are | And some deprived of fruits and even destroyed by autumn are'
   - 'lang': 'ro'
     'text': 'Ummatain Gulshan-e-Hasti Mein Samar Cheeda Bhi Hain | Aur Mehroom-e-Samar Bhi Hain, Khazan Didah Bhi Hain'
-- 'id': '1_121_80'
+- 'id': '1_121_080'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -793,7 +793,7 @@
     'text': 'Hundreds of trees deteriorated and hundreds flourishing are | Hundreds still even concealed in the bosom of the garden are'
   - 'lang': 'ro'
     'text': 'Saikron Nakhl Hain, Kaheeda Bhi, Baleeda Bhi Hain | Saikron Batan-e-Chaman Mein Abhi Poshida Bhi Hain'
-- 'id': '1_121_81'
+- 'id': '1_121_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -802,7 +802,7 @@
     'text': 'The tree of Islam a model of flourishing is | This the fruit of eons of gardening efforts is'
   - 'lang': 'ro'
     'text': 'Nakhl-e-Islam Namoona Hai Bru-Mandi Ka | Phal Hai Ye Saikron Saalon Ki Chaman Bandi Ka'
-- 'id': '1_121_82'
+- 'id': '1_121_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -818,7 +818,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Pak Hai Gard-e-Watan Se Sirr-e-Daman Tera | Tu Woh Yousaf Hai Ke Har Misr Hai Kinaan Tera'
-- 'id': '1_121_83'
+- 'id': '1_121_083'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -827,7 +827,7 @@
     'text': 'It will never be possible to destroy your caravan | Nothing except the ‘Clarions’s Call’ are your chattel'
   - 'lang': 'ro'
     'text': 'Qafila Ho Na Sake Ga Kabhi Weeran Tera | Ghair Yak Bang-e-Dara Kuch Nahin Saman Tera'
-- 'id': '1_121_84'
+- 'id': '1_121_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -840,7 +840,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Nakhl-e-Shama Asti-o-Dar Shaola Dawad Resha-e-Tu | Aaqbat Soz Bawad Saya-e-Andesha-e-Tu'
-- 'id': '1_121_85'
+- 'id': '1_121_085'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -853,7 +853,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tu Na Mit Jaye Ga Iran Ke Mit Jane Se | Nasha-e-Mai Ko Ta’aluq Nahin Pemane Se'
-- 'id': '1_121_86'
+- 'id': '1_121_086'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -866,7 +866,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Ayan Yorish-e-Tataar Ke Afsane Se | Pasban Mil Gaye Kaabe Ko Sanam Khane Se'
-- 'id': '1_121_87'
+- 'id': '1_121_087'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -875,7 +875,7 @@
     'text': 'You are the support of the boat of God in the world | The present age is night, you are a glimmering star'
   - 'lang': 'ro'
     'text': 'Kashti-e-Haq Ka Zamane Mein Sahara Tu Hai | Asr-e-Nau Raat Hai, Dhundla Sa Sitara Tu Hai'
-- 'id': '1_121_88'
+- 'id': '1_121_088'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -888,7 +888,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Jo Hangama Bipa Yorish-e-Balghari Ka | Ghafilon Ke Liye Pegham Hai Baidari Ka'
-- 'id': '1_121_89'
+- 'id': '1_121_089'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -897,7 +897,7 @@
     'text': 'You think this is the plan for hurting your sentiments | This is a test of your sacrifice and your self respect'
   - 'lang': 'ro'
     'text': 'Tu Samajhta Hai Ye Saman Hai Dil Aazari Ka | Imtihan Hai Tere Isaar Ka, Khud-Dari Ka'
-- 'id': '1_121_90'
+- 'id': '1_121_090'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -906,7 +906,7 @@
     'text': 'Why are you afraid of the hooves of the enemies’ horses ? | The enemies’ blows will be unable to extinguish the light of the Truth'
   - 'lang': 'ro'
     'text': 'Kyun Harasan Hai Saheel-e-Faras-e-Aada Se | Noor-e-Haq Bujh Na Sake Ga Nafs-e-Aada Se'
-- 'id': '1_121_91'
+- 'id': '1_121_091'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -915,7 +915,7 @@
     'text': 'Your potential is still hidden from the world’s nations | The assembly of existence still has need for you'
   - 'lang': 'ro'
     'text': 'Chashme-e-Aqwam Se Makhfi Hai Haqiqat Teri | Hai Abhi Mehfil-e-Hasti Ko Zaroorat Teri'
-- 'id': '1_121_92'
+- 'id': '1_121_092'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -924,7 +924,7 @@
     'text': 'The whole world is kept alive by your warmth | Your Khilafah is the star of the possibility’s destiny'
   - 'lang': 'ro'
     'text': 'Zinda Rakhti Hai Zamane Ko Hararat Teri | Koukab-e-Qismat-e-Imkan Hai Khilafat Teri'
-- 'id': '1_121_93'
+- 'id': '1_121_093'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -933,7 +933,7 @@
     'text': 'There is no time for leisure, there is work to be done | Completion of the light of Tawhad is still to be done'
   - 'lang': 'ro'
     'text': 'Waqt-e-Fursat Hai Kahan, Kaam Abhi Baqi Hai | Noor-e-Touheed Ka Itmam Abhi Baqi Hai'
-- 'id': '1_121_94'
+- 'id': '1_121_094'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -942,7 +942,7 @@
     'text': 'Like fragrance you are contained in the flower-bud, become scattered | Become the chattel traveling on the wings of the breeze of the rose-garden'
   - 'lang': 'ro'
     'text': 'Misl-e-Bu Qaid Hai Ghunche Mein, Preshan Ho Ja | Rakht Bar Dosh Hawaye Chamanistan Ho Ja'
-- 'id': '1_121_95'
+- 'id': '1_121_095'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -951,7 +951,7 @@
     'text': 'If you are poor, changed from speck to the wilderness be | From the melody of the wave changed to tumult of the storm be'
   - 'lang': 'ro'
     'text': 'Hai Tunk Maya To Zarre Se Byaban Ho Ja | Naghma-e-Mouj Se Hangama-e-Toofan Ho Ja!'
-- 'id': '1_121_96'
+- 'id': '1_121_096'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -960,7 +960,7 @@
     'text': 'With the Love’s power elevate every low to elegance | With Muhammad’s name illuminate the whole world'
   - 'lang': 'ro'
     'text': 'Quwwat-e-Ishq Se Har Past Ko Bala Kar De | Dehr Mein Ism-e-Muhammad (S.A.W.) Se Ujala Kar De'
-- 'id': '1_121_97'
+- 'id': '1_121_097'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -969,7 +969,7 @@
     'text': 'If there is no flower nightingale’s music should also not be | In the world’s garden smile of flower-buds should also not be'
   - 'lang': 'ro'
     'text': 'Ho Na Ye Phool To Bulbul Ka Tarannum Bhi Na Ho | Chaman-e-Dehr Mein Kaliyon Ka Tabassum Bhi Na Ho'
-- 'id': '1_121_98'
+- 'id': '1_121_098'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -978,7 +978,7 @@
     'text': 'If there is no cup-bearer, wine, and decanter should also not be | Tawhad’s assembly in the world and you should also not be'
   - 'lang': 'ro'
     'text': 'Ye Na Saqi Ho To Phir Mai Bhi Na Ho, Khum Bhi Na Ho | Bazm-e-Touheed Bhi Dunya Mein Na Ho, Tum Bhi Na Ho'
-- 'id': '1_121_99'
+- 'id': '1_121_099'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

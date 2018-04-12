@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The ordinary candle is a world unto itself in Persian and Urdu literatures. It is taken as an emblem of a beloved as well as that of a lover. As a beloved the moth circles round it and eventually dies in its love. As a lover it is presented as weeping in the agony of separation from its beloved. In this poem ‘Allamah Iqbal has equated candle with Man as both are afflicted with the agony of separation from the Creator and Beloved, i.e. God. There is, however, one difference. Man is endowed with "feeling", which raises him above the candle and, in fact, above all creation. This quality is a part of the attribute of Khuda 1 which has entitled Man to be endowed with knowledge, on account of which God has ranked him as the masterpiece of creation and His vicegerent on earth (The Holy Qur''an 2:30-34). Endowed with this attribute Man was transferred from Paradise to earth to witness the Jamal and Jalal of God as conveyed by the kaleidoscope of His creation and as communicated to Man through his qualities of knowledge and perception. However, this world is the temporary abode of Man and he has been charged with the mission of maintaining its beauty and protecting it from disturbances in the physical as well as spiritual spheres. To attain this goal he has been charged with the responsibility of struggling for the establishment of the Kingdom of God on earth. This commissioning of Man has been repeated at several places in the Holy Qur''an, reference to which has been provided previously. | The `Allamah says in this poem that the possession of "feeling" has endowed Man with compassion which is a very elegant quality. However, deceptive perception has made Man a captive of discrimination of race and color, which has resulted in his losing the joy of the universal peace which can be achieved only through the acknowledgment of the Universal Unity of God as well as that of Man and Love of both.'
 'sher':
-- 'id': '1_18_1'
+- 'id': '1_18_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Bazm-e-Jahan Mein Main Bhi Hun Ae Shama! Dardmand | Faryad Dar Gira Sift-e-Dana-e-Sapand'
-- 'id': '1_18_2'
+- 'id': '1_18_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -39,7 +39,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Di Ishq Ne Hararat-e-Souz-e-Duron Tujhe | Aur Gul Farosh-e-Ashak-e-Shafaq-Goon Kiya Mujhe'
-- 'id': '1_18_3'
+- 'id': '1_18_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -48,7 +48,7 @@
     'text': 'Whether you be the candle of a celebrating assembly or one at the grave | In every condition associated with the tears of sorrow you remain'
   - 'lang': 'ro'
     'text': 'Ho Shama-e-Bazm-e-Aysh Ke Shama-e-Mazar Tu | Har Haal Ashak-e-Gham Se Rahi Humkinar Tu'
-- 'id': '1_18_4'
+- 'id': '1_18_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -61,7 +61,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Yak Been Teri Nazar Sift-e-Ashiqan-e-Raaz | Meri Nigah Maya-e-Ashob-e-Imtiaz'
-- 'id': '1_18_5'
+- 'id': '1_18_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -70,7 +70,7 @@
     'text': 'Your illumination is alike in the Ka‘bah and the temple | I am entangled in the temple and the Haram''s discrimination'
   - 'lang': 'ro'
     'text': 'Kaabe Mein, Bukade Mein Hai Yaksaan Teri Zia | Main Imtiaz-e-Dair-o-Haram Mein Phansa Huwa'
-- 'id': '1_18_6'
+- 'id': '1_18_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -79,7 +79,7 @@
     'text': 'Your black smoke contains the sigh''s elegance | Is some heart hidden in the place of your manifestation?'
   - 'lang': 'ro'
     'text': 'Hai Shan Aah Ki Tere Dood-e-Siyah Mein | Poshida Koi Dil Hai Teri Jalwagah Mein?'
-- 'id': '1_18_7'
+- 'id': '1_18_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -92,7 +92,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jalti Hai Tu Ke Barq-e-Tajalli Se Door Hai | Be-Dard Tere Souz Ko Samjhe Ke Noor Hai'
-- 'id': '1_18_8'
+- 'id': '1_18_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -101,7 +101,7 @@
     'text': 'Though you are burning you are unaware of it all | You see but do not encompass the internal pathos'
   - 'lang': 'ro'
     'text': 'Tu Jal Rahi Hai Aur Tujhe Kuch Khabar Nahin | Beena Hai Aur Souz-e-Darun Par Nazar Nahin'
-- 'id': '1_18_9'
+- 'id': '1_18_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -110,7 +110,7 @@
     'text': 'I quiver like mercury with the excitement of vexation | As well I am aware of vexations of the restless heart'
   - 'lang': 'ro'
     'text': 'Main Josh-e-Iztirab Se Seemabdar Bhi | Agah-e-Iztirab-e-Dil-e-Beqarar Bhi'
-- 'id': '1_18_10'
+- 'id': '1_18_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -119,7 +119,7 @@
     'text': 'This was also the elegance of some Beloved | Which gave me perception of my own pathos'
   - 'lang': 'ro'
     'text': 'Tha Ye Bhi Koi Naaz Kisi Be Niaz Ka | Ehsas De Diya Mujhe Apne Gudaz Ka'
-- 'id': '1_18_11'
+- 'id': '1_18_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -132,7 +132,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ye Aghi Meri Mujhe Rakhti Hai Be-Qarar | Khawabida Iss Sharar Mein Hain Atish Kade Hazar'
-- 'id': '1_18_12'
+- 'id': '1_18_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -141,7 +141,7 @@
     'text': 'Discrimination between high and low is created by this alone! | Fragrance in flower, ecstasy in wine is created by this alone!'
   - 'lang': 'ro'
     'text': 'Ye Imtiaz-e-Riffat-o-Pasti Issi Se Hai | Gul Mein Mehak, Sharab Mein Masti Issi Se Hai'
-- 'id': '1_18_13'
+- 'id': '1_18_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -150,7 +150,7 @@
     'text': 'Garden, nightingale, flower, fragrance this Cognition is | Root of the struggle of ''I and you'' this Cognition is'
   - 'lang': 'ro'
     'text': 'Bustan-o-Bulbul-o-Gul-o-Bu Hai Ye Aghi | Asal-e-Kashakash-e-Man-o-Tu Hai Ye Aghi'
-- 'id': '1_18_14'
+- 'id': '1_18_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Subah-e-Azal Jo Husn Huwa Dilstan-e-Ishq | Awaz-e-‘KUN’ Huwi Tapish Amoz-e-Jaan-e-Ishq'
-- 'id': '1_18_15'
+- 'id': '1_18_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -176,7 +176,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ye Hukm Tha Ke Gulshan-e-‘KUN’ Ki Bahar Dekh | Aik Ankh Le Ke Khawab-e-Pareshan Hazar Dekh'
-- 'id': '1_18_16'
+- 'id': '1_18_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -189,7 +189,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mujh Se Khabar Na Puch Hijab-e-Wujood Ki | Sham-e-Firaq Subah Thi Meri Namood Ki'
-- 'id': '1_18_17'
+- 'id': '1_18_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -198,7 +198,7 @@
     'text': 'Gone are the days when unaware of imprisonment I was | That my abode the adornment of the tree of tur was'
   - 'lang': 'ro'
     'text': 'Woh Din Gye Ke Qaid Se Main Ashna Na Tha | Ziab-e-Darakht-e-Toor Mera Ashiyana Tha'
-- 'id': '1_18_18'
+- 'id': '1_18_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -211,7 +211,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Qaidi Hun Aur Qafas Ko Chaman Janta Hun Main | Ghurbat Ke Ghamkade Ko Watan Janta Hun Main'
-- 'id': '1_18_19'
+- 'id': '1_18_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -220,7 +220,7 @@
     'text': 'Memories of the homeland a needless melancholy became | Now the desire for sight, now Longing for search became'
   - 'lang': 'ro'
     'text': 'Yaad-e-Watan Fasurdagi-e-Be-Sabab Bani | Shauq-e-Nazar Kabhi, Kabhi Zauq-e-Talab Bani'
-- 'id': '1_18_20'
+- 'id': '1_18_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -233,7 +233,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Shama! Intihaye Faraib-e-Khiyal Dekh | Masjood-e-Sakinan-e-Falak Ka Maal Dekh'
-- 'id': '1_18_21'
+- 'id': '1_18_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -246,7 +246,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mazmoon Firaaq Ka Hun, Sureya Nishan Hun Main | Ahang-e-Taba-e-Nazim-e-Kaun-o-Makan Hun Main'
-- 'id': '1_18_22'
+- 'id': '1_18_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -259,7 +259,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Bandha Mujhe Jo Uss Ne To Chahi Meri Namood | Tehreeh Kar Diya Sir-e-Diwan-e-Hast-o-Bood'
-- 'id': '1_18_23'
+- 'id': '1_18_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -268,7 +268,7 @@
     'text': 'The pearl likes living in a handful of dust | Style may be dull the subject is excellent'
   - 'lang': 'ro'
     'text': 'Gohar Ko Musht-e-Khak Mein Rehna Pasand Hai | Bandish Agarche Sust Hai, Mazmoon Buland Hai'
-- 'id': '1_18_24'
+- 'id': '1_18_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -281,7 +281,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Chashm-e-Ghalat Nigar Ka Ye Sara Qasoor Hai | Alam-e-Zahoor-e-Jalwa-e-Zauq-e-Shaur Hai'
-- 'id': '1_18_25'
+- 'id': '1_18_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -290,7 +290,7 @@
     'text': 'This network of time and space is the scaling ladder of the Universe | It is the necklace of the neck of Eternal Beauty'
   - 'lang': 'ro'
     'text': 'Ye Silsila Zaman-o-Makan Ka, Kumand Hai | Tauq-e-Gulooye Husn-e-Tamasha Pasand Hai'
-- 'id': '1_18_26'
+- 'id': '1_18_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -303,7 +303,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Manzil Ka Ishtiaq Hai, Gum Karda Rah Hun | Ae Shama! Main Aseer-e-Faraib-e-Nigah Hun'
-- 'id': '1_18_27'
+- 'id': '1_18_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -316,7 +316,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sayyad App, Halqa-e-Daam-e-Sitam Bhi App | Baam-e-Haram Bhi, Taeer-e-Baam-e-Haram Bhi App!'
-- 'id': '1_18_28'
+- 'id': '1_18_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -325,7 +325,7 @@
     'text': 'Am I the Beauty or head to foot the melting love am I ? | It is not clear whether the beloved or the Lover am I ?'
   - 'lang': 'ro'
     'text': 'Main Husn Ke Ishq-e-Sarapa Gudaz Hun | Khulta Nahin Ke Naaz Hun Main Ya Niaz Hun'
-- 'id': '1_18_29'
+- 'id': '1_18_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

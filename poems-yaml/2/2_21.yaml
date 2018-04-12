@@ -8,7 +8,7 @@
   'text': 'Thou art yet region—bound'
 'description': []
 'sher':
-- 'id': '2_21_1'
+- 'id': '2_21_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Thou art yet region—bound, Transcend the limits of space; | Transcend the narrow climes, Of the East and the West.'
   - 'lang': 'ro'
     'text': 'Tu Abhi Reh Guzr Mein Hai, Qaid-e-Maqam Se Guzr | Misr-o-Hijaz Se Guzr, Paras-o-Shaam Se Guzr'
-- 'id': '2_21_2'
+- 'id': '2_21_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'For selfless deeds of men, Rewards are less mundane; | Transcend the houris glances, The pure, celestial wine.'
   - 'lang': 'ro'
     'text': 'Jis Ka Amal Hai Be-Gharz, Uss Ki Jaza Kuch Aur Hai | Hoor-o-Khiyaam Se Guzr, Badah-o-Jaam Se Guzr'
-- 'id': '2_21_3'
+- 'id': '2_21_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Ravishing in its power, Is beauty in the West; | Thou bird of paradise, Resist this earthly trap.'
   - 'lang': 'ro'
     'text': 'Garcha Hai Dilkusha Bohat Husn-e-Farang Ki Bahar | Taeerik-e-Buland Baal, Dana-o-Daam Se Guzr'
-- 'id': '2_21_4'
+- 'id': '2_21_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'With a mountain—cleaving assault, Bridging the East and West, | Despise all defences, And become a sheathless sword.'
   - 'lang': 'ro'
     'text': 'Koh Shigaaf Teri Zarb, Tujh Se Kushaad-e-Sharq-o-Gharb | Taigh-e-Hilal Ki Tarah Aesh-e-Niyam Se Guzr'
-- 'id': '2_21_5'
+- 'id': '2_21_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is the spontaneous manifestation of Divine Love in the breast of ‘Allamah Iqbal. The language is very mystical and metaphorical. The poem contains all the attributes of ‘Ishq-i-Haqaqa ’ (Love of God) in the terminology of ‘Ishq-i-Majaza (Love of created beings used metaphorically) as is the practice in the Islamic mystic poetry.'
 'sher':
-- 'id': '1_69_1'
+- 'id': '1_69_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Just as the moon’s silver boat is drowned | In the storm of sun’s light at the break of dawn'
   - 'lang': 'ro'
     'text': 'Jis Tarah Doobti Hai Kishti-e-Simeen-e-Qamar | Noor-e-Khursheed Ke Toofan Mein Hangam-e-Sehar'
-- 'id': '1_69_2'
+- 'id': '1_69_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Just as the moon-like lotus disappears | Behind the veil of light in the moon-lit night'
   - 'lang': 'ro'
     'text': 'Jaise Ho Jata Hai Gum Noor Ka Le Kar Anchal | Chandani Raat Mein Mehtab Ka Hum-Rang Kanwal'
-- 'id': '1_69_3'
+- 'id': '1_69_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jalwa-e-Toor Mein Jaise Yad-Baiza-e-Kaleem | Mouja-e-Nukhat-e-Gulzar Mein Ghunche Ki Shamim'
-- 'id': '1_69_4'
+- 'id': '1_69_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Similar is my heart in the flood of Thy Love | If Thou art the assembly, I am the assembly’s splendor'
   - 'lang': 'ro'
     'text': 'Hai Tere Seel-e-Mohabbat Mein Tunhi Dil Mera | Tu Jo Mehfil Hai To Hangama-e-Mehfil Hun Mein'
-- 'id': '1_69_5'
+- 'id': '1_69_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Husn Ki Barq Hai Tu, Ishq Ka Hasil Hun Mein | Tu Sehar Hai To Mere Ashk Hain Shabnam Teri'
-- 'id': '1_69_6'
+- 'id': '1_69_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sham-e-Ghurbat Hun Agar Main To Shafaq Tu Meri | Mere Dil Mein Teri Zulfon Ki Preshani Hai'
-- 'id': '1_69_7'
+- 'id': '1_69_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'My bewilderment is created by Thy picture | Thy Beauty is Perfect, my Love is perfect'
   - 'lang': 'ro'
     'text': 'Teri Tasveer Se Paida Meri Herani Hai | Husn Kamil Hai Tera, Ishq Hai Kamil Mera'
-- 'id': '1_69_8'
+- 'id': '1_69_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Mere Bagh-e-Sukhan Ke Liye Tu Baad-e-Bahar | Mere Betaab Takhiyyul Ko Diya Tu Ne Qarar'
-- 'id': '1_69_9'
+- 'id': '1_69_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'Since Thy Love took residence in my breast | New lights have been added to my mirror'
   - 'lang': 'ro'
     'text': 'Jab Se Abad Tera Ishq Huwa Seene Mein | Naye Jouhar Huwe Paida Mere Aaeene Mein'
-- 'id': '1_69_10'
+- 'id': '1_69_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

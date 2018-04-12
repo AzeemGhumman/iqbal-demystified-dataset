@@ -8,7 +8,7 @@
   'text': 'All high and low are unaware of khudi:'
 'description': []
 'sher':
-- 'id': '4_32_1'
+- 'id': '4_32_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'All high and low are unaware of khudi: | is it a mosque or tavern?'
   - 'lang': 'ro'
     'text': 'Tamam Arif-O-Ami Khudi Se Begana | Koi Bataye Ye Masjid Hai Ya K Maikhana'
-- 'id': '4_32_2'
+- 'id': '4_32_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The head preacher has withheld this secret from us: | the Harem itself is the moth moving round Harem’s lamp.'
   - 'lang': 'ro'
     'text': 'Ye Raaz Hum Se Chupaya Hai Meer Waaiz Ne | Ke Khud Haram Hai Charagh-E-Haram Ka Parwana'
-- 'id': '4_32_3'
+- 'id': '4_32_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Faith and kufr, only talisman of ignorance, | talking of Shaykh and Brahman is all myth;'
   - 'lang': 'ro'
     'text': 'Tilism-E-Bekhabri, Kafari-O-Deendari | Hadees-E-Sheikh-O-Barhaman Fusoon-O-Afsana'
-- 'id': '4_32_4'
+- 'id': '4_32_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'O God, may the valley have a dervish | whose faqr works Moses‐like;'
   - 'lang': 'ro'
     'text': 'Naseeb-E-Khitta Ho Ya Rab Woh Band’ay Darvesh | Ke Jis Ke Faqr Mein Andaz Hon Kaleemana'
-- 'id': '4_32_5'
+- 'id': '4_32_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

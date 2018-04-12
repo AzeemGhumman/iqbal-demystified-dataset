@@ -8,14 +8,14 @@
   'text': 'XI-LII'
 'description': []
 'sher':
-- 'id': '11_130_1'
+- 'id': '11_130_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو خود را در کنار خود کشیدم | بہ نور تو مقام خویش دیدم'
   - 'lang': 'en'
     'text': 'When I pressed myself in my own embrace, | Then I saw my place with thy light’s grace.'
-- 'id': '11_130_2'
+- 'id': '11_130_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

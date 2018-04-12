@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is based on three second hemistichs and one full verse of Hafiï of Sharaz. The full verse, which forms the last verse of the poem under review, is the core of the message of ‘Allamah Iqbal. In the first six verses he sarcastically describes the rewards of being a time-server by subservience to worldly masters and kings. In the last verse he is talking of subservience to God for which sincere intentions are necessary, in contrast with the selfish motives of material benefits in subservience to earthly masters.'
 'sher':
-- 'id': '1_124_1'
+- 'id': '1_124_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The distinction between the ruler and the ruled cannot disappear | The beggar cannot have the audacity of being equal to the king'
   - 'lang': 'ro'
     'text': 'Tameez-e-Hakim-o-Mekhoom Mit Nahin Sakti | Majal Kya Ke Gadagar Ho Shah Ka Humdosh'
-- 'id': '1_124_2'
+- 'id': '1_124_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'In the world adoration of the master is the climax of devotion | “Seek the pleasure of the master and have the beautiful tunic”'
   - 'lang': 'ro'
     'text': 'Jahan Mein Khawajah Prasti Hai Bande Ka Kamal | Razaye Khawajah Talab Kun Qabaye Rangeen-Posh'
-- 'id': '1_124_3'
+- 'id': '1_124_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'But if you aim to have the good pleasure of the ruler | You will have the title of self-seeker and anti-national'
   - 'lang': 'ro'
     'text': 'Magar Gharz Jo Husool-e-Razaye Hakim Ho | Khitab Milta Hai Mansab Parast-o-Qoum Farosh'
-- 'id': '1_124_4'
+- 'id': '1_124_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The old way has thousands of difficulties | In the new principle the lap is free of worries'
   - 'lang': 'ro'
     'text': 'Purane Tarz-e-Amal Mein Hazar Mushkil Hai | Naye Asool Se Khali Hai Fikar Ki Aghosh'
-- 'id': '1_124_5'
+- 'id': '1_124_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The real joy comes by passing one’s life like this | “Thousand words in the mouth and have silent lips”'
   - 'lang': 'ro'
     'text': 'Maza To Ye Hai Ke Yun Zair-e-Asman Rahye | “Hazar Guna Sukhan Dar Dahan-Wa-Lab Khamosh”'
-- 'id': '1_124_6'
+- 'id': '1_124_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'This principle alone is the mainstay of peaceful existence | “The recluse beggar you are, O Hafiï make no clamor”'
   - 'lang': 'ro'
     'text': 'Yehi Asool Hai Sarmaya-e-Sukoon-e-Hayat | “Gadaye Ghosha Nasheeni To Hafiza Makhrosh”'
-- 'id': '1_124_7'
+- 'id': '1_124_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Magar Kharosh Pe Mayal Hai T To Bismillah | “Bageer Badah-e-Safi, Babang-e-Ching Ba Nosh”'
-- 'id': '1_124_8'
+- 'id': '1_124_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'Join the assemblies of the rich, the minister and the king | Smash to pieces conscience’ goblet with greed’s stone'
   - 'lang': 'ro'
     'text': 'Shareek-e-Bazam-e-Ameer-o-Wazeer-o-Sultan Ho | Lara Ke Torh De Sang-e-Hawas Se Shisha-e-Hosh'
-- 'id': '1_124_9'
+- 'id': '1_124_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'However, listen to the message of the Saint of Sharaz also | That this is the secret of the conscience seller’s closet'
   - 'lang': 'ro'
     'text': 'Payam-e-Murshid-e-Sheeraz Bhi Magar Sun Le | Ke Hai Ye Sirr-e-Nahan Khana-e-Zameer-e-Sarfarosh'
-- 'id': '1_124_10'
+- 'id': '1_124_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

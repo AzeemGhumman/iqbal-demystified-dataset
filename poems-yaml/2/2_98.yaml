@@ -8,7 +8,7 @@
   'text': 'Conquer the world with the power of Selfhood'
 'description': []
 'sher':
-- 'id': '2_98_1'
+- 'id': '2_98_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Conquer the world with the power of Selfhood, | And solve the riddle of the universe;'
   - 'lang': 'ro'
     'text': 'Khudi Ke Zor Se Dunya Pe Chha Ja | Maqam-e-Rang-o-Boo Ka Raaz Pa Ja'
-- 'id': '2_98_2'
+- 'id': '2_98_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'XI-XVII'
 'description': []
 'sher':
-- 'id': '11_95_1'
+- 'id': '11_95_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'شبی پیش خدا بگریستم زار | مسلمانان چرا زارند و خوارند'
   - 'lang': 'en'
     'text': 'At night before Lord I often cry, | Why Moslems are aimed for curse of sky.'
-- 'id': '11_95_2'
+- 'id': '11_95_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

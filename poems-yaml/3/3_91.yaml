@@ -8,7 +8,7 @@
   'text': 'NIETZSCHE'
 'description': []
 'sher':
-- 'id': '3_91_1'
+- 'id': '3_91_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The subtle point that God is one, The German sage could not perceive: | Clear sight and mind are both a must, So that this point one may conceive.'
   - 'lang': 'ro'
     'text': 'Hareef-e-Nukta-e-Touheed Ho Saka Na Hakeem | Nigah Chahiye Asrar-e-‘ LA ILAHA ’ Ke Liye'
-- 'id': '3_91_2'
+- 'id': '3_91_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The flights of fancy, like a dart, Can hit the dome of azure sky: | He casts his noose on moon and sun, That seem so far above and high.'
   - 'lang': 'ro'
     'text': 'Khadang-e-Seena-e-Gardoon Hai Uss Ka Fikr-e-Buland | Kumand Uss Ka Takhiyul Hai Mehr-o-Mah Ke Liye'
-- 'id': '3_91_3'
+- 'id': '3_91_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

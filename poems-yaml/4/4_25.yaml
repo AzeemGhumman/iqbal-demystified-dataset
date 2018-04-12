@@ -8,7 +8,7 @@
   'text': 'When the enslaved people’s rage boils'
 'description': []
 'sher':
-- 'id': '4_25_1'
+- 'id': '4_25_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'When the enslaved people’s rage boils and they rise in revolt against the master, | this world of near and far, of colour and smell, becomes the scene of tremors and convulsions.'
   - 'lang': 'ro'
     'text': 'Garam Ho Jata Hai Jab Mehkoom Qoumon Ka Lahoo | Thartharata Hai Jahan-E-Chaar Suay-O-Rang-O-Boo'
-- 'id': '4_25_2'
+- 'id': '4_25_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'It purifies man’s conscience—eschewing all doubts and misgivings— | When the lamp of high ideals is lit, brightening all paths leading to the goal.'
   - 'lang': 'ro'
     'text': 'Pak Hota Hai Zan-O-Takhmeen Se Insan Ka Zameer | Karta Hai Har Rah Ko Roshan Charagh-E-Arzoo'
-- 'id': '4_25_3'
+- 'id': '4_25_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'There are old maladies and ancients scars the people suffer from, that intellect fails to cure and heal, | but love shows its skill and without the help of physician’s talents removes all scars and cures all woes.'
   - 'lang': 'ro'
     'text': 'Vo Purane Chaak Jin Ko Aqal Si Sakti Nahin | Ishq Sita Hai Unhain Be-Sozan-O-Taar-E-Rafoo'
-- 'id': '4_25_4'
+- 'id': '4_25_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

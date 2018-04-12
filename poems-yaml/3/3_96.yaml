@@ -8,7 +8,7 @@
   'text': 'THE FRANKISH MAN'
 'description': []
 'sher':
-- 'id': '3_96_1'
+- 'id': '3_96_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'To solve this riddle thinkers have much tried, | Their efforts all so far it has defied.'
   - 'lang': 'ro'
     'text': 'Hazar Bar Hakeemon Ne Iss Ko Suljhaya | Magar Ye Masla-e-Zan Raha Wahin Ka Wahin'
-- 'id': '3_96_2'
+- 'id': '3_96_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'No doubt, to womanʹs faith and conduct clear, | The Pleiades and moon do witness bear.'
   - 'lang': 'ro'
     'text': 'Qasoor Zan Ka Nahin Hai Kuch Iss Kharabi Mein | Gawah Iss Ki Sharafat Pe Hain Mah-o-Parveen'
-- 'id': '3_96_3'
+- 'id': '3_96_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

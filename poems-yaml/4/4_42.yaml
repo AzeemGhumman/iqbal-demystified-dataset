@@ -8,7 +8,7 @@
   'text': 'HUSAIN AHMAD'
 'description': []
 'sher':
-- 'id': '4_42_1'
+- 'id': '4_42_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Ajamites do not yet know, The fine points of our faith; | Otherwise, Husain Ahmad of Deoband! What is this foolhardiness?'
   - 'lang': 'ro'
     'text': 'Ajam Hanooz Nadand Rumooz-E-Deen, Warna | Za Deoband Husain Ahmad! Aen Che Bu-ul-Ajabi Ast'
-- 'id': '4_42_2'
+- 'id': '4_42_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'A sermon‐song from the pulpit that, A nation by a homeland be! | From the real position, Of the Arabian Prophet, How sadly unaware is he!'
   - 'lang': 'ro'
     'text': 'Saroad Bar Sar-E-Minbar Ke Millat Az Watan Ast | Che Bekhabar Za-Maqam-E- Muhammad (S.A.W.) Arabi Ast'
-- 'id': '4_42_3'
+- 'id': '4_42_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

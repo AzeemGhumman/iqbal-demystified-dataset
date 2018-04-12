@@ -8,7 +8,7 @@
   'text': 'GODʹS MEN'
 'description': []
 'sher':
-- 'id': '3_38_1'
+- 'id': '3_38_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'That man alone is brave and free, Whose stroke is full of main and might; | That man is coward through and through, Who leans on guile and tricks in fight.'
   - 'lang': 'ro'
     'text': 'Wohi Hai Banda-e-Hur Jis Ki Zarb Hai Kari | Na Woh Ke Harb Hai Jis Ki Tamam Ayyari'
-- 'id': '3_38_2'
+- 'id': '3_38_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'From creationʹs Immemorial Dawn, Free born men own a bent of mind, | Qalandarʹs traits donning cloak and crown, Such distinctive marks in them we find.'
   - 'lang': 'ro'
     'text': 'Azal Se Fitrat-e-Ahrar Mein Hain Dosh Ba-Dosh | Qalandari-o-Qaba Poshi-o-Kulahdari'
-- 'id': '3_38_3'
+- 'id': '3_38_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The spark lies hid within their clay, Which the world to itself takes; | Transforms it as if by a smell, And world—illuming sun it makes.'
   - 'lang': 'ro'
     'text': 'Zamana Le Ke Jise Aftab Karta Hai | Unhi Ki Khak Mein Poshida Hai Woh Chingari'
-- 'id': '3_38_4'
+- 'id': '3_38_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

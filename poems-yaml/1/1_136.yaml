@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'For Mawlana Khwajah Alèaf Husain Hala and Mawlana Shibla N‘umana. They were the two Islamic intellectuals of the Indian sub-continent who were contemporaries of ‘Allamah Iqbal and covered the same fields as the ‘Allamah did, of which the rise and fall of the Muslim world and society was most important. In the dark year of 1914 when the World War I started, with bad omen for the Muslim world, ‘Allamah Iqbal’s grief on the death of both these luminaries of the Islamic world was a great shock. This poem reflects that shock , the climax of which is reached in the last verse which is taken from Mawlana Shibla N‘umana.'
 'sher':
-- 'id': '1_136_1'
+- 'id': '1_136_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'One day Iqbal said to the Muslim | “Your existence is unique in the universe'
   - 'lang': 'ro'
     'text': 'Muslim Se Aik Roz Ye Iqbal Ne Kaha | Diwan-e-Juzw-o-Kul Mein Hai Tera Wujood Fard'
-- 'id': '1_136_2'
+- 'id': '1_136_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The tunes of your old songs are the basis of new knowledge | Civilization is the dust of your old caravans'
   - 'lang': 'ro'
     'text': 'Tere Surood-e-Rafta Ke Nagme Uloom-e-Nau | Tehzeeb Tere Qafla Haye Kuhan Ki Gard'
-- 'id': '1_136_3'
+- 'id': '1_136_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Even the zephyr’s current is like stone to it | Very delicate is the mirror of Man’s honor'
   - 'lang': 'ro'
     'text': 'Pathar Hai Iss Ke Waste Mouj-e-Naseem Bhi | Nazuk Bohat Hai Aaeena-e-Aabru-e-Mard'
-- 'id': '1_136_4'
+- 'id': '1_136_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mardan-e-Kaar, Dhoond Ke Asbab-e-Hadsaat | Karte Hain Charah-e-Sitam-e-Charakh-e-La-Joward'
-- 'id': '1_136_5'
+- 'id': '1_136_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Ask them who are the old secret keepers of the garden | How the autumn became engaged in fight with your garden”'
   - 'lang': 'ro'
     'text': 'Puch Un Se Jo Chaman Ke Hain Dairina Raazdaar | Kyunkar Huwi Khazan Tere Gulshan Se Hum Nabard'
-- 'id': '1_136_6'
+- 'id': '1_136_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'The Muslim became restless with my conversation | The sad sigh became betrayer of the inner sorrow'
   - 'lang': 'ro'
     'text': 'Muslim Mere Kalam Se Betaab Ho Gya | Ghamaz Ho Gyi Gham-e-Pinhan Ki Aah-e-Sard'
-- 'id': '1_136_7'
+- 'id': '1_136_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'He said “Just look at the autumn’s condition | The leaves of the tree of life have become pale'
   - 'lang': 'ro'
     'text': 'Kehne Laga Ke Dekh To Kaifiat-e-Khazan | Auraq Ho Gye Shajar-e-Zindagi Ke Zard'
-- 'id': '1_136_8'
+- 'id': '1_136_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'Those garden’s secret keepers became silent | Whose tune of pathos was the means of mellowness'
   - 'lang': 'ro'
     'text': 'Khamosh Ho Gye Chamanistan Ke Raazdaar | Sarmaya-e-Gudaz Thi Jin Ki Nawaye Dard'
-- 'id': '1_136_9'
+- 'id': '1_136_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'The garden’s inhabitants were still mourning Shibla | When Hala also became a traveler towards Paradise'
   - 'lang': 'ro'
     'text': 'Shibli Ko Ro Rahe The Abhi Ahl-e-Gulistan | Haali Bhi Ho Gya Sooye Fardous Rah Naward'
-- 'id': '1_136_10'
+- 'id': '1_136_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

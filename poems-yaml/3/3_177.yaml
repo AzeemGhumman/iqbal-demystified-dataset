@@ -8,7 +8,7 @@
   'text': 'POLITICAL LEADERS'
 'description': []
 'sher':
-- 'id': '3_177_1'
+- 'id': '3_177_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'On political leaders what hopes can we fix? | They are wedded to dust, in the dust play their tricks,'
   - 'lang': 'ro'
     'text': 'Umeed Kya Hai Siasat Ke Paishwaon Se | Ye Khakbaz Hain, Rakhte Hain Khak Se Pewand'
-- 'id': '3_177_2'
+- 'id': '3_177_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Their gaze always fastened on maggots and flies, | A web like the spider’s their ladder to rise.'
   - 'lang': 'ro'
     'text': 'Hamesha Moor-o-Magas Par Nigah Hai Un Ki | Jahan Mein Hai Sift-e-Ankuboot Un Ki Kumand'
-- 'id': '3_177_3'
+- 'id': '3_177_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

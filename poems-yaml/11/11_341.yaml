@@ -8,14 +8,14 @@
   'text': 'XIII-V'
 'description': []
 'sher':
-- 'id': '11_341_1'
+- 'id': '11_341_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بشر تا از مقام خود فتاد است | بقدر محکمی او را گشاد است'
   - 'lang': 'en'
     'text': '# translation missing | # translation missing'
-- 'id': '11_341_2'
+- 'id': '11_341_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

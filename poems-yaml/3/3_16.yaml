@@ -8,7 +8,7 @@
   'text': 'INDIAN MUSLIM'
 'description': []
 'sher':
-- 'id': '3_16_1'
+- 'id': '3_16_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Brahmans dub him as foe to native land, | The English call him beggar on the other hand.'
   - 'lang': 'ro'
     'text': 'Gaddar-e-Watan Iss Ko Batate Hain Barhaman | Angraiz Samjahta Hai Musalman Ko Gadagar'
-- 'id': '3_16_2'
+- 'id': '3_16_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The code of prophet born in Punjab says, | ʺThis ancient Muslim owns many pagan ways.”'
   - 'lang': 'ro'
     'text': 'Punjab-e-Arbab-e-Nabuwwat Ki Shariat | Kehti Hai Ke Ye Momin-e-Parina Hai Kafir'
-- 'id': '3_16_3'
+- 'id': '3_16_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

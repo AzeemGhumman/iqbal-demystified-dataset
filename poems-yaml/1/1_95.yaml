@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short and apparently simple nature poem contains the very important subject of the origin, nature and end of matter. It has been controversial since the time of Aristotelian logic whether matter is hadith or qadam. Sophisticated arguments exist on both sides. However, far from solving the problem they have left the readers confused and arguing with each other. This is one of the enigmas for comprehending which Divine guidance is needed. The Holy Qur’an states that (i) matter is no eternal but has been created by God, is constantly changing in form and is being re-created, and (ii) though matter has not been destroyed since its creation it will be destroyed on the Last Day. (The Holy Qur’an 10:4; 14:48; 17:49; 21:104; 27:60-66; 29:19-20; and 35:16.) The climax of the thesis is reached in the last verse of the poem. ‘Allamah Iqbal has dealt with this matter in several poems. Cf. | (196) This universe is perhaps still being completed | Because the call of ”Kun fa Yakun ” is still echoing | (197) Mere optical illusion is this quietude | Restless is every speck of the universe | The constant appearance of new forms of life at all taxonomic levels of plants and animals and the constant appearance of new stars. constellations and galaxies testify to the correctness of the first verse. Similarly, the constant movement of matter along fixed orbits from the sub-atomic elementary particles to the planets, stars, constellations and galaxies supports the second verse.'
 'sher':
-- 'id': '1_95_1'
+- 'id': '1_95_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Are you afraid of the moon or the dawn? | Are you conscious of the end of beauty?'
   - 'lang': 'ro'
     'text': 'Qamar Ka Khof Ke Hai Khatra-e-Sehar Tujh Ko | Maal-e-Husn Ki Kya Mil Gyi Khabar Tujh Ko?'
-- 'id': '1_95_2'
+- 'id': '1_95_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Are you afraid of being robbed of light’s wealth? | Are you afraid of annihilation like the spark?'
   - 'lang': 'ro'
     'text': 'Mataa-e-Noor Ke Lut Jane Ka Hai Dar Tujh Ko | Hai Kya Haras-e-Fana Soorat-e-Sharar Tujh Ko?'
-- 'id': '1_95_3'
+- 'id': '1_95_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The sky has settled you far from the earth | It has wrapped you in gold’s mantle like the moon'
   - 'lang': 'ro'
     'text': 'Zameen Se Door Diya Aasman Ne Ghar Tujh Ko | Misal-e-Mah Urhayi Qabaye Zar Tujh Ko'
-- 'id': '1_95_4'
+- 'id': '1_95_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ghazab Hai Phir Teri Nanhi Si Jaan Derti Hai! | Tamam Raat Teri Kanpte Guzerti Hai'
-- 'id': '1_95_5'
+- 'id': '1_95_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'O shining traveler! This habitation is strange | The rise of one leads to the fall of the other'
   - 'lang': 'ro'
     'text': 'Chamakne Wale Musafir! Ajeeb Ye Basti Hai | Jo Auj Aik Ka Hai, Dosre Ki Pasti Hai'
-- 'id': '1_95_6'
+- 'id': '1_95_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'The birth of one sun is the death of a myriad stars | Annihilation’s sleep is the ecstasy of life’s wine'
   - 'lang': 'ro'
     'text': 'Ajal Hai Lakhon Sitaron Ki Ek Waladat-e-Mehr | Fana Ki Neend Mai-e-Zindagi Ki Masti Hai'
-- 'id': '1_95_7'
+- 'id': '1_95_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'Flower bud’s departure is the secret of flower’s birth | Is annihilation life’s end, or is the equivalent of life!'
   - 'lang': 'ro'
     'text': 'Widaa-e-Ghuncha Mein Hai Raaz-e-Afrainash-e-Gul | Adam, Adam Hai Ke Aaeena Daar-e-Hasti Hai!'
-- 'id': '1_95_8'
+- 'id': '1_95_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'The beauty of mystic love is shaped in song'
 'description': []
 'sher':
-- 'id': '2_92_1'
+- 'id': '2_92_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The beauty of mystic love is shaped in song; | The majesty of mystic love is abandon;'
   - 'lang': 'ro'
     'text': 'Jamal-e-Ishq-o-Masti Ne Nawazi | Jalal-e-Ishq-o-Masti Be-Niazi'
-- 'id': '2_92_2'
+- 'id': '2_92_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

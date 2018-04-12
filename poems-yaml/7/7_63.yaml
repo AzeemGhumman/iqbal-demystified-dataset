@@ -8,14 +8,14 @@
   'text': '(63)'
 'description': []
 'sher':
-- 'id': '7_63_1'
+- 'id': '7_63_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'اگر کردی نگہ بر پارۂ سنگ | ز فیض آرزوی تو گہر شد'
   - 'lang': 'en'
     'text': 'Because you cast a wistful eye on it, | A piece of stone became a jewel. Why,'
-- 'id': '7_63_2'
+- 'id': '7_63_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

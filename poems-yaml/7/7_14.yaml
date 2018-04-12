@@ -8,14 +8,14 @@
   'text': '(14)'
 'description': []
 'sher':
-- 'id': '7_14_1'
+- 'id': '7_14_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تنی پیدا کن از مشت غباری | تنی محکم تر از سنگین حصاری'
   - 'lang': 'en'
     'text': 'Build yourself with a handful of mere dirt | A frame much stronger than a rock-built fort;'
-- 'id': '7_14_2'
+- 'id': '7_14_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

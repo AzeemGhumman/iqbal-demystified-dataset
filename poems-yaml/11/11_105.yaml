@@ -8,7 +8,7 @@
   'text': 'XI-XXVII'
 'description': []
 'sher':
-- 'id': '11_105_1'
+- 'id': '11_105_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'arcane'
       'meaning': '        Arcane; hidden, known to chosen only; sec esoterics; hidden signs known by the few chosen (in mysticism)'
       'occurrence': !!int '1'
-- 'id': '11_105_2'
+- 'id': '11_105_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'INDIAN SCHOOL'
 'description': []
 'sher':
-- 'id': '3_82_1'
+- 'id': '3_82_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'About the self here have no talk, O bard, | Because with schools such sermons donʹt accord.'
   - 'lang': 'ro'
     'text': 'Iqbal! Yahan Naam Na Le Ilm-e-Khudi Ka | Mozoon Nahin Maktab Ke Liye Aese Maqalat'
-- 'id': '3_82_2'
+- 'id': '3_82_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Much good that birds that chirp may not descry, | The modes of hawk, its state and rank so high!'
   - 'lang': 'ro'
     'text': 'Behtar Hai Ke Bechare Mamulon Ki Nazar Se | Poshida Rahain Baaz Ke Ahwal-o-Maqamat'
-- 'id': '3_82_3'
+- 'id': '3_82_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'A free manʹs breath can match a subject year, | How slowly moves the time of serfs, is clear!'
   - 'lang': 'ro'
     'text': 'Azad Ki Ek Aan Ha Mehkoom Ka Ek Saal | Kis Darja Garan Sair Hain Mehkoom Ke Auqat!'
-- 'id': '3_82_4'
+- 'id': '3_82_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The free perform such deeds in span of breath, | But slaves are every instant prone to sudden death.'
   - 'lang': 'ro'
     'text': 'Azad Ka Har Lehza Payam-e-Abadiat | Mehkoom Ka Har Kehza Nayi Marg-e-Mafajat'
-- 'id': '3_82_5'
+- 'id': '3_82_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The thoughts of persons free with truth are lit, | But thoughts of slaves do not own sense a bit.'
   - 'lang': 'ro'
     'text': 'Azad Ka Andesha Haqiqat Se Munawar | Mehkoom Ka Andesha Giraftar-e-Khurafat'
-- 'id': '3_82_6'
+- 'id': '3_82_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'A slave has craze for marvels wrought by guides | Himself a wonder ʹlive, his memory fresh abides.'
   - 'lang': 'ro'
     'text': 'Mehkoom Ko Peeron Ki Karamat Ka Soda | Hai Banda-e-Azad Khud Ek Zinda Karamat'
-- 'id': '3_82_7'
+- 'id': '3_82_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

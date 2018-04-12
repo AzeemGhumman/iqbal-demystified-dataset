@@ -8,7 +8,7 @@
   'text': 'ECSTASY'
 'description': []
 'sher':
-- 'id': '2_127_1'
+- 'id': '2_127_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': '# translation missing | # translation missing'
   - 'lang': 'ro'
     'text': '''Daraig Amdam Zaan Hama Bostan | Tahi Dast Raftan Suay Dostan'
-- 'id': '2_127_2'
+- 'id': '2_127_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Life to passion and ecstasy—sunrise in the desert: | Luminous brooks are flowing from the fountain of the rising sun.'
   - 'lang': 'ro'
     'text': 'Qalb-o-Nazar Ki Zindagi Dast Mein Subah Ka Saman | Chasma''ay Aftab Se Noor Ki Nadiyan Rawan'
-- 'id': '2_127_3'
+- 'id': '2_127_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The veil of being is torn, Eternal Beauty reveals itself: | The eye is dazzled but the soul is richly endowed.'
   - 'lang': 'ro'
     'text': 'Husn-e-Azal Ki Hai Namood, Chaak Hai Parda''ay Wajood | Dil Ke Liye Hazar Sood, Aik Nigah Ka Ziyan'
-- 'id': '2_127_4'
+- 'id': '2_127_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The heavy night‐cloud has left behind it red and blue cloudlets: | It has given a head‐dress of various hues to the Mount Idam to wear.'
   - 'lang': 'ro'
     'text': 'Surkh-o-Kabood Badaliyan Chor (Chodh) Gaya Sihab-e-Shab | Koh-e-Idm Ko De Gaya Rand Barang Teelsiyan'
-- 'id': '2_127_5'
+- 'id': '2_127_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Air is clean of dust particles; leaves of datepalms have been washed; | The sand around Kazimah is soft like velvet.'
   - 'lang': 'ro'
     'text': 'Gard Se Pak Hai Hawa, Barg-e-Nakheel Dhul Gaye | Raig-e-Nawah-e-Kazimah Naram Hai Misl-e-Parniyan'
-- 'id': '2_127_6'
+- 'id': '2_127_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'The remains of burnt‐out fire are observable here and a piece of tent‐rope there: | Who knows how many caravans have passed through this tract.'
   - 'lang': 'ro'
     'text': 'Aag Bujhi Hui Idhar, Tooti Hui Tanab Udhar | Kya Khabar Iss Maqam Se Guzaray Hain Kitne Karwan'
-- 'id': '2_127_7'
+- 'id': '2_127_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'I heard the angel Gabriel saying to me: This indeed is your station— | For those acquainted with the pleasure of separation, this is the everlasting comfort.'
   - 'lang': 'ro'
     'text': 'Ayi Sada''ay Jibreel, Tera Maqam Hai Yehi | Ahl-e-Faraak Ke Liye Ayesh-e-Dawam Hai Yehi'
-- 'id': '2_127_8'
+- 'id': '2_127_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'To whom should I say that the wine of life is poison to me: | I have new experiences while the universe is decadent entire.'
   - 'lang': 'ro'
     'text': 'Kis Se Kahon Ke Zehar Hai Mere Liye May''ay Hiyat | Kuhna HAi Bazm-e-Kainat, Taza Hain Mere Wardaat'
-- 'id': '2_127_9'
+- 'id': '2_127_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'Is there not another Ghaznavi in the factory of Life?— | The Somnaths of the People of the Harem have been awaiting a blow for long.'
   - 'lang': 'ro'
     'text': 'Kiya Nahin Aur Ghaznavi Kargah-e-Hiyat Mein | Baithe Hain Kab Se Muntazir Ahl-e-Harm Ke Soumanaat'
-- 'id': '2_127_10'
+- 'id': '2_127_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'The Arabian fervour and the Persian comfort | Have both lost the Arabian acuteness and the Persian imagination.'
   - 'lang': 'ro'
     'text': 'Zikr-e-Arab Ke Souz Mein, Fikr-e-Ajam Ke Saaz Mein | Nay Arabi Mushahidaat, Nay Arbi Takhayyulaat'
-- 'id': '2_127_11'
+- 'id': '2_127_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'The Caravan of Hijaz has not another Husain amongst it— | Although the tresses of the Tigris and the Euphrates are still as bright as ever.'
   - 'lang': 'ro'
     'text': 'Kafla''ay Hijaz Mein Aik Hussain(R.A.) Bhi Nahin | Garcha Hai Tabdaar Abhi Gaisu''ay Dajla-o-Firat'
-- 'id': '2_127_12'
+- 'id': '2_127_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'Intellect, heart and vision, all must take their first lessons from Love— | Religion and the religious law breed idols of illusion if there is no Love.'
   - 'lang': 'ro'
     'text': 'Aqal-o-Dil-o-Nigah Ka Murshid-e-Awaleen Hai Ishq | Ishq Na Ho Tou Sharaa-o-Deen, Bott Khudda''ay Tasawwarat'
-- 'id': '2_127_13'
+- 'id': '2_127_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'The truthfulness of Abraham is but a form of Love, and so is the patience of Husain— | And so are Badr and Hunayn in the battle of existence.'
   - 'lang': 'ro'
     'text': 'Sidq-e-Khalil(A.S.) Bhi Hai Ishq, Sabr-e-Hussain(R.A.) Bhi Hai Ishq | Maarka''ay Wajood Mein Badar-o-Hunain Bhi Hai Ishq'
-- 'id': '2_127_14'
+- 'id': '2_127_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'The universe is a verse of God and you are the meaning to be grasped at last; | Colour and scent are the caravans that set forth to seek you.'
   - 'lang': 'ro'
     'text': 'Aaya''ay Kainat Ka Ma''ani-e-Deeryaab tu | Nikle Teri Talash Mein Kafla Ha''ay Rang-o-Bu'
-- 'id': '2_127_15'
+- 'id': '2_127_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'The disciples in the schools are insipid and purblind; | The esoteric of the monastery have low aims with empty bowls;'
   - 'lang': 'ro'
     'text': 'Jalwatiyan-e-Madrasah Kour Nigah-o-Murda Zauq | Khalwatiyan May Kuda Kam Talab-o-Tahi Kadu'
-- 'id': '2_127_16'
+- 'id': '2_127_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'I—whose ghazal reflects the flame that has been lost, | All my life I pined after the type of men that exists no more.'
   - 'lang': 'ro'
     'text': 'Main Ke Meri Ghazal Mein Hain Aatish-e-Rafta Ka Suragh | Meri Tamam Sarguzhast, Khuay Huwon Ki Justajoo'
-- 'id': '2_127_17'
+- 'id': '2_127_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'The zephyr nurtures thorn and straw, | While my breath nurtures passion in hearts;'
   - 'lang': 'ro'
     'text': 'Baad-e-Saba Ki Mouj Se Nashonuma''ay Khar-o-Khs | Mere Nafs Ki Mouj Se Nashonuma''ay Arzoo'
-- 'id': '2_127_18'
+- 'id': '2_127_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': 'My song thrives upon my lifeblood: | The strings of the instrument become alive with the blood of the musician.'
   - 'lang': 'ro'
     'text': 'Khoon-e-Dil-o-Jigar Se Hai Meri Nawa Ki Parwarish | Hai Rag-e-Saaz Mein Rawan Sahib-e-Saaz Ka Lahoo'
-- 'id': '2_127_19'
+- 'id': '2_127_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'Give not occasion for conturbation to this restless heart; | Bright are your tresses, brighten them even more.'
   - 'lang': 'ro'
     'text': '''Fursat-e-Kashmakash Madah Ayen Dil-e-Beqarar Ra | Yak Do Shikan Ziada Kun Ghaisu''ay Tabdaar Ra'''
-- 'id': '2_127_20'
+- 'id': '2_127_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'You are the Sacred Tablet, You are the Pen and the Book; | This blue‐colored dome is a bubble in the sea that you are.'
   - 'lang': 'ro'
     'text': 'Loh Bhi Tu Qalam Bhi Tu, Tera Wajood Al-Kitab | Gunbad-e-Abgina Rang tere Muheet Mein Habab'
-- 'id': '2_127_21'
+- 'id': '2_127_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'You are the lifeblood of the universe: | You bestowed the illumination of a sun upon the particles of desert dust.'
   - 'lang': 'ro'
     'text': 'Alim-e-Aab-o-Khak Mein Tere Zahoor Se Faroug | Zarra''ay Raig Ko Diya Tu Ne Tulu-e-Aftab'
-- 'id': '2_127_22'
+- 'id': '2_127_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -206,7 +206,7 @@
     'text': 'The splendour of Sanjar and Selim: a mere hint of your majesty; | The faqr of Junaid and Bayazid: your beauty unveiled.'
   - 'lang': 'ro'
     'text': 'Shoukat-e-Sanjar-o-Saleem Tere Jalal Ki Namood | Faqr-e-Junaid(R.A.)-o-Bayazeed(R.A.), Tera Jamal-e-Be-Naqab'
-- 'id': '2_127_23'
+- 'id': '2_127_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -215,7 +215,7 @@
     'text': 'If my prayers are not led by my passion for you, | My ovation as well as my prostrations would be nothing but veils upon my soul.'
   - 'lang': 'ro'
     'text': 'Shauq Tera Agar Na Ho Meri Namaz Ka Imam | Mera Qiyam Bhi Hijab, Mera Sajood Bhi Hijab'
-- 'id': '2_127_24'
+- 'id': '2_127_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -224,7 +224,7 @@
     'text': 'A meaningful glance from you redeemed both of them: | Reason—the seeker in separation; and Love— the restless one in Presence.'
   - 'lang': 'ro'
     'text': 'Teri Nigah-e-Naaz Se Dono Murad Pa Gaye | Aqal Ghiyab-o-Justajoo, Ishq Huzoor-o-Iztarab'
-- 'id': '2_127_25'
+- 'id': '2_127_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -233,7 +233,7 @@
     'text': 'The world has become dark since the sun has set down; | Unveil your beauty to dawn upon this age.'
   - 'lang': 'ro'
     'text': 'Teerah-o-Taar Hai Jahan Gardish-e-Aftab Se | Taba-e-Zamana Taza Kar Jalwa''ay Behijab Se'
-- 'id': '2_127_26'
+- 'id': '2_127_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -242,7 +242,7 @@
     'text': 'You are a witness on my life so far: | I did not know that Knowledge is a tree that bears no fruit.'
   - 'lang': 'ro'
     'text': 'Teri Nazar Mein Hain Tamam Mere Guzishta Roz-o-Shab | Mujh Ko Khabar Na Thi Ke Hai Ilm-e-Nakheel-e-Be-Rutab'
-- 'id': '2_127_27'
+- 'id': '2_127_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -251,7 +251,7 @@
     'text': 'The old battle was then revived in my conscience: | Love, all Mustafa; Reason, all Abu Lahab.'
   - 'lang': 'ro'
     'text': 'Taza Mere Zameer Mein Ma''arka''ay Kuhan Huwa | Ishq Tamam Mustafavi(S.A.W.), Aqal Tamam Bu-Lahab'
-- 'id': '2_127_28'
+- 'id': '2_127_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -260,7 +260,7 @@
     'text': 'It persuaded me with art, it pulled me by force: | Strange is Love at the beginning, strange in its perfection!'
   - 'lang': 'ro'
     'text': 'Gah Bahila Mee Burad, Gah Bazor Mee Kusah | Ishq Ki Ibtada Ajab, Ishq Ki Intaha Ajab'
-- 'id': '2_127_29'
+- 'id': '2_127_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -269,7 +269,7 @@
     'text': 'Separation is greater than union in the state of ecstasy; | For union is death to desire while separation brings the pleasure of longing.'
   - 'lang': 'ro'
     'text': 'Alim-e-Souz-o-Saaz Mein Wasal Se Barh Ke Hai Firaaq | Wasal Mein Marg-e-Arzoo, Hijar Mein Lazzat-e-Talab'
-- 'id': '2_127_30'
+- 'id': '2_127_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -278,7 +278,7 @@
     'text': 'In the midst of the union I dared not cast a glance; | Though my audacious eye was looking for a pretence.'
   - 'lang': 'ro'
     'text': 'Ayen-e-Wisal Mein Mujhay Hosla''ay Nazar Na Tha | Gharcha Bahana Joo Rahi Meri Nigah-e-BeAdab'
-- 'id': '2_127_31'
+- 'id': '2_127_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

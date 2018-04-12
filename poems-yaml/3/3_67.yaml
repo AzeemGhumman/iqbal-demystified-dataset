@@ -8,7 +8,7 @@
   'text': 'BY GRACE OF GOD, RISE!'
 'description': []
 'sher':
-- 'id': '3_67_1'
+- 'id': '3_67_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Though change so great has swept the world, There is no need to grieve or smart: | The same the earth and same the skies, By Grace of God, rise! Play your part!'
   - 'lang': 'ro'
     'text': 'Jahan Agarcha Digargoon Hai, Qum Bi-Izinillah | Wohi Zameen, Wohi Gadroon Hai, Qum Bi-Izinillah'
-- 'id': '3_67_2'
+- 'id': '3_67_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The same hot blood runs in your veins, That raised the cry ʺThe self is Trueʺ | By Grace of God, rise! Play your part! And go in quest of ventures new.'
   - 'lang': 'ro'
     'text': 'Kiya Nawaye ‘Anal-Haq’ Ko Aatisheen Jis Ne | Teri Ragon Mein Wohi Khoon Hai, Qum Bi-Izinillah'
-- 'id': '3_67_3'
+- 'id': '3_67_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

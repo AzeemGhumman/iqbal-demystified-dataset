@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This elegy is a tribute to the genius of Mirza Asad Allah Khan Ghalib. The poem also provides a glimpse of ‘Allamah Iqbal’s feelings of love for Delhi as an emblem of the glory of the Muslim civilization in the Indian sub-continent, which reached its zenith during the reign of Shahjahan (1592-1666, reigned 1627-58), the famous Mughal Emperor of India and the builder of the Taj Mahal. The love and pride of ‘Allamah Iqbal for the period of the glory of Muslims and Islam during the rise of the Islamic civilization, and his pathos at the decay of this civilization appear throughout his works, including Bang-i-Dara.'
 'sher':
-- 'id': '1_4_1'
+- 'id': '1_4_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Through you the secret was revealed to the human intellect | That innumerable enigmas are solved by human intellect'
   - 'lang': 'ro'
     'text': 'Fikar-e- Insan Per Teri Hasti Se Ye Roshan Huwa | Hai Per-e-Muragh-e-Takhayul Ki Rasayi Ta Kuja'
-- 'id': '1_4_2'
+- 'id': '1_4_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tha Sarapa Rooh Tu, Bazm-e- Sukhan Pekar Tera | Zaib-E-Mehfil Bhi Raha, Mehfil Se Pinhan Bhi Raha'
-- 'id': '1_4_3'
+- 'id': '1_4_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Deed Teri Aankh Ko Uss Husn Ki Manzoor Hai | Ban Ke Souz e-Zindagi Her Shay Mein Jo Mastoor Hai'
-- 'id': '1_4_4'
+- 'id': '1_4_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
     'text': 'The assemblage of existence is rich with your harp | As mountain''s silence by the brook''s melodious harp'
   - 'lang': 'ro'
     'text': 'Mehfil-e-Hasti Teri Barbat Se Hai Sarmayadar | Jis Tarah Naddi Ke Naghmon Se Sakoot-E-Kohsar'
-- 'id': '1_4_5'
+- 'id': '1_4_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
     'text': 'The garden of your imagination bestows glory on the universe | From the field of your thought worlds grow like meadows'
   - 'lang': 'ro'
     'text': 'Tere Ferdous-e-Takhayul Se Hai Qudrat Ki Bahar | Teri Kisht-e-Fikar Se Ugte Hain Aalam Sabza War'
-- 'id': '1_4_6'
+- 'id': '1_4_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -72,7 +72,7 @@
     'text': 'Life is concealed in the humor of your verse | Picture''s lips move with your command of language'
   - 'lang': 'ro'
     'text': 'Zindagi Muzmer Hai Teri Shaukhi-e-Tehreer Mein | Tab-E-Goyai Se Junbish Hai Lab-e-Tasveer Mein'
-- 'id': '1_4_7'
+- 'id': '1_4_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
     'text': 'Speech is very proud of the elegance of your miraculous lips | Thurayyah is astonished at your style''s elegance'
   - 'lang': 'ro'
     'text': 'Nutaq Ko So Naz Hain Tere Lab-e-Ejaz Per | Mehv-e-Hairat Hai Surayya Rifat-e- Parwaz Per'
-- 'id': '1_4_8'
+- 'id': '1_4_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Shahid-e-Mazmoon Tassaduq Hai Tere Andaz Per | Khandazan Hai Guncha-e-Dilli Gul-e-Shiraz Per'
-- 'id': '1_4_9'
+- 'id': '1_4_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aah! Tu Ujhari Huwi Dilli Mein Aaramida Hai | Gulshan-e-Weimar* Mein Tera Humnawa Khawabida Hai'
-- 'id': '1_4_10'
+- 'id': '1_4_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'Matching you in literary elegance is not possible | Till maturity of thought and imagination are combined'
   - 'lang': 'ro'
     'text': 'Lutaf-e-Goyai Mein Teri Humsari Mumkin Nahin | Ho Takhayyul Ka Na Jab Tak Fikar-e-Kamil Hum Nasheen'
-- 'id': '1_4_11'
+- 'id': '1_4_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'Ah! What has befallen the land of India! | Ah! The inspirer of the super-critical eye!'
   - 'lang': 'ro'
     'text': 'Haye! Ab Kya Ho Gyi Hindustan Ki Ser Zameen | Ah! Ae Nazara Aamoz-e-Nigah-e-Nukta Been'
-- 'id': '1_4_12'
+- 'id': '1_4_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'The lock of Urdu''s hair still craves for combing | This candle still craves for moth''s heart-felt pathos'
   - 'lang': 'ro'
     'text': 'Gaisuay Urdu Abhi Mannat Pazeer-e-Shana Hai | Shama Ye Sodai-e-Dilsozi-e-Perwana Hai'
-- 'id': '1_4_13'
+- 'id': '1_4_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -147,7 +147,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Jahan Abad! Ae Gehwara-e-Ilam-o-Hunar | Hain Sarapa Nala-e-Khamosh Tere Baam-o-Der'
-- 'id': '1_4_14'
+- 'id': '1_4_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -160,7 +160,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Zarre Zarre Mein Tere Khabidah Hein Shamas-o-Qamar | Yun To Poshida Hain Teri Khak Mein Lakhon Gohar'
-- 'id': '1_4_15'
+- 'id': '1_4_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

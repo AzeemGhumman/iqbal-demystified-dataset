@@ -8,14 +8,14 @@
   'text': '(39)'
 'description': []
 'sher':
-- 'id': '7_39_1'
+- 'id': '7_39_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خرد گفت او بچشم اندر نگنجد | نگاہ شوق در امید و بیم است'
   - 'lang': 'en'
     'text': 'The intellect says He cannot be seen. | But still the eager eye stays caught between'
-- 'id': '7_39_2'
+- 'id': '7_39_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

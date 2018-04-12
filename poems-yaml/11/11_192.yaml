@@ -8,14 +8,14 @@
   'text': 'RUMI | Chapter 5'
 'description': []
 'sher':
-- 'id': '11_192_1'
+- 'id': '11_192_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بکام خود دگر  ن کہنہ می ریز | کہ با جامش نیرزد ملک پرویز'
   - 'lang': 'en'
     'text': 'Pour in thy self that old wine again, | His one cup’s worth is more than a reign.'
-- 'id': '11_192_2'
+- 'id': '11_192_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

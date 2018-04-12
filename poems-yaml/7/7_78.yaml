@@ -8,14 +8,14 @@
   'text': '(78)'
 'description': []
 'sher':
-- 'id': '7_78_1'
+- 'id': '7_78_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نوا در ساز جان از زخمۂ تو | چسان در جانی و از جان برونی'
   - 'lang': 'en'
     'text': 'A lute, played by You, I make melody. | You are my soul and yet outside my soul.'
-- 'id': '7_78_2'
+- 'id': '7_78_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'V-VI'
 'description': []
 'sher':
-- 'id': '11_197_1'
+- 'id': '11_197_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بروے من در دل باز کردند | ز خاک من جھانی ساز کردند'
   - 'lang': 'en'
     'text': 'To me his heart’s door was always ope, | From my dust he caused a world’s new hope.'
-- 'id': '11_197_2'
+- 'id': '11_197_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

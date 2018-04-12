@@ -8,7 +8,7 @@
   'text': 'FERVOUR FOR ACTION'
 'description': []
 'sher':
-- 'id': '3_34_1'
+- 'id': '3_34_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The mystic mode has naught except, The inner changes of the heart; | The talk of Mullah on his creed, Is merely piece of fiery art.'
   - 'lang': 'ro'
     'text': 'Sufi Ki Tariqat Mein Faqt Mast-e-Ahwal | Mullah Ki Shariat Mein Faqt Mast-e-Guftar'
-- 'id': '3_34_2'
+- 'id': '3_34_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The poetʹs song of zeal bereft, Is dead and struck with frost! | To outward eyes he seems awake, Though in thoughts completely lost!'
   - 'lang': 'ro'
     'text': 'Shayar Ki Nawa Murda-o-Afsurda-o-Be-Zauq | Afkar Mein Sar-Mast, Na Khawabida Na Baidar'
-- 'id': '3_34_3'
+- 'id': '3_34_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

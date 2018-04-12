@@ -8,7 +8,7 @@
   'text': 'THE PAINTER'
 'description': []
 'sher':
-- 'id': '3_132_1'
+- 'id': '3_132_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The death of fancy is so widely spread | That men of Pers and Ind by Franks are led.'
   - 'lang': 'ro'
     'text': 'Kis Darja Yahan Aam Huwi Marg-e-Takhiyyul | Hindi Bhi Farangi Ka Maqallad, Ajmi Bhi!'
-- 'id': '3_132_2'
+- 'id': '3_132_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'I feel sad that Behzads of modern time | Have lost Eastʹs rapture sweet and joy sublime.'
   - 'lang': 'ro'
     'text': 'Mujhe Ko To Yehi Gham Hai Ke Iss Dour Ke Behzad | Hko Baithe Hain Mashriq Ka Suroor-e-Azali Bhi'
-- 'id': '3_132_3'
+- 'id': '3_132_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O artist, of your talents I can tell, | You know the ancient crafts and new so well.'
   - 'lang': 'ro'
     'text': 'Maloom Hain Ae Mard-Ehunar Tere Kamal | San’at Tujhe Ati Hai Purani Bhi, Nayi Bhi'
-- 'id': '3_132_4'
+- 'id': '3_132_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

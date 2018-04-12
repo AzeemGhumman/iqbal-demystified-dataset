@@ -8,7 +8,7 @@
   'text': 'TO THE ARAB POET | CHAPTER 7'
 'description': []
 'sher':
-- 'id': '11_211_1'
+- 'id': '11_211_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Arab'
       'meaning': '        Iqbal is advising Arab (pront as Arb also) poets to give uP love poetry (ode) of beautiful women as he was seeing a change to good after one hundred thirty years continuous decline of Arh world.'
       'occurrence': !!int '1'
-- 'id': '11_211_2'
+- 'id': '11_211_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

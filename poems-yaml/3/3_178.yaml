@@ -8,7 +8,7 @@
   'text': 'PSYCHOLOGY OF BONDAGE'
 'description': []
 'sher':
-- 'id': '3_178_1'
+- 'id': '3_178_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The causes that make the nations sick, Are quite obscure, too vague and fine: | Although some man may try his best, Yet cause in full he can’t define.'
   - 'lang': 'ro'
     'text': 'Sakht Bareek Hain Amraz-e-Umam Ke Asbab | Khol Kar Kahiye To Karta Hai Byan Kotahi'
-- 'id': '3_178_2'
+- 'id': '3_178_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The chiefs and guides of slaves have sunk, So low that it seems so much odd: | If mode of lions is presented to them, They will see naught save guile and fraud.'
   - 'lang': 'ro'
     'text': 'Deen-e-Sheri Mein Ghulami Ke Imam Aur Shyukh | Dekhte Hain Faqt Ek Falsafa-e-Rubahi'
-- 'id': '3_178_3'
+- 'id': '3_178_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

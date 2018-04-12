@@ -8,14 +8,14 @@
   'text': 'X-III'
 'description': []
 'sher':
-- 'id': '11_237_1'
+- 'id': '11_237_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'در افتد با ملوکیت کلیمی | فقیری بے کلاہی ، بی گلیمی'
   - 'lang': 'en'
     'text': 'A Moses grapples with kingdoms all, | And threatens tyrants though means are sina!'
-- 'id': '11_237_2'
+- 'id': '11_237_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

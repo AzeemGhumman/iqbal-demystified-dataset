@@ -8,14 +8,14 @@
   'text': '(52)'
 'description': []
 'sher':
-- 'id': '7_52_1'
+- 'id': '7_52_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرا فرمود پیر نکتہ دانے | ہر امروز تو از فردا پیام است'
   - 'lang': 'en'
     'text': 'A wise man said to me: "All your todays | Are earnests of a great Tomorrow; so'
-- 'id': '7_52_2'
+- 'id': '7_52_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'THE SCHOOLS'
 'description': []
 'sher':
-- 'id': '3_90_1'
+- 'id': '3_90_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This age that’s with us is your angel of death, | Its bread and butter cares catch your soul’s breath.'
   - 'lang': 'ro'
     'text': 'Asr-e-Hazir Malak-Ul-Mout Hai Tera, Jis Ne | Qabz Ki Rooh Teri De Ke Tujhe Fikr-e-Muash'
-- 'id': '3_90_2'
+- 'id': '3_90_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Your heart recoils from shock of combat; life | Is death, that deadens in men the joy of strife.'
   - 'lang': 'ro'
     'text': 'Dil Larazta Hai Hareefana Khashakash Se Tera | Zindagi Mout Hai, Koh Deti Hai Jab Zauq-e-Kharash'
-- 'id': '3_90_3'
+- 'id': '3_90_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Learning estranged you from such exaltation | As would not let man’s mind desert its station;'
   - 'lang': 'ro'
     'text': 'Uss Junoon Se Tujhe Taleem Ne Begana Kiya | Jo Ye Kehta Tha Khird Se Ke Bahane Na Tarash'
-- 'id': '3_90_4'
+- 'id': '3_90_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'A falcon’s eyes were yours by Nature’s right, | Slavishness left them only a poor wren’s sight,'
   - 'lang': 'ro'
     'text': 'Faiz-e-Fitrat Ne Tujhe Didah-e-Shaheen Bakhsha | Jis Mein Rakh Di Hai Ghulami Ne Nigah-e-Khaffash'
-- 'id': '3_90_5'
+- 'id': '3_90_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'V-III'
 'description': []
 'sher':
-- 'id': '11_297_1'
+- 'id': '11_297_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'منہ از کف چراغ  رزو را | بدست  ور مقام ہای و ہو را'
   - 'lang': 'en'
     'text': 'Keep the crave’s lamp burning ever in heart, | Get the place where the uproars start.'
-- 'id': '11_297_2'
+- 'id': '11_297_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

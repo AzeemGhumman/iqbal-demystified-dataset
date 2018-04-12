@@ -8,14 +8,14 @@
   'text': 'XVIII-II'
 'description': []
 'sher':
-- 'id': '11_279_1'
+- 'id': '11_279_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بخود باز او دامان دلے گیر | درون سینہ خود منزلی گیر'
   - 'lang': 'en'
     'text': 'Back to ego turn, and back to heart look, | Make the self’s own place in thy bosom nook.'
-- 'id': '11_279_2'
+- 'id': '11_279_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

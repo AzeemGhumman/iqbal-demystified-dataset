@@ -8,7 +8,7 @@
   'text': 'The movement of days and nights is eternal'
 'description': []
 'sher':
-- 'id': '2_115_1'
+- 'id': '2_115_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The movement of days and nights is eternal, fast; | No one has seen the future or the past;'
   - 'lang': 'ro'
     'text': 'Zamane Ki Ye Gardish Javidana | Haqiqat Aik Tu, Baqi Fasana'
-- 'id': '2_115_2'
+- 'id': '2_115_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

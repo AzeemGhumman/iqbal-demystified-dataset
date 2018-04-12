@@ -8,14 +8,14 @@
   'text': 'XIII-III'
 'description': []
 'sher':
-- 'id': '11_339_1'
+- 'id': '11_339_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ شیطانی خرامش واژگونی | کند چشم ترا کور از فسونے'
   - 'lang': 'en'
     'text': '# translation missing | # translation missing'
-- 'id': '11_339_2'
+- 'id': '11_339_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

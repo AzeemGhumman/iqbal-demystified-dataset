@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is another short poem in which ‘Allamah Iqbal has used a common object like the flower bud to explain mystic secrets and to show the way to recognizing, loving and revering God. The sun is one of His prominent creations and the influence of the sun produces the marvels and mysteries of the flower bud. Through the flower bud one can comprehend God. The Holy Qur’an has repeatedly appealed to Man to recognize the Existence of God on the basis of the innumerable signs in the afaq (the universe) round us. The following verses specifically refer to the signs based on the sun and the phenomena connected with it: 2:164; 3:190; 6:95-99; 10:5-6; 17:12; 30:20-27; 36:37-40; and 45:3-6. The poem also supports the theory of Wahdat al- Shuhud.'
 'sher':
-- 'id': '1_71_1'
+- 'id': '1_71_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'When the dawn uncovers its beautiful cheek | The flower bud uncovers its golden breast'
   - 'lang': 'ro'
     'text': 'Jab Dikhati Hai Sehar Ariz-e-Rangeen Apna | Khol Deti Hai Kali Seena-e-Zarren Apna'
-- 'id': '1_71_2'
+- 'id': '1_71_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'It is manifest in the dawn''s tavern | Its life is in the goblet of the sun'
   - 'lang': 'ro'
     'text': 'Jalwa Ashaam Haiye Subah Ke Mai Khane Mein | Zindagi Iss Ki Hai Khursheed Ke Pemane Mein'
-- 'id': '1_71_3'
+- 'id': '1_71_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'It opens up its heart before the sun | It enjoys the Love''s anguish immensely'
   - 'lang': 'ro'
     'text': 'Samne Mehr Ke Dil Cheer Ke Rakh Deti Hai | Kis Qadar Seena Shagafi Ke Maze Leti Hai'
-- 'id': '1_71_4'
+- 'id': '1_71_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'My sun ! You should also lift your veil some time | My restless eye is impatient to witness your sight'
   - 'lang': 'ro'
     'text': 'Mere Khusheed! Kabhi Tu Bhi Utha Apni Naqab | Beher-e-Nazara Tarapti Hai Nigah-e-Betaab'
-- 'id': '1_71_5'
+- 'id': '1_71_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tere Jalwe Ka Nasheman Ho Mere Seene Mein | Aks Abad Ho Tera Mere Aaeene Mein'
-- 'id': '1_71_6'
+- 'id': '1_71_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'May your sight be the life for my heart | May your light be the cradle of my heart'
   - 'lang': 'ro'
     'text': 'Zindagi Ho Tera Nazara Mere Dil Ke Liye | Roshni Ho Teri Gehwara Mere Dil Ke Liye'
-- 'id': '1_71_7'
+- 'id': '1_71_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'May every speck of mine full of pleasure be again | May life''s warmth appear again in the skill of my thoughts'
   - 'lang': 'ro'
     'text': 'Zarra Zarra Ho Mera Phir Tarb Andoz-e-Hayat | Ho Ayan Johar-e-Andesha Mein Phir Souz-e-Hayat'
-- 'id': '1_71_8'
+- 'id': '1_71_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'May I view my sun''s sight from the distance | May I embrace its light like a flower bud'
   - 'lang': 'ro'
     'text': 'Apne Khursheed Ka Nazara Karun Door Se Mein | Sifat-e-Guncha Hum Agosh Rahun Noor Se Mein'
-- 'id': '1_71_9'
+- 'id': '1_71_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

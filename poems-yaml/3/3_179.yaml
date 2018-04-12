@@ -8,7 +8,7 @@
   'text': 'SLAVES’ PRAYER'
 'description': []
 'sher':
-- 'id': '3_179_1'
+- 'id': '3_179_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': '‘Why do your priests,’ said to me after prayers, A Turkish hero of the faith, | ‘Drag out Their genuflexions so?’'
   - 'lang': 'ro'
     'text': 'Kaha Mujahid-e-Turki Ne Mujh Se Baad-e-Namaz | Taweel Sajda Hain Kyun Iss Qadar Tumhare Imam'
-- 'id': '3_179_2'
+- 'id': '3_179_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'He little knew, That free‐born Muslim, that plain warrior, | What kind of thing slaves’ prayers are!'
   - 'lang': 'ro'
     'text': 'Woh Saada Mard-e-Mujahid, Woh Momin-e-Azad | Khabar Na Thi Use Kya Cheez Hai Namaz-e-Ghulam'
-- 'id': '3_179_3'
+- 'id': '3_179_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'In this world, A thousand tasks lie ready for the free, | In whom the love of high deeds burns and forges The nations and their laws;'
   - 'lang': 'ro'
     'text': 'Hazar Kaam Hain Mardan-e-Hur Ko Dunya Mein | Inhi Ke Zauq-e-Amal Se Hain Ummaton Ke Nazam'
-- 'id': '3_179_4'
+- 'id': '3_179_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'But that fire never Touches the bondman’s limbs, | whose nights and days Stand still under an interdict.'
   - 'lang': 'ro'
     'text': 'Badan Ghulam Ka Souz-e-Amal Se Hai Mehroom | Ke Hai Muroor Ghulamon Ke Roz-o-Shab Pe Haram'
-- 'id': '3_179_5'
+- 'id': '3_179_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'If our Prostrations are long‐drawn, | why should you wonder?'
   - 'lang': 'ro'
     'text': 'Taweel Sajda Agar Hain To Kya Ta’ajjub Hai | Waraye Sajda Ghareebon Ko Aur Kya Hai Kaam'
-- 'id': '3_179_6'
+- 'id': '3_179_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

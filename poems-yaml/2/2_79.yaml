@@ -8,7 +8,7 @@
   'text': 'Estranging are the ways in the holy precinct'
 'description': []
 'sher':
-- 'id': '2_79_1'
+- 'id': '2_79_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Estranging are the ways in the holy precinct, | And commercial is the tone of churches rites;'
   - 'lang': 'ro'
     'text': 'Rah-o-Rasm-e-Haram Na-Mehramana | Kalisa Ki Ada Soudagarana'
-- 'id': '2_79_2'
+- 'id': '2_79_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

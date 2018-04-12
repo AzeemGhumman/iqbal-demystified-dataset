@@ -8,14 +8,14 @@
   'text': '(60)'
 'description': []
 'sher':
-- 'id': '7_60_1'
+- 'id': '7_60_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'میارا بزم بر ساحل کہ آنجا | نوای زندگانے نرم خیز است'
   - 'lang': 'en'
     'text': 'Do not content yourself with resting on | The shore: the rhythm of life there is slow.'
-- 'id': '7_60_2'
+- 'id': '7_60_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'HONOURED GUEST'
 'description': []
 'sher':
-- 'id': '3_86_1'
+- 'id': '3_86_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The minds of those who go to school, In thoughts quite fresh and new are clad: | Alas! there are such people few, Who draw a line ʹtwixt good and bad.'
   - 'lang': 'ro'
     'text': 'Pur Hai Afkar Se In Madrase Walon Ka Zameer | Khoob-o-Na-Khoob Ki Iss Dour Mein Hai Kis Ko Tameez!'
-- 'id': '3_86_2'
+- 'id': '3_86_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

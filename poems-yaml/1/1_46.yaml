@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is a beautiful presentation of the all‑pervading Creative Power of God as well as the harmony and purpose in the creation and operation of the universe. It opens deep mystical truths from commonplace objects and phenomena, which is a characteristic of the style of ‘Allamah Iqbal. | The poem also presents the conflict between evil and good, which is one of the components of Khuda. This is brought out in the last verse, according to which the beauty of God''s Creation is maintained only by the harmony between its components and is destroyed by the destruction of the beautiful to satisfy the greed of the greedy.'
 'sher':
-- 'id': '1_46_1'
+- 'id': '1_46_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Early in the evening a song bird | Sitting on a branch was singing'
   - 'lang': 'ro'
     'text': 'Sar-e-Shaam Aik Murhg-e-Naghma Paira | Kisi Tehni Pe Baitha Ga Raha Tha'
-- 'id': '1_46_2'
+- 'id': '1_46_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'It saw a glowing object on the ground | Considering it a fire‑fly flew down to it'
   - 'lang': 'ro'
     'text': 'Chamakti Cheez Ek Dekhi Zameen Par | Urha Taeer Usse Jugnu Samajh Kar'
-- 'id': '1_46_3'
+- 'id': '1_46_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The fire-fly said to the singing bird | "O singing bird, do not kill a helpless creature,'
   - 'lang': 'ro'
     'text': 'Kaha Jugnu Ne O Murgh-e-Nawa Raiz! | Na Kar Bekas Pe Manqar-e-Hawas Taiz'
-- 'id': '1_46_4'
+- 'id': '1_46_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Who gave chirping to you, and fragrance to the rose | The same God gave the glittering light to me'
   - 'lang': 'ro'
     'text': 'Tujhe Jis Ne Chehak, Gul Ko Mehak Di | Ussi Allah Ne Mujh Ko Chamak Di'
-- 'id': '1_46_5'
+- 'id': '1_46_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'I am clad in the apparel of light | I am the tur of the insects'' world'
   - 'lang': 'ro'
     'text': 'Libas-e-Noor Mein Mastoor Hun Main | Patangon Ke Jahan Ka Toor Hun Main'
-- 'id': '1_46_6'
+- 'id': '1_46_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'If your chirping is the ear''s pleasure | My brightness also is the sight''s pleasure'
   - 'lang': 'ro'
     'text': 'Chehak Teri Behisht-e-Gosh Agar Hai | Chamak Meri Bhi Firdous-e-Nazar Hai'
-- 'id': '1_46_7'
+- 'id': '1_46_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'Nature has given light to my wings | It has given fascinating voice to you'
   - 'lang': 'ro'
     'text': 'Paron Ko Meri Qudat Ne Zia Di | Tujhe Uss Ne Sadaye Dil Ruba Di'
-- 'id': '1_46_8'
+- 'id': '1_46_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'He taught singing to your beak | He made me the torch of the garden'
   - 'lang': 'ro'
     'text': 'Teri Manqar Kogana Sikhaya | Mujhe Gulzar Ki Mashal Banaya'
-- 'id': '1_46_9'
+- 'id': '1_46_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'He bestowed glitter upon me, voice upon you | Conferred warmth upon me and music upon you'
   - 'lang': 'ro'
     'text': 'Chamak Bakhsi Mujhe, Awaz Tujh Ko | Diya Hai Souz Mujh Ko, Saaz Tujh Ko'
-- 'id': '1_46_10'
+- 'id': '1_46_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Warmth is not the opposite of music | Everywhere warmth is the associate of music'
   - 'lang': 'ro'
     'text': 'Mukhalif Saaz Ka Hota Nahin Souz | Jahan Mein Saaz Ka Hai Hum Nasheen Souz'
-- 'id': '1_46_11'
+- 'id': '1_46_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'The assembly of existence is based on these alone | All the world''s manifestations are through these alone'
   - 'lang': 'ro'
     'text': 'Qayam-e-Bazm-e-Hasti Hai Inhi Se | Zahoor-e-Auj-o-Pasti Hai Inhi Se'
-- 'id': '1_46_12'
+- 'id': '1_46_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

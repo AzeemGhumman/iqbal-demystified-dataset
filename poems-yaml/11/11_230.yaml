@@ -8,14 +8,14 @@
   'text': 'IX-VI'
 'description': []
 'sher':
-- 'id': '11_230_1'
+- 'id': '11_230_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ بحر خویش چون موجی تپیدم | تپیدم تا بہ طوفانی رسیدم'
   - 'lang': 'en'
     'text': 'In self’s own sea, I’m thus a restive’ wave, | Till my waves in tempest to Coast would lave.'
-- 'id': '11_230_2'
+- 'id': '11_230_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

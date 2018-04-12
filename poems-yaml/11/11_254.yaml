@@ -8,14 +8,14 @@
   'text': 'XIII-IV'
 'description': []
 'sher':
-- 'id': '11_254_1'
+- 'id': '11_254_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمان فقر و سلطانی بہم کرد | ضمیرش باقی و فانی بہم کرد'
   - 'lang': 'en'
     'text': 'The Muslim draws content and kingship close, | He views the man and God in a close pose.'
-- 'id': '11_254_2'
+- 'id': '11_254_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

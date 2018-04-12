@@ -8,7 +8,7 @@
   'text': 'SATAN’S PETITION'
 'description': []
 'sher':
-- 'id': '2_165_1'
+- 'id': '2_165_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'To the Lord of the universe the Devil said:— | A firebrand Adam grows, that pinch of dust'
   - 'lang': 'ro'
     'text': 'Kehta Tha Azazeel Khudawand-e-Jahan Se | Par Kala-e-Atish Huwi Adam Ki Kaf-e-Khaak!'
-- 'id': '2_165_2'
+- 'id': '2_165_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Meager‐souled, plump of flesh, in fine clothes trussed, | Brain ripe and subtle, heart not far from dead.'
   - 'lang': 'ro'
     'text': 'Jan Laghar-o-Tan Farba-o-Malboos Badan Zaib | Dil Naza Ki Halat Mein, Khirad Pukhta-o-Chalaak!'
-- 'id': '2_165_3'
+- 'id': '2_165_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'What the East’s sacred law made men abjure, | The casuist of the West pronounces pure;'
   - 'lang': 'ro'
     'text': 'Napaak Jise Kehti Thi Mashriq Ki Shariat | Maghrib Ke Faqeehon Ka Ye Fatwa Hai Pak!'
-- 'id': '2_165_4'
+- 'id': '2_165_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Knowest Thou not, the girls of Paradise see | And mourn their gardens turning wilderness?'
   - 'lang': 'ro'
     'text': 'Tujh Ko Nahin Maloom Ke Hooran-e-Behishti | Weerani-e-Jannat Ke Tasawwar Se Hain Ghamnaak?'
-- 'id': '2_165_5'
+- 'id': '2_165_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

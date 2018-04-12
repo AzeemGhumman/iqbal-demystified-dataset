@@ -8,7 +8,7 @@
   'text': 'I am not a pursuer, nor a traveller'
 'description': []
 'sher':
-- 'id': '2_94_1'
+- 'id': '2_94_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I am not a pursuer, nor a traveller, | I am not a goal, but a narrow track,'
   - 'lang': 'ro'
     'text': 'Sawar-e-Naqa-o-Mehmil Nahin Main | Nishan-e-Jadah Hun, Manzil Nahin Main'
-- 'id': '2_94_2'
+- 'id': '2_94_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

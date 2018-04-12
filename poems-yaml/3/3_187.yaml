@@ -8,7 +8,7 @@
   'text': 'In school the noise of games'
 'description': []
 'sher':
-- 'id': '3_187_1'
+- 'id': '3_187_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'In school the noise of games, debates, Great stir and animation prevail | This abundant joy e''ery moment breeds, New griefs and naught else can avail.'
   - 'lang': 'ro'
     'text': 'Ye Madrasa Ye Khail Ye Ghoghaye Rawa-Ro | Iss Aysh-e-Farawan Mein Hai Har Lehza Gham-e-Nau'
-- 'id': '3_187_2'
+- 'id': '3_187_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'For men of free and noble birth, Such knowledge is a venom dread, | Which makes them earn some barley corn, To fill their bellies with its bread.'
   - 'lang': 'ro'
     'text': 'Woh Ilm Nahin, Zaher Hai Ahrar Ke Haq Mein | Jis Ilm Ka Hasil Hai Jahan Mein Do Kaf-e-Jo'
-- 'id': '3_187_3'
+- 'id': '3_187_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O fool, great wisdom and book lore, Have not much worth nor carry weight | To learn a Useful art one must, Put in much strife and struggle great.'
   - 'lang': 'ro'
     'text': 'Nadan! Adab-o-Falsafa Kuch Cheez Nahin Hai | Asbaab-e-Hunar Ke Liye Lazim Hai Tag-o-Dou'
-- 'id': '3_187_4'
+- 'id': '3_187_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': '# translation missing | # translation missing'
   - 'lang': 'ro'
     'text': 'Fitrat Ke Nawa Main Pe Ghalib Hai Hunar Mand | Shaam Iss Ki Manind-e-Sehar Sahib-e-Partou'
-- 'id': '3_187_5'
+- 'id': '3_187_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

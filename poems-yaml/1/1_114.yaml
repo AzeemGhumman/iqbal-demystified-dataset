@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is an inducement to the human race to be active in the pursuit of the goals and objectives which would elevate their moral and ethical status over and above those of inanimate objects like the narcissus and the juniper. One of such goals is the Longing and the Love of God.'
 'sher':
-- 'id': '1_114_1'
+- 'id': '1_114_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The sights of the garden may or may not be beautiful | The narcissus, unable to act, forced to watching is!'
   - 'lang': 'ro'
     'text': 'Manzar-e-Chamnistan Ke Zaiba Hun Ke Na-Zaiba | Mehroom-e-Amal Nargis Majboor-e-Tamasha Hai'
-- 'id': '1_114_2'
+- 'id': '1_114_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'It does not appreciate the pleasure of movement | The very nature of juniper devoid of longing is!'
   - 'lang': 'ro'
     'text': 'Raftar Ki Lazzat Ka Ehsas Nahin Iss Ko | Fitrat Hi Sanobar Ki Mehroom-e-Tamanna Hai'
-- 'id': '1_114_3'
+- 'id': '1_114_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Whatever is in the world is accustomed to submission | Every power of Man busy in pressing for his Longing is!'
   - 'lang': 'ro'
     'text': 'Tasleem Ki Khugar Hai Jo Cheez Hai Dunya Mein | Insan Ki Har Quwwat Sargaram-e-Taqaza Hai'
-- 'id': '1_114_4'
+- 'id': '1_114_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'This speck remains incessantly ambitious of expansion | Not a speck but perhaps the constricted wilderness he is'
   - 'lang': 'ro'
     'text': 'Iss Zarre Ko Rehti Hai Wussat Ki Hawas Har Dam | Ye Zarra Nahin, Shaid Simta Huwa Sehra Hai'
-- 'id': '1_114_5'
+- 'id': '1_114_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

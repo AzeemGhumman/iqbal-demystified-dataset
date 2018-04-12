@@ -8,14 +8,14 @@
   'text': '(35)'
 'description': []
 'sher':
-- 'id': '7_35_1'
+- 'id': '7_35_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'اگر در مشت خاک تو نہادند | دل صد پارۂ خونابہ باری'
   - 'lang': 'en'
     'text': 'If in the handful of dust that is you | There is a bleeding heart that cannot view'
-- 'id': '7_35_2'
+- 'id': '7_35_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

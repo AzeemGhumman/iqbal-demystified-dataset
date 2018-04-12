@@ -8,14 +8,14 @@
   'text': '(90)'
 'description': []
 'sher':
-- 'id': '7_90_1'
+- 'id': '7_90_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دل از منزل تہی کن پا برہ دار | نگہ را پاک مثل مہر و مہ دار'
   - 'lang': 'en'
     'text': 'Forget the goal, be steadfast on the path, | Keep bright your vision like the sun and moon.'
-- 'id': '7_90_2'
+- 'id': '7_90_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

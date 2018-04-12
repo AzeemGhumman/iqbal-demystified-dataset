@@ -8,14 +8,14 @@
   'text': 'IX-VIII'
 'description': []
 'sher':
-- 'id': '11_71_1'
+- 'id': '11_71_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دل خود را اسیر رنگ و بو کرد | تہی از ذوق و شوق و آرزو کرد'
   - 'lang': 'en'
     'text': 'He made his heart captive of pomp and show, | Bereft of love’s pleasures his longings go.'
-- 'id': '11_71_2'
+- 'id': '11_71_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

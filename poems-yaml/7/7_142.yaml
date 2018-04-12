@@ -8,14 +8,14 @@
   'text': '(142)'
 'description': []
 'sher':
-- 'id': '7_142_1'
+- 'id': '7_142_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز جان بیقرار آتش گشادم | دلی در سینۂ مشرق نھادم'
   - 'lang': 'en'
     'text': 'Emitting from my fervent soul a flame, | I put a living heart in the East’s flame.'
-- 'id': '7_142_2'
+- 'id': '7_142_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

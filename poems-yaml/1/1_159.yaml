@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The message of this short poem is that for a person of sterling worth even imprisonment is not an occasion for desperation and sorrow, but is an opportunity for perfection of his qualities. Perseverance is the highest virtue in this respect.'
 'sher':
-- 'id': '1_159_1'
+- 'id': '1_159_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Aseeri Atebar Afza Jo Ho Fitrat Buland | Qatra-e-Neesan Hai Zindan-e-Sadaf Se Arjumand'
-- 'id': '1_159_2'
+- 'id': '1_159_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'The excellent musk is nothing but a drop of blood | Which becomes musk when it is enclosed in the deer’s navel'
   - 'lang': 'ro'
     'text': 'Mushk-e-Azfar Cheez Kya Hai, Ek Lahoo Ki Boondhai | Mushk Ban Jati Hai Ho Kar Nafa-e-Ahu Mein Band'
-- 'id': '1_159_3'
+- 'id': '1_159_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'However, not everyone gets trained by nature | Only an odd bird is prosperous in imprisonment'
   - 'lang': 'ro'
     'text': 'Har Kisi Ki Tarbiat Karti Nahin Qudrat, Magar | Kam Hain Woh Taeer Ke Hain Daam-o-Qafas Se Behramand'
-- 'id': '1_159_4'
+- 'id': '1_159_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

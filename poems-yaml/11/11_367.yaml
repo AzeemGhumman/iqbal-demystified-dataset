@@ -8,7 +8,7 @@
   'text': 'I-XXII'
 'description': []
 'sher':
-- 'id': '11_367_1'
+- 'id': '11_367_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'beauty’s'
       'meaning': '        A wooden fife or flute; viz poetry.'
       'occurrence': !!int '1'
-- 'id': '11_367_2'
+- 'id': '11_367_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

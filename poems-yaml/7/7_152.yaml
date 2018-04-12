@@ -8,14 +8,14 @@
   'text': '(152)'
 'description': []
 'sher':
-- 'id': '7_152_1'
+- 'id': '7_152_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بجان من کہ جان نقش تن انگیخت | ہوای جلوہ این گل را دو رو کرد'
   - 'lang': 'en'
     'text': 'The soul designed the body, love of self-display | Thus fashioning a double-tinted rose.'
-- 'id': '7_152_2'
+- 'id': '7_152_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This long poem, in eight parts, each with a different cadence, deals primarily with the slavery of the Indian sub‑continent and the lack of proper efforts to gain independence. The first part shows frustration and disappointment at the helplessness of ordinary men, who are without the warmth of Khuda. The second part deals with Man''s inability to understand his own reality without Divine guidance. In the third part there is a hint to the poetic genius of ‘Allamah Iqbal with which he resolves to infuse a new life in the inhabitants of India. It also shows disappointment at the political slavery of India and the state of helplessness as well as lack of struggle and planning for gaining independence. This is followed by an eloquent expression of the resolve of ‘Allamah Iqbal to break the inaction and inertia of the Indian people. In the next two parts he deals exclusively with the ethical decline of Muslims in general and that of those of India in particular. This is followed by corrective measures in the next two parts. These measures consist of strengthening the struggle for independence and gaining strength for the same from the Love of God and ethnic amity among the different people inhabiting the Indian sub‑continent.'
 'sher':
-- 'id': '1_34_1'
+- 'id': '1_34_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'My story is not indebted to the patience of being heard | My silence is my talk, my speechlessness is my speech'
   - 'lang': 'ro'
     'text': 'Nahin Minnatkash-e-Taab-e-Shaneedan Dastan Meri | Khamoshi Guftugu Hai, Be-Zubani Hai Zuban Meri'
-- 'id': '1_34_2'
+- 'id': '1_34_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Why does this custom of silencing exist in your assembly? | My tongue is tantalized to talk in this assembly'
   - 'lang': 'ro'
     'text': 'Ye Dastoor-e-Zuban Bandi Hai Kaisa Teri Mehfil Mein | Yahan To Baat Karne Ko Tarasti Hai Zuban Meri'
-- 'id': '1_34_3'
+- 'id': '1_34_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Some leaves were picked up by the tulip, some by the narcissus,some by the rose | My story is scattered around everywhere in the garden'
   - 'lang': 'ro'
     'text': 'Uthaye Kuch Waraq Lale Ne, Kuch Nargis Ne, Kuch Gul Ne | Chaman Mein Har Taraf Bikhri Huwi Hai Dastan Meri'
-- 'id': '1_34_4'
+- 'id': '1_34_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The turtle-doves, parrots, and nightingales pilfered away | The garden''s denizens jointly robbed away my plaintive way'
   - 'lang': 'ro'
     'text': 'Urha Li Qumriyon Ne, Tootiyon Ne, Andleebon Ne | Chaman Walon Ne Mil Kar Loot Li Tarz-e-Faghan Meri'
-- 'id': '1_34_5'
+- 'id': '1_34_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'O Candle! Drip like tears from the eye of the moth | Head to foot pathos I am, full of longing is my story'
   - 'lang': 'ro'
     'text': 'Tapak Ae Shama Ansu Ban Ke Parwane Ki Ankhon Se | Sarapa Darun Hun, Hasrat Bhari Hai Dastan Meri'
-- 'id': '1_34_6'
+- 'id': '1_34_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'O God! What is the pleasure of living so in this world? | Neither the eternal life, nor the sudden death is mine'
   - 'lang': 'ro'
     'text': 'Elahi ! Phir Maza Kiya Hai Yahan Dunya Mein Rehne Ka | Hayat-e-Javidan Meri! Na Marg-e-Naghaan Meri !'
-- 'id': '1_34_7'
+- 'id': '1_34_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'This is not only my wailing, but is that of the entire garden | I am a rose, to me every rose'' autumn is my autumn'
   - 'lang': 'ro'
     'text': 'Mera Rona Nahi, Rona Hai Ye Sare Gulistan Ka | Woh Gul Hon Main, Khazan Har Gul Ki Hai Goya Khazan Meri'
-- 'id': '1_34_8'
+- 'id': '1_34_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': '"In this grief-stricken land, in life-long spell of the caravan''s bell I am | From the palpitating heart''s bounties the silent clamor I have "'
   - 'lang': 'ro'
     'text': '“Dareen Hasrat Sra Umarist Afsoon-e-Jaras Daram | Za-Faiz-e-Dil Tapeedan Ha Kharosh-e-Be Nafas Daram”'
-- 'id': '1_34_9'
+- 'id': '1_34_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'In the world''s garden unaware of pleasant company I am | Whom happiness still mourns, that hapless person I am'
   - 'lang': 'ro'
     'text': 'Riyadh-e-Dehr Mein Na-Ashnaye Bazm-e-Ishrat Hon | Khushi Roti Hai Jis Ko, Main Woh Mehroom-e-Mussarat Hun'
-- 'id': '1_34_10'
+- 'id': '1_34_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Speech itself sheds tears at my ill luck | Silent word, longing for an eager ear I am'
   - 'lang': 'ro'
     'text': 'Meri Bigri Huwi Taqdeer Ko Roti Hai Goyai | Main Harf-e-Zair-e-Lab, Sharminda’ay Gosh-e-Sama’at Hun'
-- 'id': '1_34_11'
+- 'id': '1_34_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Preshan Hun Main Musht-e-Khaak, Lekin Kuch Nahin Khulta | Sikandar Hun Ke Aaeena Hun Ya Gard-e-Kadoorat Hun'
-- 'id': '1_34_12'
+- 'id': '1_34_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'Despite all this my existence is the Divine Purpose | Embodiment of light is whose reality, that darkness I am'
   - 'lang': 'ro'
     'text': 'Ye Sub Kuch Hai Magar Hasti Meri Maqsad Hai Qudrat Ka | Sarapa Noor Ho Jis Ki Haqiqat, Main Woh Zulmat Hun'
-- 'id': '1_34_13'
+- 'id': '1_34_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -131,7 +131,7 @@
     'text': 'I am a treasure, concealed in the wilderness dust | No one knows where I am, or whose wealth I am?'
   - 'lang': 'ro'
     'text': 'Khazeena Hun, Chupaya Mujh Ko Musht-e-Khak-e-Sehra Ne | Kisi Ko Kya Khabar Hai Main Kahan Hun Kis Ki Doulat Hun!'
-- 'id': '1_34_14'
+- 'id': '1_34_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
     'text': 'My insight is not obligated to the stroll of existence | That small world I am whose sovereign myself I am'
   - 'lang': 'ro'
     'text': 'Nazar Meri Nahin Mamnoon-e-Sair-e-Arsa-e-Hasti | Main Woh Chotti Si Dunya Hon Ke Ap Apni Walayat Hon'
-- 'id': '1_34_15'
+- 'id': '1_34_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
     'text': 'Neither wine, nor cup-bearer, nor ecstasy, nor goblet I am | But the truth of everything in the existence'' tavern I am'
   - 'lang': 'ro'
     'text': 'Na Sehba Hun Na Saqi Hon, Na Masti Hon Na Pemana | Main Iss Mai Khana-e-Hasti Mein Har Shay Ki Haqiqat Hun'
-- 'id': '1_34_16'
+- 'id': '1_34_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -158,7 +158,7 @@
     'text': 'My heart’s mirror shows me both world’s secrets | I relate exactly what I witness before my eyes'
   - 'lang': 'ro'
     'text': 'Mujhe Raaz-e-Do Alam Dil Ka Aaeena Dikhata Hai | Wohi Kehta Hun Jo Kuch Samne Aankhon Ke Ata Hai'
-- 'id': '1_34_17'
+- 'id': '1_34_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -167,7 +167,7 @@
     'text': 'I am bestowed with such speech among the elegant speakers | That the birds of the ‘Arsh’s roof are concordant with me'
   - 'lang': 'ro'
     'text': 'Atta Aesa Byan Mujh Ko Huwa Rangeen Byabanon Mein | Ke Baam-e-Arsh Ke Taa’ir Hain Mere Hum Zubanon Mein'
-- 'id': '1_34_18'
+- 'id': '1_34_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -176,7 +176,7 @@
     'text': 'This also is an effect of my tumultuous love | That my heart’s mirrors are Destiny’s confidante'
   - 'lang': 'ro'
     'text': 'Asar Ye Bhi Hai Ek Mere Junoon-e-Fitna Saman Ka | Mera Aeena’ay Dil Hai Qaza Ke Raaz Danon Mein'
-- 'id': '1_34_19'
+- 'id': '1_34_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -185,7 +185,7 @@
     'text': 'Your spectacle makes me shed tears, O India ! | Your tales are admonitory among all the tales'
   - 'lang': 'ro'
     'text': 'Rulata Hai Tera Nazara Ae Hinduston! Mujh Ko | Ke Ibrat Khaiz Hai Tera Fasana Sub Fasanon Mein'
-- 'id': '1_34_20'
+- 'id': '1_34_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -194,7 +194,7 @@
     'text': 'Conferring the wailing on me is like conferring everything | Since eternity Destiny’s pen has put me where all your mourners are'
   - 'lang': 'ro'
     'text': 'Diya Rona Mujhe Aesa Ke Sub Kuch De Diya Goya | Likha Kalk-e-Azal Ne Mujh Ko Tere Noha Khawanon Mein'
-- 'id': '1_34_21'
+- 'id': '1_34_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -203,7 +203,7 @@
     'text': 'O gardener do not leave even the rose-petals’ trace in this garden ! | By your misfortune war preparations are afoot among the gardeners'
   - 'lang': 'ro'
     'text': 'Nishan-e-Barg-e-Gul Tak Bhi Na Chorh Iss Bagh Mein Gul-Cheen ! | Teri Qismat Se Razm Arayan Hain Baghbanon Mein'
-- 'id': '1_34_22'
+- 'id': '1_34_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -212,7 +212,7 @@
     'text': 'The sky has kept thunderbolts concealed up its sleeve | Garden’s nightingales should not slumber in their nests'
   - 'lang': 'ro'
     'text': 'Chupa Kar Asteen Mein Bijliyan Rakhi Hain Gardoon Ne | Anadil Bagh Ke Ghafil Na Baithen Ashiyon Mein'
-- 'id': '1_34_23'
+- 'id': '1_34_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -221,7 +221,7 @@
     'text': 'Listen to my call, O imprudent one ! This is something which | The birds in gardens are reciting like the daily prayers'
   - 'lang': 'ro'
     'text': 'Sun Ae Ghafil Sada Meri, Ye Aesi Cheez Hai Jis Ko | Wazifa Jaan Kar Perhte Hain Taair Bostanon Mein'
-- 'id': '1_34_24'
+- 'id': '1_34_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -230,7 +230,7 @@
     'text': 'Think of the homeland, O ignorant one ! Hard times are coming | Conspiracies for your destruction are afoot in the heavens'
   - 'lang': 'ro'
     'text': 'Watan Ki Fikar Kar Nadan! Musibat Ane Wali Hai | Teri Barbadiyon Ke Mashware Hain Asmanon Mein'
-- 'id': '1_34_25'
+- 'id': '1_34_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -239,7 +239,7 @@
     'text': 'Pay attention to what is happening and what is going to happen | What good there is in repeating the tales of the old glories ?'
   - 'lang': 'ro'
     'text': 'Zara Dekh Uss Ko Jo Kuch Ho Raha Hai, Hone Wala Hai | Dhara Kya Hai Bhala Ehd-e-Kuhan Ki Dastnon Mein'
-- 'id': '1_34_26'
+- 'id': '1_34_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -248,7 +248,7 @@
     'text': 'How long will you remain silent ? Create taste for complaint ! | You should be on the earth, so your cries be in the heavens !'
   - 'lang': 'ro'
     'text': 'Ye Khamoshi Kahan Tak? Lazzat-e-Faryad Paida Kar | Zameen Par Tu Ho Aur Teri Sada Ho Asmanon Mein'
-- 'id': '1_34_27'
+- 'id': '1_34_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -257,7 +257,7 @@
     'text': 'You will be annihilated if you do not understand, O people of India! | Even your tales will disappear from the world’s chronicles'
   - 'lang': 'ro'
     'text': 'Na Samjho Ge To Mit Jao Ge Ae Hindustanon Walo ! | Tumhari Dastan Tak Bhi Na Ho Gi Daston Mein'
-- 'id': '1_34_28'
+- 'id': '1_34_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -266,7 +266,7 @@
     'text': 'This is the law of Nature, this is the order of Nature | Those who tread dynamism’s path, are the darlings of Nature'
   - 'lang': 'ro'
     'text': 'Ye Aaeen-e-Qudrat Hai, Yehi Asloob-e-Fitrat Hai | Jo Hai Rah-e-Amal Mein Gaamzan, Mehboob-e-Fitrat Hai'
-- 'id': '1_34_29'
+- 'id': '1_34_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -275,7 +275,7 @@
     'text': 'I will surely exhibit all my hidden wounds today | I will surely change assembly to a garden with blood-mixed tears'
   - 'lang': 'ro'
     'text': 'Hawaida Aaj Apne Zakhm-e-Pinhan Kar Ke Chorun Ga | Lahoo Ro Ro Ke Mehfil Ko Gulistan Kar Ke Chorun Ga'
-- 'id': '1_34_30'
+- 'id': '1_34_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -284,7 +284,7 @@
     'text': 'I have to light every heart’s candle with hidden pathos | I will surely create bright illumination in your darkness'
   - 'lang': 'ro'
     'text': 'Jalana Hai Mujhe Har Shama-e-Dil Ko Souz-e-Pinhan Se | Teri Tareek Raaton Mein Charaghan Kar Ke Chorun Ga'
-- 'id': '1_34_31'
+- 'id': '1_34_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -293,7 +293,7 @@
     'text': 'So that love-cognizant hearts be created like rose-buds | I will surely scatter around my handful of dust in the garden'
   - 'lang': 'ro'
     'text': 'Magar Ghunchon Ki Soorat Hon Dil-e-Dard Ashna Paida | Chaman Mein Musht-e-Khak Apni Preshan Kar Ke Chorun Ga'
-- 'id': '1_34_32'
+- 'id': '1_34_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -302,7 +302,7 @@
     'text': 'If stringing these scattered pearls in a single rosary | Is difficult, I will surely make this difficult task easy'
   - 'lang': 'ro'
     'text': 'Parona Aik Hi Tasbeeh Mein In Bikhare Danon Ko | Jo Muskhil Hai, To Iss Mushkil Ki Asan Kar Ke Chorun Ga'
-- 'id': '1_34_33'
+- 'id': '1_34_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -311,7 +311,7 @@
     'text': 'O Companion! Leave me alone in the soul-searching effort | As I will surely exhibit this mark of the ardent Love'
   - 'lang': 'ro'
     'text': 'Mujhe Ae Hum Nasheen Rehne De Shughal-e-Seena Kawi Mein | Ke Main Dagh-e-Mohabbat Ko Numayan Kar Ke Chorun Ga'
-- 'id': '1_34_34'
+- 'id': '1_34_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -320,7 +320,7 @@
     'text': 'I will show the world what my eyes have seen | I will surely make you also bewildered like a mirror'
   - 'lang': 'ro'
     'text': 'Dikha Doon Ga Jahan Ko Jo Meri Ankhon Ne Dekha Hai | Tujhe Bhi Soorat-e-Aaeena Hairan Kar Ke Chorun Ga'
-- 'id': '1_34_35'
+- 'id': '1_34_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -329,7 +329,7 @@
     'text': 'The discerning eye sees every thing covered in veils | It does see the exigencies of the nature of times'
   - 'lang': 'ro'
     'text': 'Jo Hai Pardon Mein Pinhan, Chashm-e-Beena Dekh Leti Hai | Zamane Ki Tabiyat Ka Taqaza Dekh Leti Hai'
-- 'id': '1_34_36'
+- 'id': '1_34_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -338,7 +338,7 @@
     'text': 'You have not acquainted your heart with pleasure of dignity | You have passed your entire life in humility like foot-prints'
   - 'lang': 'ro'
     'text': 'Kiya Riffat Ki Lazzat Se Na Dil Ko Ashna Tu Ne | Guzri Umer Pasti Mein Misal-e-Naqsh-e-Pa Tu Ne'
-- 'id': '1_34_37'
+- 'id': '1_34_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -347,7 +347,7 @@
     'text': 'You always remained entangled inside the assembly, but | Have not acquainted yourself with the world outside the assembly'
   - 'lang': 'ro'
     'text': 'Raha Dil Basta-e-Mehfil, Magar Apni Nigahon Ko | Kiya Bairoon-e-Mehfil Se Na Hairat Ashna Tu Ne'
-- 'id': '1_34_38'
+- 'id': '1_34_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -356,7 +356,7 @@
     'text': 'You have continued loving the charm of material beauties | But you have never seen your own elegance in this mirror'
   - 'lang': 'ro'
     'text': 'Fida Karta Raha Dil Ko Haseenon Ki Ada’on Par | Magar Dekhi Na Iss Aaeene Mein Apni Ada Tu Ne'
-- 'id': '1_34_39'
+- 'id': '1_34_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -365,7 +365,7 @@
     'text': 'Give up prejudice O imprudent one! In the world''s glass house | They are your own pictures which you have taken as evil ones'
   - 'lang': 'ro'
     'text': 'Taassub Chorh Nadan! Dehr Ke Aaeena Khane Mein | Ye Tasveerain Hain Teri Jin Ko Samjha Hai Bura Tu Ne'
-- 'id': '1_34_40'
+- 'id': '1_34_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -378,7 +378,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sarapa Nala-e-Baidad-e-Souz-e-Zindagi Ho Ja | Sapand Aasa Girah Mein Bandh Rakhi Hai Sada Tu Ne'
-- 'id': '1_34_41'
+- 'id': '1_34_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -387,7 +387,7 @@
     'text': 'Clarity of heart has nothing to do with external decorations | O imprudent one! You have applied myrtle to mirror''s palm'
   - 'lang': 'ro'
     'text': 'Safa’ay Dil Ko Kiya Araish-e-Rang-e-Taaluq Se | Kaf-e-Aaeena Par Baandhi Hai O Nadan Hina Tu Ne'
-- 'id': '1_34_42'
+- 'id': '1_34_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -396,7 +396,7 @@
     'text': 'Not only the earth even the sky is bewailing your imprudence | It is outrageous that you have twisted the Qur''an''s lines!'
   - 'lang': 'ro'
     'text': 'Zameen Kya, Asman Bhi Teri Kaj Beeni Pe Rota Hai | Ghazab Hai Satar-e-Quran Ko Chalipa Kar Diya Tu Ne !'
-- 'id': '1_34_43'
+- 'id': '1_34_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -405,7 +405,7 @@
     'text': 'To what purpose is your claim to monotheism! | You have made the idol of self conceit your deity'
   - 'lang': 'ro'
     'text': 'Zuban Se Gar Kiya Touheed Ka Dawa To Kya Hasil ! | Banya Hai Butt-e-Pindar Ko Apna Khuda Tu Ne'
-- 'id': '1_34_44'
+- 'id': '1_34_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -418,7 +418,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kunwain Mein Tu Ne Yousaf Ko Jo Dekha Bhi To Kya Dejha | Are Ghafil! Jo Mutliq Tha Muqayyad Kar Diya Tu Ne'
-- 'id': '1_34_45'
+- 'id': '1_34_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -427,7 +427,7 @@
     'text': 'You are greedy of flowery style even at the pulpit | Your advice also is a form of story telling'
   - 'lang': 'ro'
     'text': 'Hawas Bala’ay Manbar Hai Tujhe Rangeen Byani Ki | Nasihat Bhi Teri Soorat Hai, Ek Afsana Khawani Ki'
-- 'id': '1_34_46'
+- 'id': '1_34_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -436,7 +436,7 @@
     'text': 'Show that universally illuminating Beauty to your weeping eye | Which renders the moth highly agitated, which makes the dew weep like eye'
   - 'lang': 'ro'
     'text': 'Dikha Woh Husn-e-Alam Souz Apni Chashme-Purnam Ko | Jo Tarpata Hai Parwane Ko, Rulata Hai Shabnam Ko'
-- 'id': '1_34_47'
+- 'id': '1_34_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -445,7 +445,7 @@
     'text': 'Mere seeing is not its purpose! O greedy one | Some One has made the human eye with some purpose'
   - 'lang': 'ro'
     'text': 'Nira Nazara Hi Ae Bu-Al-Hos Maqsad Nahin Iss Ka | Banaya Hai Kissi Ne Kuch Samajh Kar Chashme-e-Adam Ko'
-- 'id': '1_34_48'
+- 'id': '1_34_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -458,7 +458,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Agar Dekha Bhi Uss Ne Sare Alam Ko To Kya Dekha | Nazar Ayi Na Kuch Apni Haqiqat Jaam Se Jam Ko'
-- 'id': '1_34_49'
+- 'id': '1_34_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -471,7 +471,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Shajar Hai Firqa Arayi, Taassuf Hai Samar Iss Ka | Ye Woh Phal Hai Ke Jannat Se Nikalwata Hai Adam Ko'
-- 'id': '1_34_50'
+- 'id': '1_34_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -480,7 +480,7 @@
     'text': 'Not even a single rose-petal could rise by sun''s attraction | It is the longing for elegance which raises the dew'
   - 'lang': 'ro'
     'text': 'Na Utha Jazba-e-Khursheed Se Ek Barg-e-Gul Tak Bhi | Ye Riffat Ki Tamana Hai Ke Le Urti Hai Shabnam Ko'
-- 'id': '1_34_51'
+- 'id': '1_34_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -489,7 +489,7 @@
     'text': 'Those wounded by Love do not wander in search of cure | These wounded ones themselves create their own cure'
   - 'lang': 'ro'
     'text': 'Phira Karte Nahi Majrooh-e-Ulfat Fikar-e-Darman Mein | Ye Zakhami Aap Kar Lete Hain Paida Apne Marham Ko'
-- 'id': '1_34_52'
+- 'id': '1_34_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -498,7 +498,7 @@
     'text': 'The heart gets complete illumination by the spark of Love | The tur''s flower bed is raised from the Love''s small seed'
   - 'lang': 'ro'
     'text': 'Mohabbat Ke Sharar Se Dil Sarapa Noor Hota Hai | Zara Se Beej Se Paida Riyaaz-e-Toor Hota Hai'
-- 'id': '1_34_53'
+- 'id': '1_34_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -507,7 +507,7 @@
     'text': 'Every malady''s cure is to remain wounded with Longing''s sword | Wound''s remedy is to remain free from obligation to stitching'
   - 'lang': 'ro'
     'text': 'Dawa Har Dukh Ki Hai Majrooh-e-Taegh-e-Arzoo Rehna | Elaj-e-Zakham Hai Azad-e-Ehsaan-e-Rafoo Rehna'
-- 'id': '1_34_54'
+- 'id': '1_34_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -516,7 +516,7 @@
     'text': 'With the Bekhuda''s wine up to the celestial world is my flight | From disappearance of color I have learnt to remain fragrance'
   - 'lang': 'ro'
     'text': 'Sharab-e-Bekhudi Se Ta Falak Parwaz Ha Meri | Shikast-e-Rang Se Sikha Hai Main Ne Ban Ke Boo Rehna'
-- 'id': '1_34_55'
+- 'id': '1_34_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -529,7 +529,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Thame Kya Dida’ay Giryan Watan Ki Noha Khawani Mein | Ibadat Chashm-e-Shayar Ki Hai Har Dam Ba-Wazoo Rehna'
-- 'id': '1_34_56'
+- 'id': '1_34_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -538,7 +538,7 @@
     'text': 'To what purpose should we make our nest in the rose-branch | Ah ! How can we live with constant disgrace in the garden'
   - 'lang': 'ro'
     'text': 'Banayen Kya Samajh Kar Shakh-e-Gul Par Ashiyan Apna | Chaman Mein Aah! Kya Rehna Jo Ho Be Abroo Rehna'
-- 'id': '1_34_57'
+- 'id': '1_34_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -547,7 +547,7 @@
     'text': 'If you understand, independence is veiled in Love | Slavery is to remain imprisoned in the net of schism'
   - 'lang': 'ro'
     'text': 'Jo Tu Samjhe To Azadi Hai Poshida Mohabat Mein | Ghulami Hai Aseer-e-Imtiaz-e-Mawatu Rehna'
-- 'id': '1_34_58'
+- 'id': '1_34_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -556,7 +556,7 @@
     'text': 'Contentment is what keeps the cup submerged in water | You should also remain like the bubble in the stream'
   - 'lang': 'ro'
     'text': 'Ye Astagna Hai, Pani Mein Nigun Rakhta Hai Saghar Ko | Tujhe Bhi Chahye Misl-e-Habab-e-Aabju Rehna'
-- 'id': '1_34_59'
+- 'id': '1_34_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -565,7 +565,7 @@
     'text': 'It is best for you not to remain indifferent to yours own | O apathetic person! If you want to remain alive in the world'
   - 'lang': 'ro'
     'text': 'Na Reh Apnon Se Beparwa, Issi Mein Khair Hai Teri | Agar Manzoor Hai Dunya Mein Ao Begana Khor! Rehna'
-- 'id': '1_34_60'
+- 'id': '1_34_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -574,7 +574,7 @@
     'text': 'Soul-invigorating wine is the Love of the human race | It has taught me to remain ecstatic without the wine cup and the pitcher'
   - 'lang': 'ro'
     'text': 'Sharab-e-Rooh Parwar Hai Mohabbat Nu-e-Insan Ki | Shikaya Iss Ne Mujh Ko Mast Bejaam-o-Saboo Rehna'
-- 'id': '1_34_61'
+- 'id': '1_34_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -583,7 +583,7 @@
     'text': 'Sick nations have been cured only through Love | Nations have warded off their adversity through Love'
   - 'lang': 'ro'
     'text': 'Mohabbat Hi Se Payi Hai Shafa Bimaar Qoumon Ne | Kiya Hai Apne Bakht-e-Khufta Ko Baidar Qoumon Ne'
-- 'id': '1_34_62'
+- 'id': '1_34_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -592,7 +592,7 @@
     'text': 'The expanse of Love is at once foreign land and homeland | This wilderness is the cage, the nest, as well as the garden'
   - 'lang': 'ro'
     'text': 'Byaban-e-Mohabbat Dasht-e-Ghurbat Bhi, Watan Bhi Hai | Ye Wairana Qafas Bhi, Ashiyana Bhi, Chaman Bhi Hai'
-- 'id': '1_34_63'
+- 'id': '1_34_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -601,7 +601,7 @@
     'text': 'Love is the only stage which is the stage as well as the wilderness | It is the bell, the caravan, the leader as well as the robber'
   - 'lang': 'ro'
     'text': 'Mohabbat Hi Woh Manzil Hai Ke Manzil Bhi Hai, Sehra Bhi | Jaras Bhi, Karwan Bhi, Rahbar Bhi, Rahzan Bhi Hai'
-- 'id': '1_34_64'
+- 'id': '1_34_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -610,7 +610,7 @@
     'text': 'Everybody calls it an illness, but it is such an illness | In which the cure for all ills and misfortunes is concealed'
   - 'lang': 'ro'
     'text': 'Marz Kehte Hain Sub Iss Ko, Ye Hai Lekin Marz Aesa | Chupa Jis Mein Ilaj-e-Gardish-e-Charakh-e-Kuhan Bhi Hai'
-- 'id': '1_34_65'
+- 'id': '1_34_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -619,7 +619,7 @@
     'text': 'The heart''s pathos in a way is to become embodiment of Light | If this moth burns it is also the assembly''s candle'
   - 'lang': 'ro'
     'text': 'Jalana Dil Ka Hai Goya Sarapa Noor Ho Jana | Ye Parwana Jo Souzan Ho To Shama-e-Anjuman Bhi Hai'
-- 'id': '1_34_66'
+- 'id': '1_34_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -632,7 +632,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Wohi Ek Husn Hai, Lekin Nazar Ata Hai Har Shay Mein | Ye Sheerin Bhi Hai Goya, Bestoon Bhi, Kohkan Bhi Hai'
-- 'id': '1_34_67'
+- 'id': '1_34_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -641,7 +641,7 @@
     'text': 'Distinction of sects and governments has destroyed nations | Is there any concern for the homeland in my compatriot''s hearts?'
   - 'lang': 'ro'
     'text': 'Ujaarha Hai Tameez-e-Millat-o-Aaeen Ne Qoumon Ko | Mere Ahl-e-Watan Ke Dil Mein Kuch Fikar-e-Watan Bhi Hai?'
-- 'id': '1_34_68'
+- 'id': '1_34_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -650,7 +650,7 @@
     'text': 'Prolonging the tale of my woes calls for silence, otherwise | The tongue in my mouth as well as the ability to speak is'
   - 'lang': 'ro'
     'text': 'Sakoot Aamoz Tool-e-Dastan-e-Dard Hai Warna | Zuban Bhi Hai Humare Munh Mein Aur Taab-e-Sukhan Bhi Hai'
-- 'id': '1_34_69'
+- 'id': '1_34_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

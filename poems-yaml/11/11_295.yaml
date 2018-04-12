@@ -8,7 +8,7 @@
   'text': 'V-I'
 'description': []
 'sher':
-- 'id': '11_295_1'
+- 'id': '11_295_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'being'
       'meaning': '        It is difficult to convey the true sense of ''bceni'' in line 1. If it conveys an opposite sense of Namud then its meaning is truth. Iqbal has not used becna (Conscious, having insight, a seeing being) here, still Wajud-i-beeni means conscious being.'
       'occurrence': !!int '1'
-- 'id': '11_295_2'
+- 'id': '11_295_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

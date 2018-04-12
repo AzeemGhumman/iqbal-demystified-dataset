@@ -8,14 +8,14 @@
   'text': '(80)'
 'description': []
 'sher':
-- 'id': '7_80_1'
+- 'id': '7_80_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ترا درد یکے در سینہ پیچید | جہان رنگ و بو را آفریدی'
   - 'lang': 'en'
     'text': 'Unable to bear Your stark loneliness, | You made this world of colours and of scents.'
-- 'id': '7_80_2'
+- 'id': '7_80_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

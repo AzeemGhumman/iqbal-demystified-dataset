@@ -8,7 +8,7 @@
   'text': 'RELIGION AND EDUCATION'
 'description': []
 'sher':
-- 'id': '3_94_1'
+- 'id': '3_94_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I know the modes of those who guide the creed, | Though lacking truth, of vision boast indeed.'
   - 'lang': 'ro'
     'text': 'Mujh Ko Maloom Hain Peeran-e-Haram Ke Andaz | Ho Na Ikhlas To Dawaye Nazar Laaf-o-Guzaaf'
-- 'id': '3_94_2'
+- 'id': '3_94_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The teaching that the English have devised | ʹGainst faith and ties has great intrigue contrived.'
   - 'lang': 'ro'
     'text': 'Aur Ye Ahle-e-Kalisa Ka Nizam-e-Taleem | Aik Sazish Hai Faqt Deen-o-Murawat Ke Khilaf'
-- 'id': '3_94_3'
+- 'id': '3_94_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'That race is doomed to bondage and much pain, | Which justice for its ego canʹt attain.'
   - 'lang': 'ro'
     'text': 'Iss Ki Taqleed Mein Mehkoomi-o-Mazloomi Hai | Qoum Jo Kar Na Saki Apni Khudi Se Insaf'
-- 'id': '3_94_4'
+- 'id': '3_94_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

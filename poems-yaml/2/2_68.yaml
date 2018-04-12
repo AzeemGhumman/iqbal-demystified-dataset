@@ -8,7 +8,7 @@
   'text': 'Over the tussle of heart and head'
 'description': []
 'sher':
-- 'id': '2_68_1'
+- 'id': '2_68_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Over the tussle of heart and head | Rumi has won and Rizi fled.'
   - 'lang': 'ro'
     'text': 'Ne Muhra Baqi, Ne Muhra Bazi | Jeeta Hai Rumi, Haara Hai Razi'
-- 'id': '2_68_2'
+- 'id': '2_68_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Still bowl of Jamshid is alive, | Without guile kingship cannot thrive.'
   - 'lang': 'ro'
     'text': 'Roshan Hai Jaam-e-Jamshaid Ab Tak | Shahi Nahin Hai Be Sheesha Bazi'
-- 'id': '2_68_3'
+- 'id': '2_68_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Both you and I aren’t Muslims true, | Though we say the prayers due.'
   - 'lang': 'ro'
     'text': 'Dil Hai Musalman Mera Na Tera | Tu Bhi Namazi, Mein Bhi Namazi!'
-- 'id': '2_68_4'
+- 'id': '2_68_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'I know the end of wrangle well | Where mullahs at each other yell.'
   - 'lang': 'ro'
     'text': 'Mein Janta Hun Anjaam Uss Ka | Jis Maarke Mein Mullah Hon Ghazi'
-- 'id': '2_68_5'
+- 'id': '2_68_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Turkish and Arabic both are sweet, | For talk of Love all tongues are meet.'
   - 'lang': 'ro'
     'text': 'Turki Bhi Sheerin, Tazi Bhi Sheerin | Harf-e-Mohabbat Turki Na Tazi'
-- 'id': '2_68_6'
+- 'id': '2_68_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'The breed of Azar idols make, | But Friends of God these idols break.'
   - 'lang': 'ro'
     'text': 'Aazar Ka Paisha Khara Tarashi | Kaar-e-Khaleelan Khara Gudazi'
-- 'id': '2_68_7'
+- 'id': '2_68_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

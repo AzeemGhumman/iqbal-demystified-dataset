@@ -8,14 +8,14 @@
   'text': 'XI-XX'
 'description': []
 'sher':
-- 'id': '11_98_1'
+- 'id': '11_98_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز سوز این فقیر رہ نشینی | بدہ او را ضمیر آتشینی'
   - 'lang': 'en'
     'text': 'From this poor man’s flame, sitting on his way | Bid him fiery conscience, the least I say.'
-- 'id': '11_98_2'
+- 'id': '11_98_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

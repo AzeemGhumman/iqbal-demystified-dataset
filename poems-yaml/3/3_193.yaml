@@ -8,7 +8,7 @@
   'text': 'The same lamp that illumed your yesternight'
 'description': []
 'sher':
-- 'id': '3_193_1'
+- 'id': '3_193_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The same lamp that illumed your yesternight, | Though gone out, once again may gel alight'
   - 'lang': 'ro'
     'text': 'Jis Ke Partou Se Munawwar Rahi Teri Shab-e-Dosh | Phir Bhi Ho Sakta Hai Roshan Woh Charagh-e-Khamosh'
-- 'id': '3_193_2'
+- 'id': '3_193_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'A courageless man can ''gainst Time bewail, | Whereas the free Fate''s stings, like honey hail.'
   - 'lang': 'ro'
     'text': 'Mard-e-Be Hosla Karta Hai Zamane Ka Gila | Band-e-Hur Ke Liye Nashtar-e-Taqdeer Hai Nosh'
-- 'id': '3_193_3'
+- 'id': '3_193_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'That youth for noise of wars can not be fit, | Who hearing wail of birds at morn loses wit'
   - 'lang': 'ro'
     'text': 'Nahin Hangama-e-Paikar Ke Laeik Woh Jawan | Jo Huwa Nala-e-Murghan-e-Sehar Se Madhosh'
-- 'id': '3_193_4'
+- 'id': '3_193_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

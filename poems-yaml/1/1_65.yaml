@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is an early poem of the 1905-08 period, when ‘Allamah Iqbal was in Europe. This period was one of fundamental change in his political as well as spiritual thought. This change was created by his close study of the Western society and their thought as well as actions. The change was an ardent aversion to the Western thought, values and institutions and a move towards owning Islamic values and establishing Islamic institutions. The first five verses of this poem contain the message of the latter and the last two verses point to the former. We shall see more of both as we proceed through the book .'
 'sher':
-- 'id': '1_65_1'
+- 'id': '1_65_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Love made you acquainted with the taste of affliction | Like assembly’s candle give affliction’s gift to the assembly'
   - 'lang': 'ro'
     'text': 'Ishq Ne Kar Diya Tujhe Zauq-e-Tapish Se Ashna | Bazm Ko Misl-e-Shama-e-Bazm Hasil-e-Souz-o-Saaz'
-- 'id': '1_65_2'
+- 'id': '1_65_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The illuminating Love depends on God’s Benevolence | To whomever He may give without restriction of temple or Haram'
   - 'lang': 'ro'
     'text': 'Shan-e-Karam Pe Hai Madar Ishq-e-Girah Kushaye Ka | Dair-o-Haram Ki Qaid Kya! Jis Ko Woh Be-Niaz De'
-- 'id': '1_65_3'
+- 'id': '1_65_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Like the candle the mantle of light he does not get | Whom God does not give effective wail in the world'
   - 'lang': 'ro'
     'text': 'Soorat-e-Shama Noor Ki Milti Nahin Qaba Use | Jis Ko Khuda Na Dehr Mein Girya-e-Jaan Gudaz De'
-- 'id': '1_65_4'
+- 'id': '1_65_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'He is in the star, the moon, the dawn’s theatre of display | You need not apply discrimination’s collyrium to the Sightful eye'
   - 'lang': 'ro'
     'text': 'Tare Mein Woh, Qamar Mein Woh, Jalwagah-e-Sehar Mein Woh | Chashm-e-Nazara Mein Na Tu Surma-e-Imtiaz De'
-- 'id': '1_65_5'
+- 'id': '1_65_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Love is exalted above the customs and usages of prayers | If Beauty has ecstasy of elegance you too give elegant reply'
   - 'lang': 'ro'
     'text': 'Ishq Buland Baal Hai Rasm-o-Reh-e-Niaz Se | Husn Hai Mast-e-Naz Agar Tu Bhi Jawab-e-Naaz De'
-- 'id': '1_65_6'
+- 'id': '1_65_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'O Tavern-keeper! Pleasure is the only effect of West’s wine | It does not have pleasure of affliction, give me the home-made wine'
   - 'lang': 'ro'
     'text': 'Peer-e-Mughan! Farang Ki Mai Ka Nishat Hai Asar | Iss Mein Woh Kaif-e-Gham Nahin, Mujh Ko To Khana Saaz De'
-- 'id': '1_65_7'
+- 'id': '1_65_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'It was customary in pre‑Islamic Arab poetry to write poems about the poet’s beloved. However, the identity of the beloved was not disclosed in these poems. She was represented by one of the several legendary beauties of the Arab folk‑lore. These were Salmah, Lubnah, Sulaima, Lailah etc. This poetic tradition continued and was strengthened by Islamic poets also, particularly the sufa poets. However, the difference was that God and/or the Holy Prophet S.A.W became the focus of their Love instead of humans. The tradition of using legendary beauties was also adopted by ‘Allamah Iqbal. He has usually adopted the name of Sulaima in his works. | This poem is the artistic presentation of the concept of "Wahdat al‑Shuhud ". The essence of the poem is that though the Jamal and Jalal of God is reflected in all His creation it is found par excellence in the human beauty, because Man is the master‑piece of His creation. Sulaima represents human beauty, which is a reflection of Divine Beauty as stated in the last verse of the poem.'
 'sher':
-- 'id': '1_74_1'
+- 'id': '1_74_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The one whose manifestation witnessed the astronomer''s eye | In the sun, in the moon, in the assembly of stars'
   - 'lang': 'ro'
     'text': 'Jis Ki Namood Dekhi Chasm-e-Sitara Been Ne | Khursheed Mein, Qamar Mein, Taron Ki Anjuman Mein'
-- 'id': '1_74_2'
+- 'id': '1_74_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Whom the sufa found in the dark recesses of his heart | Whom the poet saw in the midst of elegance of Nature'
   - 'lang': 'ro'
     'text': 'Sufi Ne Jis Ko Dil Ke Zulmat Kade Mein Paya | Shayar Ne Jis Ko Dekha Qudrat Ke Bankpan Mein'
-- 'id': '1_74_3'
+- 'id': '1_74_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Whose brilliance exists, whose fragrance persists | In the pearls of dew, in the shirts of flowers'
   - 'lang': 'ro'
     'text': 'Jis Ki Chamak Hai Paida, Jis Ki Mehak Haweda | Shabnam Ke Motiyon Mein, Phoolon Ke Pairhan Mein'
-- 'id': '1_74_4'
+- 'id': '1_74_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Who has inhabited the wilderness by becoming tranquillity | Whose Presence creates the uproar in the midst of the garden'
   - 'lang': 'ro'
     'text': 'Sehra Ko Hai Basaya Jis Ne Sukoot Ban Kar | Hangama Jis Ke Dam Se Kashana-e-Chaman Mein'
-- 'id': '1_74_5'
+- 'id': '1_74_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

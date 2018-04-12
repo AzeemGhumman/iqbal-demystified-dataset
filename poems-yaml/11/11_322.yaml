@@ -8,14 +8,14 @@
   'text': 'CHAPTER 9 | EGO'
 'description': []
 'sher':
-- 'id': '11_322_1'
+- 'id': '11_322_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خودی روشن ز نور کبریائی است | رسائی ہای او از نارسائی است'
   - 'lang': 'en'
     'text': 'The Ego is lucent from God’s light rays, | A reach to self gets through out of reach ways'
-- 'id': '11_322_2'
+- 'id': '11_322_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

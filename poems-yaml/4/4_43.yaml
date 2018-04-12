@@ -8,7 +8,7 @@
   'text': 'THE HUMAN BEING'
 'description': []
 'sher':
-- 'id': '4_43_1'
+- 'id': '4_43_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'To know and see is so easy in the world. | Nothing may stay hidden for this universe is luminous.'
   - 'lang': 'ro'
     'text': 'Jahan Mein Danish-O-Beenish Ki Hai Kis Darja Arzani | Koi Shay Chup Nahin Sakti K Ye Alam Hai Noorani'
-- 'id': '4_43_2'
+- 'id': '4_43_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The Nature’s veil is translucent if one is willing to see: | Far too visible are the angel’s faint smiles.'
   - 'lang': 'ro'
     'text': 'Koi Dekhe To Hai Bareek Fitrat Ka Hijab Itna | Numayan Hain Farishton Ke Tabassum Haye Pinhani'
-- 'id': '4_43_3'
+- 'id': '4_43_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'This world is an invitation for the human being to look, | For every secret is given an instinct to jump out of its closet.'
   - 'lang': 'ro'
     'text': 'Ye Duniya Dawat-E-Didar Hai Farzand-E-Adam Ko | Ke Har Mastoor Ko Bakhsha Gya Hai Zauq-E-Uryani'
-- 'id': '4_43_4'
+- 'id': '4_43_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'It is the tears of human blood that the Almighty has used | For stirring up storms in His oceans.'
   - 'lang': 'ro'
     'text': 'Ye Farzand-E-Adam Hai K Jis Ke Askh-E-Khooni Se | Kiya Hai Hazrat-E-Yazdan Ne Daryaon Ko Toofani'
-- 'id': '4_43_5'
+- 'id': '4_43_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'What would the sky know whose abode is this earthy planet; | On whose nightly banquets do the stars stand in watch!'
   - 'lang': 'ro'
     'text': 'Falak Ko Kya Khabar Ye Khaakdaan Kis Ka Nasheeman Hai | Gharz Anjum Se Hai Kis Ke Shabistan Ki Nighebani'
-- 'id': '4_43_6'
+- 'id': '4_43_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

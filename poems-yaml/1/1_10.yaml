@@ -8,7 +8,7 @@
   'text': 'SYMPATHY'
 'description': []
 'sher':
-- 'id': '1_10_1'
+- 'id': '1_10_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Perched on the branch of a tree | Was a nightingale sad and lonely'
   - 'lang': 'ro'
     'text': 'Tehni Pe Kisi Shajar Ki Tanha | Bulbul Tha Koi Udas Baitha'
-- 'id': '1_10_2'
+- 'id': '1_10_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': '"The night has drawn near", He was thinking | "I passed the day in flying around and feeding'
   - 'lang': 'ro'
     'text': 'Kehta Tha Ke Raat Ser Pe Aayi | Urne Chugne Mein Din Guzra'
-- 'id': '1_10_3'
+- 'id': '1_10_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'How can I reach up to the nest | Darkness has enveloped everything"?'
   - 'lang': 'ro'
     'text': 'Pohenchun Kis Tarah Aashiyan Tak | Her Cheez Pe Cha Gya Andhera'
-- 'id': '1_10_4'
+- 'id': '1_10_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Hearing the nightingale wailing thus | A glow-worm lurking nearby spoke thus'
   - 'lang': 'ro'
     'text': 'Sun Kar Bulbul Ki Aah-O-Zari | Jugnu Koi Pas Hi Se Bola'
-- 'id': '1_10_5'
+- 'id': '1_10_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': '"With my heart and soul ready to help I am | Though only an insignificant insect I am'
   - 'lang': 'ro'
     'text': 'Hazir Hun Madad Ko Jaan O Dil Se | Keera Hun Agarche Mein Zara Sa'
-- 'id': '1_10_6'
+- 'id': '1_10_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Never mind if the night is dark | I shall shed light if the way is dark'
   - 'lang': 'ro'
     'text': 'Kya Gham Hai Jo Raat Hai Andheri | Main Rah Mein Roshani Karon Ga'
-- 'id': '1_10_7'
+- 'id': '1_10_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'God has bestowed a torch on me | He has given a shining lamp to me'
   - 'lang': 'ro'
     'text': 'Allah Ne Di Hai Mujh Ko Mishal | Chamka Ke Mujhay Diya Banaya'
-- 'id': '1_10_8'
+- 'id': '1_10_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

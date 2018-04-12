@@ -8,7 +8,7 @@
   'text': 'THE PYRAMIDS OF EGYPT'
 'description': []
 'sher':
-- 'id': '3_122_1'
+- 'id': '3_122_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The quiet environs of this waste, Whose intense heat scalds the heart: | In forming only dunes of sand, Nature has displayed its Art.'
   - 'lang': 'ro'
     'text': 'Iss Dasht-e-Jigar Taab Ki Khamoshi Faza Mein | Fitrat Ne Faqt Rait Ke Teele Kiye Tameer'
-- 'id': '3_122_2'
+- 'id': '3_122_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The grandeur of these pyramids, Puts lofty heavens to disgrace | What hand did build, design and frame, They seem attired in lasting grace?'
   - 'lang': 'ro'
     'text': 'Ahram Ki Azmat Se Nugoon Saar Hain Aflaak | Kis Hath Ne Khainchi Ab Abdiat Ki Ye Tasveer!'
-- 'id': '3_122_3'
+- 'id': '3_122_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

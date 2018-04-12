@@ -8,7 +8,7 @@
   'text': 'PREACHING OF ISLAM IN THE WEST'
 'description': []
 'sher':
-- 'id': '3_62_1'
+- 'id': '3_62_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Through all the Western politeia, Religion withers to the roots; | For the white man, ties of blood and race, Are all he knows of brotherhood—'
   - 'lang': 'ro'
     'text': 'Zameer Iss Madniyat Ka Deen Se Hai Khali | Farangiyon Mein Akhuwat Ka Hai Nasab Pe Qayam'
-- 'id': '3_62_2'
+- 'id': '3_62_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'A Brahmin, in Britannia’s sight, Ascends no higher in life’s scale | Because the creed of the Messiah, Has numbered him with its recruits;'
   - 'lang': 'ro'
     'text': 'Buland Tar Nahin Angraiz Ki Nigahon Mein | Qabool-e-Deen-e-Mesihi Se Barhaman Ka Maqam'
-- 'id': '3_62_3'
+- 'id': '3_62_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

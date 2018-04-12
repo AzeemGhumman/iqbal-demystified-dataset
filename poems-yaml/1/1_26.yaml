@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'While the original poem by Longfellow is only a poetic description of the coming to life of the world in the morning this adaptation goes much deeper. This poem is the explanation of the role of the light of knowledge in removing the darkness of ignorance by acquiring the knowledge of the unseen spiritual world as is alluded to in explanatory note 1. The poem also explains the role of time in controlling the activities of daily life. This subject is dealt with in detail in the first seven verses of another poem of `Allamah Iqbal titled, "Masjid-i-Qurèubah" in Bal-i-Jibral (The Wings of Jibral). The first verse is given below: | (166) The alternation of day and night, producer of all events | The alternation of day and night, Essence of life and death'
 'sher':
-- 'id': '1_26_1'
+- 'id': '1_26_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ujala Jab Huwa Rukhsat Jabeen-e-Shab Ki Afshan Ka | Naseem-e-Zindagi Pegham Layi Subah-e-Khandan Ka'
-- 'id': '1_26_2'
+- 'id': '1_26_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'It awakened the nightingale of flowery song in its nest | It shook the shoulder of the farmer on the field''s edge'
   - 'lang': 'ro'
     'text': 'Jagaya Bulbul-e-Rangeen Nawa Ko Ashiyane Mein | Kinare Khait Ke Shana Hilaya Uss Ne Dehqan Ka'
-- 'id': '1_26_3'
+- 'id': '1_26_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tilism-e-Zulmat-e-Shab Surah Wan-Noor Se Tora | Andhere Mein Uraya Taj-e-Zar Shama-e-Shabistan Ka'
-- 'id': '1_26_4'
+- 'id': '1_26_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
     'text': 'It chanted the magic of awakening on those sleeping in the temple | It gave the Brahman the tidings of the bright sun'
   - 'lang': 'ro'
     'text': 'Parha Khawabidgan-e-Dair Par Afsoon-e-Baidari | Barhman Ko Diya Pegham Khursheed-e-Durakhshan Ka'
-- 'id': '1_26_5'
+- 'id': '1_26_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -67,7 +67,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Huwi Baam-e-Haram Par Aa Key Un Goya Moazzan Se | Nahin Khatka Tere Dil Mein Namood-e-Mehr-e-Taban Ka?'
-- 'id': '1_26_6'
+- 'id': '1_26_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
     'text': 'Climbing the garden''s wall it cried this to the rose-bud | "Burst! You are the Mu''adhdhin of the morning O rose-bud"'
   - 'lang': 'ro'
     'text': 'Pukari Iss Tarah Deewar-e-Gulshan Par Khare Ho Kar | Chatak O Ghuncha-e-Gul! Tu Moazzan Hai Gulistan Ka'
-- 'id': '1_26_7'
+- 'id': '1_26_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'It gave the command in the wilderness "Move O Caravan"! | "Every dust speck will shine like fire-fly in the wilderness"'
   - 'lang': 'ro'
     'text': 'Diya Ye Hukm Sehra Mein Chalo Ae Qafile Walo! | Chamakne Ko Hai Juggnu Ban Ke Har Zarra Byaban Ka'
-- 'id': '1_26_8'
+- 'id': '1_26_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
     'text': 'When it reached the cemetery from the living''s habitation | Witnessing the spectacle of the cemetery it spoke thus'
   - 'lang': 'ro'
     'text': 'Sooye Gor-e-Ghareeban Jab Gyi Zindon Ki Basti Se | To Yun Boli Nazara Dekh Kar Sheher-e-Khamoshan Ka'
-- 'id': '1_26_9'
+- 'id': '1_26_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

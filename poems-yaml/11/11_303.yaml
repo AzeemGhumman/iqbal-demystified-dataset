@@ -8,14 +8,14 @@
   'text': 'VI-III'
 'description': []
 'sher':
-- 'id': '11_303_1'
+- 'id': '11_303_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'اگر خاک تو از جان محرمی نیست | بشاخ تو ھم از نیسان نمی نیست'
   - 'lang': 'en'
     'text': 'If thy dust has no link with soul and heart, | No rain1 can moisten thy hearts’s any part.'
-- 'id': '11_303_2'
+- 'id': '11_303_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

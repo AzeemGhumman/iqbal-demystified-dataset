@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Ghazals 5 to 10 are highly mystical and rich in metaphors. All of them deal with the love of God. Out of them Ghazal 8 has the central idea that the Love of God is the source of much material loss and suffering. However, it is a test of Man’s worth and gives the Lover the pleasure and happiness as well as the degree of elegance which cannot be described or measured but can only be felt by those whom God endows with such wealth.'
 'sher':
-- 'id': '1_54_1'
+- 'id': '1_54_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kya Kahun Apne Chaman Se Main Juda Kyunkar Huwa | Aur Aseer-e-Halqa-e-Daam-e-Hawa Kyunkar Huwa'
-- 'id': '1_54_2'
+- 'id': '1_54_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -36,7 +36,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jaye Hairat Hai Bura Sare Zamane Ka Hun Mein | Mujh Ko Ye Khilaat Sharafat Ka Atta Kyunkar Huwa'
-- 'id': '1_54_3'
+- 'id': '1_54_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -49,7 +49,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kuch Dekhne Dikhane Ka Tha Taqaza Toor Par | Kya Khabar Hai Tujh Ko Ae Dil Faisala Kyunkar Huwa'
-- 'id': '1_54_4'
+- 'id': '1_54_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -58,7 +58,7 @@
     'text': 'The desire to be without any desire is also a desire | How the heart''s bird freed from the net of greed was'
   - 'lang': 'ro'
     'text': 'Hai Talab Be-Mudda Hone Ki Bhi Ek Mudda | Murgh-e-Dil Dam-e-Tamanna Se Raha Kyunkar Huwa'
-- 'id': '1_54_5'
+- 'id': '1_54_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dekhne Wale Yahan Bhi Dekh Lyte Hain Tujhe | Phir Ye Wada Hashar Ka Sabr Azma Kyunkar Huwa'
-- 'id': '1_54_6'
+- 'id': '1_54_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'The Perfect Beauty itself may be the cause of this unveiling | How became self-apparent what concealed in curtains was'
   - 'lang': 'ro'
     'text': 'Husn-e-Kamil Hi Na Ho Iss Be-Hijabi Ka Sabab | Woh Jo Tha Pardon Mein Pinhan, Khudnuma Kyunkar Huwa'
-- 'id': '1_54_7'
+- 'id': '1_54_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -93,7 +93,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mout Ka Nuskha Abhi Baqi Hai Ae Dard-e-Faraaq! | Charahgar Diwana Hai, Main La-Dawa Kyunkar Huwa'
-- 'id': '1_54_8'
+- 'id': '1_54_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -106,7 +106,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tu Ne Dekha Hai Kabhi Ae Didah-e-Ibrat Ke Gul | Ho Ke Paida Khak Se Rangeen Qaba Kyunkar Huwa'
-- 'id': '1_54_9'
+- 'id': '1_54_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -119,7 +119,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Pursish-e-Amaal Se Maqsad Tha Ruswayi Meri | Warna Zahir Tha Sabhi Kuch, Kya Huwa, Kyunkar Huwa'
-- 'id': '1_54_10'
+- 'id': '1_54_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

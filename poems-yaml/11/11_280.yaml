@@ -8,14 +8,14 @@
   'text': 'XVIII-III'
 'description': []
 'sher':
-- 'id': '11_280_1'
+- 'id': '11_280_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'حرم جز قبلہ قلب و نظر نیست | طواف او طواف بام و در نیست'
   - 'lang': 'en'
     'text': 'For heart and eyes course, the ‘Harem’ is the aim, | Its round is not the round of door’an roof’s frame.'
-- 'id': '11_280_2'
+- 'id': '11_280_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

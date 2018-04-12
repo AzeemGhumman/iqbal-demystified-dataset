@@ -8,14 +8,14 @@
   'text': 'III-III'
 'description': []
 'sher':
-- 'id': '11_287_1'
+- 'id': '11_287_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'گلہ از سختی ایام بگذار | کہ سختی ناکشیدہ کم عیار است'
   - 'lang': 'en'
     'text': 'Give up the habit to weep on fate, | Face the hard times with a courage great.'
-- 'id': '11_287_2'
+- 'id': '11_287_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

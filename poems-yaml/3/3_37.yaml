@@ -8,7 +8,7 @@
   'text': 'PHILOSOPHY'
 'description': []
 'sher':
-- 'id': '3_37_1'
+- 'id': '3_37_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The thoughts of young both masked and plain | From qalandarʹs eyes canʹt hid remain.'
   - 'lang': 'ro'
     'text': 'Afkar Jawanon Ke Khafi Hon Ke Jali Hon | Poshida Nahin Mard-e-Qalandar Ki Nazar Se'
-- 'id': '3_37_2'
+- 'id': '3_37_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'I know your states for I too crost, | These tracts in times which now are past.'
   - 'lang': 'ro'
     'text': 'Maloom Hain Mujh Ko Tere Ahwal Ke Main Bhi | Muddat Huwi Guzra Tha Iss Rah Se'
-- 'id': '3_37_3'
+- 'id': '3_37_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The wise ʹbout words do not quarrel, | He heeds not shell who seeks the pearl.'
   - 'lang': 'ro'
     'text': 'Alfaz Ke Pechon Mein Ulajhte Nahin Dana | Ghawwas Ko Matlab Hai Sadaf Se Ke Guhar Se!'
-- 'id': '3_37_4'
+- 'id': '3_37_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Men crazed with love of God possess, | Wit that from spark the flame can guess.'
   - 'lang': 'ro'
     'text': 'Paida Hai Faqat Halq-e-Arbab-e-Junoon Mein | Woh Aqal Ke Pa Jati Hai Shaole ko Sharar Se'
-- 'id': '3_37_5'
+- 'id': '3_37_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'An import complex confirmed by heart, | Is precious more than gems in mart.'
   - 'lang': 'ro'
     'text': 'Jis Maani-e-Pecheeda Ki Tasdeeq Kare Dil | Qeemat Mein Bohat Barh Ke Hai Tabinda Guhar Se'
-- 'id': '3_37_6'
+- 'id': '3_37_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

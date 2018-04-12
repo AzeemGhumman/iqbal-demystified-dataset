@@ -8,14 +8,14 @@
   'text': 'I-IX'
 'description': []
 'sher':
-- 'id': '11_170_1'
+- 'id': '11_170_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ ترکان بستہ درہا را گشادند | بنای مصریان محکم نھادند'
   - 'lang': 'en'
     'text': 'Now all the shut doors for Turks are ope. | The Egypt’s base would be firm I hope.'
-- 'id': '11_170_2'
+- 'id': '11_170_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

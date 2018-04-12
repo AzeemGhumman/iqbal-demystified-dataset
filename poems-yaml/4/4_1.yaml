@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is a satire from Allama Iqbal, another great work indeed. In this poem, Allama is trying to portray to his Ummah how we are becoming victim of Westernization in the name of globalization. He also suggests to the Muslims that the only thing that can save them is for them to be true muslims, since Islam is the sharpest weapon a Muslim has. This poem is a personification of devil with it''s four ministers who are informing him abut the destructions of the world. | {Contributed by user: Zaffar Areej}'
 'sher':
-- 'id': '4_1_1'
+- 'id': '4_1_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'IBLIS'
   - 'lang': 'ro'
     'text': 'iblis'
-- 'id': '4_1_2'
+- 'id': '4_1_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'This ancient game of elements, this base world! | The frustration of the longings of the great Empyrean’s dwellers.'
   - 'lang': 'ro'
     'text': 'Ye Anasir Ka Purana Khail, Ye Dunya-e-Doon | Sakinan-e-Arsh-e-Azam Ki Tamanaon Ka Khoon!'
-- 'id': '4_1_3'
+- 'id': '4_1_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Upon its destruction is bent to‐day that Fashioner of things, | Who gave it the name, “The world of Be it so.”'
   - 'lang': 'ro'
     'text': 'Uss Ki Barbadi Pe Aaj Aamada Hai Woh Kaarsaaz | Jis Ne Uss Ka Nam Rakha Tha Jahan-e-Kaaf-o-Noon'
-- 'id': '4_1_4'
+- 'id': '4_1_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'I inspired in the European the dream of Imperialism: | I broke the spell of the Mosque, the Temple and the Church.'
   - 'lang': 'ro'
     'text': 'Mein Ne Dikhlaya Farangi Ko Mulukiyat Ka Khawab | Mein Ne Tora Masjid-o-Dair-o-Kalisa Ka Fusoon'
-- 'id': '4_1_5'
+- 'id': '4_1_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'I taught the destitute to believe in Destiny: | I infused into the wealthy the craze for Capitalism.'
   - 'lang': 'ro'
     'text': 'Mein Ne Nadaron Ko Sikhlaya Sabaq Taqdeer Ka | Mein Ne Muneim Ko Diya Sarmayadari Ka Junoon'
-- 'id': '4_1_6'
+- 'id': '4_1_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Who dare extinguish the blazing fire in him, | Whose tumults are stimulated by the inherent passion of Satan?'
   - 'lang': 'ro'
     'text': 'Kon Kar Sakta Hai Uss Ki Aatish Soozan Ko Sard | Jis Ke Hungamon Mein Ho Iblees Ka Souz-e-Daroon'
-- 'id': '4_1_7'
+- 'id': '4_1_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'Who could summon the courage to bend down the old tree, | Whose branches their height to our watering owe?'
   - 'lang': 'ro'
     'text': 'Jis Ki Shakhain Hon Humari Aabiyari Se Buland | Kon Kar Sakta Hai Uss Nakhl-e-Kuhan Ko Ser Nigoon!'
-- 'id': '4_1_8'
+- 'id': '4_1_008'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'FIRST COUNCILOR'
   - 'lang': 'ro'
     'text': 'Pehla Musheer'
-- 'id': '4_1_9'
+- 'id': '4_1_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'Stable is the Satanic system, no doubt there is! | It has further strengthened in the commoners their slavishness indeed.'
   - 'lang': 'ro'
     'text': 'Iss Mein Kya Shak Hai Ke Muhkam Hai Ye Ibleesi Nizam | Pukhta Tar Iss Se Huwe Khuay Ghulami Mein Aawam'
-- 'id': '4_1_10'
+- 'id': '4_1_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Since the dawn of Time have these helpless mortals been ordained to prostration: | Prayer devoid of the posture of standing erect is their nature’s constant urge.'
   - 'lang': 'ro'
     'text': 'Hai Azal Se In Gharibon Ke Muqaddar Mein Sujood | In Ki Fitrat Ka Taqaza Hai Namaz-e-Be Qayam'
-- 'id': '4_1_11'
+- 'id': '4_1_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'In their heart no desire can in fact take its birth: | But if it does, perchance, it dies or is left unripe.'
   - 'lang': 'ro'
     'text': 'Arzoo Awwal To Paida Ho Nahin Sakti Kahin | Ho Kahin Paida To Mer Jati Hai Ya Rehti Hai Kham'
-- 'id': '4_1_12'
+- 'id': '4_1_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'What wonders have our hard, persistent endeavours wrought! | To‐day finds the mystics and the priests all as subjects of Imperialism.'
   - 'lang': 'ro'
     'text': 'Ye Humari Saee-e-Peham Ki Karamat Hai Ke Aaj | Sufi-o-Mullah Mukuliyat Ke Bande Hain Tamam'
-- 'id': '4_1_13'
+- 'id': '4_1_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'Suited to the disposition of the East was this opium indeed: | Otherwise Ilm‐i‐Kalam is no less self‐effacing than qawwali in effect.'
   - 'lang': 'ro'
     'text': 'Taba-e-Mashriq Ke Liye Mouzoon Yehi Afyoon Thi | Warna ''Qawwali'' Se Kuch Kam Tar Nahin ''Ilm E Kalam'''
-- 'id': '4_1_14'
+- 'id': '4_1_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
     'text': 'What matters it, if the tumult of the pilgrimage and tawaf abides? | For, rendered blunt, lies unused the unsheathed sword of the Faithful.'
   - 'lang': 'ro'
     'text': 'Hai Tawaf-e-Hajj Ka Hungama Agar Baqi To Kya | Kund Ho Kar Reh Gyi Momin Ki Taeg-e-Be Nayam'
-- 'id': '4_1_15'
+- 'id': '4_1_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -145,7 +145,7 @@
     'text': 'Whose despair does this latest Ordinance prove: | “To the Muslim in this age is forbidden fighting in Lord’s name”?'
   - 'lang': 'ro'
     'text': 'Kis Ki Naumeedi Pe Hujjat Hai Ye Farman-e-Jadeed | ''Hai Jihad Iss Dour Mein Mard-e-Musalman Par Haram!'''
-- 'id': '4_1_16'
+- 'id': '4_1_016'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -154,7 +154,7 @@
     'text': 'SECOND COUNCILOR'
   - 'lang': 'ro'
     'text': 'Dusra Musheer'
-- 'id': '4_1_17'
+- 'id': '4_1_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
     'text': 'Is the clamour for “Government by the people” evil or good? | Art thou unaware of the fresh mischiefs of the world?'
   - 'lang': 'ro'
     'text': 'Khair Hai Sultani Jumhoor Ka Ghogha Ke Sherr | Tu Jahan Ke Taza Fitnon Se Nahin Hai Ba-khabar!'
-- 'id': '4_1_18'
+- 'id': '4_1_018'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -172,7 +172,7 @@
     'text': 'FIRST COUNCILOR'
   - 'lang': 'ro'
     'text': 'Pehla Musheer'
-- 'id': '4_1_19'
+- 'id': '4_1_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
     'text': 'Aware am I! but tells me my cosmic foresight: | No danger from what is but a masquerade for imperialism.'
   - 'lang': 'ro'
     'text': 'Hun, Magar Meri Jahan Beeni Batati Hai Mujhe | Jo Mulukiyat Ka Ek Parda Ho, Kya Uss Se Khatar!'
-- 'id': '4_1_20'
+- 'id': '4_1_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'We ourselves have dressed imperialism in the garb of democracy | When man has grown to be a little self‐conscious and self‐observant.'
   - 'lang': 'ro'
     'text': 'Hum Ne Khud Shahi Ko Pehnaya Hai Jumhoori Libas | Jab Zara Aadam Huwa Hai Khud Shanas-o-Khud Nigar'
-- 'id': '4_1_21'
+- 'id': '4_1_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'The true nature of the system of imperialism lies elsewhere: | It depends not on the existence of an individual leader of a king.'
   - 'lang': 'ro'
     'text': 'Karobar-e-Sheher Yari Ki Haqiqat Aur Hai | Ye Wujood-e-Meer-o-Sultan Par Nahin Hai Munhasar'
-- 'id': '4_1_22'
+- 'id': '4_1_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -208,7 +208,7 @@
     'text': 'Be it a national assembly of the court of Parviz, | Whoever casts a covetous eye on other’s harvest is a king.'
   - 'lang': 'ro'
     'text': 'Majlis-e-Millat Ho Ya Parvaiz Ka Darbar Ho | Hai Woh Sultan, Ghair Ki Khaiti Pe Ho Jis Ki Nazar'
-- 'id': '4_1_23'
+- 'id': '4_1_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -217,7 +217,7 @@
     'text': 'Hast thou not observed the democratic system of the West? | With a brilliant exterior, its interior is darker than Genghis’s.'
   - 'lang': 'ro'
     'text': 'Tu Ne Kya Dekha Nahin Maghrib Ka Jumhoori Nizam | Chehra Roshan, Androon Changaiz Se Tareek Tar!'
-- 'id': '4_1_24'
+- 'id': '4_1_024'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -226,7 +226,7 @@
     'text': 'THIRD COUNCILOR'
   - 'lang': 'ro'
     'text': 'Teesra Musheer'
-- 'id': '4_1_25'
+- 'id': '4_1_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -235,7 +235,7 @@
     'text': 'No cause for anxiety then, if the spirit of imperialism be preserved: | But what counter‐measure to the mischief wrought by that Jew have you?'
   - 'lang': 'ro'
     'text': 'Rooh-e-Sultani Rahe Baqi To Phir Kya Iztarab | Hai Magar Kya Uss Yahoodi Ki Shararat Ka Jawab?'
-- 'id': '4_1_26'
+- 'id': '4_1_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -244,7 +244,7 @@
     'text': 'That Moses without Light, that Jesus without the Cross: | No prophet is he, yet with him a book he carries.'
   - 'lang': 'ro'
     'text': 'Woh Kaleem Be-Tajalli, Woh Maseeh Be-Saleeb | Neest Peghambar Wa Lekin Dar Baghal Darad Kitab'
-- 'id': '4_1_27'
+- 'id': '4_1_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -253,7 +253,7 @@
     'text': 'I can hardly explain what significance does the infidel penetrating vision possess: | It is, methinks, the day of reckoning for the peoples of the East and the West.'
   - 'lang': 'ro'
     'text': 'Kya Bataun Kya Hai Kafir Ki Nigah-e-Parda Souz | Mashriq-o-Maghrib Ki Qaumon Ke Liye Roz-e-Hisab'
-- 'id': '4_1_28'
+- 'id': '4_1_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -262,7 +262,7 @@
     'text': 'No greater corruption of human nature than this would be: | Slaves have broken asunder the ropes of the masters’ tents.'
   - 'lang': 'ro'
     'text': 'Iss Se Barh Kar Aur Kya Ho Ga Tabiat Ka Fasad | Torh Di Bandon Ne Aaqaon Ke Khaimon Ki Tanab!'
-- 'id': '4_1_29'
+- 'id': '4_1_029'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -271,7 +271,7 @@
     'text': 'FOURTH COUNCILOR'
   - 'lang': 'ro'
     'text': 'Chotha Musheer'
-- 'id': '4_1_30'
+- 'id': '4_1_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -280,7 +280,7 @@
     'text': 'Watch its counteraction in the palaces of Imperial Rome: | Again did we inspire in the descendants of Caesar the dream of Caesar.'
   - 'lang': 'ro'
     'text': 'Torh Uss Ka Rumatul Kubra Ke Aewanon Mein Dekh | Aal-e-Ceaser Ko Dikhaya Hum Ne Phir Ceaser Ka Khawab'
-- 'id': '4_1_31'
+- 'id': '4_1_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -289,7 +289,7 @@
     'text': 'Who is coiled round the waves of the Mediterranean? | That now expands like a pine, and then wails like a rebeck!'
   - 'lang': 'ro'
     'text': 'Kon Behar-e-Rome Ki Moujon Se Hai Lipta Huwa | ''Gah Balad Choon Sanobar'' Gah Nalad Choon Rabab'
-- 'id': '4_1_32'
+- 'id': '4_1_032'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -298,7 +298,7 @@
     'text': 'THIRD COUNCILOR'
   - 'lang': 'ro'
     'text': 'Teesra Musheer'
-- 'id': '4_1_33'
+- 'id': '4_1_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -307,7 +307,7 @@
     'text': 'Little do I recognize him to be a man of far‐sighted wisdom: | (A fool!) who has thus European politics exposed.'
   - 'lang': 'ro'
     'text': 'Mein To Uss Ki Aaqabat Beeni Ka Kuch Qael Nahin | Jis Ne Afrangi Siasat Ko Kiya Yun Behijab'
-- 'id': '4_1_34'
+- 'id': '4_1_034'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -316,7 +316,7 @@
     'text': 'FIFTH COUNCILOR (TURNING TO IBLIS)'
   - 'lang': 'ro'
     'text': 'Panchwan Musheer (Iblees Ko Mukhatib Kar Ke)'
-- 'id': '4_1_35'
+- 'id': '4_1_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -325,7 +325,7 @@
     'text': 'O thou! the fire of whose breath lends stability to the world‐process: | Whenever thou wished, everything hidden presently did thou reveal.'
   - 'lang': 'ro'
     'text': 'Ae Tere Souz-e-Nafas Se Kaar-e-Aalam Ustawar! | Tu Ne Jab Chaha, Kiya Har Pardagi Ko Ashikaar'
-- 'id': '4_1_36'
+- 'id': '4_1_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -334,7 +334,7 @@
     'text': 'It is thy fire that has transformed dead earth and water into a world of beauty and endeavour: | Inspired by thy instruction, the fool of Paradise turns a seer.'
   - 'lang': 'ro'
     'text': 'Aab-o-Gill Teri Hararat Se Jahan-e-Souz-o-Saaz | Abla-e-Jannat Teri Taleem Se Danaye Kaar'
-- 'id': '4_1_37'
+- 'id': '4_1_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -343,7 +343,7 @@
     'text': 'More closely familiar with man’s nature than thee is not He: | Who among the simpletons is known as God the Sustainer.'
   - 'lang': 'ro'
     'text': 'Tujh Se Barh Kar Fitrat-e-Aadam Ka Woh Mehram Nahin | Sada Dil Bandon Mein Jo Mashoor Hai Parwardigar'
-- 'id': '4_1_38'
+- 'id': '4_1_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -352,7 +352,7 @@
     'text': 'Those whose business was confined to sanctifying, singing hymns and going round: | Thy sense of self‐respect has out them to shame for ever, with their heads hanging low.'
   - 'lang': 'ro'
     'text': 'Kaam Tha Jin Ka Fakat Taqdees-o-Tasbeeh-o-Tawaf | Teri Gairat Se Abad Tak Sar Nigun-o-Sharamsaar'
-- 'id': '4_1_39'
+- 'id': '4_1_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -361,7 +361,7 @@
     'text': 'Though the wizards of Europe all are disciples to thee: | No longer have I faith in their sagacity left.'
   - 'lang': 'ro'
     'text': 'Garcha Hain Tere Mureed Afrang Ke Sahir Tamam | Ab Mujhe In Ki Farasat Par Nahin Hai Atibar'
-- 'id': '4_1_40'
+- 'id': '4_1_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -370,7 +370,7 @@
     'text': 'That Jew, that mischief‐maker, that reincarnation of Mazdak: | Each tunic is about to be torn to shreds by his fanaticism.'
   - 'lang': 'ro'
     'text': 'Ye Yahoodi Fitna Gar, Woh Rooh-e-Mazdak Ka Barooz | Har Kaba Hone Ko Hai Iss Ke Janoon Se Tar Tar'
-- 'id': '4_1_41'
+- 'id': '4_1_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -379,7 +379,7 @@
     'text': 'Behold! the wild crow is vying with the falcon and the hyena: | Lo, how swiftly does the disposition of Time allow of a change!'
   - 'lang': 'ro'
     'text': 'Zagh-e-Dashti Ho Raha Hai Humsar-e-Shaheen-o-Chargh | Kitni Sura’at Se Badalta Hai Mazaaj-e-Rozgar'
-- 'id': '4_1_42'
+- 'id': '4_1_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -388,7 +388,7 @@
     'text': 'It spread about, and covered the whole expanse of skies: | What we unwisely had taken for a handful of dust.'
   - 'lang': 'ro'
     'text': 'Cha Gyi Ashufta Ho Kar Wusat-e-Aflaak Par | Jis Ko Nadani Se Hum Samajhe The Ek Musht-e-Ghubar'
-- 'id': '4_1_43'
+- 'id': '4_1_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -397,7 +397,7 @@
     'text': 'Such is the state of the ghastly dread of the morrow’s disturbance: | To‐day tremble with overwhelming awe, mountains, meadows and rivers all.'
   - 'lang': 'ro'
     'text': 'Fitna-e-Farda Ki Haibat Ka Ye Alam Hai Ke Aaj | Kanpte Hain Kohsar-o-Murghzar-o-Ju’ay bar'
-- 'id': '4_1_44'
+- 'id': '4_1_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -406,7 +406,7 @@
     'text': 'That world is going to turn topsy‐turvy, my Lord! | The world which resteth solely on thy governance.'
   - 'lang': 'ro'
     'text': 'Mere Aaqa! Vo Jahan Zair-o-Zabar Hone Ko Hai | Jis Jahan Ka Hai Fakat Teri Sayadat Par Madar'
-- 'id': '4_1_45'
+- 'id': '4_1_045'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -415,7 +415,7 @@
     'text': 'IBLIS (TO HIS COUNCILORS)'
   - 'lang': 'ro'
     'text': 'Iblees (Apne Musheeron Se)'
-- 'id': '4_1_46'
+- 'id': '4_1_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -424,7 +424,7 @@
     'text': 'Absolute command have I of the world of scent and hue! | The earth, the sun, the moon and the firmaments all!'
   - 'lang': 'ro'
     'text': 'Hai Mere Dast-e-Tasarruf Mein Jahan-e-Rang O Bu | Kya Zameen, Kya Mehar O Mah, Kya Asaman-e-Tu Ba Tu'
-- 'id': '4_1_47'
+- 'id': '4_1_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -433,7 +433,7 @@
     'text': 'With their own eyes shall the West and the East witness the Spectacle: | When I but warm the blood of the nations of Europe.'
   - 'lang': 'ro'
     'text': 'Dekh Lain Ge Apni Ankhon Se Tamasha Gharb-o-Sharak | Main Ne Jab Garma Diya Aqwam-e-Europe Ka Lahoo'
-- 'id': '4_1_48'
+- 'id': '4_1_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -442,7 +442,7 @@
     'text': 'The leaders of politics and the patriarchs of church all: | One call from me would be enough to turn them mad.'
   - 'lang': 'ro'
     'text': 'Kya Imamane Siasat, Kya Kaleesa Ka Shayookh | Sub Ko Diwana Bana Sakti Hai Meri Aik Hoo'
-- 'id': '4_1_49'
+- 'id': '4_1_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -451,7 +451,7 @@
     'text': 'The fool who considers it to be mere glass‐work: | Let him dare smash the goblets and ewers of this Civilization.'
   - 'lang': 'ro'
     'text': 'Kargah Sheesha Jo Nadan Samjhta Hai Usse | Tor Kar Dekhe To Iss Tehzeeb Ke Jam-o-Saboo!'
-- 'id': '4_1_50'
+- 'id': '4_1_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -460,7 +460,7 @@
     'text': 'The collars torn asunder by the hand of Nature: | Can’t be darned with the needle of the Mazdakite logic.'
   - 'lang': 'ro'
     'text': 'Dast-e-Fitrat Ne Kiya Hai Jin Girebanon Ko Chaak | Mazdaki Mantaq Ki Souzan Se Nahin Hote Rafoo'
-- 'id': '4_1_51'
+- 'id': '4_1_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -469,7 +469,7 @@
     'text': 'How could I be frightened by these Socialists, straying about the streets? | Wretched and straitened, distracted in mind, incoherent in speech!'
   - 'lang': 'ro'
     'text': 'Kab Dara Sakte Hain Mujh Ko Ishtaraki Koocha Gard | Ye Preshan Rozgar, Ashufta Maghz, Ashufta Mu'
-- 'id': '4_1_52'
+- 'id': '4_1_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -478,7 +478,7 @@
     'text': 'The only menace I anticipate may come that community: | Which still a spark of ambition hidden in its ashes retains.'
   - 'lang': 'ro'
     'text': 'Hai Agar Mujh Ko Khatar Koi To Uss Ummat Se Hai | Jis Ki Khatstar Mein Hai Ab Tak Shirar-e-Arzu'
-- 'id': '4_1_53'
+- 'id': '4_1_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -487,7 +487,7 @@
     'text': 'Amongst this people there are still to be seen a few | Who go so far as to perform their ablutions with the tears of pre‐morning hours.'
   - 'lang': 'ro'
     'text': 'Khal Khal Iss Qaum Mein Ab Tak Nazar Ate Hain Vo | Karte Hain Ashak-E-Sehargahi Se Jo Zalim Wazoo'
-- 'id': '4_1_54'
+- 'id': '4_1_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -496,7 +496,7 @@
     'text': 'Knows he to whom are revealed the inner secrets of Time: | Not Mazdakism, but Islam is to be the trouble of the morrow.'
   - 'lang': 'ro'
     'text': 'Janta Hai, Jis Pe Roshan Batin-e-Ayyam Hai | Mazdkiat Fitna-e-Farda Nahin, Islam Hai!'
-- 'id': '4_1_55'
+- 'id': '4_1_055'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -505,7 +505,7 @@
     'text': '2'
   - 'lang': 'ro'
     'text': '(2)'
-- 'id': '4_1_56'
+- 'id': '4_1_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -514,7 +514,7 @@
     'text': 'I do know this community is no longer the bearer of the Quran: | The same Capitalism is the religion of the Believer now.'
   - 'lang': 'ro'
     'text': 'Janta Hun Main Ye Ummat Hamal-e-Quran Nahin | Hai Wohi Sarmayadari Banda-e-Momin Ka Deen'
-- 'id': '4_1_57'
+- 'id': '4_1_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -523,7 +523,7 @@
     'text': 'And I know, too, that in the dark night of the East | The sleeve of the holy ones of the Sanctuary is bereft of the white, illuminating hand.'
   - 'lang': 'ro'
     'text': 'Janta Hun Main Ke Mashriq Ki Andheri Raat Mein | Be Yad-e-Baiza Hai Peeran-e-Haram Ki Asteen'
-- 'id': '4_1_58'
+- 'id': '4_1_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -532,7 +532,7 @@
     'text': 'The demands of the present age, however, spell the apprehension: | Lest the Shari‘ah of the Prophet should come to light one day:'
   - 'lang': 'ro'
     'text': 'Asre-e-Hazir Ke Taqazaon Se Hai Lekin Ye Khof | Ho Na Jaye Ashakara Shara-e-Peghambar Kahin'
-- 'id': '4_1_59'
+- 'id': '4_1_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -541,7 +541,7 @@
     'text': 'Beware, a hundred times beware, of the Law of the Prophet!— | The protector of women’s honour, the tester of men’s capacities, the rearer of worthy men!'
   - 'lang': 'ro'
     'text': 'Alhazar! Aaeen-e-Peghambar Se Sou Bar Alhazar | Hafiz-e-Namoos-e-Zan, Mard Azma, Mard-e-Afreen'
-- 'id': '4_1_60'
+- 'id': '4_1_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -550,7 +550,7 @@
     'text': 'The message of death to any kind of slavery! | No sovereigns and no monarchs, no mendicants begging!'
   - 'lang': 'ro'
     'text': 'Mout Ka Pegham Har Nu-e-Ghulami Ke Liye | Ne Koi Faghfoor-o-Khaqaan, Ne Fareeq-e-Reh Nasheen'
-- 'id': '4_1_61'
+- 'id': '4_1_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -559,7 +559,7 @@
     'text': 'It does purify wealth of all pollution: | It makes the wealthy trustees of wealth and property.'
   - 'lang': 'ro'
     'text': 'Karta Hai Doulat Ko Har Aaludgi Se Pak Saaf | Munemon Ko Maal-o-Doulat Ka Banata Hai Ameen'
-- 'id': '4_1_62'
+- 'id': '4_1_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -568,7 +568,7 @@
     'text': 'What greater revolution in thought and action will there be: | Not to the crowned heads, but to God alone does this Earth belong!'
   - 'lang': 'ro'
     'text': 'Iss Se Barh Kar Aur Kya Fikar-o-Amal Ka Inqilaab | Padshahon Ki Nahin, Allah Ki Hai Ye Zameen!'
-- 'id': '4_1_63'
+- 'id': '4_1_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -577,7 +577,7 @@
     'text': 'Better, if this Law be kept hidden from the world’s eye: | So much the better, the Believer himself is deprived of inner conviction.'
   - 'lang': 'ro'
     'text': 'Chasme Alam Se Rahe Poshida Ye Aaeen To Khoob | Ye Ghanimat Hai Ke Khud Momin Hai Mehroom-e-Yaqeen'
-- 'id': '4_1_64'
+- 'id': '4_1_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -586,7 +586,7 @@
     'text': 'Better that he remains busy and entangled in the metaphysical theology: | Better, that he remains busy and entangled in the interpretations of the Book of God.'
   - 'lang': 'ro'
     'text': 'Hai Ye Behter Elahiyat Mein Uljha Rahe | Ye Kitab Ullah Ki Taweelat Mein Uljha Rahe'
-- 'id': '4_1_65'
+- 'id': '4_1_065'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -595,7 +595,7 @@
     'text': '3'
   - 'lang': 'ro'
     'text': '(3)'
-- 'id': '4_1_66'
+- 'id': '4_1_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -604,7 +604,7 @@
     'text': 'Whose cries of God is Most High could break the charm of the universe: | May the dark night of that God‐thinking man not ever turn bright!'
   - 'lang': 'ro'
     'text': 'Tor Dalain Jis Ki Takbeerain Talism-e-Shash Jihat | Ho Na Roshan Uss Khuda Andaish Ki Tareek Raat'
-- 'id': '4_1_67'
+- 'id': '4_1_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -613,7 +613,7 @@
     'text': 'Is the Son of Mary dead or is he endowed with eternal life? | Are the Attributes of God separate from God, or do they form what He is?'
   - 'lang': 'ro'
     'text': 'Ibne Mariam Mar Gya Ya Zinda Javaid Hai | Hain Sifat-e-Zaat-e-Haq, Haq Se Judda Ya Ayn Zaat?'
-- 'id': '4_1_68'
+- 'id': '4_1_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -622,7 +622,7 @@
     'text': 'Does the expected mean Jesus of Nazareth? | Or a Renewer, endowed with the attributes of the Son of Mary?'
   - 'lang': 'ro'
     'text': 'Ane Wale Se Maseeh-e-Nasiri Maqsood Hai | Ye Mujaddid, Jis Mein Hon Farzand-e-Mariam Ke Sifat?'
-- 'id': '4_1_69'
+- 'id': '4_1_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -631,7 +631,7 @@
     'text': 'Are the letters of the Word of God New or of Old? | In which of the doctrines does the salvation of the Blessed Community lies?'
   - 'lang': 'ro'
     'text': 'Hain Kalam Ullah Ke Alfaz Hadis Ya Qadeem | Ummat Marhoom Ke Hai Kis Aqeede Mein Nijat?'
-- 'id': '4_1_70'
+- 'id': '4_1_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -640,7 +640,7 @@
     'text': 'Are not enough to the Faithful in this age: | These idols of worship carved by Metaphysical Theology?'
   - 'lang': 'ro'
     'text': 'Kya Musalman Ke Liye Kafi Nahin Iss Dour Mein | Ye Elahiyat Ke Tarshay Huwe Laat- O-Manaat?'
-- 'id': '4_1_71'
+- 'id': '4_1_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -649,7 +649,7 @@
     'text': '# translation missing | # translation missing'
   - 'lang': 'ro'
     'text': 'Tum Isse Begana Rakho Alam-e-Kirdar Se | Ta Bisat-e-Zindagi Mein Iss Ke Sub Muhre Hon Maat'
-- 'id': '4_1_72'
+- 'id': '4_1_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -658,7 +658,7 @@
     'text': 'Our safety lies in that Believer remains a slave till Doomsday: | Renouncing this transitory world for others’ sake.'
   - 'lang': 'ro'
     'text': 'KKhair Issi Mein Hai, Qayamat Tak Rahe Momin Ghulam | Chor Kar Auron Ki Khatir Ye Jahan-e-Be-Sabat'
-- 'id': '4_1_73'
+- 'id': '4_1_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -667,7 +667,7 @@
     'text': 'What is good in his case is that poetry and mysticism | Which may keep hidden from his eyes the game of Life.'
   - 'lang': 'ro'
     'text': 'Hai Wohi Shair-o-Tasawwuf Iss Ke Haq Mein Khoob Tar | Jo Chupa De Iss Ki Ankhon Se Tamasha-e-Hayat'
-- 'id': '4_1_74'
+- 'id': '4_1_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -676,7 +676,7 @@
     'text': 'Every moment do I dread the awakening of this community | Whose religion is, in reality, nothing short of taking account of the universe.'
   - 'lang': 'ro'
     'text': 'Har Nafas Darta Hun Iss Ummat Ki Baidari Se Mein | Hai Haqiqat Jis Ke Deen Ki Ahtisaab-e-Kainat'
-- 'id': '4_1_75'
+- 'id': '4_1_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

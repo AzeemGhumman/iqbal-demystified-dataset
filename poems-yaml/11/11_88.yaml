@@ -8,7 +8,7 @@
   'text': 'XI-X'
 'description': []
 'sher':
-- 'id': '11_88_1'
+- 'id': '11_88_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'row,'
       'meaning': '        A row or rows of five time prayers.'
       'occurrence': !!int '1'
-- 'id': '11_88_2'
+- 'id': '11_88_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

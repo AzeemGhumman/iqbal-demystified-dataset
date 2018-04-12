@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This long poem is an allegory prepared to convey ‘Allamah Iqbal’s philosophy on several social, economic and political problems facing the world in general and the Muslim world in particular. It is based on an imaginary conversation with S. Khizar A.S. on the model of that described in the Holy Qur’an 18:60-82. The artistic perfection of the poet has made the parallel perfect. S. Musa A.S. was guided through wahy to search for S. Khizar A.S. for obtaining eternal secrets. The Holy Qur’an uses the expression Majma‘ al- Bahrain for the meeting of the two, which may mean confluence of two seas or two rivers. The consensus of opinion among exegesists is that this place was the Gulf of Aqabah. However, ‘Allamah Abu al-A‘la Mawduda has expressed the opinion that the meeting place could have been at the junction of the two tributaries of the River Nile, the “Bahr-al-Abyaz” (The White Nile) and “Bahr-al-Arzaq” (The Blue Nile) in Sudan. Bahr also means a large river which agrees with the word Darya used in this poem. However, irrespective of the meeting place the poem describes the questions posed by ‘Allamah Iqbal in the first part and the answers he received in subsequent parts. These are clear and self contained in the poem. It is also a commentary on World War I and its influence on the Western as well as the Muslim world.'
 'sher':
-- 'id': '1_162_1'
+- 'id': '1_162_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'One night at the river-bank I was absorbed in contemplation | With a world of restlessness concealed in the heart’s recesses'
   - 'lang': 'ro'
     'text': 'Sahil-E-Darya Pe Main Ek Raat Tha Mehv-E-Nazar | Gosha-E-Dil Mein Chupaye Ek Jahan-E-Iztaraab'
-- 'id': '1_162_2'
+- 'id': '1_162_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The night was tranquil, air calm, river gently flowing was | My eye was amazed whether the river or a picture of water it was!'
   - 'lang': 'ro'
     'text': 'Shab Sakoot Afza, Hawa Asoodah, Darya Naram Sair | Thi Nazar Heeran Ke Ye Darya Hai Ya Tasveer-E-Aab'
-- 'id': '1_162_3'
+- 'id': '1_162_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'As the suckling baby falls asleep in the cradle | The restless wave had fallen asleep somewhere else!'
   - 'lang': 'ro'
     'text': 'Jaise Gehware Mein So Jata Hai Tifle-E-Sheer Khawaar | Mouj-E-Muztar Thi Kahin Gehraiyon Mein Mast-E-Khawab'
-- 'id': '1_162_4'
+- 'id': '1_162_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'With the spell of night the birds were confined in nests | The twinkling stars were caught in the moon’s spell!'
   - 'lang': 'ro'
     'text': 'Raat Ke Ufsoon Se Tair Ashiyanon Mein Aseer | Anjum-E-Kam Zou Giraftar-E-Tilism-E-Mahtab'
-- 'id': '1_162_5'
+- 'id': '1_162_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dekhta Kya Hun Ke Woh Paik-E-Jahan Peyma Khizar | Jis Ki Peeri Mein Hai Manind-E-Sahar Rang-E-Shabab'
-- 'id': '1_162_6'
+- 'id': '1_162_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'Was saying to me “O seeker of the eternal secrets | If the inner eye be open world’s destiny would be unveiled”!'
   - 'lang': 'ro'
     'text': 'Keh Raha Mujh Se, Ae Joya’ay Asrar-E-Azal ! | Chashm-E-Dil Wa Ho To Hai Taqdeer-E-Alam Behijab'
-- 'id': '1_162_7'
+- 'id': '1_162_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'On hearing this an uproaring tumult rose in my heart | Being devoted to seeking the Truth I started talking thus'
   - 'lang': 'ro'
     'text': 'Dil Mein Ye Sun Kar Bapa Hangama’ay Mehshar Huwa | Main Shaheed-E-Justujoo Tha, Yun Sukhan-E-Gastar Huwa'
-- 'id': '1_162_8'
+- 'id': '1_162_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': '“O you whose world-encompassing eye sees those storms | Whose tumults are still sleeping quietly in the river'
   - 'lang': 'ro'
     'text': 'Ae Teri Chashme-E-Jahan Been Par Woh Toofan Ashkar | Jin Ke Hangame Abhi Darya Mein Sote Hain Khamosh'
-- 'id': '1_162_9'
+- 'id': '1_162_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -105,7 +105,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': '‘Kashti-E-Miskeen’-O-‘Jaan-E-Paak’-O-‘Diwar-E-Yateem’ | Ilm-E-Musa (A.S.) Bhi Hai Tere Samne Hairat Farosh'
-- 'id': '1_162_10'
+- 'id': '1_162_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -114,7 +114,7 @@
     'text': 'Leaving habitations you remain wandering in wilderness | No day and night, no yesterday and tomorrow is in your life'
   - 'lang': 'ro'
     'text': 'Chorh Kar Abadiyan Rehta Hai Tu Sehra Naward | Zindagi Teri Hai Be Roz-O-Shab-O-Farda-O-Dosh'
-- 'id': '1_162_11'
+- 'id': '1_162_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -123,7 +123,7 @@
     'text': 'What is the secret of life? What is imperialism ? | And what is this struggle between labor and capital ?'
   - 'lang': 'ro'
     'text': 'Zindagi Ka Raaz Kya Hai, Saltanat Kya Cheez Hai | Aur Ye Sarmaya-O-Mehnat Mein Hai Kaisa Kharosh'
-- 'id': '1_162_12'
+- 'id': '1_162_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ho Rahah Hai Asia Ka Kharqa-E-Dairina Chaak | Naujawan Aqwam-E-Nau Doulat Ke Hain Peraya Posh'
-- 'id': '1_162_13'
+- 'id': '1_162_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Garcha Iskandar Raha Mehroom-E-Aab-E-Zindagi | Fitrat-E-Iskandari Ab Tak Hai Garam-E-Nao’ay Nosh'
-- 'id': '1_162_14'
+- 'id': '1_162_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -162,7 +162,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Baichta Hai Hashmi Namoos-E-Deen-E-Mustafa (S.A.W.) | Khak-O-Khoon Mein Mil Raha Hai Turkaman-E-Sakht Kosh'
-- 'id': '1_162_15'
+- 'id': '1_162_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aag Hai, Aulad-E-Ibraheem (A.S.) Hai, Namrood Hai | Kya Kisi Ko Phir Kisi Ka Imtihaan Maqsood Hai !'
-- 'id': '1_162_16'
+- 'id': '1_162_016'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'THE RESPONSE OF KHI¿AR'
   - 'lang': 'ro'
     'text': 'jawwaab e khizr'
-- 'id': '1_162_17'
+- 'id': '1_162_017'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'Wandering in Deserts'
   - 'lang': 'ro'
     'text': 'sehra nuuri'
-- 'id': '1_162_18'
+- 'id': '1_162_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -208,7 +208,7 @@
     'text': 'Why are you amazed at my wandering in the deserts ? | This incessant toil is demonstration of life'
   - 'lang': 'ro'
     'text': 'Kyun Taajub Hai Meri Sehra Nawardi Par Tujhe | Ye Taga Pooye Dama Dam Zindagi Ki Hai Daleel'
-- 'id': '1_162_19'
+- 'id': '1_162_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -217,7 +217,7 @@
     'text': 'O the one confined to home, you have not seen that sight | When the call for battle march resounds in the desert air!'
   - 'lang': 'ro'
     'text': 'Ae Raheen-E-Khana Tu Ne Woh Saman Dekha Nahin | Goonjti Hai Jab Faza’ay Dasht Mein Bang-E-Raheel'
-- 'id': '1_162_20'
+- 'id': '1_162_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -226,7 +226,7 @@
     'text': 'That care-free stroll of the deer on the mound of sand | That home without chattel, that journey without distance and destination!'
   - 'lang': 'ro'
     'text': 'Rait Ke Teele Pe Woh Aaho Ka Be Parwa Kharaam | Woh Hazar Be Barg-O-Saman, Woh Safar Be Sang-O-Meel'
-- 'id': '1_162_21'
+- 'id': '1_162_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -239,7 +239,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Woh Namood-E-Akhtar-E-Simab Pa Hangam-E-Subah | Ya Numayan Baam-E-Gardoon Se Jibeen-E-Jibraeel (A.S.)'
-- 'id': '1_162_22'
+- 'id': '1_162_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -252,7 +252,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Woh Sakoot-E-Sham-E-Sehra Mein Gharoob-E-Aftab | Jis Se Roshan Tar Huwi Chashm-E-Jahan Been-E-Khalil (A.S.)'
-- 'id': '1_162_23'
+- 'id': '1_162_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -265,7 +265,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aur Woh Pani Ke Chashme Par Maqam-E-Karwan | Ahl-E-Aeeman Jis Tarah Jannat Mein Gird-E-Salsabeel'
-- 'id': '1_162_24'
+- 'id': '1_162_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -274,7 +274,7 @@
     'text': 'The ardent Love is in search of an ever new wild land | And in city your effort is in farming and horticulture'
   - 'lang': 'ro'
     'text': 'Taza Weerane Ki Soda’ay Mohabbat Ko Talash | Aur Abadi Mein Tu Zanjeeri Kisht-O-Nakheel'
-- 'id': '1_162_25'
+- 'id': '1_162_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -283,7 +283,7 @@
     'text': 'The cup of life becomes more mature by revolving | O negligent one, this alone is the secret of life’s permanence!'
   - 'lang': 'ro'
     'text': 'Pukhta Tar Hai Gardish-E-Peham Se Jaam-E-Zindagi | Hai Yehi Ae Be-Khabar Raaz-E-Dawam-E-Zindagi'
-- 'id': '1_162_26'
+- 'id': '1_162_026'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -292,7 +292,7 @@
     'text': 'Life'
   - 'lang': 'ro'
     'text': 'Zindagi'
-- 'id': '1_162_27'
+- 'id': '1_162_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -301,7 +301,7 @@
     'text': 'Much above the fear of profit and loss is life! | Now the soul now the surrender of soul is life!'
   - 'lang': 'ro'
     'text': 'Bartar Az Andesha’ay Sood-O-Ziyan Hai Zindagi | Hai Kabhi Jaan Aur Kabhi Tasleem-E-Jaan Hai Zindagi'
-- 'id': '1_162_28'
+- 'id': '1_162_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -310,7 +310,7 @@
     'text': 'Do not measure it on the scale of today and tomorrow | Eternal, incessantly struggling, ever young is life!'
   - 'lang': 'ro'
     'text': 'Tu Isse Pemana’ay Amroz-O-Farda Se Na Naap | Javidan, Peham Dawan, Har Dam Jawan Hai Zindagi'
-- 'id': '1_162_29'
+- 'id': '1_162_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -326,7 +326,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Apni Dunya Ap Paida Kar Agar Zindon Mein Hai | Sirr-E-Adam Hai, Zameer-E-Kun Fikan Hai Zindagi'
-- 'id': '1_162_30'
+- 'id': '1_162_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -339,7 +339,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Zindagani Ki Haqiqat Kohkan Ke Dil Se Pooch | Jooye Sheer-O-Teesha-O-Sang-E-Garan Hai Zindagi'
-- 'id': '1_162_31'
+- 'id': '1_162_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -348,7 +348,7 @@
     'text': 'In slavery it is choked to a mere trickling brook | And in freedom like the boundless ocean is life'
   - 'lang': 'ro'
     'text': 'Bandagi Mein Ghat Ke Reh Jati Hai Ek Jooay Kam Aab | Aur Azadi Mein Beher-E-Bekaran Hai Zindagi'
-- 'id': '1_162_32'
+- 'id': '1_162_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -357,7 +357,7 @@
     'text': 'It is manifested by its power of subduing | Though concealed in a body of dust is life'
   - 'lang': 'ro'
     'text': 'Ashkara Hai Ye Apni Quwwat-E-Taskheer Se | Gharche Ek Mitti Ke Paikar Mein Nihan Hai Zindagi'
-- 'id': '1_162_33'
+- 'id': '1_162_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -366,7 +366,7 @@
     'text': 'You have emerged from the existence’ ocean like a bubble | In this losing battle your examination is life'
   - 'lang': 'ro'
     'text': 'Qulzam-E-Hasti Se Tu Ubhra Hai Manind-E-Habab | Iss Ziyan Khane Mein Tera Imtihan Hai Zindagi'
-- 'id': '1_162_34'
+- 'id': '1_162_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -375,7 +375,7 @@
     'text': 'While you are immature only a heap of dust you are | On attaining maturity a merciless sword you are!'
   - 'lang': 'ro'
     'text': 'Kham Hai Jab Tak To Hai Mitti Ka Ek Anbar Tu | Pukhta Ho Jaye To Hai Shamsheer-E-Bezanhar Tu'
-- 'id': '1_162_35'
+- 'id': '1_162_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -388,7 +388,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ho Sadaqat Ke Liye Jis Dil Mein Marne Ki Tarap | Pehle Apne Paikar-E-Khaki Mein Jaan Paida Kare'
-- 'id': '1_162_36'
+- 'id': '1_162_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -397,7 +397,7 @@
     'text': 'Should burn down this borrowed universe | And from the ashes his own universe should create'
   - 'lang': 'ro'
     'text': 'Phoonk Dale Ye Zameen-O-Asman-E-Mastaar | Aur Khakstar Se Ap Apna Jahan Paida Kare'
-- 'id': '1_162_37'
+- 'id': '1_162_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -406,7 +406,7 @@
     'text': 'Should demonstrate the potential power of life | So that this spark may the eternal light create'
   - 'lang': 'ro'
     'text': 'Zindagi Ki Quwwat-E-Pinhan Ko Kar De Ashakar | Ta Ye Chingari Furogh-E-Javidan Paida Kare'
-- 'id': '1_162_38'
+- 'id': '1_162_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -419,7 +419,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khak-E-Mashriq Par Chamak Jaye Misal-E-Aftab | Ta Badkhishan Phir Wohi Laal-E-Giran Paida Kare'
-- 'id': '1_162_39'
+- 'id': '1_162_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -428,7 +428,7 @@
     'text': 'Should send heaven-ward the emissary of nightly wailing | And in the night’s stars its confidantes should create'
   - 'lang': 'ro'
     'text': 'Suay Gardoon Nala-E-Shabgeer Ka Bheje Safeer | Raat Ke Taron Mein Apne Raazdan Paida Kare'
-- 'id': '1_162_40'
+- 'id': '1_162_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -437,7 +437,7 @@
     'text': 'This is the hour of Judgment you in the Judgement’s field are | O negligent one, present actions if some in your treasure are!'
   - 'lang': 'ro'
     'text': 'Ye Ghari Mehshar Ki Hai, Tu Arsa’ay Mehshar Mein Hai | Paish Kar Ghafil, Amal Koi Agar Daftar Mein Hai !'
-- 'id': '1_162_41'
+- 'id': '1_162_041'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -446,7 +446,7 @@
     'text': 'Imperialism'
   - 'lang': 'ro'
     'text': 'Saltanat'
-- 'id': '1_162_42'
+- 'id': '1_162_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -459,7 +459,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aa Bataon Tujh Ko Ramz-E-Aaya-E-INNAL MULOOK | Saltanat Aqwam-E-Ghalib Ki Hai Ek Jadoogari'
-- 'id': '1_162_43'
+- 'id': '1_162_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -468,7 +468,7 @@
     'text': 'If the ruled from his stupor slightly wakes up | The ruler’s spell lulls him back to sleep again'
   - 'lang': 'ro'
     'text': 'Khawab Se Baidar Hota Hai Zara Mehkoom Agar | Phir Sula Deti Hai Uss Ko Hukamran Ki Sahiri'
-- 'id': '1_162_44'
+- 'id': '1_162_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -484,7 +484,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jadoo-E-Mehmood Ki Taseer Se Chashm-E-Ayaz | Dekhti Hai Halqa-E-Gardan Mein Saaz-E-Dilbari'
-- 'id': '1_162_45'
+- 'id': '1_162_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -500,7 +500,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khoon-E-Israel Aa Jata Hai Akhir Josh Mein | Torh Deta Hai Koi Musa (A.S.) Tilism-E-Samri'
-- 'id': '1_162_46'
+- 'id': '1_162_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -516,7 +516,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sarwari Zaiba Faqat Uss Zaat-E-Be Hamta Ko Hai | Hukamran Hai Ek Wohi, Baqi Bootan-E-Azri'
-- 'id': '1_162_47'
+- 'id': '1_162_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -525,7 +525,7 @@
     'text': 'Do not disgrace your independent disposition with slavery | So that you do not mold yourself into the master who would be a worse infidel than the Brahman'
   - 'lang': 'ro'
     'text': 'Az Ghulami Fitrat-E-Azad Ra Ruswa Makun | Ta Tarashi Khawajah Ae Az Barhaman Kafir Teri'
-- 'id': '1_162_48'
+- 'id': '1_162_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -538,7 +538,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Wohi Saaz-E-Kuhan Maghrib Ka Jamhoori Nazam | Jis Ke Pardon Mein Nahin Ghair Az Nawa’ay Qaisari'
-- 'id': '1_162_49'
+- 'id': '1_162_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -547,7 +547,7 @@
     'text': 'The monster of despotism is treading in democracy’s robe | You consider it as the beautiful ferry of independence!'
   - 'lang': 'ro'
     'text': 'Deo Istabdad Jamhoori Qba Mein Paye Koob | Tu Samjhta Hai Ye Azadi Ki Hai Neelam Pari'
-- 'id': '1_162_50'
+- 'id': '1_162_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -556,7 +556,7 @@
     'text': 'The legislative assembly, the reforms, the rights and concessions | In Western medicine the tastes are sweet, the effect is soporific!'
   - 'lang': 'ro'
     'text': 'Majlis-E-Aaeen-O-Islah-O-Ra’ayaat-O-Haqooq | Tib-E-Maghrib Mein Maze Mithe, Asar Khawab Awri'
-- 'id': '1_162_51'
+- 'id': '1_162_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -565,7 +565,7 @@
     'text': 'May God protect us from the fervor of speeches of members of assemblies | This also is the capitalists’ sham quarreling to deceive the poor!'
   - 'lang': 'ro'
     'text': 'Garmi-E-Ghuftar-E-Aza’ay Majaalis, Al-Aman ! | Ye Bhi Ek Sarmaya Daron Ki Hai Jang-E-Zargari'
-- 'id': '1_162_52'
+- 'id': '1_162_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -574,7 +574,7 @@
     'text': 'You have taken this apparent beauty’s mirage as a garden! | Ah ! O ignorant one! You have taken the cage to be the nest!'
   - 'lang': 'ro'
     'text': 'Iss Sarab-E-Rang-O-Bu Ko Gulistan Samjha Hai Tu | Aah Ae Nadad! Qafas Ko Ashiyan Samjha Hai Tu'
-- 'id': '1_162_53'
+- 'id': '1_162_053'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -583,7 +583,7 @@
     'text': 'Capital and Labor'
   - 'lang': 'ro'
     'text': 'Sarmaya-O-Mehnat'
-- 'id': '1_162_54'
+- 'id': '1_162_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -592,7 +592,7 @@
     'text': 'Go and deliver my message to the laboring person | “Not only Khizar’s message, this is the universal message!'
   - 'lang': 'ro'
     'text': 'Banda’ay Mazdoor Ko Ja Kar Mera Pegham De | Khizar Ka Pegham Kya, Hai Ye Peyam-E-Kainat'
-- 'id': '1_162_55'
+- 'id': '1_162_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -601,7 +601,7 @@
     'text': 'O whom the fraudulent capitalist has destroyed | Your destiny has remained a fugitive for centuries'
   - 'lang': 'ro'
     'text': 'Ae Ke Tujh Ko Kha Gya Sarmayadar-E-Heela Gar | Shakh-E-Aahu Par Rahi Sadiyon Talak Teri Barat'
-- 'id': '1_162_56'
+- 'id': '1_162_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -610,7 +610,7 @@
     'text': 'The wealth-creating hand had been paid wages | As the rich pay charity to the poor!'
   - 'lang': 'ro'
     'text': 'Dast-E-Doulat Afreen Ko Muzd Yun Milti Rahi | Ehl-E-Sarwat Jaise Dete Hain Gharibon Ko Zakat'
-- 'id': '1_162_57'
+- 'id': '1_162_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -623,7 +623,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sahir-E-Muut Ne Tujh Ko Diya Barg-E-Hasheesh | Aur Tu Ae Bekhabar Samjha Isse Shakh-E-Nabat'
-- 'id': '1_162_58'
+- 'id': '1_162_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -632,7 +632,7 @@
     'text': 'Race, nation, church, empire, civilization, color | This assortment of intoxicants is made by “imperialism”'
   - 'lang': 'ro'
     'text': 'Nasal, Qoumiat, Kalisa, Saltanat, Tehzeeb, Rang | Khawajgi Ne Khoob Chun Chun Ke Banaye Muskirat'
-- 'id': '1_162_59'
+- 'id': '1_162_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -641,7 +641,7 @@
     'text': 'The ignorant one gave up his life for mythical gods | You destroyed your life’s capital under intoxicants’ love'
   - 'lang': 'ro'
     'text': 'Kat Mara Nadan Khiyali Deota’on Ke Liye | Sukr Ki Lazzat Mein Tu Lutwa Gya Naqd-E-Hayat'
-- 'id': '1_162_60'
+- 'id': '1_162_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -650,7 +650,7 @@
     'text': 'The capitalist has won with deceitful stratagems | Due to extreme naivete the laborer is checkmated'
   - 'lang': 'ro'
     'text': 'Makr Ki Chalon Se Bazi Le Gya Sarmayadar | Intaha’ay Sadgi Se Kha Gya Mazdoor Maat'
-- 'id': '1_162_61'
+- 'id': '1_162_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -663,7 +663,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Uth Ke Ab Bazm-E-Jahan Ka Aur Hi Andaz Hai | Mashriq-O-Maghrib Mein Tere Dour Ka Aghaz Hai'
-- 'id': '1_162_62'
+- 'id': '1_162_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -672,7 +672,7 @@
     'text': 'Those with elegant courage do not accept even the ocean | O negligent one, how long would you hold dew in your skirt like the flower bud?'
   - 'lang': 'ro'
     'text': 'Himat-E-Aali To Darya Bhi Nahin Karti Qabool | Ghuncha Saan Ghafil Tere Daman Mein Shabnam Kab Talak'
-- 'id': '1_162_63'
+- 'id': '1_162_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -685,7 +685,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Naghma’ay Baidari-E-Jamhoor Hai Saman-E-Aysh | Qissa’ay Khawab Awar-E-Iskandar-O-Jim Kab Talak'
-- 'id': '1_162_64'
+- 'id': '1_162_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -694,7 +694,7 @@
     'text': 'A new sun has arisen from the bowels of the earth | O Sky ! Mourning of stars which have set how long?'
   - 'lang': 'ro'
     'text': 'Aftab-E-Taza Paida Batan-E-Geeti Se Huwa | Asman! Doobe Huay Taron Ka Matam Kab Talak'
-- 'id': '1_162_65'
+- 'id': '1_162_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -703,7 +703,7 @@
     'text': 'Human nature has broken down all the chains | Man’s eye would weep for the lost Paradise how long?'
   - 'lang': 'ro'
     'text': 'Torh Dalain Fitrat-E-Insan Ne Zanjeerain Tamam | Doori Jannat Se Roti Chasm-E-Adam Kab Talak'
-- 'id': '1_162_66'
+- 'id': '1_162_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -712,7 +712,7 @@
     'text': 'The spring says this to the helping gardener | You would apply ointment to the rose’ wounded heart how long?'
   - 'lang': 'ro'
     'text': 'Baghban-E-Chara Farma Se Ye Kehti Hai Bahar | Zakhm-E-Gul Ke Waste Tadbeer-E-Marham Kab Talak!'
-- 'id': '1_162_67'
+- 'id': '1_162_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -721,7 +721,7 @@
     'text': 'O simple fire-fly, be free of revolving round the candle | And be living in the illuminated place of your own nature!'
   - 'lang': 'ro'
     'text': 'Karmak-E-Nadan! Tawaf-E-Shama Se Azad Ho | Apni Fitrat Ke Tajalli Zaar Mein Abad Ho'
-- 'id': '1_162_68'
+- 'id': '1_162_068'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -730,7 +730,7 @@
     'text': 'The World of Islam'
   - 'lang': 'ro'
     'text': 'Dunya-e-Islam'
-- 'id': '1_162_69'
+- 'id': '1_162_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -743,7 +743,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kya Sunata Hai Mujhe Turk-O-Arabki Dastan | Mujh Se Kuch Pinhan Nahin Islamiyon Ka Souz-O-Saaz'
-- 'id': '1_162_70'
+- 'id': '1_162_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -756,7 +756,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Le Gye Taslees Ke Farzand Meeras-E-Khalil (A.S.) | Khisht-E-Bunyad-E-Kalisa Ban Gyi Khak-E-Hijaz'
-- 'id': '1_162_71'
+- 'id': '1_162_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -769,7 +769,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ho Gyi Ruswa Zamane Mein Kulah-E-Lala Rang | Jo Sarapa Naz The, Hain Aaj Majboor-E-Niaz'
-- 'id': '1_162_72'
+- 'id': '1_162_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -782,7 +782,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Le Raha Hai Mai Faroshaan-E-Farangistan Se Paras | Woh Mai’ay Sarkash Hararat Jis Ki Hai Meena Gudaz'
-- 'id': '1_162_73'
+- 'id': '1_162_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -795,7 +795,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hikmat-E-Maghrib Se Millat Ki Ye Kaifiyat Huwi | Tukre Tukre Jis Tarah Sone Ko Kar Deta Hai Gaaz'
-- 'id': '1_162_74'
+- 'id': '1_162_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -804,7 +804,7 @@
     'text': 'The blood of the Muslim has become cheap like water | You are restless as your heart is unaware of their fate'
   - 'lang': 'ro'
     'text': 'Ho Gya Manind-E-Aab Arzaan Musalman Ka Lahoo | Muztarib Hai Tu Ke Tera Dil Nahin Dana’ay Raaz'
-- 'id': '1_162_75'
+- 'id': '1_162_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -813,7 +813,7 @@
     'text': 'Rumi 35 said that every old building that is to be rebuilt | Do you not know that the building is first demolished ?'
   - 'lang': 'ro'
     'text': 'Guft Rumi “Har Banaye Kuhna Ka Badaan Kunand” | Mee Nadani “Awal Aan Bunyad Ra Weeran Kunand”'
-- 'id': '1_162_76'
+- 'id': '1_162_076'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -822,7 +822,7 @@
     'text': '“The homeland has been lost, the nation has been jolted | O negligent one, look deep as God has granted you insight!'
   - 'lang': 'ro'
     'text': 'Mulk Haathon Se Gya Millat Ki Aankhain Khul Gayin | Haq Tera Chashme Atta Kar Dast Ghafil Dar Nagar'
-- 'id': '1_162_77'
+- 'id': '1_162_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -838,7 +838,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Moumiyai Ki Gadai Se To Behter Hai Shikast | Moor-e-Be Par! Hajatay Paish-e-Sulimanay Mabar'
-- 'id': '1_162_78'
+- 'id': '1_162_078'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -847,7 +847,7 @@
     'text': 'The salvation of the East is in organization of the Muslim nations | The people of Asia are still unaware of this mystery'
   - 'lang': 'ro'
     'text': 'Rabt-o-Zabt-e-Millat-e-Baiza Hai Mashriq Ki Nijaat | Asia Wale Hain Iss Nukte Se Ab Tak Be-Khabar'
-- 'id': '1_162_79'
+- 'id': '1_162_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -860,7 +860,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Phir Siasat Chorh Kar Dakhil Hisar-e-Deen Mein Ho | Mulk-o-Doulat Hai Faqat Hifz-e-Haram Ka Ek Samar'
-- 'id': '1_162_80'
+- 'id': '1_162_080'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -873,7 +873,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Aik Hon Muslim Haram Ki Pasbani Ke Liye | Neel Ke Sahil Se Le Kar Ta Bakhak-e-Kashghar'
-- 'id': '1_162_81'
+- 'id': '1_162_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -886,7 +886,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jo Kare Ga Imtiaz-e-Rang-o-Khoon, Mit Jaye Ga | Turk-e-Khargahi Ho Ya Araabi Wala Guhar'
-- 'id': '1_162_82'
+- 'id': '1_162_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -895,7 +895,7 @@
     'text': 'If race would become more important than dan to the Muslim | He would be blown away from the world like the dust of the road!'
   - 'lang': 'ro'
     'text': 'Nasal Agar Muslim Ki Mazhab Par Muqadam Ho Gyi | Urh Gya Dunya Se Tu Manind-E-Khak-E-Reh Guzar'
-- 'id': '1_162_83'
+- 'id': '1_162_083'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -904,7 +904,7 @@
     'text': 'To establish the Khilafah’s foundations in the world again | The need is to bring from somewhere the ancestors’ mettle'
   - 'lang': 'ro'
     'text': 'Ta Khilafat Ki Bina Dunya Mein Ho Phir Ustawar | La Kahin Se Dhoond Kar Aslaaf Ka Qalb-O-Jigar'
-- 'id': '1_162_84'
+- 'id': '1_162_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -917,7 +917,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Ke Nashna See Khafi Ra Az Jali Hushyar Bash | Ae Giraftar-E-Abubakr (R.A.)-O-Ali (R.A.) Hushyar Bash'
-- 'id': '1_162_85'
+- 'id': '1_162_085'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -926,7 +926,7 @@
     'text': 'Sha‘ir ( The Poet )'
   - 'lang': 'ro'
     'text': 'shaer'
-- 'id': '1_162_86'
+- 'id': '1_162_086'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -935,7 +935,7 @@
     'text': 'Complaint was incumbent on Love and it has been lodged | With a cool heart now watch the effect of the complaint!'
   - 'lang': 'ro'
     'text': 'Ishq Ko Faryad Lazim Thi So Woh Bhi Ho Chuki | Ab Zara Dil Thaam Kar Faryad Ki Taseer Dekh'
-- 'id': '1_162_87'
+- 'id': '1_162_087'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -944,7 +944,7 @@
     'text': 'You have witnessed the zenith of the majesty of the river’s flow | Now watch how the restless wave becomes a chain in which it gets entangled'
   - 'lang': 'ro'
     'text': 'Tu Ne Dekha Satwat-E-Raftar-E-Darya Ka Urooj | Mouj-E-Muztar Kis Tarah Banti Hai Ab Zanjeer Dekh'
-- 'id': '1_162_88'
+- 'id': '1_162_088'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -953,7 +953,7 @@
     'text': 'The dream of universal freedom which was seen by Islam | O Muslim, you should watch the interpretation of that dream today!'
   - 'lang': 'ro'
     'text': 'Aam Huriyat Ka Jo Dekha Tha Khawab Islam Ne | Ae Musalman Aaj Tu Uss Khawab Ki Tabeer Dekh'
-- 'id': '1_162_89'
+- 'id': '1_162_089'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -966,7 +966,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Apni Khakstar Samundar Ko Hai Saman-E-Wujood | Mar Ke Phir Hota Hai Ye Jahan-E-Peer, Dekh'
-- 'id': '1_162_90'
+- 'id': '1_162_090'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -979,7 +979,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khol Kar Ankhain Mere Ayna-E-Guftar Mein | Ane Wale Dour Ki Dhundli Si Ek Tasveer Dekh'
-- 'id': '1_162_91'
+- 'id': '1_162_091'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -992,7 +992,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Azmudah Fitna Hai Ek Aur Bhi Gardoon Ke Pas | Samne Taqdeer Ke Ruswayi-E-Tadbeer Dekh'
-- 'id': '1_162_92'
+- 'id': '1_162_092'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

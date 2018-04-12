@@ -8,14 +8,14 @@
   'text': 'X-III'
 'description': []
 'sher':
-- 'id': '11_75_1'
+- 'id': '11_75_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دگر پاکیزہ کن آب و گل او | جہانی آفرین اندر دل او'
   - 'lang': 'en'
     'text': 'Refine his morals and life once more, | Infuse a world new in his heart’s core.'
-- 'id': '11_75_2'
+- 'id': '11_75_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

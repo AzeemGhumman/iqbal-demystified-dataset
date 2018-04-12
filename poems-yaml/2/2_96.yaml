@@ -8,7 +8,7 @@
   'text': 'Pure in nature thou art, thy nature is light'
 'description': []
 'sher':
-- 'id': '2_96_1'
+- 'id': '2_96_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Pure in nature thou art, thy nature is light; | Thou art the star in the firmament;'
   - 'lang': 'ro'
     'text': 'Tera Jauhar Hai Noori, Pak Hai Tu | Farogh-e-Dida-e-Aflak Hai Tu'
-- 'id': '2_96_2'
+- 'id': '2_96_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

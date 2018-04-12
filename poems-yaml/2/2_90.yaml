@@ -8,7 +8,7 @@
   'text': 'Selfhood in the world of men is prophethood'
 'description': []
 'sher':
-- 'id': '2_90_1'
+- 'id': '2_90_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Selfhood in the world of men is prophethood; | Selfhood in solitude is godliness;'
   - 'lang': 'ro'
     'text': 'Khudi Ki Jalwaton Mein Mustafai | Khudi Ki Khalwaton Mein Kibriyai'
-- 'id': '2_90_2'
+- 'id': '2_90_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

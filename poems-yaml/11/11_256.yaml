@@ -8,14 +8,14 @@
   'text': 'BRAHMEN | Chapter 14'
 'description': []
 'sher':
-- 'id': '11_256_1'
+- 'id': '11_256_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'در صد فتنہ را بر خود گشادی | دو گامی رفتی و از پا فتادی'
   - 'lang': 'en'
     'text': 'For him, he opened hundred doors for plots, | Two steps he only takes and slips in trot.'
-- 'id': '11_256_2'
+- 'id': '11_256_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

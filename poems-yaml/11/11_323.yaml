@@ -8,14 +8,14 @@
   'text': 'IX-II'
 'description': []
 'sher':
-- 'id': '11_323_1'
+- 'id': '11_323_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ قومی در گذشت از گفتگوہا | ز خاک او بروید  رزوہا'
   - 'lang': 'en'
     'text': 'When a nation gives up gossip’s course, | From her dust then grows the longing’s force.'
-- 'id': '11_323_2'
+- 'id': '11_323_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'DEATH OF THE EGO'
 'description': []
 'sher':
-- 'id': '3_85_1'
+- 'id': '3_85_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Devoid the West of inner light, Her soul is struck with deadly blight | The loss of self has made the East, A leper, for germs befitting feast.'
   - 'lang': 'ro'
     'text': 'Khudi Ki Mout Se Maghrib Ka Androon Be-Noor | Khudi Ki Mout Se Mashriq Hai Mubtala-e-Juzaam'
-- 'id': '3_85_2'
+- 'id': '3_85_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The Arabs have lost their former zeal, Their souls are shrunk, they can not feel; | Iraq and Persia are bereft, Of bones and veins and naught is left!'
   - 'lang': 'ro'
     'text': 'Khudi Ki Mout Se Rooh-e-Arab Hai Be-Tab-o-Taab | Badan Iraq-o-Ajam Ka Hai Be-Urooq-o-Izaam'
-- 'id': '3_85_3'
+- 'id': '3_85_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The self of Indians is extinct, By pinions cleft is made distinct | For they are pleased with prison life, To break the bars they wage no strife!'
   - 'lang': 'ro'
     'text': 'Khudi Ki Mout Se Hindi Shikasta Balon Par | Qafas Huwa Hai Hilal Aur Ashiyana Haraam!'
-- 'id': '3_85_4'
+- 'id': '3_85_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

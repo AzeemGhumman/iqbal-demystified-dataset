@@ -8,7 +8,7 @@
   'text': 'PUNJABI MUSLIM'
 'description': []
 'sher':
-- 'id': '3_60_1'
+- 'id': '3_60_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A newborn faith invokes his taste, | Adopts with zeal but leaves with haste.'
   - 'lang': 'ro'
     'text': 'Mazhab Mein Bohat Taza Pasand Iss Ki Tabiyat | Kar Le Kahin Manzil To Guzerta Hai Bohat Jald'
-- 'id': '3_60_2'
+- 'id': '3_60_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In search for truth he takes no part, | As disciple stakes both head and heart.'
   - 'lang': 'ro'
     'text': 'Tehqeeq Ki Bazi Ho To Shirkat Nahin Karta | Ho Khail Mureedi Ka To Harta Hai Bohat Jald'
-- 'id': '3_60_3'
+- 'id': '3_60_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

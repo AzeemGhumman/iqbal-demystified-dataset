@@ -8,7 +8,7 @@
   'text': 'By men whose eyes see far and wide new cities shall be founded'
 'description': []
 'sher':
-- 'id': '2_66_1'
+- 'id': '2_66_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'By men whose eyes see far and wide new cities shall be founded: | Not by old Kufa or Baghdad is my thought’s vision bounded.'
   - 'lang': 'ro'
     'text': 'Karain Ge Ahl-e-Nazar Taza Bastiyan Abad | Meri Nigah Nahin Soo’ay Kufa-o-Baghdad'
-- 'id': '2_66_2'
+- 'id': '2_66_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Rash youth, new‐fangled learning, giddy pleasure, gaudy plume,— | With these, while these still swarm, the Frankish wine‐shop is surrounded.'
   - 'lang': 'ro'
     'text': 'Ye Madrasa, Ye Jawan, Ye Suroor-o-Rinayi | Inhi Ke Dam Se Hai Maikhana-e-Farang Abad'
-- 'id': '2_66_3'
+- 'id': '2_66_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Not with philosopher, nor with priest, my business; one lays waste | The heart, and one sows discord to keep mind and soul confounded;'
   - 'lang': 'ro'
     'text': 'Na Falsafi Se, Na Mullah Se Hai Gharz Mujh Ko | Ye Dil Ki Mout, Woh Andaisha-o-Nazar Ka Fasad'
-- 'id': '2_66_4'
+- 'id': '2_66_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'And for the Pharisee—far from this poor worm be disrespect! | But how to enfranchise Man, is all the problem I have sounded.'
   - 'lang': 'ro'
     'text': 'Faqeeh-e-Shehar Ki Tehqeer! Kya Majal Meri | Magar Ye Baat Ke Main Dhoondta Hun Dil Ki Kushad'
-- 'id': '2_66_5'
+- 'id': '2_66_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The fleshpots of the wealthy are for sale about the world; | Who bears love’s toils and pangs earns wealth that God’s hand has compounded.'
   - 'lang': 'ro'
     'text': 'Khareed Sakte Hain Dunya Mein Ishrat-e-Parwaiz | Khuda Ki Dayn Hai Sarmaya-e-Gham-e-Farhad'
-- 'id': '2_66_6'
+- 'id': '2_66_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'I have laid bare such mysteries as the hermit learns, that thought, | In cloister or in college, in true freedom may be grounded.'
   - 'lang': 'ro'
     'text': 'Kiye Hain Faash Rumooz-e-Qalandari Main Ne | Ke Fikar-e-Madrasa-o-Khanqah Ho Azad'
-- 'id': '2_66_7'
+- 'id': '2_66_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal is on the subject of the controversy between Intellect and Love. The climax is reached in verses 2 and 4. ‘Allamah Iqbal has expressed this thought in many poems, a few are of which are presented below; | (191) Bu `Ala in the Lailah''s camel''s dust-clouds is lost | Ruma''s hand got the curtain of her litter | (192) This dived deeper so as to reach the pearl | That got caught in the whirlpool like mote | (193) In logic I get the smell of immaturity | Its arguments are arguments of immaturity! | (194) The closed doors are opened to me | By a verse of Ruma or Jama'
 'sher':
-- 'id': '1_91_1'
+- 'id': '1_91_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O worldly congregation! Though your gatherings were attractive | Some degree of melancholy there was in your spectacles'
   - 'lang': 'ro'
     'text': 'Yun To Ae Bazm-e-Jahan! Dilkash The Hangame Tere | Ek Zara Afsudagi Tere Tamashaon Mein Thi'
-- 'id': '1_91_2'
+- 'id': '1_91_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Finally that dust acquired comfort in Love | Which had been wandering long in Intellect''s wilderness'
   - 'lang': 'ro'
     'text': 'Pa Gyi Aasudgi Kooye Mohabbat Mein Woh Khaak | Muddaton Aawara Jo Hikmat Ke Sehraon Mein Thi'
-- 'id': '1_91_3'
+- 'id': '1_91_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'O Wine! How much enamored you were with the custom of concealment | After emerging from grape''s veil you were concealed in the decanter'
   - 'lang': 'ro'
     'text': 'Kis Qadar Ae Mai, Tujhe Rasm-e-Hijab Ayi Pasand | Parda-e-Angoor Se Nikli To Minaon Mein Thi'
-- 'id': '1_91_4'
+- 'id': '1_91_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Knowledge could not comprehend the Beauty''s effect | So much ignorance prevailed in all the world''s sages'
   - 'lang': 'ro'
     'text': 'Husn Ki Taseer Par Ghalib Na Aa Sakta Tha Ilm | Itni Nadani Jahan Ke Sare Danaon Mein Thi'
-- 'id': '1_91_5'
+- 'id': '1_91_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

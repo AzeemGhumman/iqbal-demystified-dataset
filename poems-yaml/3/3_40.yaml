@@ -8,7 +8,7 @@
   'text': 'THE TRUE GUIDE'
 'description': []
 'sher':
-- 'id': '3_40_1'
+- 'id': '3_40_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The sedent nations of the East, Or active dwellers of the West; | Are inmates of such dungeons that, Were built by them with zeal and zest!'
   - 'lang': 'ro'
     'text': 'Sub Apne Banaye Huwe Zindan Mein Hain Mehboos | Khawar Ke Sawabit Hon Ke Afrang Ke Sayyar'
-- 'id': '3_40_2'
+- 'id': '3_40_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The priests who guide the Christian church, And elders who maintain the Shrine, | Lack newness of discourse and speech, Bereft are they of actions fine.'
   - 'lang': 'ro'
     'text': 'Peeran-e-Kalisa Hon Ke Sheikhan-e-Haram Hon | Ne Jiddat-e-Guftar Hai, Ne Jiddat-e-Kirdar'
-- 'id': '3_40_3'
+- 'id': '3_40_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Experts in statecraft practise still, The same antique guile and wily tricks | No flights of fancy the bard can claim, To ideals low and mean he sticks!'
   - 'lang': 'ro'
     'text': 'Hain Ahle-e-Siasat Ke Wohi Kuhna Kham-o-Paich | Shayar Issi Aflas-e-Takhiyyul Mein Giraftar'
-- 'id': '3_40_4'
+- 'id': '3_40_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

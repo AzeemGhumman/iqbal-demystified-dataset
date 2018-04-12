@@ -8,14 +8,14 @@
   'text': '(124)'
 'description': []
 'sher':
-- 'id': '7_124_1'
+- 'id': '7_124_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بخود نازم گدای بی نیازم | تپم ، سوزم ، گدازم، نے نوازم'
   - 'lang': 'en'
     'text': 'I am proud of my gift, my inner fire. | I burn, I blaze, I melt and play my lyre.'
-- 'id': '7_124_2'
+- 'id': '7_124_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

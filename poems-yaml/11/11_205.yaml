@@ -8,14 +8,14 @@
   'text': 'VI-IV'
 'description': []
 'sher':
-- 'id': '11_205_1'
+- 'id': '11_205_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ روی عقل و دل بگشای ہر در | بگیر از پیر ہر میخانہ ساغر'
   - 'lang': 'en'
     'text': 'For sense and heart’s sake leave each door ajar, | Take a cup thus from every sect’s bar.'
-- 'id': '11_205_2'
+- 'id': '11_205_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'XV-VII'
 'description': []
 'sher':
-- 'id': '11_266_1'
+- 'id': '11_266_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ترا نومیدی از طفلان روا نیست | چہ پروا گر دماغ شان رسا نیست'
   - 'lang': 'en'
     'text': 'Why you lose hopes of kids a bit, | If they do not catch a point of wits.'
-- 'id': '11_266_2'
+- 'id': '11_266_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

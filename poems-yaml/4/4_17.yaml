@@ -8,7 +8,7 @@
   'text': 'The clairvoyance of the zephyr'
 'description': []
 'sher':
-- 'id': '4_17_1'
+- 'id': '4_17_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The clairvoyance of the zephyr | Is apparent from its discrimination between flowers and thorns!'
   - 'lang': 'ro'
     'text': 'Na Kar Zikr-E-Firaq-O-Ashanai | Ke Asal-E-Zindagi Hai Khud-Numai'
-- 'id': '4_17_2'
+- 'id': '4_17_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

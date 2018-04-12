@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'For Saiyyid Muhammad Jamal al-Dan ‘Urfa Sharaza. The prominent characteristics of ‘Urfa’s thought are enthusiasm and fervor as well as self-respect which are the very characteristics of ‘Allamah Iqbal’s thought. Hence the ‘Allamah was very much influenced by ‘Urfa’s poetry and has often used his thought as well as has based some of his poems on ‘Urfa’s verses. The end of the poem under review is one such example. The same verse has been used in ‘Allamah Iqbal’s major poem 145. tulu‘-i-Islam (The Dawn of the Islam) which comes later in this translation.'
 'sher':
-- 'id': '1_142_1'
+- 'id': '1_142_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The imagination of ‘Urfa has created a mansion | Which has became the envy of Sana and Faraba'
   - 'lang': 'ro'
     'text': 'Mehal Aesa Kiya Taameer Urfi Ke Takhiyul Ne | Tasadduq Jis Pe Hairat Khana-e-Seena-o-Farabi'
-- 'id': '1_142_2'
+- 'id': '1_142_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'On the subject of Love he wrote such music | By which red tears are still available to eyes'
   - 'lang': 'ro'
     'text': 'Fazaye Ishq Par Tehreer Ki Uss Ne Nawa Aesi | Muyassar Jis Se Hain Ankhon Ko Ab Tak Ashak-e-Unabi'
-- 'id': '1_142_3'
+- 'id': '1_142_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'One day my heart made this complaint at his grave | “Tunes of restlessness no longer come from world’s assembly'
   - 'lang': 'ro'
     'text': 'Mere Dil Ne Ye Ek Din Uss Ki Turbat Se Shikayat Ki | Nahin Hungama-e-Alam  Mein Ab Saman-e-Betabi'
-- 'id': '1_142_4'
+- 'id': '1_142_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The disposition of the world’s people has changed so much | That such condition of restlessness has gone from the world'
   - 'lang': 'ro'
     'text': 'Mazaj-e-Ahl-e-Alam  Mein Taghiyur Aa Gya Aesa | Ke Rukhsat Ho Gyi Dunya Se Kaifiat Woh Seemabi'
-- 'id': '1_142_5'
+- 'id': '1_142_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The midnight wailing of the poet is offensive to the ear | When assembly’s eye be unaware of pleasure of sleeplessness'
   - 'lang': 'ro'
     'text': 'Faghan-e-Neem Shab Shayar Ki Baar-e-Gosh Hoti Hai | Na Ho Jab Chashm-e-Mehfil Ashnaye Lutf-e-Be-Khawabi'
-- 'id': '1_142_6'
+- 'id': '1_142_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'How can somebody’s flame of lament remove darkness? | When the morning’s light is unwelcome for nightly worshipers”'
   - 'lang': 'ro'
     'text': 'Kisi Ka Shaola  Faryad Ho Zulmat Ruba Kyunkar | Garan Hai Shab Par Sutoon Par Sehar Ki Asman Tabi'
-- 'id': '1_142_7'
+- 'id': '1_142_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

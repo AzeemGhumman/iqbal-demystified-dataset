@@ -8,14 +8,14 @@
   'text': 'XV-VI'
 'description': []
 'sher':
-- 'id': '11_265_1'
+- 'id': '11_265_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ادب پیرایہ نادان و داناست | خوش  نکو از ادب خود را بیاراست'
   - 'lang': 'en'
     'text': 'Respect is the dress of a sage or fool, | A lucky man likes to make it a rule.'
-- 'id': '11_265_2'
+- 'id': '11_265_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

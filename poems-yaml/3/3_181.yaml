@@ -8,7 +8,7 @@
   'text': 'THE EAST AND THE WEST'
 'description': []
 'sher':
-- 'id': '3_181_1'
+- 'id': '3_181_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Slavery, slavishness, the root of our Disease; | Of theirs, that Demon holds all power;'
   - 'lang': 'ro'
     'text': 'Yahan Marz Ka Sabab Hai Ghulami-o-Taqleed | Wahan Marz Ka Sabab Hai Nizam-e-Jumhoori'
-- 'id': '3_181_2'
+- 'id': '3_181_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

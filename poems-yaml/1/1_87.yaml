@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal, though apparently simple, is fairly mystical and ends on the note of sarcasm on the people whose piety is only for outward show.'
 'sher':
-- 'id': '1_87_1'
+- 'id': '1_87_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Zindagi Insan Ki Ek Dam Ke Sawa Kuch Bhi Nahin | Dam Hawa Ki Mouj Hai, Ram Ke Siwa Kuch Bhi Nahin'
-- 'id': '1_87_2'
+- 'id': '1_87_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -36,7 +36,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gul Tabassum Keh Raha Tha Zindagaani Ko Magar | Shama Boli, Girya-e-Gham Ke Siwa Kuch Bhi Nahin'
-- 'id': '1_87_3'
+- 'id': '1_87_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -49,7 +49,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Raaz-e-Hasti Raaz Hai Jab Tak Koi Mehram Na Ho | Khul Gya Jis Dam To Mehram Ke Siwa Kuch Bhi Nahin'
-- 'id': '1_87_4'
+- 'id': '1_87_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

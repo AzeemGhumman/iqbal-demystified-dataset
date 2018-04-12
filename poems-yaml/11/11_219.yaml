@@ -8,14 +8,14 @@
   'text': 'VII-IX'
 'description': []
 'sher':
-- 'id': '11_219_1'
+- 'id': '11_219_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نگہدار  نچہ در  ب و گل تست | سرور و سوز و مستی حاصل تست'
   - 'lang': 'en'
     'text': 'So guard the nature of thy mud and dust, | A bliss, trance and burning for thee is must.'
-- 'id': '11_219_2'
+- 'id': '11_219_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

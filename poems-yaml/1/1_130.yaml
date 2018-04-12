@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'In this poem ‘Allamah Iqbal has gone on a flight of poetic imagination. The inhabitants of the celestial world do not know anything about the terrestrial world and its inhabitants. Dew is the only entity which visits both these worlds. So the stars ask the dew about terrestrial world and its affairs. They are surprised to hear about the anomalies of the earthly life which, in their opinion, was all good.'
 'sher':
-- 'id': '1_130_1'
+- 'id': '1_130_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'One night stars started saying this to the dew | “Every morning new sights are available to you'
   - 'lang': 'ro'
     'text': 'Ek Raat Ye Kehne Lage Shabnam Se Sitare | Har Subah Naye Tujh Ko Mayassar Hain Nazare'
-- 'id': '1_130_2'
+- 'id': '1_130_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Who knows how many worlds you have seen! | Relics of those who rose and fell you have seen'
   - 'lang': 'ro'
     'text': 'Kya Janiye, Tu Kitne Jahan Dekh Chuki Hai | Jo Ban Ke Mite, Un Ke Nishan Dekh Chuki Hai'
-- 'id': '1_130_3'
+- 'id': '1_130_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Venus has heard this news from an angel | That human habitation is very far from the sky'
   - 'lang': 'ro'
     'text': 'Zohra Ne Suni Hai Ye Khabar Aik Malik Se | Insanon Ki Basti Hai Bohat Door Falak Se'
-- 'id': '1_130_4'
+- 'id': '1_130_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Tell us the tale of this beautiful realm | The ode of whose love the moon sings”'
   - 'lang': 'ro'
     'text': 'Keh Hum Se Bhi Uss Kishwar-e-Dilkash Ka Fasana | Gata Hai Qamar Jis Ki Mohabbat Ka Tarana'
-- 'id': '1_130_5'
+- 'id': '1_130_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': '“O stars ! Do not ask me about the earth’s garden | A place of sighs and wailing it is, not a garden'
   - 'lang': 'ro'
     'text': 'Ae Taro Na Pucho Chamanistan-e-Jahan Ki | Gulshan Nahin, Ek Basti Hai Woh Aah-o-Faghan Ki'
-- 'id': '1_130_6'
+- 'id': '1_130_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'The zephyr comes from there only to return | The poor flower-bud opens only to wither'
   - 'lang': 'ro'
     'text': 'Ati Hai Saba Waan Se Palat Jane Ki Khatir | Bechari Kali Khilti Hai Murjhane Ki Khatir'
-- 'id': '1_130_7'
+- 'id': '1_130_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'What can I tell you how garden-brightening the flower-bud is | Some little flame without warmth the flower-bud is'
   - 'lang': 'ro'
     'text': 'Kya Tum Se Kahun Kya Chaman Afroz Kali Hai | Nanha Sa Koi Shaola Besouz Kali Hai'
-- 'id': '1_130_8'
+- 'id': '1_130_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'The rose cannot hear the nightingale’s call | It cannot pick up the pearls from my skirt'
   - 'lang': 'ro'
     'text': 'Gul-e-Nala-e-Bulbul Ki Sada Sun Nahin Sakta | Daman Se Mere Motiyon Ko Chun Nahin Sakta'
-- 'id': '1_130_9'
+- 'id': '1_130_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'The melodious birds are imprisoned, it is outrageous | The thorns grow just under the rose, it is outrageous'
   - 'lang': 'ro'
     'text': 'Hain Murgh-e-Nawa Raiz Giraftar, Ghazab Hai | Ugte Hai Teh-e-Saya-e-Gul Khar, Ghazab Hai'
-- 'id': '1_130_10'
+- 'id': '1_130_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'The eye of the sick narcissus always remains wet | The heart longs for sight, but the eye is sightless'
   - 'lang': 'ro'
     'text': 'Rehti Hai Sada Nargis-e-Bimaar Ki Tar Aankh | Dil Talib-e-Nazara Hai, Mehroom-e-Nazar Ankh'
-- 'id': '1_130_11'
+- 'id': '1_130_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'The elm tree is tormented with the heat of complaint | The elm tree is nominally free but is really a prisoner'
   - 'lang': 'ro'
     'text': 'Dil Soukhta-e-Garmi-e-Faryad Hai Shamshad | Zindani Hai Aur Naam Ko Azad Hai Shamshad'
-- 'id': '1_130_12'
+- 'id': '1_130_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'The stars are the sparks of sighs to the human eye | In the rose garden’s language I am only lament’s cry'
   - 'lang': 'ro'
     'text': 'Tare Sharar-e-Aah Hain Insan Ki Zuban Mein | Mein Girya-e-Gardoon Hun Gulistan Ki Zuban Mein'
-- 'id': '1_130_13'
+- 'id': '1_130_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'Circumambulation of moon round the earth ignorance is | It thinks there the cure for its scar of Love is'
   - 'lang': 'ro'
     'text': 'Nadani Hai Ye Gard-e-Zameen Touf Qamar Ka | Samjha Hai Ke Darman Hai Wahan Dagh Jigar Ka'
-- 'id': '1_130_14'
+- 'id': '1_130_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

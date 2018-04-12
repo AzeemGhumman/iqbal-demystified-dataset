@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'A qaè`ah is a short poem in which the last word of the second hemistich of each verse rhymes. In this poem ‘Allamah Iqbal shows his frustration at the condition of the self-seeking religious leaders of Muslim countries who destroy the community for their own good. The reference to Egypt and India in the first verse is not indicative of this condition being restricted to these two countries. They have been used to meet poetic needs.'
 'sher':
-- 'id': '1_105_1'
+- 'id': '1_105_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Yesterday a desperate Lover was saying with wailing at the Prophet’s tomb | “The Egyptian and Indian Muslims dare destroying the Millat’s foundation!'
   - 'lang': 'ro'
     'text': 'Kal Aik Shaurida Khawab-Gah-e- Nabi (S.A.W.) Pe Ro Ro Ke Keh Raha Tha | Ke Misr-o-Hindustan Ke Muslim Binaye-e-Millat Mita Rahe Hain'
-- 'id': '1_105_2'
+- 'id': '1_105_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'These pilgrims to the West’s sanctuary may fake our leadership | What bond do we have with those who have remained unacquainted with you?'
   - 'lang': 'ro'
     'text': 'Ye Zaeeran-e-Hareem-e-Magrib Hazar Rahbar Banain Humare | Humain Bhala In Se Wasta Kya Jo Tujh Se Na-Ashna Rahe Hain'
-- 'id': '1_105_3'
+- 'id': '1_105_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Outrageous are these “self-seeking spiritual leaders”, May God protect your Millat | They are promoting their own glory by destroying the Muslims'
   - 'lang': 'ro'
     'text': 'Ghazab Hain Ye ‘Murshadan-e-Khud-Been’ Khuda Qaum Ko Bachaye! | Bighaar Kar Tere Muslamon Ko Ye Apni Izzat Bana Rahe Hain'
-- 'id': '1_105_4'
+- 'id': '1_105_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

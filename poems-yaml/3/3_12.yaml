@@ -8,7 +8,7 @@
   'text': 'MULLAH OF THE MOSQUE'
 'description': []
 'sher':
-- 'id': '3_12_1'
+- 'id': '3_12_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I do not wonder if, To God you find approach: | You know not rank of man, For which you need reproach.'
   - 'lang': 'ro'
     'text': 'Ajab Nahin Ke Khuda Tak Teri Rasayi Ho | Teri Nigah Se Hai Poshida Adami Ka Maqam'
-- 'id': '3_12_2'
+- 'id': '3_12_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

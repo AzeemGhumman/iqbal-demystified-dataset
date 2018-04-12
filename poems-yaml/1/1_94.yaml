@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'The rise and fall of he Muslim Ummah was a very favorite topic with ‘Allamah Iqbal. His pride at the achievements of the Ummah during the period of its glory knew no bounds, and similar was his grief at its decline and degeneration down to his days. The latest wound to his heart was the destruction of the Uthmaniyah Khilafah and its dismemberment into secular nation states. This tragedy was, in a great measure, brought about by the untimely rebellion of the Arab world, which can only be called a treason. However, the purpose of bringing both these aspects to the Muslim Ummah’s attention was to remind it of its past glory and to persuade it to start the difficult but not impossible task of reformation which would lead to its rejuvenation and renaissance. This poem is one such effort, and deals with just one aspect of the Islamic civilization, viz. the grandeur of its cities.'
 'sher':
-- 'id': '1_94_1'
+- 'id': '1_94_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sarzameen Dilli Ki Masjood-E-Dil-E-Gham Didah Hai | Zarre Zarre Mein Lahoo Aslaaf Ka Khawabidah Hai'
-- 'id': '1_94_2'
+- 'id': '1_94_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'Why should not the land of this desolate garden be holy? | This region is the shrine of the grandeur of Islam'
   - 'lang': 'ro'
     'text': 'Paak Iss Ujhre Gulistan Ki Na Ho Kyunkar Zameen | Khanqah-E-Azmat-E-Islam Hai Ye Sarzameen'
-- 'id': '1_94_3'
+- 'id': '1_94_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sote Hain Iss Khaak Mein Khair-Ul-Ummam Ke Tajdar | Nazam-E-Alam Ka Raha Jin Ki Hukumat Par Madar'
-- 'id': '1_94_4'
+- 'id': '1_94_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
     'text': 'Memory of assembly’s warmth still renders the heart restless | The splendor has been burnt but memory of the splendor is still secure'
   - 'lang': 'ro'
     'text': 'Dil Ko Tarpati Hai Ab Taak Garmi-E-Mehfil Ki Yaad | Jal Chuka Hasil Magar Mehfooz Hai Hasil Ki Yaad'
-- 'id': '1_94_5'
+- 'id': '1_94_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -70,7 +70,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Ziaratgah-E-Muslim Go Jahan Abad Bhi | Iss Karamat Ka Magar Haqdar Hai Baghdad Bhi'
-- 'id': '1_94_6'
+- 'id': '1_94_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -79,7 +79,7 @@
     'text': 'This is the garden the source of whose pride was | The wild tulip which was called the culture of Hijaz'
   - 'lang': 'ro'
     'text': 'Ye Chaman Woh Hai Ke Tha Jis Ke Liye Saman-E-Naz | Lala’ay Sehra Jise Kehte Hain Tehzeeb-E-Hijaz'
-- 'id': '1_94_7'
+- 'id': '1_94_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -92,7 +92,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khak Iss Basti Ki Ho Kyunkar Na Humdosh-E-Iram | Jis Ne Dekhe Janasheenan-E-Peyambar (S.A.W.W.) Ke Qadam'
-- 'id': '1_94_8'
+- 'id': '1_94_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -105,7 +105,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jis Ke Gunche The Chaman Saman, Woh Gulshan Hai Yehi | Kanpta Tha Jin Se Roma, Un Ka Madfan Hai Yehi'
-- 'id': '1_94_9'
+- 'id': '1_94_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -121,7 +121,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Zameen-E-Qurtuba Bhi Didah-E-Muslim Ka Noor | Zulmat-E-Maghrib Mein Jo Roshan Thi Misl-E-Shama-E-Toor'
-- 'id': '1_94_10'
+- 'id': '1_94_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Bujh Ke Bazm-E-Millat-E-Baiza Preshan Kar Gyi | Aur Diya Tehzeeb-E-Hazir Ka Farozaan Kar Gyi'
-- 'id': '1_94_11'
+- 'id': '1_94_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -147,7 +147,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Qabar Uss Tehzeeb Ki Ye Sarzameen-E-Paak Hai | Jis Se Taak-E-Gulshan-E-Yourap Ki Rag Namnaak Hai'
-- 'id': '1_94_12'
+- 'id': '1_94_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khitta-E-Qustuntuniya Yani Qaisar Ka Diyar | Mehdi-E-Ummat Ki Satwat Ka Nishan-E-Paidar'
-- 'id': '1_94_13'
+- 'id': '1_94_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -176,7 +176,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Soorat-E-Khaak-E-Haram Ye Sarzameen Bhi Paak Hai | Astaan-E-Masnad Araye Shah-E-Loulaak (S.A.W.W.) Hai'
-- 'id': '1_94_14'
+- 'id': '1_94_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -189,7 +189,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Nikhat-E-Gul Ki Tarah Pakeezah Hai Iss Ki Hawa | Turbat-E-Ayub Ansari (R.A.) Se Ati Hai Sada'
-- 'id': '1_94_15'
+- 'id': '1_94_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -198,7 +198,7 @@
     'text': '“O Muslim! this city is the heart of the Nation of Islam ! | This city is the reward for millenniums of blood sacrifices!”'
   - 'lang': 'ro'
     'text': 'Ae Musalman! Millat-E-Islam Ka Dil Hai Ye Shehar | Saikron Sadiyon Ki Kusht-O-Khoon Ka Hasil Hai Ye Shehar'
-- 'id': '1_94_16'
+- 'id': '1_94_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -211,7 +211,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Woh Zameen Hai Tu Magar Ae Khawab Gah-E-Mustafa (S.A.W.W.) | Deed Hai Kaabe Ko Teri Hajj-E-Akbar Se Sawa'
-- 'id': '1_94_17'
+- 'id': '1_94_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -220,7 +220,7 @@
     'text': 'In the world’s ring you are shining like a gem | Your land was the birth place of our grandeur'
   - 'lang': 'ro'
     'text': 'Khatam-E-Hasti Mein Tu Taban Hai Manind-E-Nageen | Apni Azmat Ki Waladat Gah Thi Teri Zameen'
-- 'id': '1_94_18'
+- 'id': '1_94_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -229,7 +229,7 @@
     'text': 'That Magnificent Emperor got rest in your midst | Under whose protection the world nations got security'
   - 'lang': 'ro'
     'text': 'Tujh Mein Rahat Uss Shehanshah-E-Moazam (S.A.W.W.) Ko Mili | Jis Ke Daman Mein Aman Aqwam-E-Alam Ko Mili'
-- 'id': '1_94_19'
+- 'id': '1_94_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -242,7 +242,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Naam Lewa Jis Ke Shahanshah Alam Ke Huway | Janasheen Qaisar Ke, Waris Masnad-E-Jim Ke Huway'
-- 'id': '1_94_20'
+- 'id': '1_94_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -251,7 +251,7 @@
     'text': 'If the Muslim nationalism is restricted to place | Neither India nor Persia nor Syria is its base'
   - 'lang': 'ro'
     'text': 'Hai Agar Qoumiat-E-Islam Paband-E-Maqam | Hind Hi Bunyaad Hai Iss Ki, Na Faris Hai, Na Shaam'
-- 'id': '1_94_21'
+- 'id': '1_94_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -264,7 +264,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ah Yasrib! Dais Hai Muslim Ka Tu, Mawa Hai Tu | Nukta’ay Jazib Tassar Ki Shuaon Ka Hai Tu'
-- 'id': '1_94_22'
+- 'id': '1_94_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

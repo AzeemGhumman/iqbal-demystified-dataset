@@ -8,14 +8,14 @@
   'text': '(93)'
 'description': []
 'sher':
-- 'id': '7_93_1'
+- 'id': '7_93_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نہ من بر مرکب ختلی سوارم | نہ از وابستگان شہریارم'
   - 'lang': 'en'
     'text': 'I have no steed to ride upon, nor am | Some great king’s courtier. Enough for me,'
-- 'id': '7_93_2'
+- 'id': '7_93_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

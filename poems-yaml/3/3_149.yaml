@@ -8,7 +8,7 @@
   'text': 'THE VOICE OF KARL MARX'
 'description': []
 'sher':
-- 'id': '3_149_1'
+- 'id': '3_149_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Your chessmatch of research and erudition—Your comedy of debate and disputation!— | The world has no more patience left to watch, This comedy of threadbare speculation.'
   - 'lang': 'ro'
     'text': 'Ye Ilm-o-Hikmat Ki Muhra-Bazi, Ye Behas-o-Takrar Ki Namaesh | Nahin Hai Dunya Ko Ab Gawara Purane Afkaar Ki Namaesh'
-- 'id': '3_149_2'
+- 'id': '3_149_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'What after all, sapient economists, Is to be found in your biblification? | A comedy of your nicely‐flowing curves, A sort of Barmecidal invitation.'
   - 'lang': 'ro'
     'text': 'Teri Kitabon Mein Ae Hakeem-e-Maash Rakha Hi Kya Hai Akhir | Khatoot-e-Khamdar Ki Namaesh, Maraiz-o-Kajdar Ki Namaesh'
-- 'id': '3_149_3'
+- 'id': '3_149_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

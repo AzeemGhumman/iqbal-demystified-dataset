@@ -8,7 +8,7 @@
   'text': 'MAKKAH AND GENEVA'
 'description': []
 'sher':
-- 'id': '3_56_1'
+- 'id': '3_56_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Contemporary era witnessed tremendous contacts among the nations; | The unity of mankind, however, remained concealed.'
   - 'lang': 'ro'
     'text': 'Iss Dour Mein Aqwam Ki Souhbat Bhi Huwi Aam | Poshida Nigahon Se Rahi Wahdat-e-Adam'
-- 'id': '3_56_2'
+- 'id': '3_56_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Western polity advocates division among the nations; | Islam pleads but for unification of humanity.'
   - 'lang': 'ro'
     'text': 'Tafreeq-e-Milal Hikmat-e-Afrang Ka Maqsood | Islam Ka Maqsood Faqt Millat-e-Adam'
-- 'id': '3_56_3'
+- 'id': '3_56_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

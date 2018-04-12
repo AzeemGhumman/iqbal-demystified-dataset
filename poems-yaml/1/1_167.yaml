@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This also is a highly mystical ghazal in which ‘Allamah Iqbal pleads with God to manifest Himself in a form which he can understand. As has been explained earlier the Nature or Essence of God has baffled human Intellect since the advent of Man on earth. Of all human faculties only the human heart can appreciate and enjoy this mysterious Entity. ‘Allamah Iqbal has expressed this thought in many poems some of which have been referred to earlier. However, the Essence cannot be described, limited or reduced to material form, which alone human Intellect can comprehend. ‘Allamah Iqbal has expressed this desire in several poems, one of which follows in ghazal 146-6 later.'
 'sher':
-- 'id': '1_167_1'
+- 'id': '1_167_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Lift the veil from Thy Face and be manifest in the assembly | Make the eyes of the sun, moon and stars Thy spectators'
   - 'lang': 'ro'
     'text': 'Parda Chehre Se Utha, Anjum Arayi Kar | Chashm-e-Meher-o-Mah-o-Anjum Ko Tamashayi Kar'
-- 'id': '1_167_2'
+- 'id': '1_167_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'If Thou art the lightning how long this secret winking? | Make acquaintance with my heart without a veil'
   - 'lang': 'ro'
     'text': 'Tu Jo Bijli Hai To Ye Chashmak-e-Pinhan Kab Tak | Be-Hijabana Mere Dil Se Shanasayi Kar'
-- 'id': '1_167_3'
+- 'id': '1_167_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The warm breath’s effect is the miracle of life | If it is on Thy breast perform life-giving miracles'
   - 'lang': 'ro'
     'text': 'Nafas-e-Garam Ki Taseer Hai Ijaz-e-Hayat | Tere Seene Mein Agar Hai To Masihayi Kar'
-- 'id': '1_167_4'
+- 'id': '1_167_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'How long should begging be on the tur like Kalam! | Make the flame of Sinai manifest with Thy Existence'
   - 'lang': 'ro'
     'text': 'Kab Talak Toor Pe Daryooza Gari Misl-e-Kaleem | Apni Hasti Se Ayan Shuala’ay Seenayi Kar'
-- 'id': '1_167_5'
+- 'id': '1_167_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Let the Haram be built with every speck of Thy dust | Make the heart alien to the ways of the Church'
   - 'lang': 'ro'
     'text': 'Ho Teri Khak Ke Har Zarre Se Tameer-e-Haram | Dil Ko Baigana’ay Andaz-e-Kalisayi Kar'
-- 'id': '1_167_6'
+- 'id': '1_167_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'It is not good to exceed limits in this garden | If Thou showeth elegance make its show with grace'
   - 'lang': 'ro'
     'text': 'Iss Gulistan Mein Nahin Had Se Guzarna Acha | Naz Bhi Kar To Ba Andaza-e-Raanayi Kar'
-- 'id': '1_167_7'
+- 'id': '1_167_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'First become self-respecting like Alexander | Then make the show of desire of Dara’s grandeur'
   - 'lang': 'ro'
     'text': 'Pehle Khud-Dar To Manind-e-Sikandar Ho Le | Phir Jahan Mein Hawas-e-Shoukat-e-Darayi Kar'
-- 'id': '1_167_8'
+- 'id': '1_167_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

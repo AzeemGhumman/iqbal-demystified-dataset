@@ -8,7 +8,7 @@
   'text': 'I-XXIII'
 'description': []
 'sher':
-- 'id': '11_368_1'
+- 'id': '11_368_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'essence,'
       'meaning': '        Ego''s essence; The hidden qualities of ego.'
       'occurrence': !!int '1'
-- 'id': '11_368_2'
+- 'id': '11_368_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

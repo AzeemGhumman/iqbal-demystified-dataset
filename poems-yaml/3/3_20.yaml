@@ -8,7 +8,7 @@
   'text': 'FAQR AND MONARCHY'
 'description': []
 'sher':
-- 'id': '3_20_1'
+- 'id': '3_20_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Faqr goes to War unequipped, unarmed with glee, | It deals dire blows, if heart of sins is free.'
   - 'lang': 'ro'
     'text': 'Faqr Jingah Mein Be-Saaz-o-Yaraak Ata Hai | Zarb Kari Hai,Agar Seene Mein Hai Qalb-e-Saleem'
-- 'id': '3_20_2'
+- 'id': '3_20_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Its defiance and unrest, ever on increase | Give tale of Moses and Pharoah fresh release.'
   - 'lang': 'ro'
     'text': 'Iss Ki Barhti Huwi Bebaki-o-Betabi Se | Taza Har Ehad Mein Hai Qissa-e-Firon-o-Kaleem'
-- 'id': '3_20_3'
+- 'id': '3_20_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O zealous faqr, you will get your grandeur old, | The Frankish soul is stained with greed of wealth and gold.'
   - 'lang': 'ro'
     'text': 'Ab Tera Dour Bhi Ane Ko Hai Ae Faqr-e-Ghayoor | Kha Gyi Rooh-e-Farangi Ko Hawa-e-Zar-o-Seem'
-- 'id': '3_20_4'
+- 'id': '3_20_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(49)'
 'description': []
 'sher':
-- 'id': '7_49_1'
+- 'id': '7_49_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خرد بر چہرۂ تو پردہ ہا بافت | نگاہی تشنۂ دیدار دارم'
   - 'lang': 'en'
     'text': 'My eyes are thirsty for a sight of You; | But intellect keeps Your face veiled from me.'
-- 'id': '7_49_2'
+- 'id': '7_49_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

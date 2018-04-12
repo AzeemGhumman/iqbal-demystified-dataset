@@ -8,14 +8,14 @@
   'text': 'XIII-II'
 'description': []
 'sher':
-- 'id': '11_252_1'
+- 'id': '11_252_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نگاہش نقشبند کافری ہا | کمال صنعت او  زری ہا'
   - 'lang': 'en'
     'text': 'His glance only paints the heathen’s shade, | His skill’s big height are statues he made.'
-- 'id': '11_252_2'
+- 'id': '11_252_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Mine ill luck the same and same, O Lord, the coldness on Your part'
 'description': []
 'sher':
-- 'id': '2_13_1'
+- 'id': '2_13_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Mine ill luck the same and same, O Lord, the coldness on Your part: | No useful aim has been served, By skill in poetic art.'
   - 'lang': 'ro'
     'text': 'Wohi Meri Kam Naseebi, Wohi Teri Be Niazi | Mere Kaam Kuch Na Aya Ye Kamal-e-Ne Nawazi'
-- 'id': '2_13_2'
+- 'id': '2_13_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Where am I and where are You, Is the world a fact or naught? | Does this world to me belong, Or is a wonder by You wrought?'
   - 'lang': 'ro'
     'text': 'Mein Kahan Hun Tu Kahan Hai, Ye Makan Ke La-Makan Hai? | Ye Jahan Mera Jahan Hai Teri Karishma Sazi'
-- 'id': '2_13_3'
+- 'id': '2_13_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The precious moments of my life, One by one have been snatched: | But still the conflict racks my brain, If heart and head are ever matched.'
   - 'lang': 'ro'
     'text': 'Issi Kashmakash Mein Guzreen Meri Zindagi Ki Raatain | Kabhi Souz-o-Saaz-e-Rumi, Kabhi Paich-o-Taab-e-Razi'
-- 'id': '2_13_4'
+- 'id': '2_13_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'A hawk forgetful of its breed, Upbrought and fed in midst of kites, | Knows not the wont and ways of hawks, And cannot soar to mighty heights.'
   - 'lang': 'ro'
     'text': 'Woh Faraib Khurdah Shaheen K Pala Ho Kargason Mein | Ussay Kya Khabar Kya Hai Reh-O-Rasm-E-Shahbazi'
-- 'id': '2_13_5'
+- 'id': '2_13_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'For song no tongue is set apart, No claim to tongues is laid by me: | What matters is a dainty song, No matter what its language be.'
   - 'lang': 'ro'
     'text': 'Na Zuban Koi Ghazal Ki, Na Zuban Se Ba-Khabar Main | Koi Dil Kusha Sada Ho, Ajami Ho Ya Ke Tazi'
-- 'id': '2_13_6'
+- 'id': '2_13_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Faqr and Kingship are akin, Though at odds may these appear: | One wins the heart with single glance, The other rules with sword and spear.'
   - 'lang': 'ro'
     'text': 'Nahin Faqar-O-Saltanat Mein Koi Imtiaz Aesa | Ye Sipah Ki Taeg Bazi, Woh Nigah Ki Taeg Bazi'
-- 'id': '2_13_7'
+- 'id': '2_13_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

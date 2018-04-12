@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Though this ghazal is very popular it is full of mysticism. Each verse has a different theme. The ghazal as a whole defines the relationship between God and Man.'
 'sher':
-- 'id': '1_169_1'
+- 'id': '1_169_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O the much sought after Reality! Some time appear in material form | As innumerable prostrations restless in my humble forehead are'
   - 'lang': 'ro'
     'text': 'Kabhi Ae Haqiqat-e-Muntazir! Nazar Aa Libas-e-Majaz Mein | Ke Hazar Sajde Tarap Rahe Hain Meri Jabeen-e-Niaz Mein'
-- 'id': '1_169_2'
+- 'id': '1_169_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Join the assembly’s celebrations, You are a song, be heard | What good are melodies which veiled in guitar’s frets are'
   - 'lang': 'ro'
     'text': 'Tarb Ashnaye Kharosh Ho, Tu Nawa Hai Mehram-e-Gosh Ho | Woh Surood Kya Ke Chupa Huwa Ho Sakoot-e-Parda-e-Saaz Mein'
-- 'id': '1_169_3'
+- 'id': '1_169_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Do not jealously protect them , your mirrors are the mirrors | Which would be dearer in the Maker’s eye if they broken are'
   - 'lang': 'ro'
     'text': 'Tu Bacha Bacha Ke Na Rakh Isse, Tera Aaeena Hai Woh Aaeena | Ke Shikast Ho To Aziz Tar Hai Nigah-e-Aaeena Saaz Mein'
-- 'id': '1_169_4'
+- 'id': '1_169_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'During circumambulation the moth exclaimed, “Those past effects | Neither in your story of pathos, nor in my tale of love are”'
   - 'lang': 'ro'
     'text': 'Dam-e-Tof Karmak-e-Shama Ne Ye Kaha Ke Woh Asar-e-Kuhan | Na Teri Hikayat-e-Souz Mein, Na Meri Hadees-e-Gudaz Mein'
-- 'id': '1_169_5'
+- 'id': '1_169_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Na Kaheen Jahan Mein Aman Mili, Jo Aman Mili To Kahan Mili | Mere Jurm-e-Khana Kharab Ko Tere Ufuw-e-Banda Nawaz Mein'
-- 'id': '1_169_6'
+- 'id': '1_169_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'Neither Love has that warmth nor Beauty has that humor | Neither that restlessness in Ghaznavi nor those curls in the hair locks of Ayaz are'
   - 'lang': 'ro'
     'text': 'Na Woh Ishq Mein Raheen Garmiyaan, Na Woh Husn Mein Raheen Shaukiyan | Na Woh Ghaznavi Mein Tarap Rahi, Na Kham Hai Zulf-e-Ayaz Mein'
-- 'id': '1_169_7'
+- 'id': '1_169_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

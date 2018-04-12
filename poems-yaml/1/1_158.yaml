@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is somewhat similar to poem 116 of the same name. However, its message goes farther than that of the pervious one. The main message is in praise and support of sacrifice in the cause of God and contentment with what material resources are available after making these sacrifices. The inspiration for this poem comes from the Holy Qur’an 2:153-157. The poem ends with a sincere supplication to God to create the degree of aman among Muslims which would make them attain that ideal.'
 'sher':
-- 'id': '1_158_1'
+- 'id': '1_158_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Na Saliqa Mujh Mein Kaleem Ka Na Qareena Tujh Mein Khalil Ka | Mein Halak-e-Jadoo-e-Samri, Tu Qateel-e-Shewa-e-Azari'
-- 'id': '1_158_2'
+- 'id': '1_158_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'I am the scalded, unsung song, you are the faded color, the departed fragrance | I am the tale of grief’s longing, you are the narration of love’s mourning!'
   - 'lang': 'ro'
     'text': 'Main Nawaye Soukhta Dar Guloo, Tu Parida Rang, Ramida Bu | Mein Hikayat-e-Gham-e-Arzoo, Tu Hadees-e-Matam-e-Dilbari'
-- 'id': '1_158_3'
+- 'id': '1_158_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'My grief is pleasure, my poison is honey, my existence is companion of annihilation | Your heart is Haram, captivated by the ‘Ajam, your dan has been purchased by infidelity!'
   - 'lang': 'ro'
     'text': 'Mera Aysh Gham, Mera Shehad Samm, Meri Bood Hum Nafas-e-Adam | Tera Dil Haram, Girv-e-Ajam, Tera Deen Khareeda-e-Kafiri'
-- 'id': '1_158_4'
+- 'id': '1_158_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Loss of life is its essence, concern for life is its poison | Do not be sad for loss, do not take grief’s poison as this is the way of qalandara!'
   - 'lang': 'ro'
     'text': 'Dam Zindagi Ram-e-Zindagi, Gham-e-Zindagi Sam-e-Zindagi | Gham-e-Ram Na Kar, Sam-e-Gham Na Kha Ke Yehi Hai Shan-e-Qalandari'
-- 'id': '1_158_5'
+- 'id': '1_158_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -75,7 +75,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Teri Khak Mein Hai Agar Sharar To Khiyal-e-Faqr-o-Ghana Na Kar | Ke Jahan Mein Naan-e-Shaeer Par Hai Madar-e-Quwwat-e-Haidari'
-- 'id': '1_158_6'
+- 'id': '1_158_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -88,7 +88,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Koi Aesi Tarz-e-Tawaaf Tu Mujhe Ae Charagh-e-Haram Bata! | Ke Tere Patang Ko Phir Atta Ho Wohi Sarisht-e-Samundari'
-- 'id': '1_158_7'
+- 'id': '1_158_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -101,7 +101,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gila-e-Jafaye Wafa Nama Ke Haram Ko Ahl-e-Haram Se Hai | Kisi Butkude Mein Byan Krun To Kahe Sanam Bhi ‘Hari Hari’'
-- 'id': '1_158_8'
+- 'id': '1_158_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -120,7 +120,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Na Sataiza-Gah-e-Jahan Nayi Na Hareef-e-Panja Faggan Naye | Wohi Fitrat-e-Asadullahi, Wohi Marhabi, Wohi Aantari'
-- 'id': '1_158_9'
+- 'id': '1_158_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

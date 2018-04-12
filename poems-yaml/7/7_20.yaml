@@ -8,14 +8,14 @@
   'text': '(20)'
 'description': []
 'sher':
-- 'id': '7_20_1'
+- 'id': '7_20_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ لذت یارب اندر ہست و بود است | دل ہر ذرہ در جوش نمود است'
   - 'lang': 'en'
     'text': 'What joy it is, O God, to be, just be! | Each atom’s heart feels this joy gratefully.'
-- 'id': '7_20_2'
+- 'id': '7_20_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

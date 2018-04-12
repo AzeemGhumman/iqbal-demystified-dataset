@@ -8,7 +8,7 @@
   'text': 'Why should I ask wise men about my origin'
 'description': []
 'sher':
-- 'id': '2_49_1'
+- 'id': '2_49_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Why should I ask wise men about my origin? | For my mind ponders on the end of my life.'
   - 'lang': 'ro'
     'text': 'Khird-Mandon Se Kya Puchon Ke Meri Ibtida Kya Hai | Ke Main Iss Fikar Mein Rehta Hun, Meri Intiha Kya Hai'
-- 'id': '2_49_2'
+- 'id': '2_49_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Raise thy Selfhood so high that before each dispensation, | God Himself may ask thee what thy wishes are.'
   - 'lang': 'ro'
     'text': 'Khudi Ko Kar Buland Itna Ke Har Taqdeer Se Pehle | Khuda Bande Se Khud Puche, Bata Teri Raza Kya Hai'
-- 'id': '2_49_3'
+- 'id': '2_49_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'If I am an alchemist, my only alchemy | Is the yearning and the passion that consume my heart.'
   - 'lang': 'ro'
     'text': 'Maqam-e-Guftugu Kya Hai Agar Main Keemiya-Gar Hun | Yehi Souz-e-Nafas Hai, Aur Meri Keemiya Kya Hai!'
-- 'id': '2_49_4'
+- 'id': '2_49_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'I know not about those dark, unknown, mysterious eyes, | That, in their fathomless depths, have power over my fate.'
   - 'lang': 'ro'
     'text': 'Nazar Ayeen Mujhe Taqdeer Ki Gehraiyan Uss Mein | Na Puch Ae Hum-Nasheen Mujh Se Woh Chashm-e-Surma Sa Kya Hai'
-- 'id': '2_49_5'
+- 'id': '2_49_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -57,7 +57,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Agar Hota Woh Majzoob*-e-Farangi Iss Zamane Mein | To Iqbal Uss Ko Samjhata Maqam-e-Kibriya Kya Hai'
-- 'id': '2_49_6'
+- 'id': '2_49_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

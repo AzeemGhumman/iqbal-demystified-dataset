@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal deals with the controversy of Love and Intellect.'
 'sher':
-- 'id': '1_166_1'
+- 'id': '1_166_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O dejected nightingale your lament is immature still | You should hold it in your breast for a little while still'
   - 'lang': 'ro'
     'text': 'Nala Hai Bulbul-e-Shourida Tera Khaam Abhi | Apne Seene Mein Isse Aur Zara Thaam Abhi'
-- 'id': '1_166_2'
+- 'id': '1_166_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'If Intellect is prudent it is considered mature | If Love is prudent it is considered immature still'
   - 'lang': 'ro'
     'text': 'Pukhta Hoti Hai Agar Muslihat Andaish Ho Aqal | Ishq Ho Muslihat Andaish To Hai Khaam Abhi'
-- 'id': '1_166_3'
+- 'id': '1_166_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Be-Khatar Kood Para Aatish-e-Namrood Mein Ishq | Aqal Hai Mehv-e-Tamasha-e-Lab-e-Baam Abhi'
-- 'id': '1_166_4'
+- 'id': '1_166_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Love moves fast in action under the messenger’s precept | Intellect has not even understood the Love’s message still'
   - 'lang': 'ro'
     'text': 'Ishq Farmouda-e-Qasid Se Subak Gaam-e-Amal | Aqal Samajhi Hi Nahin Maani-e-Pegham Abhi'
-- 'id': '1_166_5'
+- 'id': '1_166_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'The way of Love is freedom and world revolution | You are imprisoned in day and night’s temple still'
   - 'lang': 'ro'
     'text': 'Shewa-e-Ishq Hai Azadi-o-Dehr Ashobi | Tu Hai Zunnari-e-Butkhana-e-Ayyam Abhi'
-- 'id': '1_166_6'
+- 'id': '1_166_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'On the plea of temperance the cup-bearer says rudely | In your heart is the same anxiety for the end still'
   - 'lang': 'ro'
     'text': 'Uzr-e-Parhaiz Pe Kehta Hai Bigar Kar Saqi | Hai Tere Dil Mein Wohi Kaswish-e-Anjam Abhi'
-- 'id': '1_166_7'
+- 'id': '1_166_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'Constant struggle is the measure for life’s Kamm and Kaif | Your measure is the counting of days and nights still'
   - 'lang': 'ro'
     'text': 'Sae-e-Peham Hai Tarazuye Kam-o-Kaif-e-Hayat | Teri Meezan Hai Shumar-e-Sehar-o-Shaam Abhi'
-- 'id': '1_166_8'
+- 'id': '1_166_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'O spring rain! How long this miserliness? | The tulips of my hillside are thirsty still'
   - 'lang': 'ro'
     'text': 'Abar-e-Neesan! Ye Tunak Bakhsi-e-Shabnam Kab Tak | Mere Kuhsar Ke Lale Hain Tehi Jaam Abhi'
-- 'id': '1_166_9'
+- 'id': '1_166_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'They are accustomed to `Ajam’s wine I have the `Arab wine | My cup makes wine-drinkers startled still'
   - 'lang': 'ro'
     'text': 'Badah Gardan-e-Ajam Woh, Arabi Meri Sharab | Mere Saghir Se Jhijhakte Hain Mai Ashaam Abhi'
-- 'id': '1_166_10'
+- 'id': '1_166_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

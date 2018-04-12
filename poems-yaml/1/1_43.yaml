@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is another expression of the ardent desire of ‘Allamah Iqbal for Muslim-Hindu amity for obtaining independence from the British. The seemingly heretic expressions like the one in the second verse are sarcasm against the behavior of insincere religious leaders who misuse religion for their own aggrandizement. It is also a veiled lesson to the Muslims that Islam teaches tolerance of other religions. | It is appropriate to explain here that the Indian Muslims in general and their leaders in particular, including ‘Allamah Iqbal, tried their best, for about two decades to evolve a formula for Muslim-Hindu amity which would be acceptable to the Muslims with honor. This was necessary because the Muslims were the poorer and the less advanced component of the population of India than the Hindus. Students of history know that all the efforts of the Muslims and their leaders failed and the Hindus kept on demanding of the Muslims to sign a carte blanche in their favor. Ultimately ‘Allamah Iqbal himself became frustrated and had to declare in his presidential address to the All‑India Muslim League meeting at Allahabad in 1930 that the partition of the sub‑continent was the only practical solution to the problem. However, the efforts at amity continued without any success till March 1940, when the All‑India Muslim League was compelled to pass the famous Pakistan resolution at their meeting at Lahore.'
 'sher':
-- 'id': '1_43_1'
+- 'id': '1_43_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'May I tell the truth O Brahman! If it does not displease you | The idols of your temple have become anachronistic'
   - 'lang': 'ro'
     'text': 'Sach Keh Doon Ae Barhman! Gar Tu Bura Na Mane | Tere Sanam Kadon Ke Butt Ho Gye Purane'
-- 'id': '1_43_2'
+- 'id': '1_43_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'You have learnt grudge with your own people from the idols | God also has taught fighting to Muslim preachers'
   - 'lang': 'ro'
     'text': 'Apnon Se Bair Rakhna Tu Ne Button Se Se Sikha | Jang-o-Jadal Sikhaya Waaiz Ko Bhi Khuda Ne'
-- 'id': '1_43_3'
+- 'id': '1_43_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Becoming tired, I finally abandoned the temple and the Haram | I abandoned the preacher''s sermons, as well as your stories'
   - 'lang': 'ro'
     'text': 'Tang Aa Ke Main Ne Akhir Dair-o-Haram Ko Chora | Waaiz Ka Waaz Chora, Chore Tere Fasane'
-- 'id': '1_43_4'
+- 'id': '1_43_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'You take the stone idols to contain God | Every speck of the homeland''s dust is holy to me'
   - 'lang': 'ro'
     'text': 'Pathar Ki Mootraton Mein Samjha Hai Tu Khuda Hai | Khak-e-Watan Ka Mujh Ko Har Zarra Devta'
-- 'id': '1_43_5'
+- 'id': '1_43_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Come! Let us again roll up the curtains of strangeness | Let us unite the separated ones, let us remove the disunion'
   - 'lang': 'ro'
     'text': 'Aa, Ghairiat Ke Parde Ek Baar Phir Utha Dain | Bichron Ko Phir Mila Dain, Naqsh-e-Dooi Mita Dain'
-- 'id': '1_43_6'
+- 'id': '1_43_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'The heart''s habitation is lying barren since long | Let us build a new temple in this country'
   - 'lang': 'ro'
     'text': 'Sooni Pari Huwi Hai Muddat Se Dil Ki Basti | Aa, Ek Naya Shiwala Iss Dais Mein Bana Dain'
-- 'id': '1_43_7'
+- 'id': '1_43_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'Let our shrine be higher than the world''s shrines | Let us make its spire as high as the sky'
   - 'lang': 'ro'
     'text': 'Dunya Ke Teerathon Se Ucha Huwa Apna Teerath | Damaan-e-Asman Se Iss Ka Kalas Mila Dain'
-- 'id': '1_43_8'
+- 'id': '1_43_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'Let our morning''s incantations be so sweet every morning | That all worshipers be ecstatic with the Love''s wine'
   - 'lang': 'ro'
     'text': 'Har Subah Uth Ke Gayen Mantar Woh Meethe Meethe | Sare Pujariyon Ko Mai Peet Ki Pila Dain'
-- 'id': '1_43_9'
+- 'id': '1_43_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

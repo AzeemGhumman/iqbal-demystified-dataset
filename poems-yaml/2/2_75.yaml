@@ -8,7 +8,7 @@
   'text': 'The crown, the throne, and mighty arms'
 'description': []
 'sher':
-- 'id': '2_75_1'
+- 'id': '2_75_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The crown, the throne, and mighty arms, By faqr are wrought these wonders all: | In short, it is the chief of chiefs, And king of other kings withal.'
   - 'lang': 'ro'
     'text': 'Faqr Ke Hain Muajazaat Taaj-o-Sareer-o-Sipah | Faqr Hai Meeron Ka Meer, Faqr Hai Shahon Ka Shah'
-- 'id': '2_75_2'
+- 'id': '2_75_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'By means of learning mind and brain, No doubt, become refined and pure: | Faqr makes the heart and gaze of man, From earthly filth and dross secure.'
   - 'lang': 'ro'
     'text': 'Ilm Ka Maqsood Hai Paki-e-Aqal-o-Khirad | Faqr Ka Maqsood Hai Iffat-e-Qalb-o-Nigah'
-- 'id': '2_75_3'
+- 'id': '2_75_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Scholar and sage knowledge makes, But Christ and Moses by faqr are wrought: | To faqr the road is fully known, Of road the scholar knows not aught.'
   - 'lang': 'ro'
     'text': 'Ilm Faqeer-o-Hakeem, Faqr Maseeh-o-Kaleem | Ilm Hai Jooya’ay Rah, Faqr Hai Danye Rah'
-- 'id': '2_75_4'
+- 'id': '2_75_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The state of seeing faqr bestows, But knowledge makes on new rely: | Rapture in faqr is virtue great, Whereas in knowledge sin so high.'
   - 'lang': 'ro'
     'text': 'Faqr Maqam-e-Nazar, Ilm Maqam-e-Khabar | Faqr Mein Masti Sawab, Ilm Mein Masti Gunah'
-- 'id': '2_75_5'
+- 'id': '2_75_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'One God there is that knowledge owns, To other God faqr lays a claim: | No god but He, I do proclaim, No god but He, I do proclaim.'
   - 'lang': 'ro'
     'text': 'Ilm Ka ‘Mojood’ Aur, Faqar Ka ‘Mojood’ Aur | ASHADU ALLA ILAHA, ASHADU ALLA ILAHA !'
-- 'id': '2_75_6'
+- 'id': '2_75_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'On the whetting stone of faqr, When sword of Self gets sharp and bright, | A single stroke by warrior bold, Can out an army big to flight.'
   - 'lang': 'ro'
     'text': 'Charhti Hai Jab Faqr Ki Saan Pe Taeg-e-Khudi | Aik Sipahi Ki Zarb Karti Hai Kaar-e-Sipah'
-- 'id': '2_75_7'
+- 'id': '2_75_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

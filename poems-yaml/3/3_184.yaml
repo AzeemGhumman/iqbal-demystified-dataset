@@ -8,7 +8,7 @@
   'text': 'The discord that prevails among'
 'description': []
 'sher':
-- 'id': '3_184_1'
+- 'id': '3_184_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The discord that prevails among, The nations is an eternal truth: | This old and tyrant whirling dome, For none of us has any ruth.'
   - 'lang': 'ro'
     'text': 'Haqiqat-e-Azali Hai Raqabat-e-Aqwam | Nigah-e-Peer-e-Falak Mein Na Main Aziz, Na Tu'
-- 'id': '3_184_2'
+- 'id': '3_184_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Dive into the abyss of Self, And do not yield before despair | The wounds that: world on you inflicts, Is secret means of their repair.'
   - 'lang': 'ro'
     'text': 'Khudi Mein Doob, Zamane Se Na-Umeed Na Ho | Ke Iss Ka Zakhm Hai Darparda Ehtimam-e-Rafu'
-- 'id': '3_184_3'
+- 'id': '3_184_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

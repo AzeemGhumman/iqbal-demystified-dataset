@@ -8,7 +8,7 @@
   'text': 'A QUESTION'
 'description': []
 'sher':
-- 'id': '3_97_1'
+- 'id': '3_97_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Ask the wise men of Europe, who have hung | Their ring in the nose of Greece and Hindostan:'
   - 'lang': 'ro'
     'text': 'Koi Puche Hakeem-e-Yourap Se | Hind-o-Yunan Hain Jis Ke Halqa Bagosh'
-- 'id': '3_97_2'
+- 'id': '3_97_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'IV-III'
 'description': []
 'sher':
-- 'id': '11_186_1'
+- 'id': '11_186_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ بند صوفی و ملا اسیری | حیات از حکمت قر ن نگیری'
   - 'lang': 'en'
     'text': 'To Mullah and Sufi thou art a slave, | From insight of Quran no life you crave.'
-- 'id': '11_186_2'
+- 'id': '11_186_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

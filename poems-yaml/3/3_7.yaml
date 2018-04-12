@@ -8,7 +8,7 @@
   'text': 'THE DECLINE OF THE MUSLIMS'
 'description': []
 'sher':
-- 'id': '3_7_1'
+- 'id': '3_7_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Though wealth and gold provide, The worldly needs of man | But what faqr can bestow, No wealth or gold eʹer can.'
   - 'lang': 'ro'
     'text': 'Agarcha Zar Bhi Jahan Mein Hai Qazi-Ul-Hajat | Jo Faqar Se Hai Mayassar, Toungari Se Nahin'
-- 'id': '3_7_2'
+- 'id': '3_7_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'If youth of nation mine, Were jealous of their creed, | My qalandarʹs state wonʹt mind, Alexanderʹs might indeed.'
   - 'lang': 'ro'
     'text': 'Agar Jawan Hon Meri Qoum Ke Jasoor-o-Ghayyoor | Qalandari Meri Kuch Kam Sikandari Se Nahin'
-- 'id': '3_7_3'
+- 'id': '3_7_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'With ease you can divine, To some thing else is due: | Penury can not cause, Decline of Muslims True.'
   - 'lang': 'ro'
     'text': 'Sabab Kuch Aur Hai, Tu Jis Ko Khud Samajhta Hai | Zawal Banda-e-Momin Ka Be-Zarri Se Nahi'
-- 'id': '3_7_4'
+- 'id': '3_7_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

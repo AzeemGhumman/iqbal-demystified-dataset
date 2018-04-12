@@ -8,14 +8,14 @@
   'text': '(144)'
 'description': []
 'sher':
-- 'id': '7_144_1'
+- 'id': '7_144_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خرد کرپاس را زرینہ سازد | کمالش سنگ را آئینہ سازد'
   - 'lang': 'en'
     'text': 'The mind turns cotton into cloth of gold | And turns mere stone into a looking glass.'
-- 'id': '7_144_2'
+- 'id': '7_144_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

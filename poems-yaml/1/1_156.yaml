@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'In this beautiful and apparently nature poem ‘Allamah Iqbal gives the lesson of contentment and self-sufficiency. Verses 4 onwards are very important.'
 'sher':
-- 'id': '1_156_1'
+- 'id': '1_156_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O flower! Why do you care for the nightingale’s wounded heart | First you should darn the slits of your own shirt!'
   - 'lang': 'ro'
     'text': 'Tujhe Kyun Fikar Hai Ae Gul Dil-e-Sad Chaak-e-Bulbul Ki | Tu Apne Pairhan Ke Chaak To Pehle Rafoo Kar Le'
-- 'id': '1_156_2'
+- 'id': '1_156_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'If you long for respect in the rose garden of existence | You should get accustomed to living entangled in thorns!'
   - 'lang': 'ro'
     'text': 'Tamanna Abru Ki Ho Agar Gulzar-e-Hasti Mein | To Kanton Mein Ulajh Kar Zindagi Karne Ki Khu Kar Le'
-- 'id': '1_156_3'
+- 'id': '1_156_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The juniper in the garden is free as well as chained to the soil | You should acquire freedom within these constraints!'
   - 'lang': 'ro'
     'text': 'Sanobar Bagh Mein Azad Bhi Hai, Pa Ba Gill Bhi Hai | Inhi Pabandiyon Mein Hasil Azadi Ko Tu Kar Le'
-- 'id': '1_156_4'
+- 'id': '1_156_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'With contentment give message of embarrassment to miserliness | Do not remain obliged to dew, you should empty the cup and the bottle!'
   - 'lang': 'ro'
     'text': 'Tunak Bakhshi Ko Istaghna Se Pegham-e-Khajalat De | Na Reh Minnat Kash-e-Shabnam, Nigun Jaam-o-Saboo Kar Le'
-- 'id': '1_156_5'
+- 'id': '1_156_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'It does not befit self respect that being picked from the garden | You should be put in some turban or pinned to some collar!'
   - 'lang': 'ro'
     'text': 'Nahin Ye Shan-e-Khud-Dari, Chaman Se Torh Kar Tujh Ko | Koi Dastaar Mein Rakh Le, Koi Zaib-e-Guloo Kar Le'
-- 'id': '1_156_6'
+- 'id': '1_156_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'The dew disappeared from garden saying to the flower bud | If you love gardener’s oppression, you should create beauty'
   - 'lang': 'ro'
     'text': 'Chaman Mein Ghuncha-e-Gul Se Ye Keh Kar Urh Gyi Shabnam | Mazaq-e-Jour-e-Gulcheen Ho To Paida Rang-o-Bu Kar Le'
-- 'id': '1_156_7'
+- 'id': '1_156_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'If you want to remain unacquainted with autumn | First you should abandon the desire for the beauty’s world'
   - 'lang': 'ro'
     'text': 'Agar Manzoor Ho Tujh Ko Khazan Na-Ashna Rehna | Jahan-e-Rang-o-Bu Se, Pehle Qataa-e-Arzu Kar Le'
-- 'id': '1_156_8'
+- 'id': '1_156_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

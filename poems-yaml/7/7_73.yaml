@@ -8,14 +8,14 @@
   'text': '(73)'
 'description': []
 'sher':
-- 'id': '7_73_1'
+- 'id': '7_73_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دماغم کافر زنار دار است | بتان را بندہ و پروردگار است'
   - 'lang': 'en'
     'text': 'A dyed-in-the-wool infidel, my brain | Creates and worships idols of its own.'
-- 'id': '7_73_2'
+- 'id': '7_73_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

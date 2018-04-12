@@ -8,7 +8,7 @@
   'text': 'I BEAR HARDSHIPS ON MYSELF, I AM UNCONCERNED WITH OTHERS'
 'description': []
 'sher':
-- 'id': '1_61_1'
+- 'id': '1_61_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -21,7 +21,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sakhtiyan Karta Hun Dil Par, Ghair Se Ghafil Hun Main | Haye Kya Achi Kehi Zalim Hun Main, Jahil Hun Main'
-- 'id': '1_61_2'
+- 'id': '1_61_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -34,7 +34,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Main Jabhi Tak Tha Ke Teri Jalwa Pairayi Na Thi | Jo Namood-e-Haq Se Mit Jata Hai Woh Batil Hun Main'
-- 'id': '1_61_3'
+- 'id': '1_61_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -47,7 +47,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ilm Ke Darya Se Nikle Ghota Zan Gohar Badast | Waye Mehroomi! Khazaf Chain-e-Lab Sahil Hun Main'
-- 'id': '1_61_4'
+- 'id': '1_61_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -60,7 +60,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Meri Dillat Hi Kuch Meri Sharafat Ki Daleel | Jis Ki Ghaflat Ko Malak Rote Hain Woh Ghafil Hun Mein'
-- 'id': '1_61_5'
+- 'id': '1_61_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Bazm-e-Hasti ! Apni Araaish Pe Tu Nazaan Na Ho | Tu To Ek Tasveer Hai Mehfil Ki Aur Mehfil Hun Main'
-- 'id': '1_61_6'
+- 'id': '1_61_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

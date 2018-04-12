@@ -8,14 +8,14 @@
   'text': 'IV-X'
 'description': []
 'sher':
-- 'id': '11_388_1'
+- 'id': '11_388_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دوگیتی را صلا از قرأت اوست | مسلمان لایموت از رکعت اوست'
   - 'lang': 'en'
     'text': 'He calls both worlds to Quran by prays, | By such one prayer, Muslim dies nay.'
-- 'id': '11_388_2'
+- 'id': '11_388_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

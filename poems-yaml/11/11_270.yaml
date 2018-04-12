@@ -8,14 +8,14 @@
   'text': 'XV-XI'
 'description': []
 'sher':
-- 'id': '11_270_1'
+- 'id': '11_270_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'کسی کو ’’لا الہ‘‘ را در گرہ بست | ز بند مکتب و ملا برون جست'
   - 'lang': 'en'
     'text': 'Who e’er tied himself with Lailah’s tie, | From Mullah’s Maktab he jump’d very high.'
-- 'id': '11_270_2'
+- 'id': '11_270_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

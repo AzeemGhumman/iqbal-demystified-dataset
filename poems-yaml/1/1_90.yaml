@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal is mainly on "Wahdat al-Shuhud ". This thought has been expressed in verses 1‑5 and 7. The remaining two verses are also in the same trend and mean that the true Lover of God does not care for reward on the Day of Judgment, not even the reward of His Sight.'
 'sher':
-- 'id': '1_90_1'
+- 'id': '1_90_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Thy splendor is manifest in thunder, in fire, in spark | Thy luster is evident in the moon, in the sun, in the star'
   - 'lang': 'ro'
     'text': 'Chamak Teri Ayan Bijli Mein, Atish Mein, Sharare Mein | Jhalak Teri Haweda Chand Mein, Suraj Mein, Tare Mein'
-- 'id': '1_90_2'
+- 'id': '1_90_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Thy elegance exists in skies'' heights, and in earths'' depths | It is in the ocean''s flow, and in falling behind of the shore'
   - 'lang': 'ro'
     'text': 'Bulandi Aasmanon Mein, Zameeon Mein Teri Pasti | Rawani Behr Mein, Uftadgi Teri Kinare Mein'
-- 'id': '1_90_3'
+- 'id': '1_90_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Why should Shara`ah be the accuser of the eloquence'' taste? | I only conceal the meaning of my heart in metaphors'
   - 'lang': 'ro'
     'text': 'Shariat Kyun Gireban-Geer Ho Zauq-e-Takallam Ki | Chupa Jata Hun Apne Dil Ka Matlab Istaare Mein'
-- 'id': '1_90_4'
+- 'id': '1_90_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jo Hai Baidar Insan Mein Woh Gehri Neend Sota Hai | Shajar Mein, Phool Mein, Haiwan Mein, Pathar Mein, Sitare Mein'
-- 'id': '1_90_5'
+- 'id': '1_90_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'The heat of the drop of Love''s tear has consumed me | Boundless fire existed in this little drop of water'
   - 'lang': 'ro'
     'text': 'Mujhe Phoonka Hai Souz-e-Qatra-e-Ashak-e-Mohabbat Ne | Ghazab Ki Aag Thi Pani Ke Chote Se Sharare Mein'
-- 'id': '1_90_6'
+- 'id': '1_90_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'There is no longing in me for reward of the Judgment Day | I am the merchant who sees profit in the loss'
   - 'lang': 'ro'
     'text': 'Nahin Jinse-e-Sawab-e-Akhrat Ki Arzoo Mujh Ko | Woh Soudagar Hun, Main Ne Nafa Dekha Hai Khasare Mein'
-- 'id': '1_90_7'
+- 'id': '1_90_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'Being unaware of tranquillity is existence for it | O God! Restlessness of which heart is residing in mercury'
   - 'lang': 'ro'
     'text': 'Sukoon Na-Ashna Rehna Isse Saman-e-Hasti Hai | Tarap Kis Dil Ki Ya Rab Chup Ke Aa Baithi Hai Pare Mein'
-- 'id': '1_90_8'
+- 'id': '1_90_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

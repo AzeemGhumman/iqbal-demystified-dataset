@@ -8,14 +8,14 @@
   'text': 'I-II'
 'description': []
 'sher':
-- 'id': '11_43_1'
+- 'id': '11_43_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نگاہی داشتم بر جوہر دل | تپیدم ، آرمیدم در بر دل'
   - 'lang': 'en'
     'text': 'I keep my eyes penchant on hearts essence, | Though writhing I am resting on heart’s fence.'
-- 'id': '11_43_2'
+- 'id': '11_43_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

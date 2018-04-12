@@ -8,7 +8,7 @@
   'text': 'The splendour of a monarch great'
 'description': []
 'sher':
-- 'id': '2_41_1'
+- 'id': '2_41_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The splendour of a monarch great, Is worthless for the free and bold: | Where lies the grandeur of a king, Whose riches rest on borrowed gold?'
   - 'lang': 'ro'
     'text': 'Nigah-e-Faqr Mein Shan-e-Sikandari Kya Hai | Kharaj Ki Jo Gada Ho, Woh Qaisri Kya Hai!'
-- 'id': '2_41_2'
+- 'id': '2_41_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'You pin your faith on idols vain, And turn your back on Mighty God: | If this is not unbelief and sin, What else is unbelief and fraud?'
   - 'lang': 'ro'
     'text': 'Buton Se Tujh Ko Umeedain, Khuda Se Naumeedi | Mujhe Bata To Sahi Aur Kafiri Kya Hai!'
-- 'id': '2_41_3'
+- 'id': '2_41_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Luck favours the fool and the mean, And exalts and lifts to the skies | Only those who are base and low, And know not how to patronize.'
   - 'lang': 'ro'
     'text': 'Falak Ne Un Ko Atta Ki Hai Khawajgi Ke Jinhain | Khabar Nahin Rawish-e-Banda Parwari Kya Hai'
-- 'id': '2_41_4'
+- 'id': '2_41_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'One look from the eyes of the Fair, Can make a conquest of the heart: | There is no charm in the fair sweet, If it lacks this alluring art.'
   - 'lang': 'ro'
     'text': 'Faqt Nigah Se Hota Hai Faisla Dil Ka | Na Ho Nigah Mein Shaukhi To Dilbari Kya Hai'
-- 'id': '2_41_5'
+- 'id': '2_41_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'I am a target for the hate, Of the mighty rich and the great, | As I know the end of Caesars great, And know the freaks of luck or fate.'
   - 'lang': 'ro'
     'text': 'Issi Khata Se Itaab-e-Mulook Hai Mujh Par | Ke Janta Hun Maal-e-Sikandari Kya Hai'
-- 'id': '2_41_6'
+- 'id': '2_41_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'To be a person great and strong, Is the end and aim of all; | But that rank is not real and true, That is attained by the ego’s fall.'
   - 'lang': 'ro'
     'text': 'Kise Nahin Hai Tamana-e-Sarwari, Lekin | Khudi Ki Mout Ho Jis Mein Woh Sarwari Kya Hai!'
-- 'id': '2_41_7'
+- 'id': '2_41_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

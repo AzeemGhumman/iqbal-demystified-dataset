@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short but beautiful poem does not represent Muslim chauvinism as is alleged by Islam’s enemies. On the other hand, its four-fold message to mankind in general and to Muslims in particular is based on the Holy Qur’an and covers four important subjects. These are (i) universality of Islam, (ii) Mission of the Holy Prophet S.A.W., (iii) Struggle, including fighting, if necessary, in the cause of truth and defense of the weak and the oppressed, (iv) Islamic values. The universality of Islam is evidenced in the Holy Qur’an in which God always calls Himself “Rabb-ul-Alaman’’ (Lord of the whole universe and not that of Muslims or of any race or nation). This message is interspersed throughout the Holy Qur’an. It is contained in verses 1, 4, 7 and 8 of the poem. Verse 2 carries the second message which is based on the Holy Qur’an. 9:33¬; 27:91-93; 30:30; 48:8-10, 28¬ and 61:9¬, of which the three marked with asterisk are very significant. The third message is very important and is oft repeated in the Holy Qur’an (2:190-193, 216, 244; 4:74-76, 84; 8:39, 65; 9:5, 6, 12-16, 19, 20, 29, 33, 81-85, 123; 22:39-41, 78; 25:52; 29:69; 47:4, 20-21; 48:17, 28 and 61: 9. Verses 2, 4, 5, 6, 7, 8, 9 and 10 of the poem contain this message. The whole Qur’an is the exposition of Islamic values. Verses 2, 3, 10 and 11 of the poem contain this thought. For these reasons the poem is very popular among Muslims and is memorized by young boys and girls.'
 'sher':
-- 'id': '1_102_1'
+- 'id': '1_102_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'China and Arabia are ours, India is also ours | We are Muslims, whole world is homeland of ours'
   - 'lang': 'ro'
     'text': 'Cheen-o-Arab Humara, Hindustan Humara | Muslim Hain Hum, Watan Hai Sara Jahan Humara'
-- 'id': '1_102_2'
+- 'id': '1_102_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The trust of Divine Unity is in the breasts of ours | It is not easy to destroy the identity of ours'
   - 'lang': 'ro'
     'text': 'Touheed Ki Amanat Seenon Mein Hai Humare | Asan Nahin Nitana Naam-o-Nishan Humara'
-- 'id': '1_102_3'
+- 'id': '1_102_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dunya Ke Butkadon Mein Pehla Woh Ghar Khuda Ka | Hum Uss Ke Pasban Hain, Woh Pasban Humara'
-- 'id': '1_102_4'
+- 'id': '1_102_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'We have been brought up under the shade of swords | The crescent’s dagger is the national insignia of ours'
   - 'lang': 'ro'
     'text': 'Taighon Ke Saye Mein Hum Pal Kar Jawan Huwe Hain | Khanjar Hilal Ka Hai Qoumi Nishan Humara'
-- 'id': '1_102_5'
+- 'id': '1_102_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Our Adhan echoed in the valleys of the West | None could stop the advancing flood of ours'
   - 'lang': 'ro'
     'text': 'Maghrib Ki Wadiyon Mein Goonji Azan Humari | Thamta Na Tha Kisi Se Seel-e-Rawan Humara'
-- 'id': '1_102_6'
+- 'id': '1_102_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'We cannot be bowed down by falsehood, O sky | Hundreds of times you have done tests of ours'
   - 'lang': 'ro'
     'text': 'Batil Se Dabne Wale Ae Asman Nahin Hum | Sou Baar Kar Chuka Hai Tu Imtihan Humara'
-- 'id': '1_102_7'
+- 'id': '1_102_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Gulistan-e-Aundlas ! Woh Din Hain Yaad Tujh Ko | Tha Teri Daliyon Par Jab Ashiyan Humara'
-- 'id': '1_102_8'
+- 'id': '1_102_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Mouj-e-Dajla! Tu Bhi Pehchanti Hai Hum Ko | Ab Tak Hai Tera Darya Afsana Khawan Humara'
-- 'id': '1_102_9'
+- 'id': '1_102_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Arz-e-Pak! Teri Hurmat Pe Kat Mare Hum | Hai Khoon Teri Ragon Mein Ab Tak Rawan Humara'
-- 'id': '1_102_10'
+- 'id': '1_102_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -120,7 +120,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Salar-e-Karwan Hai Meer-e-Hijaz (S.A.W.) Apna | Iss Naam Se Hai Baqi Aram-e-Jaan Humara'
-- 'id': '1_102_11'
+- 'id': '1_102_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

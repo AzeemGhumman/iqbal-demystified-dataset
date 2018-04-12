@@ -8,14 +8,14 @@
   'text': 'X-VI'
 'description': []
 'sher':
-- 'id': '11_78_1'
+- 'id': '11_78_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمان زادہ و نامحرم مرگ | ز بیم مرگ لرزان تا دم مرگ'
   - 'lang': 'en'
     'text': 'Though born as Muslim yet knows not the death, | From fear of death shivers to his last breath'
-- 'id': '11_78_2'
+- 'id': '11_78_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

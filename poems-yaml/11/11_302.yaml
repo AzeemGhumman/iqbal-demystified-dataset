@@ -8,14 +8,14 @@
   'text': 'VI-II'
 'description': []
 'sher':
-- 'id': '11_302_1'
+- 'id': '11_302_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نپنداری کہ مرد امتحان مرد | نمیرد گرچہ زیر  سمان مرد'
   - 'lang': 'en'
     'text': 'If a tested man dies think not ever, | He dies on the earth, there he dies never.'
-- 'id': '11_302_2'
+- 'id': '11_302_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

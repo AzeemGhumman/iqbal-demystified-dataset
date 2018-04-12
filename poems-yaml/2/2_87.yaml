@@ -8,7 +8,7 @@
   'text': 'A restless heart throb, in every atom'
 'description': []
 'sher':
-- 'id': '2_87_1'
+- 'id': '2_87_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A restless heart throb, in every atom; | It has its abode, alone, in a multitude;'
   - 'lang': 'ro'
     'text': 'Har Ek Zarre Mein Hai Shaid Makeen Dil | Issi Jalwat Mein Hai Khalwat Nasheen Dil'
-- 'id': '2_87_2'
+- 'id': '2_87_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

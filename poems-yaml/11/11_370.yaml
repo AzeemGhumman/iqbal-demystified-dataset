@@ -8,14 +8,14 @@
   'text': 'II-I'
 'description': []
 'sher':
-- 'id': '11_370_1'
+- 'id': '11_370_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'اگر دانا دل و صافی ضمیر است | فقیری با تہی دستی امیر است'
   - 'lang': 'en'
     'text': 'If a wise man holds clean conscience and soul, | Being a poor man he plays a wise man’s role,'
-- 'id': '11_370_2'
+- 'id': '11_370_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

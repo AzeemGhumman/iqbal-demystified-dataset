@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem recapitulates the history of mankind in a nutshell, starting with the time of creation of S. Adam A.S. and his spouse and their transfer from the garden of Paradise to earth up to the present age. It describes the achievements as well as the failures of the celebrities of the human race in all walks of life, in all races and in all countries. Though the poem is short it is full of mysticism and has a large number of allusions to the Holy Qur’an and important events in human history. However, the essence and the raison de’tre for the poem comes in the last two verses. The end purpose of all human research and thinking is ascertaining the nature of the ultimate Truth. Though this effort has built up a large and rich treasure of knowledge the nature of the ultimate Truth is still a mystery. It cannot be ascertained without the Love of God. This concept is one of the favorite topics of ‘Allamah Iqbal and is often repeated in his works. Cf. | (175) ‘Aèèar, or Ruma, or Raza or Ghazala you may be | Without dawn''s wailing nothing achieved will be'
 'sher':
-- 'id': '1_38_1'
+- 'id': '1_38_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sune Koi Meri Ghurbat Ki Dastan Mujh Se | Bhulaya Qissa-e-Peman-e-Awaleen Main Ne'
-- 'id': '1_38_2'
+- 'id': '1_38_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -39,7 +39,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Lagi Na Meri Tabiat Riyaz-e-Jannat Mein | Piya Shaur Ka Jab Jaam-e-Aatisheen Main Ne'
-- 'id': '1_38_3'
+- 'id': '1_38_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -52,7 +52,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Rahi Haqiqat-e-Alam Ki Justujoo Mujh Ko | Dikhaya Auj-e-Khiyal-e-Falak Nasheeen Main Ne'
-- 'id': '1_38_4'
+- 'id': '1_38_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -65,7 +65,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mila Mazaj Tagiyur Pasand Kuch Aesa | Kiya Qarar Na Zair-e-Falak Kahin Main Ne'
-- 'id': '1_38_5'
+- 'id': '1_38_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -78,7 +78,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Nikala Kaabe Se Pathar Ki Mooraton Ko Kabhi | Kabhi Buton Ko Banaya Haram Nasheen Main Ne'
-- 'id': '1_38_6'
+- 'id': '1_38_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kabhi Main Zauq-e-Takalum Mein Toor Par Pohancha | Chupaya Noor-e-Azal Zair-e-Asteen Main Ne'
-- 'id': '1_38_7'
+- 'id': '1_38_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kabhi Saleeb Pe Apnon Ne Mujh Ko Latkaya | Kiya Falak Ko Safar, Chor Kar Zameen Main Ne'
-- 'id': '1_38_8'
+- 'id': '1_38_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -120,7 +120,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kabhi Mein Ghaar-e-Hira Mein Chupa Raha Barson | Diya Jahan Ko Kabhi Jaam-e-Akhreen Main Ne'
-- 'id': '1_38_9'
+- 'id': '1_38_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sunaya Hind Mein Aa Kar Surood-e-Rabbani | Pasand Ki Kabhi Yunan Ki Sar Zameen Main Ne'
-- 'id': '1_38_10'
+- 'id': '1_38_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -149,7 +149,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Diyar-e-Hind Ne Jis Dam Meri Sada Na Suni | Basaya Khitta-e-Japan-o-Mulk-e-Cheen Main Ne'
-- 'id': '1_38_11'
+- 'id': '1_38_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -162,7 +162,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Banaya Zarron Ki Tarkeeb Se Kabhi Alam | Khilaf-e-Ma’ani-e-Taleem-e-Ahl-e-Deen Main Ne'
-- 'id': '1_38_12'
+- 'id': '1_38_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -175,7 +175,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Lahoo Se Laal Kiya Saikron Zameenon Ko | Jahan Mein Chair Ke Pikaar-e-Aqal-o-Deen Main Ne'
-- 'id': '1_38_13'
+- 'id': '1_38_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Samajh Mein Ayi Haqiqat Na Jab Sitaron Ki | Issi Khiyal Mein Raatain Guzar Deen Main Ne'
-- 'id': '1_38_14'
+- 'id': '1_38_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -201,7 +201,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dra Sakeen Na Kalisa Ki Mujh Ko Talwarain | Sikhaya Masla-e-Gardish-e-Zameen Main Ne'
-- 'id': '1_38_15'
+- 'id': '1_38_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -214,7 +214,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kasish Ka Raaz Haweda Kiya Zamane Par | Laga Ke Aaeena-e-Aqal-e-Doorbeen Main Ne'
-- 'id': '1_38_16'
+- 'id': '1_38_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -227,7 +227,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kiya Aseer Shuaon Ko, Barq-e-Muztir Ko | Bana Di Ghairat-e-Jannat Ye Sarzameen Main Ne'
-- 'id': '1_38_17'
+- 'id': '1_38_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -236,7 +236,7 @@
     'text': 'Ah! But I could not reach the Existence'' secrets | Though I made the world beautiful with my Intellect'
   - 'lang': 'ro'
     'text': 'Magar Khabar Na Milli Ah! Raaz-e-Hasti Ki | Kiya Khird Se Jahan Ko Teh-e-Nageen Main Ne'
-- 'id': '1_38_18'
+- 'id': '1_38_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

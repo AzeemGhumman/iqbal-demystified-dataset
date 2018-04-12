@@ -8,14 +8,14 @@
   'text': 'I-XI'
 'description': []
 'sher':
-- 'id': '11_172_1'
+- 'id': '11_172_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خدا آن ملتی را سروری داد | کہ تقدیرش بدست خویش بنوشت'
   - 'lang': 'en'
     'text': 'God gave that nation a sway o’er lands, | Who shaped her fortunes with her hands.'
-- 'id': '11_172_2'
+- 'id': '11_172_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,13 +10,13 @@
 - 'lang': 'en'
   'text': 'Note 1: The first five poems, inspired by Divine Love, are addressed to God. Outwardly it seems as if the poet is talking about himself, but actually he is singing Hymns in praise of God. This Ghazal excels the succeeding Ghazals in sublimity of thought, uniqueness of execution, style, figures of speech and its rapturous nature. | The poet owns his own non-existence and is conscious that he exists only because of God’s Creative Attribute. He is grateful to God for having blessed him with the boundless Passion of Love for Him, which lends wings to his poesy and he can find access to the precincts of the Absolute Being. He is a true lover of God and is not contented, like others, to realise His Essence through His Attributes. Though he is fully aware that Houris and Angels, being creatures of light, are aery, yet he can catch them in the lassoo of his imagination. His sharp and piercing glances can ruffle the moulds in which He manifests Himself, but sometimes the doubts - and conflicts that smoulder in his breast make him miss the mark. God by creating man, who is the image of God on earth, has divulged the mystery that lay hid in the womb of Nature. | Note 2: Mr. Naeem Siddiqui did not translate this ode. So, the translation of this ode has been taken from Gabriel’s Wing by Syed Akbar Ali Shah.'
 'sher':
-- 'id': '2_1_1'
+- 'id': '2_1_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ميري نوائے شوق سے شور حريم ذات ميں | غلغلہ ہائے الاماں بت کدئہ صفات ميں'
   - 'lang': 'en'
-    'text': 'A blaze is raging near His Throne, By my strains that burn like flames | The cries of "Mercy !" rise aloft , From the Temple of His Names .'
+    'text': 'A blaze is raging near His Throne , By my strains that burn like flames | The cries of "Mercy !" rise aloft , From the Temple of His Names .'
     'notes':
     - 'phrase': 'blaze'
       'meaning': 'Blaze: Conflagration.'
@@ -35,7 +35,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Meri Nawa’ay Shauq Se Shor Hareem-e-Zaat Mein | Ghalghala Ha’ay Al-Aman But Kada’ay Sifaat Mein'
-- 'id': '2_1_2'
+- 'id': '2_1_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -51,7 +51,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hoor-o-Farishta Hain Aseer Mere Takhiyulat Mein | Meri Nigah Se Khalal Teri Tajaliat Mein'
-- 'id': '2_1_3'
+- 'id': '2_1_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Garche Hai Meri Justujoo Dair-e-Haram Ki Naqsh Band | Meri Faghan Se Rustkhaiz Kaaba-O-Somanat Mein'
-- 'id': '2_1_4'
+- 'id': '2_1_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gah Meri Nigah-e-Taiz Cheer Gyi Dil-e-Wujood | Gah Uljah Ke Reh Gyi Meri Touwahamaat Mein'
-- 'id': '2_1_5'
+- 'id': '2_1_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

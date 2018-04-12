@@ -8,14 +8,14 @@
   'text': 'III-III'
 'description': []
 'sher':
-- 'id': '11_373_1'
+- 'id': '11_373_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نہان اندر دو حرفی سر کار است | مقام عشق منبر نیست ، دار است'
   - 'lang': 'en'
     'text': 'The being’s secret hids in two words of sage, | On cross the love lies and never on stage.'
-- 'id': '11_373_2'
+- 'id': '11_373_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

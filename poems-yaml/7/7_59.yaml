@@ -8,14 +8,14 @@
   'text': '(59)'
 'description': []
 'sher':
-- 'id': '7_59_1'
+- 'id': '7_59_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'من ای دانشوران در پیچ و تابم | خرد را فہم این معنی محال است'
   - 'lang': 'en'
     'text': 'This riddle is beyond me–reason is | Unable to resolve it, O wise men –'
-- 'id': '7_59_2'
+- 'id': '7_59_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'OPEN SECRETS'
 'description': []
 'sher':
-- 'id': '3_74_1'
+- 'id': '3_74_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A nation whose youth are endowed, With self as strong and hard as steel: | No need of piercing swords in war, Such people brave can ever feel.'
   - 'lang': 'ro'
     'text': 'Uss Qoum Ko Shamsheer Ki Hajat Nahin Rehti | Ho Jis Ke Jawanon Ki Khudi Soorat-e-Foulad'
-- 'id': '3_74_2'
+- 'id': '3_74_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The world of Pleiades and the Moon, By natural laws is chained and bound; | Whereas the world in which you dwell, Owns insight, will and mind much sound.'
   - 'lang': 'ro'
     'text': 'Na-Cheez Jahan-e-Meh-o-Parveen Tere Agay | Woh Alam-e-Majboor Hai, Tu Alam-e-Azad'
-- 'id': '3_74_3'
+- 'id': '3_74_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'What do the quivering waves imply, Save enormous zeal and zest for quest? | What lies concealed in mother shell, Is gift of God Who knows it best.'
   - 'lang': 'ro'
     'text': 'Moujon Ki Tapish Kya Hai, Faqt Zauq-e-Talab Hai | Pinhan Jo Sadaf Mein Hai, Woh Doulat Hai Khudadad'
-- 'id': '3_74_4'
+- 'id': '3_74_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

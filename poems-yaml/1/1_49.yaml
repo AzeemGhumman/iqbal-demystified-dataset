@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Khwajah Nizam-Dan Mahbub Ilaha is one of the sufas and saints whom ‘Allamah Iqbal held in great reverence. ‘Allamah Iqbal was a frequent visitor of the saint''s tomb. This poem is a spontaneous expression of his feelings when he visited the tomb in 1905 just before leaving for Europe for higher studies. He requests the saint for supplication to God to grant him all the virtues of a Mum’in and a safe return home to remain under the loving care of his parents. This should be the ambition and desire of every Mum’in.'
 'sher':
-- 'id': '1_49_1'
+- 'id': '1_49_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'What angels recite is your exalted name | Your threshold is exalted, your munificence is gerneral'
   - 'lang': 'ro'
     'text': 'Farishte Parhte Hain Jis Ko Woh Naam Hai Tera | Bari Janab Teri, Faiz Aam Hai Tera'
-- 'id': '1_49_2'
+- 'id': '1_49_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The stars are stable by the attraction of your Love | Your system is like the system of the sun'
   - 'lang': 'ro'
     'text': 'Sitare Ishq Ke Teri Kashish Se Hain Qaeem | Nizam-e-Mehr Ki Soorat Hai Tera'
-- 'id': '1_49_3'
+- 'id': '1_49_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Teri Lehad Ki Ziarat Hai Zindagi Dil Ki | Maseeh-o-Khizar Se Uncha Maqam Hai Tera'
-- 'id': '1_49_4'
+- 'id': '1_49_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The Beloved’s Nature is veiled in your Love | High is your dignity, exalted is your veneration'
   - 'lang': 'ro'
     'text': 'Nihan Hai Teri Mohabbat Mein Rang-e-Mehboobi | Bari Hai Shaan, Ehtaraam Hai Tera'
-- 'id': '1_49_5'
+- 'id': '1_49_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'If my heart has a stain the stain is of your love | But if cheerful I am, I am the rose of your spring'
   - 'lang': 'ro'
     'text': 'Agar Siyah Dalam, Dagh-e-Lala Zaar-e-Touwaam | Wagar Kushadah Jabeeneam, Gul-e-Bahar-e-Tawaam'
-- 'id': '1_49_6'
+- 'id': '1_49_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'Leaving the garden I have come out like the rose of your fragrance | I am determined to go through the test of perseverance'
   - 'lang': 'ro'
     'text': 'Chaman Ko Chor Ke Nikla Hun Misl-e-Nukhat-e-Gul | Huwa Hai Sabr Ka Manzoor Imtihaan Mujh Ko'
-- 'id': '1_49_7'
+- 'id': '1_49_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'I have started with zeal from the homeland’s tavern | The pleasure of the wine of knowledge is speeding me up'
   - 'lang': 'ro'
     'text': 'Chali Hai Le Ke Watan Ke Nigar Khane Se | Sharaab-e-Ilm Ki Lazzat Kushan Kushan Mujh Ko'
-- 'id': '1_49_8'
+- 'id': '1_49_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'I am gazing at the mercy’s cloud, I am the wilderness tree | With the Mercy of God I am not in need of the gardener'
   - 'lang': 'ro'
     'text': 'Nazar Hai Abar-e-Karam Par, Darkht-e-Sehra Hun | Kiya Khuda Ne Mohtaj-e-Baghban Mujh Ko'
-- 'id': '1_49_9'
+- 'id': '1_49_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'May I be living elegantly in the world like the sun | May I be bestowed with that ladder by your blessings'
   - 'lang': 'ro'
     'text': 'Falak Nasheen Sift-e-Mehr Hun Zamane Mein | Teri Dua Se Atta Ho Woh Nardbaan Mujh Ko'
-- 'id': '1_49_10'
+- 'id': '1_49_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'May I be so far ahead of the fellow travelers | That I may be regarded as the destination by the caravan'
   - 'lang': 'ro'
     'text': 'Maqam Hum Safron Se Ho Iss Qadar Agay | Ke Samajhe Manzil-e-Maqsood Karwaan Mujh Ko'
-- 'id': '1_49_11'
+- 'id': '1_49_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'May my pen not hurt anybody’s feelings | May I have complaint against none under the sun'
   - 'lang': 'ro'
     'text': 'Meri Zuban Se Kisi Ka Dil Na Dukhe | Kisi Se Shikwah Na Ho Zair-e-Asman Mujh Ko'
-- 'id': '1_49_12'
+- 'id': '1_49_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'Whose effect may penetrate the hearts like a comb | May I receive such a clamor from your threshold'
   - 'lang': 'ro'
     'text': 'Dilon Ko Chaak Kare Misl-e-Shana Jis Ka Asar | Teri Janab Se Aesi Mile Afghan Mujh Ko'
-- 'id': '1_49_13'
+- 'id': '1_49_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'The nest I had made by picking up bits and pieces | May I see the same nest in the garden again'
   - 'lang': 'ro'
     'text': 'Banaya Tha Jise Chun Chun Ke Khar-o-Khs Main Ne | Chaman Mein Phir Nazar Aye Woh Asiyan Mujh Ko'
-- 'id': '1_49_14'
+- 'id': '1_49_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -147,7 +147,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Phir Aa Rakhun Qadam-e-Madar-o-Pidar Pe Jabeen | Kiya Jinhon Ne Mohabbat Ka Raazdaan Mujh Ko'
-- 'id': '1_49_15'
+- 'id': '1_49_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -160,7 +160,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Woh Shama-e-Bargah-e-Khandan-e-Murtazvi | Rahe Ga Misl-e-Haram Jis Ka Astan Mujh Ko'
-- 'id': '1_49_16'
+- 'id': '1_49_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -169,7 +169,7 @@
     'text': 'Whose breath opened the flower bud of my longing | By whose benevolence I became sagacious'
   - 'lang': 'ro'
     'text': 'Nafas Se Jis Ke Khuli Meri Arzoo Ki Kali | Banaya Jis Ki Marawwat Ne Nuktadan Mujh Ko'
-- 'id': '1_49_17'
+- 'id': '1_49_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -178,7 +178,7 @@
     'text': 'Pray to the terrestrial and the celestial world’s Lord | That I may again become happy with paying homage to him'
   - 'lang': 'ro'
     'text': 'Dua Ye Kar Ke Khudawand-e-Asman-o-Zameen | Kare Phir Iss Ki Ziarat Se Shadman Mujh Ko'
-- 'id': '1_49_18'
+- 'id': '1_49_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -191,7 +191,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Woh Mera Yousaf-e-Sani, Woh Shama-e-Mehfil-e-Ishq | Huwi Hai Jis Ki Akhuwat Qarar-e-Jaan Mujh Ko'
-- 'id': '1_49_19'
+- 'id': '1_49_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -200,7 +200,7 @@
     'text': 'Who in his love, destroying the book of “you and I” | Has brought me up to my youth in the environment of happiness'
   - 'lang': 'ro'
     'text': 'Jala Ke Jis Ki Mohabbat Ne Daftar-e-Man-o-Tu | Hawaye Aysh Mein Pala, Kiya Jawan Mujh Ko'
-- 'id': '1_49_20'
+- 'id': '1_49_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -209,7 +209,7 @@
     'text': 'May he remain happy in the world like rose | Whom I have always held dearer than my life'
   - 'lang': 'ro'
     'text': 'Riyaz-e-Dehr Mein Manind-e-Gul Rahe Khandan | Ke Hai Aziz Tar Az Jaan Woh Jaan-e-Jaan Mujh Ko'
-- 'id': '1_49_21'
+- 'id': '1_49_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

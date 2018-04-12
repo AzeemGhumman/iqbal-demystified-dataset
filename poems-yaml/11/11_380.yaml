@@ -8,14 +8,14 @@
   'text': 'IV-II'
 'description': []
 'sher':
-- 'id': '11_380_1'
+- 'id': '11_380_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمانے کہ داندرمز دین را | نساید پیش غیر اللہ جبین را'
   - 'lang': 'en'
     'text': 'His path’s true sign if a Muslim could know. | To else save God, he would never bow.'
-- 'id': '11_380_2'
+- 'id': '11_380_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

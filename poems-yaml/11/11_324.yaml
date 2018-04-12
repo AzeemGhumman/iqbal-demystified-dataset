@@ -8,14 +8,14 @@
   'text': 'IX-III'
 'description': []
 'sher':
-- 'id': '11_324_1'
+- 'id': '11_324_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خودی را از وجود حق وجودے | خودی را از نمود حق نمودے'
   - 'lang': 'en'
     'text': 'From God’s own being, the ‘self’ got a ‘being’ so | From God’s own show, to ‘self’ He gave a show.'
-- 'id': '11_324_2'
+- 'id': '11_324_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

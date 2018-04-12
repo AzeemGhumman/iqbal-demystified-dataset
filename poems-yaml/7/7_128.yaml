@@ -8,14 +8,14 @@
   'text': '(128)'
 'description': []
 'sher':
-- 'id': '7_128_1'
+- 'id': '7_128_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز من گو صوفیان با صفا را | خدا جویان معنی آشنا را'
   - 'lang': 'en'
     'text': 'Convey this to those seekers after God, | The Sufis, who know all things recondite,'
-- 'id': '7_128_2'
+- 'id': '7_128_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

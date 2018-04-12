@@ -8,14 +8,14 @@
   'text': 'XV-X'
 'description': []
 'sher':
-- 'id': '11_269_1'
+- 'id': '11_269_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خدایا وقت  ن درویش خوش باد | کہ دلہا از دمش چون غنچہ بگشاد'
   - 'lang': 'en'
     'text': 'The days of that ‘Dervesh’ O God keep gay, | Whose breath opes hearts like buds in-early-May.'
-- 'id': '11_269_2'
+- 'id': '11_269_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

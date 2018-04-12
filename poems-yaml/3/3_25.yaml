@@ -8,7 +8,7 @@
   'text': 'DAZZLED BY EUROPE'
 'description': []
 'sher':
-- 'id': '3_25_1'
+- 'id': '3_25_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': '1'
   - 'lang': 'ro'
     'text': '(1)'
-- 'id': '3_25_2'
+- 'id': '3_25_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Your light is only Europe’s light reflected: | You are four walls her architects have built,'
   - 'lang': 'ro'
     'text': 'Tera Wujood Sarapa Tajali-e-Afrang | Ke Tu Wahan Ke Amarat Garon Ki Hai Tameer'
-- 'id': '3_25_3'
+- 'id': '3_25_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'A shell of dry mud with no tenant soul, | An empty scabbard chased with flowery gilt.'
   - 'lang': 'ro'
     'text': 'Magar Ye Paidar-e-Khaki Khudi Se Hai Khali | Faqat Nayam Hai Tu, Zar Nigar-o-Beshamsheer!'
-- 'id': '3_25_4'
+- 'id': '3_25_004'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': '2'
   - 'lang': 'ro'
     'text': '(2)'
-- 'id': '3_25_5'
+- 'id': '3_25_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'To your mind God’s existence seems unproved: | Your own existence seems not proved to mine.'
   - 'lang': 'ro'
     'text': 'Tera Nigah Mein Sabit Nahin Khuda Ka Wujood | Meri Nigah Mein Sabit Nahin Wujood Tera'
-- 'id': '3_25_6'
+- 'id': '3_25_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

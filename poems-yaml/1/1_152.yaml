@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem refers to the battle of Yarmuk waged during the Khilafah of S. ‘Umar Faruq R.A. (636) at Yarmuk against the Byzantine wing of the Roman Empire. The battle was fought between the flowers of both armies. The Roman army was a well trained, well equipped and well organized body of 300,00 men. The Muslim army was hardly 46,000 men strong and was neither well equipped nor well trained. However, as the story related in this poem states, every soldier in the Islamic army was full of zeal for fighting in the cause of God. There was no pessimism and the Islamic formula of ghaza or shahad (conqueror or martyr) operated. The “young man” in the second verse was just a soldier and his conversation with S. Abu ‘Ubaidah R.A., the commander portrays the general spirit and zeal of the whole army for fighting in whom even being slain in the cause of God was considered supreme success. Every person in the Muslim army was full of that level of zeal.'
 'sher':
-- 'id': '1_152_1'
+- 'id': '1_152_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Saf Basta The Arab Ke Jawanan-e-Taeghband | Thi Muntazir Hina Ki Uroos-e-Zameen-e-Shaam'
-- 'id': '1_152_2'
+- 'id': '1_152_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'A young man who was restless like mercury | Approaching the army’s general started saying'
   - 'lang': 'ro'
     'text': 'Ek Naujawan Soorat-e-Seemab Muztarib | Aa Kar Huwa Ameer-e-Asakar Se Hum Kalam'
-- 'id': '1_152_3'
+- 'id': '1_152_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Bu-Ubaidah (R.A.) Rukhsat-e-Paikaar De Mujhe | Labraiz Ho Gya Mere Sabr-o-Sakoon Ka Jaam'
-- 'id': '1_152_4'
+- 'id': '1_152_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -54,7 +54,7 @@
     'text': 'I am becoming impatient in the Holy Prophet’s separation | In his Love even a moment’s life has become hard'
   - 'lang': 'ro'
     'text': 'Be Taab Ho Raha Hun Mein Firaaq-e- Rasool (S.A.W.) Mein | Ek Dam Ki Zindagi Bhi Mohabbat Mein Hai Haraam'
-- 'id': '1_152_5'
+- 'id': '1_152_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
     'text': 'As I am going to the Holy Prophet’s audience | I shall gladly convey if there is any message”'
   - 'lang': 'ro'
     'text': 'Jata Hun Mein Huzoor-e-Risalat Panah (S.A.W.) Mein | Le Jaun Ga Khushi Se Agar Ho Koi Peyam'
-- 'id': '1_152_6'
+- 'id': '1_152_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -72,7 +72,7 @@
     'text': 'The general’s eye, whose sight was like an un-sheathed sword, | Noticing this zeal and fervor was moist with tears'
   - 'lang': 'ro'
     'text': 'Ye Zauq-o-Shauq Dekh Kar Purnam Huwi Woh Ankh | Jis Ki Nigah Thi Safat-e-Taegh-e-Benayam'
-- 'id': '1_152_7'
+- 'id': '1_152_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -81,7 +81,7 @@
     'text': 'The army’s general exclaimed., “You are that young man | The respect for whose Love is binding on the elders'
   - 'lang': 'ro'
     'text': 'Bola Ameer-e-Fouj Ke “Woh Naujawan Hai Tu | Peeron Pet Ere Ishq Ka Wajib Hai Ehtaram'
-- 'id': '1_152_8'
+- 'id': '1_152_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -90,7 +90,7 @@
     'text': 'May the God of Muhammad fulfill your wish | How elegant is the stage of your Love!'
   - 'lang': 'ro'
     'text': 'Pure Kare Khuda’ay Muhammad (S.A.W.) Teri Murad | Kitna Buland Teri Mohabbat Ka Hai Maqam!'
-- 'id': '1_152_9'
+- 'id': '1_152_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -99,7 +99,7 @@
     'text': 'When you arrive in the audience of the Holy Prophet | Present this petition with my sincere compliments'
   - 'lang': 'ro'
     'text': 'Pohanche Jo Bargah-e- Rasool-e-Ameen (S.A.W.)   Mein Tu | Karna Ye Arz Meri Taraf Se Pas Az Salam'
-- 'id': '1_152_10'
+- 'id': '1_152_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

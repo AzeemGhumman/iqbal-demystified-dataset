@@ -8,7 +8,7 @@
   'text': 'I was in the solitude of Selfhood lost'
 'description': []
 'sher':
-- 'id': '2_82_1'
+- 'id': '2_82_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I was in the solitude of Selfhood lost, | And was, it seemed, unaware of the Presence;'
   - 'lang': 'ro'
     'text': 'Khudi Ki Khalwaton Mein Gum Raha Main | Khuda Ke Samne Goya Na Tha Main'
-- 'id': '2_82_2'
+- 'id': '2_82_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

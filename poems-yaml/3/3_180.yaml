@@ -8,7 +8,7 @@
   'text': 'TO THE PALESTINIAN ARABS'
 'description': []
 'sher':
-- 'id': '3_180_1'
+- 'id': '3_180_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'I know the fire that burns throughout your frame, | The lands of world still fear its scorching flame.'
   - 'lang': 'ro'
     'text': 'Zamana Ab Bhi Nahin Jis Ke Souz Se Farig | Mein Janta Hun Woh Atish Tere Wujood Mein Hai'
-- 'id': '3_180_2'
+- 'id': '3_180_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Your cure in Geneva or London you canʹt trace, | Wind‐pipe of Franks is gripped by Jewish race.'
   - 'lang': 'ro'
     'text': 'Teri Dawa Na Geneva Mein Hai, Na London Mein | Farang Ki Rag-e-Jaan Panja-e-Yahood Mein Hai'
-- 'id': '3_180_3'
+- 'id': '3_180_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

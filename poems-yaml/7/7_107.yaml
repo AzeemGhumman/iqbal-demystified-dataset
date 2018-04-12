@@ -8,14 +8,14 @@
   'text': '(107)'
 'description': []
 'sher':
-- 'id': '7_107_1'
+- 'id': '7_107_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز آغاز خودی کس را خبر نیست | خودی در حلقۂ شام و سحر نیست'
   - 'lang': 'en'
     'text': 'Nobody knows how Selfhood came to be. | It is not of this world of Time and Space.'
-- 'id': '7_107_2'
+- 'id': '7_107_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'ANAL HAQ (I AM GOD) | Chapter 3'
 'description': []
 'sher':
-- 'id': '11_177_1'
+- 'id': '11_177_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'gallows'
       'meaning': '        Line 2 means: This sin takes to gallows or just gets grace. It refers to ''Ana-al-Haq'' of Mansoor Hallaj.'
       'occurrence': !!int '1'
-- 'id': '11_177_2'
+- 'id': '11_177_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

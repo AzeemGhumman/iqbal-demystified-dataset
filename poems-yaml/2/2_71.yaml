@@ -8,7 +8,7 @@
   'text': 'The crescent has surpassed'
 'description': []
 'sher':
-- 'id': '2_71_1'
+- 'id': '2_71_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The crescent has surpassed, The constellation’s might | And grown in plenitude, With arduous labour.'
   - 'lang': 'ro'
     'text': 'Har Ek Maqam Se Agay Guzar Gya Mah-e-Nau | Kamal Kis Ko Mayasar Huwa Hai Be-Tag-e-Dou !'
-- 'id': '2_71_2'
+- 'id': '2_71_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In vain does a bud, Blossom in confined air, | If it., bloom has been, Denied the rays of the sun.'
   - 'lang': 'ro'
     'text': 'Nafs Ke Zor Se Woh Ghuncha Wa Huwa Bhi To Kya | Jise Naseeb Nahin Aftab Ka Partou'
-- 'id': '2_71_3'
+- 'id': '2_71_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'If thy eye is pure, So will be thy heart, | For the heart mirrors, all, That the eye ever sees.'
   - 'lang': 'ro'
     'text': 'Nigah Paak Hai Teri To Pak Hai Dil Bhi | Ke Dil Ko Haq Ne Kiya Hai Nigah Ka Pairo'
-- 'id': '2_71_4'
+- 'id': '2_71_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The mountain flower grows not, In gardens well trimmed, | Despising,, to keep company, With meaner growths oil earth.'
   - 'lang': 'ro'
     'text': 'Panap Saka Na Khayaban Mein Lala-e-Dil Souz | Ke Saazgar Nahin Ye Jahan-e-Gandum-o-Jou'
-- 'id': '2_71_5'
+- 'id': '2_71_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

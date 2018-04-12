@@ -8,7 +8,7 @@
   'text': 'FAQR AND MONKERY'
 'description': []
 'sher':
-- 'id': '3_47_1'
+- 'id': '3_47_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Perhaps your faith is so much quaint and queer, | For faqr and monkery same to you appear.'
   - 'lang': 'ro'
     'text': 'Kuch Aur Cheez Hai Shaid Teri Musalmani | Teri Nigah Mein Hai Aik, Faqr-o-Ruhbani'
-- 'id': '3_47_2'
+- 'id': '3_47_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Faqr has a loathing great for monkish ease; | Its boat is ever tossed by stormy seas.'
   - 'lang': 'ro'
     'text': 'Sukoon Prasti-e-Rahab Se Faqr Hai Bezar | Faqeeh Ka Hai Safina Humasha Toofani'
-- 'id': '3_47_3'
+- 'id': '3_47_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'He yearns to put to test his frame and soul, | Display of self is his main aim and goal.'
   - 'lang': 'ro'
     'text': 'Pasand Rooh-o-Badan Ki Hai Wa Namood Iss Ko | Ke Hai Nihayat-e-Momin Khudi Ki Uryani'
-- 'id': '3_47_4'
+- 'id': '3_47_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Its life like touchstone acts for Cosmos vast: | It knows what will perish and what will last.'
   - 'lang': 'ro'
     'text': 'Wujood Saer Fee Kainat Hai Uss Ka | Usse Khabar Hai, Ye Baq Hai Aur Woh Fani'
-- 'id': '3_47_5'
+- 'id': '3_47_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Ask it if things on which your eyes are bent, | Are real or merely riot of hue and scent!'
   - 'lang': 'ro'
     'text': 'Issi Se Puch Ke Paish-e-Nigah Hai Jo Kuch | Jahan Hai Ya Ke Faqt Rang-o-Boo Ki Tughyani'
-- 'id': '3_47_6'
+- 'id': '3_47_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(134)'
 'description': []
 'sher':
-- 'id': '7_134_1'
+- 'id': '7_134_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'زمین خاک در میخانۂ ما | فلک یک گردش پیمانۂ ما'
   - 'lang': 'en'
     'text': 'The earth is mere dust at our tavern’s door, | The sky our wine-cup going round, no more.'
-- 'id': '7_134_2'
+- 'id': '7_134_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

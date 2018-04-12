@@ -8,14 +8,14 @@
   'text': 'I-VI'
 'description': []
 'sher':
-- 'id': '11_167_1'
+- 'id': '11_167_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمان از خودی مرد تمام است | بخاکش تا خودی میرد غلام است'
   - 'lang': 'en'
     'text': 'From self a Muslim is man perfect | He is slave when it dies in heart in fact.'
-- 'id': '11_167_2'
+- 'id': '11_167_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

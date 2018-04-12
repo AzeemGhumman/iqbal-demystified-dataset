@@ -8,14 +8,14 @@
   'text': 'I-VII'
 'description': []
 'sher':
-- 'id': '11_352_1'
+- 'id': '11_352_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بگو از من بہ پرویزان این عصر | نہ فرہادم کہ گیرم تیشہ در دست'
   - 'lang': 'en'
     'text': 'To tyrants of this age I would thus say, | An axe I use not in the Farhad’s way.'
-- 'id': '11_352_2'
+- 'id': '11_352_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

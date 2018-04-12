@@ -8,14 +8,14 @@
   'text': '(50)'
 'description': []
 'sher':
-- 'id': '7_50_1'
+- 'id': '7_50_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دلت می لرزد از اندیشۂ مرگ | ز بیمش زرد مانند زریری'
   - 'lang': 'en'
     'text': 'Your heart quakes with the fear of death: you pale | At the mere thought of it. Go and acquire'
-- 'id': '7_50_2'
+- 'id': '7_50_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

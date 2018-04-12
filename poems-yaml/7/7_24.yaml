@@ -8,14 +8,14 @@
   'text': '(24)'
 'description': []
 'sher':
-- 'id': '7_24_1'
+- 'id': '7_24_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'رہی در سینۂ انجم گشائی | ولی از خویشتن ناآشنائی'
   - 'lang': 'en'
     'text': 'A stranger to your own identity, | You seek new paths to the stars in the sky.'
-- 'id': '7_24_2'
+- 'id': '7_24_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

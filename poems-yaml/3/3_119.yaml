@@ -8,7 +8,7 @@
   'text': 'BEING'
 'description': []
 'sher':
-- 'id': '3_119_1'
+- 'id': '3_119_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O man, your stay and show beneath the sky, Is short and brief, like spark, that parts from flame: | Who can make man detect this fact so clear, That being of man enjoys high rank and name?'
   - 'lang': 'ro'
     'text': 'Ae Ke Hai Zair-e-Falak Misl-e-Sharar Teri Numood | Kon Samjhaye Tujhe Kya Hain Maqamat-e-Wujood!'
-- 'id': '3_119_2'
+- 'id': '3_119_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'If craftsmanship of man is quite devoid, Of gift and tact the self to form and frame, | Alas! such art and music of the flute, Are naught but source of much disgrace and shame.'
   - 'lang': 'ro'
     'text': 'Gar Hunar Mein Nahin Tameer-e-Khudi Ka Johar | Waye Soorat-Gari-o-Shairi-o-Naaye-o-Surood'
-- 'id': '3_119_3'
+- 'id': '3_119_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

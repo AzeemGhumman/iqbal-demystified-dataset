@@ -8,7 +8,7 @@
   'text': 'Knowledge and reason work in manner strange'
 'description': []
 'sher':
-- 'id': '2_77_1'
+- 'id': '2_77_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Knowledge and reason work in manner strange, | In case of Love ’gainst heart and sight they range.'
   - 'lang': 'ro'
     'text': 'Shaur-o-Hosh-o-Khirad Ka Maamla Hai Ajeeb | Maqam-e-Shauq Mein Hain Sub Dil-o-Nazar Ke Raqeeb'
-- 'id': '2_77_2'
+- 'id': '2_77_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The end of Muslim folk I know full well, | On theoretic points their preachers dwell.'
   - 'lang': 'ro'
     'text': 'Mein Janta Hun Jamaat Ka Hashar Kya Ho Ga | Masael-e-Nazari Mein Ulajh Gya Hai Khateeb'
-- 'id': '2_77_3'
+- 'id': '2_77_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Though bird of mead hovers my lodge around, | Yet has no share of my melodious sound.'
   - 'lang': 'ro'
     'text': 'Agarche Mere Nasheeman Ka Kar Raha Hai Tawwaaf | Meri Nawa Mein Nahin Taair-e-Chaman Ka Naseeb'
-- 'id': '2_77_4'
+- 'id': '2_77_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The Turks, I hear, between the lines can read, | Who can this verse so odd convey with speed?'
   - 'lang': 'ro'
     'text': 'Suna Hai Main Ne Sukhan Ras Hai Turk-e-Usmani | Sunaye Kon Usse Iqbal Ka Ye Shair-e-Ghareeb'
-- 'id': '2_77_5'
+- 'id': '2_77_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

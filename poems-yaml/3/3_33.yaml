@@ -8,7 +8,7 @@
   'text': 'HEART AND INTELLECT'
 'description': []
 'sher':
-- 'id': '3_33_1'
+- 'id': '3_33_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Clay‐made man and angelic hosts, All are swayed by wit and mind: | Naught lies beyond the reach of wit, Bestowed by God benign and kind.'
   - 'lang': 'ro'
     'text': 'Har Khaki-o-Noori Pe Hukoomat Hai Khird Ki | Bahir Nahin Kuch Aqal-e-Khudadad Ki Zad Se'
-- 'id': '3_33_2'
+- 'id': '3_33_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

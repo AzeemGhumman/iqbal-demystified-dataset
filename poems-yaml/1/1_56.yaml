@@ -8,7 +8,7 @@
   'text': 'ONE SHOULD NOT SEE THE SPECTACLE WITH THE MATERIAL EYE'
 'description': []
 'sher':
-- 'id': '1_56_1'
+- 'id': '1_56_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'One should not see the Spectacle with the material eye | If one wants to see Him he should open the insight''s eye'
   - 'lang': 'ro'
     'text': 'Zahir Ki Ankh Se Na Tamasha Kare Koi | Ho Dekhna To Didah-e-Dil Wa Kare Koi'
-- 'id': '1_56_2'
+- 'id': '1_56_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -30,7 +30,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mansoor Ko Huwa Lab-e-Goya Payam-e-Mout | Ab Kya Kisi Ke Ishq Ka Dawa Kare Koi'
-- 'id': '1_56_3'
+- 'id': '1_56_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -43,7 +43,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ho Deed Ka Jo Shauq To Ankhon Ko Band Kar | Hai Dekhna Yehi Ke Na Dekha Kare Koi'
-- 'id': '1_56_4'
+- 'id': '1_56_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -52,7 +52,7 @@
     'text': 'I am the extreme Love, Thou art the extreme Beauty | One should see me or witness Thy Spectacle'
   - 'lang': 'ro'
     'text': 'Main Intihaye Ishq Hun, Tu Intihaye Husn | Dekhe Mujhe Ke Tujh Ko Tamasha Kare Koi'
-- 'id': '1_56_5'
+- 'id': '1_56_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -65,7 +65,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Uzr Afreen-e-Jurm- Hai Husn-e-Dost | Mehshar Mein Uzr Taza Na Paida Kare Koi'
-- 'id': '1_56_6'
+- 'id': '1_56_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -74,7 +74,7 @@
     'text': 'O Companion! It is not possible to close this zealous eye! | In what other manner should one try to witness Him'
   - 'lang': 'ro'
     'text': 'Chupti Nahin Hai Ye Nigah-e-Shauq Hum-Nasheen | Phir Aur Kis Tarah Unhain Dekha Kare Koi'
-- 'id': '1_56_7'
+- 'id': '1_56_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -87,7 +87,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Arh Baithe Kya Samajh Ke Bhala Toor Par Kaleem | Taqqat Ho Deed Ki To Taqaza Kare Koi'
-- 'id': '1_56_8'
+- 'id': '1_56_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -96,7 +96,7 @@
     'text': 'Even the eyebrow''s movement is unwelcome to the Sight | With the eye of the narcissus should one see Thee'
   - 'lang': 'ro'
     'text': 'Nazare Ko Ye Junbish-e-Mazgan Bhi Bar Hai | Nargis Ki Ankh Se Tujhe Dekha Kare Koi'
-- 'id': '1_56_9'
+- 'id': '1_56_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

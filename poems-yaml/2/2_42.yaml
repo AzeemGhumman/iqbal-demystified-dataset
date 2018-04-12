@@ -8,7 +8,7 @@
   'text': 'You are neither for the earth nor for the heaven'
 'description': []
 'sher':
-- 'id': '2_42_1'
+- 'id': '2_42_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'You are neither for the earth nor for the heaven: | The world is for you, and not you for the world.'
   - 'lang': 'ro'
     'text': 'Na Tu Zameen Ke Liye Hai Na Asman Ke Liye | Jahan Hai Tere Liye, Tu Nahin Jahan Ke Liye'
-- 'id': '2_42_2'
+- 'id': '2_42_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The sparks Reason and Heart are shed of the flame of Love: | That one to burn the straw, this one for burning the field of reeds.'
   - 'lang': 'ro'
     'text': 'Ye Aqal-o-Dil Hain Sharar Shola-e-Mohabbat Ke | Woh Khaar-o-Khs Ke Liye Hai, Ye Neetan Ke Liye'
-- 'id': '2_42_3'
+- 'id': '2_42_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'This garden is for painful strains: | Neither for enjoying the roses nor for making a nest.'
   - 'lang': 'ro'
     'text': 'Maqam-e-Parwarish-e-Aah-o-Nala Hai Ye Chaman | Na Sair-e-Gul Ke Liye Hai Na Ashiyan Ke Liye'
-- 'id': '2_42_4'
+- 'id': '2_42_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'How long, while your ship remains in Ravi, Nile and Euphrates? | When it is meant for the Ocean, which knows no bounds.'
   - 'lang': 'ro'
     'text': 'Rahe Ga Ravi-o-Neel-o-Firat Mein Kab Tak | Tera Safina Ke Hai Behar-e-Bekaran Ke Liye!'
-- 'id': '2_42_5'
+- 'id': '2_42_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Once who were beacons to the brightest stars, | Have long been awaiting a guide to show them the way now.'
   - 'lang': 'ro'
     'text': 'Nishan-e-Rah Dikhate The Jo Sitaron Ko | Taras Gye Hain Kisi Mard-e-Rah Daan Ke Liye'
-- 'id': '2_42_6'
+- 'id': '2_42_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'High ambition, winsome speech, a passionate soul— | This is all the luggage for a leader of the Caravan.'
   - 'lang': 'ro'
     'text': 'Nigah Buland, Sukhan Dil Nawaz, Jaan Pursouz | Yehi Hai Rakht-e-Safar Mir-e-Karwan Ke Liye'
-- 'id': '2_42_7'
+- 'id': '2_42_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'It was a plain and simple truth but the imagination of the Persian mind | Has confounded it with the poetic license.'
   - 'lang': 'ro'
     'text': 'Zara Si Baat Thi, Andaisha-e-Ajam Ne Isse | Barha Diya Hai Faqat Zaib-e-Dastan Ke Liye'
-- 'id': '2_42_8'
+- 'id': '2_42_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

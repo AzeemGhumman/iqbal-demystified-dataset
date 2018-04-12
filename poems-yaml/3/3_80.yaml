@@ -8,7 +8,7 @@
   'text': 'THE LIFE OF SELFHOOD'
 'description': []
 'sher':
-- 'id': '3_80_1'
+- 'id': '3_80_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If the self is alive, even poverty is kingship: | The prestige of the penniless is not inferior to that of Sanjar and Tughral.'
   - 'lang': 'ro'
     'text': 'Khudi Ho Zinda To Hai Faqr Bhi Shehanshahi | Nahin Hai Sanjar-o-Tughral Se Kam Shikoh-e-Faqeer'
-- 'id': '3_80_2'
+- 'id': '3_80_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'If the self is alive, the endless ocean is fordable; | To a live self the stones of a mountain are soft like silken cloth.'
   - 'lang': 'ro'
     'text': 'Khudi Ho Zinda To Darya-e-Be Karan Payaab | Khudi Ho Zinda To Kuhsar Parniyan-o-Hareer'
-- 'id': '3_80_3'
+- 'id': '3_80_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

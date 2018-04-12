@@ -8,7 +8,7 @@
   'text': 'MUSIC'
 'description': []
 'sher':
-- 'id': '3_142_1'
+- 'id': '3_142_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A song that fails to make your face, Glimmer and glow with joy and glee, | Shows that minstrelʹs blood is cold, His heart of heat and warmth is free.'
   - 'lang': 'ro'
     'text': 'Woh Naghma Sardi-e-Khoon-e-Ghazal Sara Ki Daleel | Ke Jis Ko Sun Ke Tera Chehra Taabnaak Nahin'
-- 'id': '3_142_2'
+- 'id': '3_142_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'That player on the flute who has, A conscience much defiled, impure, | With puff of breath can make a tune, Replete with poison which hasnʹt cure.'
   - 'lang': 'ro'
     'text': 'Nawa Ko Karta Hai Mouj-e-Nafs Se Zahr Alood | Woh Ne Nawaz Ke Jis Ka Zameer Paak Nahin'
-- 'id': '3_142_3'
+- 'id': '3_142_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(57)'
 'description': []
 'sher':
-- 'id': '7_57_1'
+- 'id': '7_57_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو ای شیخ حرم شاید ندانی | جہان عشق را ھم محشری ہست'
   - 'lang': 'en'
     'text': 'Perhaps, O holy one, you do not know | The world of Love too has its Judgement Day;'
-- 'id': '7_57_2'
+- 'id': '7_57_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(44)'
 'description': []
 'sher':
-- 'id': '7_44_1'
+- 'id': '7_44_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خرد زنجیری امروز و دوش است | پرستار بتان چشم و گوش است'
   - 'lang': 'en'
     'text': 'To past and present reason is a slave; | It worships images of eye and ear;'
-- 'id': '7_44_2'
+- 'id': '7_44_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

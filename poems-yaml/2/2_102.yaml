@@ -8,7 +8,7 @@
   'text': 'Thine is the world of birds and beasts, O Lord!'
 'description': []
 'sher':
-- 'id': '2_102_1'
+- 'id': '2_102_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Thine is the world of birds and beasts, O Lord! | And mine is the world of sighs by day and night;'
   - 'lang': 'ro'
     'text': 'Teri Dunya Jahan-e-Murg-o-Maahi | Meri Dunya Fughan-e-Subahgahi'
-- 'id': '2_102_2'
+- 'id': '2_102_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

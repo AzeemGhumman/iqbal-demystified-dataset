@@ -8,14 +8,14 @@
   'text': 'THE CALIPHATE AND MONARCHY | Chapter 10'
 'description': []
 'sher':
-- 'id': '11_235_1'
+- 'id': '11_235_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'عرب خود را بہ نور مصطفی سوخت | چراغ مردۂ مشرق بر افروخت'
   - 'lang': 'en'
     'text': 'The Arabs gained a lot from Prophet’s light, | That the dead lamps of East, too became bright.'
-- 'id': '11_235_2'
+- 'id': '11_235_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

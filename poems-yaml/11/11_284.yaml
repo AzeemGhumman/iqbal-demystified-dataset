@@ -8,14 +8,14 @@
   'text': 'II-II'
 'description': []
 'sher':
-- 'id': '11_284_1'
+- 'id': '11_284_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': '’’بسا کس اندوہ فردا کشیدند | کہ دی مردند و فردا را ندیدند‘‘'
   - 'lang': 'en'
     'text': 'Those who had fears for the future days, | They died yesterday before coming days.'
-- 'id': '11_284_2'
+- 'id': '11_284_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

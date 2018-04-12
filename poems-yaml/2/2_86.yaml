@@ -8,7 +8,7 @@
   'text': 'My nature is like the fresh breeze of morn'
 'description': []
 'sher':
-- 'id': '2_86_1'
+- 'id': '2_86_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'My nature is like the fresh breeze of morn: | Gentle sometimes, at other times strong;'
   - 'lang': 'ro'
     'text': 'Koi Dekhe Tau Meri Ne Nawazi | Nafs Hindi, Maqam-e-Naghma Tazi'
-- 'id': '2_86_2'
+- 'id': '2_86_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem is the spontaneous expression of the poet''s Love for the Eternal Beauty (God) and his ardent desire to witness the same. Its beauty and meanings are difficult to translate into English ''and are equally difficult to be appreciated by those un‑initiated towards that Beauty. The reader is requested to exercise his spiritual imagination.'
 'sher':
-- 'id': '1_80_1'
+- 'id': '1_80_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Beauty''s manifestation which gives restlessness to Longing | Which youth nurtures in its fancy''s lap'
   - 'lang': 'ro'
     'text': 'Jalwa-e-Husn Ke Hai Jis Se Tamanna Be-Taab | Palta Hai Jise Aghosh-e-Takhiyyul Mein Shabab'
-- 'id': '1_80_2'
+- 'id': '1_80_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'By which this ephemeral universe becomes eternal | By which youth becomes a colorful tale'
   - 'lang': 'ro'
     'text': 'Abdi Banta Hai Ye Alam-e-Fani Jis Se | Aik Afsana-e-Rangeen Hai Jawani Jis Se'
-- 'id': '1_80_3'
+- 'id': '1_80_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Which teaches us to be meditating | To be escaping the present state''s scene'
   - 'lang': 'ro'
     'text': 'Jo Sikhata Hai Humain Sar Ba Gireban Hona | Manzar-e-Alam-e-Hazir Se Gurezan Hona'
-- 'id': '1_80_4'
+- 'id': '1_80_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Which removes the immaturity of perceptions | Which makes Intellect a slave to impressions'
   - 'lang': 'ro'
     'text': 'Door Ho Jati Hai Adraak Ki Khaami Jis Se | Aqal Karti Hai Taasar Ki Ghulami Jis Se'
-- 'id': '1_80_5'
+- 'id': '1_80_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

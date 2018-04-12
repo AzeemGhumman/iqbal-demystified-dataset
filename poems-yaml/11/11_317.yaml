@@ -8,7 +8,7 @@
   'text': 'VIII-VII'
 'description': []
 'sher':
-- 'id': '11_317_1'
+- 'id': '11_317_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'cart!'
       'meaning': '        In English its equivalent word is litters, or Mehmil in Persian and Arabic.'
       'occurrence': !!int '1'
-- 'id': '11_317_2'
+- 'id': '11_317_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

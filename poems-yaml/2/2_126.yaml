@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Note : Mr. Naeem Siddiqui did not translate the second part of this poem "God''s Command to his Angels". So, this part of translation has been taken from "Poems from Iqbal" by V. G. Kiernan. ISBN: 0 19 579185 1'
 'sher':
-- 'id': '2_126_1'
+- 'id': '2_126_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'As yet the Reason is unbridled, and Love is on the road: | O Architect of Eternity! Your design is incomplete.'
   - 'lang': 'ro'
     'text': 'Aqal Hai Be Zamam Abhi, Ishq Hai Be Maqam Abhi | Naqsh Gar-e-Azal! Tera Naqsh Hai Natamam Abhi'
-- 'id': '2_126_2'
+- 'id': '2_126_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Drunkards, jurists, princes and priests all sit in ambush upon Your common folk: | The days in Your world haven’t changed as yet.'
   - 'lang': 'ro'
     'text': 'Khalq-e-Khuda Ki Ghaat Mein Rindon-o-Faqeeh-o-Meer-o-Peer | Tere Jahan Mein Hai Wohi Gardish-e-Subah-o-Sham Abhi'
-- 'id': '2_126_3'
+- 'id': '2_126_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Your rich are too unmindful, Your poor too content— | The slave as yet frets in the street, the master’s walls are still too high.'
   - 'lang': 'ro'
     'text': 'Tere Ameer Maal Mast, Tere Faqeer Haal Mast | Banda Hai Koocha Gard Abhi, Khawaja Buland Baam Abhi'
-- 'id': '2_126_4'
+- 'id': '2_126_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Learning, religion, science and art are all means to fulfill lust: | The grace of Love—the redeemer—is not as yet bestowed upon all.'
   - 'lang': 'ro'
     'text': 'Danish-e-Deen-o-Ilm-o-Fan Bandagi-e-Hawas Tamam | Ishq-e-Garah Kushaye Ka Faiz Nahin Hai Aam Abhi'
-- 'id': '2_126_5'
+- 'id': '2_126_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The essence of Life is Love, the essence of Love is the self; | Alas! This cutting sword as yet rests in the sheath!'
   - 'lang': 'ro'
     'text': 'Johar-e-Zindagi Hai Ishq, Johar-e-Ishq Hai Khudi | Aah Ke Hai Ye Taegh-e-Taiz Pardagi-e-Nayam Abhi !'
-- 'id': '2_126_6'
+- 'id': '2_126_006'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'GOD''S COMMAND TO HIS ANGELS'
   - 'lang': 'ro'
     'text': 'Farmaan-e-Khuda'
-- 'id': '2_126_7'
+- 'id': '2_126_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'RISE, and from their slumber wake the poor ones of My world | Shake the walis and windows of the mansions of the great!'
   - 'lang': 'ro'
     'text': 'Utho! Meri Dunya Ke Ghareebo Ko Jaga Do | Kakh-e-Umra Ke Dar-o-Diwar Hila Do'
-- 'id': '2_126_8'
+- 'id': '2_126_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'Kindle with the fire of faith the slow blood of the slaves | Make the fearful sparrow bold to meet the falcon''s hate!'
   - 'lang': 'ro'
     'text': 'Garmao Ghulamon Ka Lahoo Souz-e-Yaqeen Se | Kunjishik-e-Firomaya Ko Shaheen Se Lara Do'
-- 'id': '2_126_9'
+- 'id': '2_126_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'Close the hour approaches of the kingdom of the poor— | Every imprint of the past find and annihilate!'
   - 'lang': 'ro'
     'text': 'Sultani Jamhoor Ka Ata Hai Zamana | Jo Naqsh-e-Kuhan Tum Ko Nazar Aye, Mita Do'
-- 'id': '2_126_10'
+- 'id': '2_126_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Find the field whose harvest is no peasant''s daily bread— | Garner in the furnace every ripening ear of wheat!'
   - 'lang': 'ro'
     'text': 'Jis Khait Se Dehqan Ko Mayassar Nahin Rozi | Uss Khait Ke Har Khausha-e-Gandum Ko Jala Do'
-- 'id': '2_126_11'
+- 'id': '2_126_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Banish from the house of God the mumbling priest whose prayers | Like a veil creation from Creator separate!'
   - 'lang': 'ro'
     'text': 'Kyun Khaliq-o-Makhlooq  Mein Hayal Rahain Parde | Peeran-e-Kalisa Ko Kalisa Se Utha Do'
-- 'id': '2_126_12'
+- 'id': '2_126_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'God by mm''s prostrations, by man''s vows are idols cheated-. | Quench at once in My shrine and their fane the sacred light!'
   - 'lang': 'ro'
     'text': 'Haq Ra Ba-Sujoode, Sanamaan Ra Ba-Tawafe | Behter Hai Charagh-e-Haram-o-Dair Bujha Do'
-- 'id': '2_126_13'
+- 'id': '2_126_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'Rear for me another temple, build its walls with mud— | Wearied of their columned marbles, sickened is My sight!'
   - 'lang': 'ro'
     'text': 'Main Na Khush-o-Bezar Hun Mar Mar Ki Silon Se | Mere Liye Mitti Ka Haram Aur Bana Do'
-- 'id': '2_126_14'
+- 'id': '2_126_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

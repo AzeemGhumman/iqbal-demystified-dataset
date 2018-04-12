@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': '(Written in the Mosque of Cordoba)'
 'sher':
-- 'id': '2_119_1'
+- 'id': '2_119_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'My invocations are sincere and true, | They form my ablutions and prayers due.'
   - 'lang': 'ro'
     'text': 'Hai Yehi Meri Namaz, Hai Yehi Mera Wazu | Meri Nawaon Mein Hai Mere Jigar Ka Lahoo'
-- 'id': '2_119_2'
+- 'id': '2_119_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'One glance of guide such joy and warmth can grant, | On marge of stream can bloom the tulip plant.'
   - 'lang': 'ro'
     'text': 'Sohbat-e-Ahl-e-Safa, Noor-o-Huzoor-o-Suroor | Sur Khush-o-Pursouz Hai Lala Lab-e-Abjoo'
-- 'id': '2_119_3'
+- 'id': '2_119_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'One has no comrade on Love’s journey long | Save fervent zeal, and passion great and strong.'
   - 'lang': 'ro'
     'text': 'Rah-e-Mohabbat Mein Hai Kon Kisi Ka Rafeeq | Sath Mere Reh Gyi Aik Meri Arzoo'
-- 'id': '2_119_4'
+- 'id': '2_119_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'O God, at gates of rich I do not bow, | You are my dwelling place and nesting bough.'
   - 'lang': 'ro'
     'text': 'Mera Nasheeman Nahin Dargah-e-Meer-o-Wazeer | Mera Nasheman Bhi Tu, Shakh-e-Nasheman Bhi Tu'
-- 'id': '2_119_5'
+- 'id': '2_119_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Your Love in my breast burns like Doomsday morn, | The cry, He is God, on my lips is born.'
   - 'lang': 'ro'
     'text': 'Tujh Se Greban Mera Matla-e-Subah-e-Nashoor | Tujh Se Mere Seene Mein Atish-e-‘Allah Hoo’'
-- 'id': '2_119_6'
+- 'id': '2_119_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Your Love, makes me God, fret with pain and pine, | You are the only quest and aim of mine.'
   - 'lang': 'ro'
     'text': 'Tujh Se Meri Zindagi Souz-o-Tab-o-Dard-o-Dagh | Tu Hi Meri Arzoo, Tu Hi Meri Justujoo'
-- 'id': '2_119_7'
+- 'id': '2_119_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'Without You town appears devoid of life, | When present, same town appears astir with strife.'
   - 'lang': 'ro'
     'text': 'Pas Agar Tu Nahin, Shehar Hai Weeran Tamam | Tu Hai To Abad Hain Ujhre Huwe Kakh-o-Koo'
-- 'id': '2_119_8'
+- 'id': '2_119_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'For wine of gnosis I request and ask, | To get some dregs I break the cup and glass.'
   - 'lang': 'ro'
     'text': 'Phir Woh Sharab-e-Kuhan Mujh Ko Ata Kar Ke Main | Dhoond Raha Hun Usse, Torh Ke Jaam-o-Saboo'
-- 'id': '2_119_9'
+- 'id': '2_119_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'The mystics’ gourds and commons’ pitchers wait | For liquor of your Grace and Bounty great.'
   - 'lang': 'ro'
     'text': 'Chashm-e-Karam Saqiya! Dair Se Hain Mutazir | Jalwaton Ke Saboo, Khalwaton Ke Kidoo'
-- 'id': '2_119_10'
+- 'id': '2_119_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Against Your godhead I have a genuine plaint, | For You the Spaceless, while for me restraint.'
   - 'lang': 'ro'
     'text': 'Teri Khudai Se Hai Mere Junoon Ko Gilla | Apne Liye La-Makan, Mere Liye Char Soo!'
-- 'id': '2_119_11'
+- 'id': '2_119_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

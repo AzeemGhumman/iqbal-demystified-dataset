@@ -8,7 +8,7 @@
   'text': 'INVENTION OF NEW MEANINGS'
 'description': []
 'sher':
-- 'id': '3_141_1'
+- 'id': '3_141_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'It is a gift by God bestowed, To coin fresh words with meanings new; | Yet skilful artist must work hard, As inborn trend is owned by few.'
   - 'lang': 'ro'
     'text': 'Har Chand Ke Aeejad-e-Maani Hai Khudad | Koshish Se Kahan Mard-e-Hunarmand Hai Azad !'
-- 'id': '3_141_2'
+- 'id': '3_141_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'It is the heat in masonʹs blood, Who builds structures of various forms: | It may be Behzadʹs picture hall, Or house of wine where Hafiz charms.'
   - 'lang': 'ro'
     'text': 'Khoon-e-Rag-e-Maamar Ki Garmi Se Hai Tameer | Maikhana-e-Hafiz Ho Ke Butkhana-e-Behzad'
-- 'id': '3_141_3'
+- 'id': '3_141_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

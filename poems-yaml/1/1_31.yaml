@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Dynamism is one of the important subjects in ‘Allamah Iqbal''s teachings. "Ocean waves" is one of the metaphors he uses for dynamism, as in this poem. The poem shows how restless a dynamic person is when he is deprived of the opportunities for action. This is shown in the climax of the poem in the last verse.'
 'sher':
-- 'id': '1_31_1'
+- 'id': '1_31_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'My impatient heart keeps me relentlessly restless | Like mercury agitation is the essence of life to me'
   - 'lang': 'ro'
     'text': 'Muztarib Rakhta Hai Mera Dil-e-Betab Mujhe | Ayn-e-Hasti Hai Tarap Soorat-e-Seemab Mujhe'
-- 'id': '1_31_2'
+- 'id': '1_31_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Wave is my name, the sea is fordable to me | The whirlpool''s circle would never be a chain to me'
   - 'lang': 'ro'
     'text': 'Mouj Hai Naam Mera, Behar Hai Payab Mujhe | Ho Na Zanjeer Kabhi Halqa-e-Gardab Mujhe'
-- 'id': '1_31_3'
+- 'id': '1_31_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'My steed speeds in the water like wind | The fishing tackle has never caught my skirt'
   - 'lang': 'ro'
     'text': 'Aab Mein Misl-e-Hawa Jata Hai Tousan Mera | Khar-e-Mahi Se Na Atka Kabhi Daman Mera'
-- 'id': '1_31_4'
+- 'id': '1_31_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Main Uchalti Hun Kabhi Jazb-e-Mah-e-Kamil Se | Josh Mein Sar Ko Patakti Hun Kabhi Sahil Se'
-- 'id': '1_31_5'
+- 'id': '1_31_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'I am the traveller who loves destination | Someone should ask me why I always jump'
   - 'lang': 'ro'
     'text': 'Hun Woh Rahru Ke Mohabbat Hai Mujhe Manzil Se | Kyun Tarapti Hun, Ye Puche Koi Mere Dil Se'
-- 'id': '1_31_6'
+- 'id': '1_31_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

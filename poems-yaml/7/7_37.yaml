@@ -8,14 +8,14 @@
   'text': '(37)'
 'description': []
 'sher':
-- 'id': '7_37_1'
+- 'id': '7_37_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو ذوق نغمہ ام در جلوت آرد | قیامت افکنم در محفل خویش'
   - 'lang': 'en'
     'text': 'When the desire to sing aloud grips me, | I storm the world with bursts of poesy.'
-- 'id': '7_37_2'
+- 'id': '7_37_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

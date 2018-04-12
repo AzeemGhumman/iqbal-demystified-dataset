@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal is very highly mystical and difficult to understand . However , the explanatory notes will , hopefully , help in understanding it.'
 'sher':
-- 'id': '1_58_1'
+- 'id': '1_58_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The one I was searching for on the earth and in heaven | Appeared residing in the recesses of my own heart'
   - 'lang': 'ro'
     'text': 'inhain Mein Dhondta Tha Asmanon Mein Zameenon Mein | Woh Nikle Mere Zulmat Khana-e-Dil Ke Makeenon Mein'
-- 'id': '1_58_2'
+- 'id': '1_58_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Haqiqat Apni Ankhon Par Namayan Jab Huwi Apni | Makan Nikla Humare Khana-e-Dil Ke Makeenon Mein'
-- 'id': '1_58_3'
+- 'id': '1_58_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Agar Kuch Ashana Hota Mazaq-e-Jaba-Sayi Se | To Sang-e-Astan-e-Kaaba Ja Milta Jabeenon Mein'
-- 'id': '1_58_4'
+- 'id': '1_58_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -58,7 +58,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kabhi Apna Bhi Nazara Kiya Hai Tu Ne Ae Majnoon | Ke Laila Ki Tarah Tu Bhi Hai Mehmil Nasheenon Mein'
-- 'id': '1_58_5'
+- 'id': '1_58_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -67,7 +67,7 @@
     'text': 'The months of the union continue flying like moments | But the moments of separation linger for months!'
   - 'lang': 'ro'
     'text': 'Mahine Wasl Ke Ghariyon Ki Soorat Urte Jate Hain | Magar Ghariyan Judai Ki Guzerti Hain Mahinon Mein'
-- 'id': '1_58_6'
+- 'id': '1_58_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
     'text': 'O seaman, how will you protect me from being drowned | As those destined to drowning get drowned in the boats also'
   - 'lang': 'ro'
     'text': 'Mujhe Roke Ga Tu Ae Na-Khuda Kya Gharaq Hone Se | Ke Jin Ko Doobna Ho, Doob Jate Hain Safeenon Mein'
-- 'id': '1_58_7'
+- 'id': '1_58_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Chupaya Husn Ko Apne Kaleem-Ullah Se Jis Ne | Wohi Naz Afreen Hai Jalwa Pera Naaz Neenon Mein'
-- 'id': '1_58_8'
+- 'id': '1_58_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -102,7 +102,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jala Sakti Hai Shama-e-Kushta Ko Mouj-e-Nafas In Ki | Elahi! Kya Chupa Hota Hai Ahl-e-Dil Ke Seenon Mein'
-- 'id': '1_58_9'
+- 'id': '1_58_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -111,7 +111,7 @@
     'text': 'Serve the faqars if you have the longing for Love | This pearl is not available in the treasures of kings'
   - 'lang': 'ro'
     'text': 'Tamanna Dard-e-Dil Ki Ho To Kar Khidmat Faqeeron Ki | Nahin Milta Ye Gohar Badshahon Ke Khazeenon Mein'
-- 'id': '1_58_10'
+- 'id': '1_58_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -124,7 +124,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Na Puch In Kharqa Poshon Ki, Iradat Ho To Dekh In Ko | Yad-e-Baiza Liye Baithe Hain Apni Asteenon Mein'
-- 'id': '1_58_11'
+- 'id': '1_58_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -133,7 +133,7 @@
     'text': 'The unsightful eye for whose spectacle is tantalized | That elegance of congregation is in these very recluses'
   - 'lang': 'ro'
     'text': 'Tarasti Hai Nigah-e-Narsa Jis Ke Nazare Ko | Woh Ronaq Anjuman Ki Hai Inhi Khalwat Guzinon Mein'
-- 'id': '1_58_12'
+- 'id': '1_58_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -146,7 +146,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Kisi Aese Sharar Se Phoonk Apne Kharman-e-Dil Ko | Ke Khursheed-e-Qayamat Bhi Ho Tere Khosha Cheenon Mein'
-- 'id': '1_58_13'
+- 'id': '1_58_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -155,7 +155,7 @@
     'text': 'For Love search for some heart which would become mortified | This is the wine which is not kept in delicate wine glasses'
   - 'lang': 'ro'
     'text': 'Mohabbat Ke Liye Dil Dhoond Koi Tootne Wala | Ye Woh Mai Hai Jise Rakhte Hain Nazuk Abgeenon Mein'
-- 'id': '1_58_14'
+- 'id': '1_58_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -168,7 +168,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Sarapa Husn Ban Jata Hai Jis Ke Husn Ka Ashiq | Bhala Ae Dil Haseen Aesa Bhi Hai Koi Haseenon Mein'
-- 'id': '1_58_15'
+- 'id': '1_58_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Pharak Utha Koi Teri Adaye ‘MA ARAFNA’ Par | Tera Rutba Raha Barh Charh Ke Sub Naaz Afreenon Mein'
-- 'id': '1_58_16'
+- 'id': '1_58_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'Manifest Thyself and show them Thy Beauty some time | Talks have continued among the sagacious since long time'
   - 'lang': 'ro'
     'text': 'Namayan Ho Ke Dikhla De Kabhi In Ko Jamal Apna | Bohat Muddat Se Cherche Hain Tere Bareek Beenon Mein'
-- 'id': '1_58_17'
+- 'id': '1_58_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'Silent, O Heart! Crying in the full assembly is not good | Decorum is the most important etiquette among the ways of Love'
   - 'lang': 'ro'
     'text': 'Khamosh Ae Dil! Bhari Mehfil Mein Chillana Nahin Acha | Adab Pehla Qareena Hai Mohabbat Ke Qareenon Mein'
-- 'id': '1_58_18'
+- 'id': '1_58_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

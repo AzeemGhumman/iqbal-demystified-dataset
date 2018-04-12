@@ -8,14 +8,14 @@
   'text': 'II-I'
 'description': []
 'sher':
-- 'id': '11_283_1'
+- 'id': '11_283_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'زمانہ فتنہ ہا  ورد و بگذشت | خسان را در بغل پرورد و بگذشت'
   - 'lang': 'en'
     'text': 'With times came unrest which passed so quick, | It reared great satans and passed so quick.'
-- 'id': '11_283_2'
+- 'id': '11_283_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

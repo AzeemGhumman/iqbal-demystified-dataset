@@ -8,7 +8,7 @@
   'text': 'SAKINAMA'
 'description': []
 'sher':
-- 'id': '2_137_1'
+- 'id': '2_137_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Spring’s caravan has pitched its tent at the foot of the mountain, | making it look like the fabled garden of Iram'
   - 'lang': 'ro'
     'text': 'Huwa Khaimazan Karwan-E-Bahar | Iram Ban Gya Daman-E-Kohsar'
-- 'id': '2_137_2'
+- 'id': '2_137_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'With a riot of flowers—iris, rose, Narcissus, lily, eglantine, | And tulip in its martyr’s gory shroud.'
   - 'lang': 'ro'
     'text': 'Gul-O-Nargis-O-Sosan-O-Nastran | Shaheed-E-Azal Lalah Khooni Kafan'
-- 'id': '2_137_3'
+- 'id': '2_137_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The landscape is all covered with a multicoloured sheet, | and colour flows even in the veins of stones like blood.'
   - 'lang': 'ro'
     'text': 'Jahan Chup Gya Parda’ay Rang Mein | Lahoo Ki Hai Gardish Rag-E-Sang Mein'
-- 'id': '2_137_4'
+- 'id': '2_137_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The breezes blow intoxicatingly in a blue sky, | so that the birds do not feel like remaining in their nests and fly about.'
   - 'lang': 'ro'
     'text': 'Faza Neeli Neeli, Hawa Mein Suroor | Thehar Nahin Aashiyan Mein Tayoor'
-- 'id': '2_137_5'
+- 'id': '2_137_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Look at that hill‐stream, | how It halts and bends and glides and swings around,'
   - 'lang': 'ro'
     'text': 'Woh Jooay Kohstan Uchakti Huwi | Atakti, Lachakti, Sirakti Huwi'
-- 'id': '2_137_6'
+- 'id': '2_137_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'And then, collecting itself, | surges up and rushes on.'
   - 'lang': 'ro'
     'text': 'Uchalti, Phisalti, Sanbhalti Huwi | Bare Paich Kha Kar Niklti Huwi'
-- 'id': '2_137_7'
+- 'id': '2_137_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'Should it be stemmed, | it would cut open the hills’ hearts and burst the rocks.'
   - 'lang': 'ro'
     'text': 'Ruke Jab To Sil Cheer Deti Hai Ye | Paharon Ke Dil Cheer De'
-- 'id': '2_137_8'
+- 'id': '2_137_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'This hill‐stream, my fair saki, has | A message to give us concerning life.'
   - 'lang': 'ro'
     'text': 'Zara Dekh Ae Saqi-E-Lalah Faam! | Sunati Hai Ye Zindagi Ka Payam'
-- 'id': '2_137_9'
+- 'id': '2_137_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'Attune me to this message and, | Come, let us celebrate the spring, which comes but once a year.'
   - 'lang': 'ro'
     'text': 'Pila De Mujhe Woh Mai-E-Parda Soz | Ke Ati Nahin Fasal-E-Gul Roz Roz'
-- 'id': '2_137_10'
+- 'id': '2_137_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'Give me that wine whose heat burns up the veils of hidden things, | Whose light illuminates life’s mind,'
   - 'lang': 'ro'
     'text': 'Woh Mai Jis Se Roshan Zameer-E-Hayat | Woh Mai Jis Se Hai Masti-E-Kainat'
-- 'id': '2_137_11'
+- 'id': '2_137_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'Whose strength intoxicates the universe, | Whose effervescence was Creation’s source.'
   - 'lang': 'ro'
     'text': 'Woh Mai Jis Mein Hai Soz-O-Saaz-E-Azal | Woh Mai Jis Se Khulta Hai Raaz-E-Azal'
-- 'id': '2_137_12'
+- 'id': '2_137_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'Come lift the veil off mysteries, | And make a mere wagtail take eagles on.'
   - 'lang': 'ro'
     'text': 'Utha Saqiya Parda Iss Raaz Se | Lara De Mamoole Ko Shahbaz Se'
-- 'id': '2_137_13'
+- 'id': '2_137_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'The times have changed; so have their signs. | New is the music, and so are the instruments.'
   - 'lang': 'ro'
     'text': 'Zamane Ke Andaz Badle Gye | Naya Raag Hai, Saaz Badle Gye'
-- 'id': '2_137_14'
+- 'id': '2_137_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'The magic of the West has been exposed, | And the magician stands aghast.'
   - 'lang': 'ro'
     'text': 'Huwa Iss Tarah Fash Raaz-E-Farang | Ke Hairat Mein Hai Sheesha Baaz-E-Farang'
-- 'id': '2_137_15'
+- 'id': '2_137_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'The politics of the ancient regime are in disgrace: | world is tired of kings.'
   - 'lang': 'ro'
     'text': 'Purani Siasat Gari Khwaar | Zameen Mir-E-Sultan Se Baizar Hai'
-- 'id': '2_137_16'
+- 'id': '2_137_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'The age of capitalism has passed, | The juggler, having shown his tricks, has gone.'
   - 'lang': 'ro'
     'text': 'Gya Dour-E-Sarmaya Dari, Gya | Tamasha Dikha Kar Madari Gya'
-- 'id': '2_137_17'
+- 'id': '2_137_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'The Chinese are awaking from their heavy sleep. | Fresh springs are bubbling forth from Himalayan heights.'
   - 'lang': 'ro'
     'text': 'Garan Khawab Cheeni Sanbhalne Lage | Hamala Ke Chashme Ubalne Lage'
-- 'id': '2_137_18'
+- 'id': '2_137_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': 'Cut open is the heart of Sinai and Faran, | And Moses waits for a renewed theophany.'
   - 'lang': 'ro'
     'text': 'Dil-E-Toor-E-Seena-O-Faran Do Neem | Tajalli Ka Phir Muntazir Hai Kaleem'
-- 'id': '2_137_19'
+- 'id': '2_137_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'The Muslim, zealous though about God’s unity, | Still wears the Hindu’s sacred thread around his heart.'
   - 'lang': 'ro'
     'text': 'Musalman Hai Touheed Mein Garam Josh | Magar Dil Abhi Taak Hai Zunnar Posh'
-- 'id': '2_137_20'
+- 'id': '2_137_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'In culture, mysticism, canon law and dialectical theology— | He worships idols of non‐Arab make'
   - 'lang': 'ro'
     'text': 'Tamadan, Tasawwuf, Shariat, Kalam | Butan-E-Ajam Ke Poojari Tamam!'
-- 'id': '2_137_21'
+- 'id': '2_137_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'The truth has been lost in absurdities, | And in traditions is this ummah rooted still.'
   - 'lang': 'ro'
     'text': 'Haqiqat Khurafat Mein Kho Gyi | Ye Ummat Rawayat Mein Kho Gyi'
-- 'id': '2_137_22'
+- 'id': '2_137_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -206,7 +206,7 @@
     'text': 'The preacher’s sermon may beguile your heart, | But there is no sincerity, no warmth in it.'
   - 'lang': 'ro'
     'text': 'Lubhata Hai Dil Ko Kalam-E-Khateeb | Magar Lazzat-E-Shauq Se Be-Naseeb!'
-- 'id': '2_137_23'
+- 'id': '2_137_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -215,7 +215,7 @@
     'text': 'It is a tangled skein of lexical complexities, | Sought to be solved by logical dexterity.'
   - 'lang': 'ro'
     'text': 'Byan Iss Ka Mantaq Se Suljha Huwa | Lughat Ke Bakheron Mein Uljha Huwa'
-- 'id': '2_137_24'
+- 'id': '2_137_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -224,7 +224,7 @@
     'text': 'The Sufi, once foremost in serving God, | Unmatched in love and ardency of soul,'
   - 'lang': 'ro'
     'text': 'Woh Sufi K Tha Khidmat-E-Haq Mein Mard | Mohabbat Mein Yakta, Hamiyyat Mein Fard'
-- 'id': '2_137_25'
+- 'id': '2_137_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -233,7 +233,7 @@
     'text': 'Has got lost in the maze of Ajam’s ideas: | At half‐way stations is this traveller stuck.'
   - 'lang': 'ro'
     'text': 'Ajam Ke Khayalat Mein Kho Gya | Ye Salik Maqamat Mein Kho Gya'
-- 'id': '2_137_26'
+- 'id': '2_137_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -242,7 +242,7 @@
     'text': 'Gone out is the fire of love. O how sad! | The Muslim is a heap of ashes, nothing more.'
   - 'lang': 'ro'
     'text': 'Bujhi Ishq Ki Aag, Andhair Hai | Musalman Nahin, Raakh Ka Dhair Hai'
-- 'id': '2_137_27'
+- 'id': '2_137_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -251,7 +251,7 @@
     'text': 'O Saki, serve me that old wine again, | Let that old cup go round once more.'
   - 'lang': 'ro'
     'text': 'Sharab-E-Kuhan Phir Pila Saqiya | Wohi Jaam Gardish Mein La Saqiya!'
-- 'id': '2_137_28'
+- 'id': '2_137_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -260,7 +260,7 @@
     'text': 'Lend me the wings of Love and make me fly. | Turn my dust to fireflies that flit about.'
   - 'lang': 'ro'
     'text': 'Muhe Ishq Ke Par Laga Kar Ura | Meri Khaak Jugnu Bana Kar Ura'
-- 'id': '2_137_29'
+- 'id': '2_137_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -269,7 +269,7 @@
     'text': 'Free young men’s minds from slavery, | And make them mentors of the old.'
   - 'lang': 'ro'
     'text': 'Khirad Ko Ghulami Se Azad Kar | Jawanon Ko Peeron Ka Ustad Kar'
-- 'id': '2_137_30'
+- 'id': '2_137_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -278,7 +278,7 @@
     'text': 'The millat’s tree is green thanks to your sap: | You are its body’s breath.'
   - 'lang': 'ro'
     'text': 'Har Shakh-E-Millat Tere Nam Se Hai | Nafs Iss Badan Mein Tere Dam Se Hai'
-- 'id': '2_137_31'
+- 'id': '2_137_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -287,7 +287,7 @@
     'text': 'Give it the strength to vibrate and to throb; | Lend it the heart of Murtaza, the fervour of Siddiq.'
   - 'lang': 'ro'
     'text': 'Tarapne Pharakne Ki Toufeeq De | Dil-E-Murtaza(R.A.), Souz-E-Siddique(R.A.) De'
-- 'id': '2_137_32'
+- 'id': '2_137_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -296,7 +296,7 @@
     'text': 'Drive that old arrow through its heart | Which will revive desire in it.'
   - 'lang': 'ro'
     'text': 'Jigar Se Wohi Teer Phir Paar Kar | Tammana Ko Seenon Mein Baidar Kar'
-- 'id': '2_137_33'
+- 'id': '2_137_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -305,7 +305,7 @@
     'text': 'Blest be the stars of Your heavens; blest be | Those who spend their nights praying to You.'
   - 'lang': 'ro'
     'text': 'Tere Asmanon Ke Taron Ki Khair | Zameenon Ke Shab Zinda Daron Ki Khair'
-- 'id': '2_137_34'
+- 'id': '2_137_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -314,7 +314,7 @@
     'text': 'Endow the young with fervent souls; | Grant them my vision and my love.'
   - 'lang': 'ro'
     'text': 'Jawanon Ko Soz-E-Jigar Bakhs De | Mera Ishq, Meri Nazar Bakhs De'
-- 'id': '2_137_35'
+- 'id': '2_137_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -323,7 +323,7 @@
     'text': 'I am a boat in a whirlpool, stuck in one place. | Rescue me and grant me mobility.'
   - 'lang': 'ro'
     'text': 'Meri Nao Girdaab Se Paar Kar | Ye Sabat Hai Tu Iss Ko Syyar Kar'
-- 'id': '2_137_36'
+- 'id': '2_137_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -332,7 +332,7 @@
     'text': 'Tell me about the mysteries of life and death, | For Your eye spans the universe.'
   - 'lang': 'ro'
     'text': 'Bata Mujh Ko Asrar-E-Marg-O-Hayat | K Teri Nigahon Mein Hai Kainat'
-- 'id': '2_137_37'
+- 'id': '2_137_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -341,7 +341,7 @@
     'text': 'The sleeplessness if my tear‐shedding eyes; | The restless yearnings hidden in my heart;'
   - 'lang': 'ro'
     'text': 'Mere Didah-E-Tar Ki Be-Khawabiyan | Mere Dil Ki Poshida Be-Tabiyan'
-- 'id': '2_137_38'
+- 'id': '2_137_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -350,7 +350,7 @@
     'text': 'The prayerfulness of my cries at midnight; | My melting into tears in solitude and company;'
   - 'lang': 'ro'
     'text': 'Mere Nala-E-Neem Shab Ka Niaz | Meri Khalwat-O-Anjuman Ka Gudaz'
-- 'id': '2_137_39'
+- 'id': '2_137_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -359,7 +359,7 @@
     'text': 'My aspirations, longings and desires; | My hopes and quests;'
   - 'lang': 'ro'
     'text': 'Umangain Meri, Arzoo’ain Meri | Umeedain Meri, Justujoo’ain Meri'
-- 'id': '2_137_40'
+- 'id': '2_137_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -368,7 +368,7 @@
     'text': 'My mind that mirrors the times | A field for thought’s gazelles to roam'
   - 'lang': 'ro'
     'text': 'Meri Fitrat Aayna-E-Rozgaar | Gazaalan-E-Afkaar Ka Marghzaar'
-- 'id': '2_137_41'
+- 'id': '2_137_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -377,7 +377,7 @@
     'text': 'My heart, which is a battlefield of life, | Where legions of doubt war with faith—'
   - 'lang': 'ro'
     'text': 'Mera Dil, Meri Razm Gah-E-Hayat | Gamanon Ke Lashkar, Yaqeen Ka Sabaat'
-- 'id': '2_137_42'
+- 'id': '2_137_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -386,7 +386,7 @@
     'text': 'O Saki, these are all my wealth; | Possessing them, I am rich in my poverty.'
   - 'lang': 'ro'
     'text': 'Yehi Kuch Hai Saqi Mataa-E-Faqeer | Issi Se Faqeeri Mein Hun Main Ameer'
-- 'id': '2_137_43'
+- 'id': '2_137_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -395,7 +395,7 @@
     'text': 'Distribute all these riches in my caravan, | And let them come to some good use.'
   - 'lang': 'ro'
     'text': 'Mere Kafle Mein Luta De Isse | Luta De, Thikane Laga De Isse!'
-- 'id': '2_137_44'
+- 'id': '2_137_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -404,7 +404,7 @@
     'text': 'In constant motion is the sea of life. | All things display life’s volatility.'
   - 'lang': 'ro'
     'text': 'Damadam Rawan Hai Yam-E-Zindagi | Har Ek Shay Se Paida Ram-E-Zindagi'
-- 'id': '2_137_45'
+- 'id': '2_137_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -413,7 +413,7 @@
     'text': 'It is life that puts bodies forth, | Just as a whiff of smoke becomes a flame.'
   - 'lang': 'ro'
     'text': 'Issi Se Huwi Hai Badan Ki Namood | K Shaole Mein Poshida Hai Mouj-E-Dood'
-- 'id': '2_137_46'
+- 'id': '2_137_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -422,7 +422,7 @@
     'text': 'Unpleasant to it is the company | Of matter, but it likes to see its striving to improve itself.'
   - 'lang': 'ro'
     'text': 'Garan Gharche Hai Sohbat Aab-O-Gil | Khush Ayi Isse Mehnat Aab-O-Gil'
-- 'id': '2_137_47'
+- 'id': '2_137_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -431,7 +431,7 @@
     'text': 'It is fixed, yet in motion, | straining at the leash to get free of the elements.'
   - 'lang': 'ro'
     'text': 'Ye Sabit Bhi Hai Aur Sayyar Bhi | Anasir Ke Phandon Se Baizar Bhi'
-- 'id': '2_137_48'
+- 'id': '2_137_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -440,7 +440,7 @@
     'text': 'A unity imprisoned in diversity, | It is unique in every form and shape.'
   - 'lang': 'ro'
     'text': 'Ye Wahdat Hai Kasrat Mein Har Dam Aseer | Magar Har Kahin Be Chugun, Benazir'
-- 'id': '2_137_49'
+- 'id': '2_137_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -449,7 +449,7 @@
     'text': 'This world, this sex‐dimensioned idol‐house, | This Somnat is all of its fashioning.'
   - 'lang': 'ro'
     'text': 'Ye Alam, Ye Butkhana-E-Shas Jihaat | Issi Ne Tarasha Hai Ye Somnaat'
-- 'id': '2_137_50'
+- 'id': '2_137_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -458,7 +458,7 @@
     'text': 'It is not its way to repeat itself: | You are not I, I am not you.'
   - 'lang': 'ro'
     'text': 'Pasand Iss Ko Takrar Ki Khoo Nahin | K Tu Main Nahin, Aur Main Tu Nahin'
-- 'id': '2_137_51'
+- 'id': '2_137_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -467,7 +467,7 @@
     'text': 'With you and me and others it has formed | Assemblies, but is solitary in their midst.'
   - 'lang': 'ro'
     'text': 'Mann-O-Tu Se Hai Anjuman Afreen | Magar Ayn-E-Mehfil Mein Khalwat Nasheen'
-- 'id': '2_137_52'
+- 'id': '2_137_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -476,7 +476,7 @@
     'text': 'It shines in lightning, in the stars, | In silver, gold and mercury.'
   - 'lang': 'ro'
     'text': 'Chamak Iss Ki Bijli Mein, Tare Mein Hai | Ye Chandi Mein, Sone Mein, Paare Mein Hai'
-- 'id': '2_137_53'
+- 'id': '2_137_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -485,7 +485,7 @@
     'text': 'Its is the wilderness, its are the trees, | Its are the roses, its are the thorns.'
   - 'lang': 'ro'
     'text': 'Issi Ke Bayabaan, Issi Ke Babool | Issi Ke Hain Kante, Issi Ke Hain Phool'
-- 'id': '2_137_54'
+- 'id': '2_137_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -494,7 +494,7 @@
     'text': 'It pulverises mountains with its might, | And captures Gabriel and houris in its noose.'
   - 'lang': 'ro'
     'text': 'Kahin Iss Ki Taqat Se Kohsaar Choor | Kahin Iss Ke Phande Mein Jibreel-O-Hoor'
-- 'id': '2_137_55'
+- 'id': '2_137_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -503,7 +503,7 @@
     'text': 'There is a silver‐grey, brave falcon here, | Its talons covered with the blood of partridges,'
   - 'lang': 'ro'
     'text': 'Kahin Jurrah Shaheen-E-Seemab Rang | Lahoo Se Chakoron Ke Aluda Chang'
-- 'id': '2_137_56'
+- 'id': '2_137_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -512,7 +512,7 @@
     'text': 'And over there, far from its nest, | A pigeon helplessly aflutter in a snare.'
   - 'lang': 'ro'
     'text': 'Kabutar Kahin Ashiyane Se Door | Pharakta Huwa Jaal Mein Na-Saboor'
-- 'id': '2_137_57'
+- 'id': '2_137_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -521,7 +521,7 @@
     'text': 'Stability is an illusion of eyes, | For every atom in the world pulsates with change.'
   - 'lang': 'ro'
     'text': 'Faraib-E-Nazar Hai Sakoon-O-Sabaat | Tarapta Hai Har Zarra-E-Kainat'
-- 'id': '2_137_58'
+- 'id': '2_137_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -530,7 +530,7 @@
     'text': 'The caravan of life does not halt anywhere, | For every moment life renews itself.'
   - 'lang': 'ro'
     'text': 'Theharta Nahin Karwaan-E-Wujood | Ke Har Lehza Hai Taza Shaan-E-Wujood'
-- 'id': '2_137_59'
+- 'id': '2_137_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -539,7 +539,7 @@
     'text': 'Do you think life is great mystery? | No, it is only a desire to soar aloft.'
   - 'lang': 'ro'
     'text': 'Samjhta Hai Tu Raaz Hai Zindagi | Faqat Zauq-E-Parwaaz Hai Zindagi'
-- 'id': '2_137_60'
+- 'id': '2_137_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -548,7 +548,7 @@
     'text': 'It has seen many ups and downs, | But likes to travel rather than to reach the goal;'
   - 'lang': 'ro'
     'text': 'Bohat Iss Ne Dekhe Hain Past-O-Buland | Safar Iss Ko Manzil Se Barh Kar Pasand'
-- 'id': '2_137_61'
+- 'id': '2_137_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -557,7 +557,7 @@
     'text': 'For travelling is life’s outfit: it | Is real, while rest is appearance, nothing more.'
   - 'lang': 'ro'
     'text': 'Safar Zindagi Ke Liye Barg-O-Saaz | Safar Hai Haqiqat, Hazar Hai Majaaz'
-- 'id': '2_137_62'
+- 'id': '2_137_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -566,7 +566,7 @@
     'text': 'Life loves to tie up knots and then unravel them. | Its pleasure lies in throbbing and in fluttering'
   - 'lang': 'ro'
     'text': 'Ulajh Kar Sulajhne Mein Lazzat Isse | Tarapne Pharakne Mein Rahat Isse'
-- 'id': '2_137_63'
+- 'id': '2_137_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -575,7 +575,7 @@
     'text': 'When it found itself face to face with death, | It learned that it was hard to ward it off.'
   - 'lang': 'ro'
     'text': 'Huwa Jab Isse Samna Mout Ka | Kathan Tha Bara Thaamna Mout Ka'
-- 'id': '2_137_64'
+- 'id': '2_137_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -584,7 +584,7 @@
     'text': 'So it descended to this world, where retribution is the law, | And lay in wait for death.'
   - 'lang': 'ro'
     'text': 'Uter Kar Jahan-E-Makafat Mein | Rahi Zindagi Mout Ki Ghaat Mein'
-- 'id': '2_137_65'
+- 'id': '2_137_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -593,7 +593,7 @@
     'text': 'Because of its love of duality, It sorted all things out in pairs, | And then arose, host after host, From mountains and from wilderness.'
   - 'lang': 'ro'
     'text': 'Mazaq-E-Dooi Se Bani Zouj Zouj | Uthi Dast-O-Kohsaar Se Fouj Fouj'
-- 'id': '2_137_66'
+- 'id': '2_137_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -602,7 +602,7 @@
     'text': 'It was a branch from which flowers kept | Shedding and bursting forth afresh.'
   - 'lang': 'ro'
     'text': 'Gul Is Shakh Se Tootte Bhi Rahe | Issi Shakh Se Phootte Bhi Rahe'
-- 'id': '2_137_67'
+- 'id': '2_137_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -611,7 +611,7 @@
     'text': 'The ignorant think that life’s impress is | Ephemeral, but it fades only to emerge anew.'
   - 'lang': 'ro'
     'text': 'Samajhe Hain Nadan Issay Be-Sabaat | Ubharta Hai Mit Mit Ke Naqsh-E-Hayat'
-- 'id': '2_137_68'
+- 'id': '2_137_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -620,7 +620,7 @@
     'text': 'Extremely fleet‐footed, It reaches its goal instantly. | From time’s beginning to its end is but one moment’s way for it.'
   - 'lang': 'ro'
     'text': 'Bari Taiz Jolan, Bari Zood Ras | Azal Se Abad Tak Ram-E-Yak Nafas'
-- 'id': '2_137_69'
+- 'id': '2_137_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -629,7 +629,7 @@
     'text': 'Time, chain of days and nights, is nothing but | A name for breathing in and breathing out.'
   - 'lang': 'ro'
     'text': 'Zamana Ke Zanjeer-E-Ayyam Hai | Damon Ke Ulat Phair Ka Naam Hai'
-- 'id': '2_137_70'
+- 'id': '2_137_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -638,7 +638,7 @@
     'text': 'What is this whiff of air called breath? A sword, | and selfhood is that sword’s sharp edge.'
   - 'lang': 'ro'
     'text': 'Ye Mouj-E-Nafs Kya Hai Talwar Hai | Khudi Kya Hai, Talwaar Ki Dhaar Hai'
-- 'id': '2_137_71'
+- 'id': '2_137_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -647,7 +647,7 @@
     'text': 'What is the self? Life’s inner mystery, | The universe’s waking up.'
   - 'lang': 'ro'
     'text': 'Khudi Kya Hai, Raaz-E-Daroon-E-Hayat | Khudi Kya Hai, Baidari-E-Kainat'
-- 'id': '2_137_72'
+- 'id': '2_137_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -656,7 +656,7 @@
     'text': 'The self, drunk with display, is also fond | Of solitude;—an ocean in a drop.'
   - 'lang': 'ro'
     'text': 'Khudi Jalwa Badmast-O-Khilwat Pasand | Samundar Hai Ek Boond Pani Mein Band'
-- 'id': '2_137_73'
+- 'id': '2_137_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -665,7 +665,7 @@
     'text': 'It shines in light and darkness both; | Displayed in individuals, yet free from them.'
   - 'lang': 'ro'
     'text': 'Andhere Ujale Mein Hai Taabnaak | Mann-O-Tu Mein Paida, Mann-O-Tu Se Paak'
-- 'id': '2_137_74'
+- 'id': '2_137_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -674,7 +674,7 @@
     'text': 'Behind it is eternity without Beginning, | and before it is Eternity without an end; It is unlimited both ways.'
   - 'lang': 'ro'
     'text': 'Azal Iss Ke Peeche, Abad Samne | Na Had Iss Ke Peeche. Na Had Samne'
-- 'id': '2_137_75'
+- 'id': '2_137_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -683,7 +683,7 @@
     'text': 'Swept on by the waves of time’s stream, | And at the mercy of their buffeting,'
   - 'lang': 'ro'
     'text': 'Zamane Ke Darya Mein Behti Huwi | Sitam Iss Ki Moujon Ke Sehti Huwi'
-- 'id': '2_137_76'
+- 'id': '2_137_076'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -692,7 +692,7 @@
     'text': 'It yet changes the course of its quest constantly, | Renewing its way of looking at things.'
   - 'lang': 'ro'
     'text': 'Tajasus Ki Rahain Badalti Huwi | Damadam Nigahain Badalti Huwi'
-- 'id': '2_137_77'
+- 'id': '2_137_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -701,7 +701,7 @@
     'text': 'For it huge rocks are light as air: | It smashes mountains into shifting sand.'
   - 'lang': 'ro'
     'text': 'Subak Iss Ke Hathon Mein Sang-E-Garan | Pahar Is Ski Zarbon Se Raig-E-Rawan'
-- 'id': '2_137_78'
+- 'id': '2_137_078'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -710,7 +710,7 @@
     'text': 'Both its beginning and its end are journeying, | For constant motion is its being’s law.'
   - 'lang': 'ro'
     'text': 'Safar Iss Ka Anjaam-O-Aghaz Hai | Yehi Iss Ki Taqweem Ka Raaz Hai'
-- 'id': '2_137_79'
+- 'id': '2_137_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -719,7 +719,7 @@
     'text': 'It is a ray of light in the moon and a spark in stone. | It dwells In colours, but is colourless itself.'
   - 'lang': 'ro'
     'text': 'Kiran Chand Mein Hai, Sharr Sang Mein | Ye Berang Hai Doob Kar Rang Mein'
-- 'id': '2_137_80'
+- 'id': '2_137_080'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -728,7 +728,7 @@
     'text': 'It has nothing to do with more or less, | With light and low, with fore and aft.'
   - 'lang': 'ro'
     'text': 'Isse Wasta Kya Kam-O-Baish Se | Nashaib-O-Faraz-O-Pas-O-Paish Se'
-- 'id': '2_137_81'
+- 'id': '2_137_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -737,7 +737,7 @@
     'text': 'Since time’s beginning it was struggling to emerge, | And finally emerged in the dust that is man.'
   - 'lang': 'ro'
     'text': 'Azal Se Hai Ye Kashmakash Mein Aseer | Huwi Khaak-E-Adam Mein Soorat Pazeer'
-- 'id': '2_137_82'
+- 'id': '2_137_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -746,7 +746,7 @@
     'text': 'It is in your heart that the Self has its abode, | As the sky is reflected in the pupil of the eye.'
   - 'lang': 'ro'
     'text': 'Khudi Ka Nasheman Tere Dil Mein Hai | Falak Jis Tarah Aankh Ke Til Mein Hai'
-- 'id': '2_137_83'
+- 'id': '2_137_083'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -755,7 +755,7 @@
     'text': 'To one who treasures his self, | bread won at the cost of self‐respect is gall.'
   - 'lang': 'ro'
     'text': 'Khudi Ke Nigheban Ko Hai Zehr-E-Naab | Woh Naa Jis Se Jati Rahe Is Ski Aab'
-- 'id': '2_137_84'
+- 'id': '2_137_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -764,7 +764,7 @@
     'text': 'He values only bread, | he gains with head held high.'
   - 'lang': 'ro'
     'text': 'Wohi Naa Hai Iss Ke Liye Arjumand | Rahe Jis Se Dunya Mein Gardan Buland'
-- 'id': '2_137_85'
+- 'id': '2_137_085'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -773,7 +773,7 @@
     'text': 'Abjure the pomp and might of a Mahmud; | Preserve your self, do not be an Ayaz.'
   - 'lang': 'ro'
     'text': 'Firo Faal-E-Mehmood Se Darguzar | Khudi Ko Nigah Rakh, Ayazi Na Kar'
-- 'id': '2_137_86'
+- 'id': '2_137_086'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -782,7 +782,7 @@
     'text': 'Worth offering is only that prostration which | Makes all others forbidden acts.'
   - 'lang': 'ro'
     'text': 'Wohi Sajda Hai Laaeq-E-Ehtamam | Ke Ho Jis Se Har Sajda Tujh Par Haraam'
-- 'id': '2_137_87'
+- 'id': '2_137_087'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -791,7 +791,7 @@
     'text': 'This world, this riot of colours and of sounds, | Which is under the sway of death,'
   - 'lang': 'ro'
     'text': 'Ye Alam, Ye Hangama-E-Rang-O-Soot | Ye Alam Ke Hai Zair-E-Farmaan-E-Mout'
-- 'id': '2_137_88'
+- 'id': '2_137_088'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -800,7 +800,7 @@
     'text': 'This idol‐house of eye and ear, | In which to live is but to eat and drink,'
   - 'lang': 'ro'
     'text': 'Ye Alam, Ye Butkhana-E-Chasm-O-Gosh | Jahan Zindagi Hai Faqat Khurad-O-Nosh'
-- 'id': '2_137_89'
+- 'id': '2_137_089'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -809,7 +809,7 @@
     'text': 'Is nothing but the Self’s initial stage. | O traveller, it is not your final goal.'
   - 'lang': 'ro'
     'text': 'Khudi Ki Ye Hai Manzil-E-Awaleen | Musafir ! Ye Tera Nasheman Nahin'
-- 'id': '2_137_90'
+- 'id': '2_137_090'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -818,7 +818,7 @@
     'text': 'The fire that is you has not come, Out of this heap of dust. | You have not come out of this world; It has come out of you.'
   - 'lang': 'ro'
     'text': 'Teri Aag Iss Khaakdaan Se Nahin | Jahan Tujh Se Hai, Tu Jahan Se Nahin'
-- 'id': '2_137_91'
+- 'id': '2_137_091'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -827,7 +827,7 @@
     'text': 'Smash up this mountainous blockade, | Go further on and break out of this magic ring of time and space.'
   - 'lang': 'ro'
     'text': 'Barhe Ja Ye Koh-E-Giran Torh Kar | Tilism-E-Zaman-O-Makan Torh Kar'
-- 'id': '2_137_92'
+- 'id': '2_137_092'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -836,7 +836,7 @@
     'text': 'God’s lion is the self; | Its quarry are both earth and sky.'
   - 'lang': 'ro'
     'text': 'Khudi Sher-E-Mola, Jahan Iss Ka Sayd | Zameen Iss Ki Sayd, Asman Is Ka Sayd'
-- 'id': '2_137_93'
+- 'id': '2_137_093'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -845,7 +845,7 @@
     'text': 'There are a hundred worlds still to appear, | For Being’s mind has not drained of its creative capabilities.'
   - 'lang': 'ro'
     'text': 'Jahan Aur Bhi Hain Abhi Be-Namood | K Khali Nahin Hai Zameer-E-Wujood'
-- 'id': '2_137_94'
+- 'id': '2_137_094'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -854,7 +854,7 @@
     'text': 'All latent worlds are waiting for releasing blows | From your dynamic action and exuberant thought.'
   - 'lang': 'ro'
     'text': 'Har Ek Muntazir Teri Yalghaar Ka | Teri Shoukhi-E-Fikr-O-Kirdaar Ka'
-- 'id': '2_137_95'
+- 'id': '2_137_095'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -863,7 +863,7 @@
     'text': 'It is the purpose of the revolution of the spheres | That your selfhood should be revealed to you.'
   - 'lang': 'ro'
     'text': 'Ye Hai Maqsad-E-Gardish-E-Rozgaar | K Teri Khudi Tujh Pe Ho Ashkaar'
-- 'id': '2_137_96'
+- 'id': '2_137_096'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -872,7 +872,7 @@
     'text': 'You are the conqueror of this world Of good and evil. | How can I tell you The whole of your long history?'
   - 'lang': 'ro'
     'text': 'Tu Hai Faateh-E-Alam-E-Khoob-O-Zisht | Tujhe Kya Bataon Teri Sarnawisht'
-- 'id': '2_137_97'
+- 'id': '2_137_097'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -881,7 +881,7 @@
     'text': 'Words are but a strait‐jacket for reality: | Reality is a mirror, and speech, The coating that makes it opaque.'
   - 'lang': 'ro'
     'text': 'Haqiqat Pe Hai Jama-E-Harf Tang | Haqiqat Hai Ayna, Guftaar Zang'
-- 'id': '2_137_98'
+- 'id': '2_137_098'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -890,7 +890,7 @@
     'text': 'Breath’s candle is alight within my breast, | But my power of utterance cries halt.'
   - 'lang': 'ro'
     'text': 'Farozan Hai Sine Mein Shama-E-Nafs | Magar Taab-E-Guftaar Kehti Hai, Bas !'
-- 'id': '2_137_99'
+- 'id': '2_137_099'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem deals with the status of Man in the Universe. The first eleven verses represent the old, pre-Islamic philosophies and the last nine verses illustrate the theory of Khuda or the elegant status of Man. The climax is reached in the last verse. The following verse sums up the contents of the last nine verses: | (165) By destiny the plant and mineral worlds are bound | The Mu''min only by the Divine Commands is bound'
 'sher':
-- 'id': '1_25_1'
+- 'id': '1_25_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'As I looked at the bright sun in the morning | I asked the assemblage of Existence'' habitation'
   - 'lang': 'ro'
     'text': 'Subah Khursheed-e-Durakhsan Ko Jo Dekha Main Ne | Bazm-e-Maamoora-e-Hasti Se Ye Pucha Main Ne'
-- 'id': '1_25_2'
+- 'id': '1_25_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': '"You owe your light to the reflection of the sun | The water of your rivers looks like flowing silver'
   - 'lang': 'ro'
     'text': 'Par Tu-e-Mehr Ke Dam Se Hai Ujala Tera | Seem-e-Sayyal Hai Pani Tere Daryaon Ka'
-- 'id': '1_25_3'
+- 'id': '1_25_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The sun has adorned your face with light''s jewelry | This very candle has illuminated your assemblage'
   - 'lang': 'ro'
     'text': 'Mehr Ne Noor Ka Ziawar Tujhe Pehnaya Hai | Teri Mehfil Ko Issi Shama Ne Chamkaya Hai'
-- 'id': '1_25_4'
+- 'id': '1_25_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Gul-o-Gulzar Tere Khuld Ki Tasveerain Hain | Ye Sabhi Surah-e-‘Wa Shamas’ Ki Tafseerain Hain'
-- 'id': '1_25_5'
+- 'id': '1_25_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'The dress of your flowers is red, of your trees is green | They exist in your garden like green and red fairies'
   - 'lang': 'ro'
     'text': 'Surkh Poshak Hai Phoolon Ki, Darakht Ki Hari | Teri Mehfil Mein Koi Sabz, Koi Laal Pari'
-- 'id': '1_25_6'
+- 'id': '1_25_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'The frill of your tent becomes golden | As the red clouds appear over the horizon'
   - 'lang': 'ro'
     'text': 'Hai Tere Khaima-e-Gardoon Ki Talayi Jhalar | Badliyan Laal Si Ati Hain Ufaq Par Jo Nazar'
-- 'id': '1_25_7'
+- 'id': '1_25_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
     'text': 'How pleasing to the eye is the red color of the evening''s twilight | As if you have poured rose-colored wine in the evening''s jar'
   - 'lang': 'ro'
     'text': 'Kya Bhali Lagti Hai Ankhon Ki Shafaq Ki Laali | Mai-e-Gulrang Khum-e-Shaam Mein Tu Ne Dali'
-- 'id': '1_25_8'
+- 'id': '1_25_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'Your rank is elegant, your grandeur is high | Everything yours is concealed in the light''s veil'
   - 'lang': 'ro'
     'text': 'Rutba Tera Hai Bara, Shan Bari Hai Teri | Parda-e-Noor Mein Mastoor Hai Har Shay Teri'
-- 'id': '1_25_9'
+- 'id': '1_25_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'The morning head to foot is a song of your majesty | Not even a trace of darkness is there under the sun'
   - 'lang': 'ro'
     'text': 'Subah Ek Geet Sarapa Hai Teri Sitwat Ka | Zair-e-Khursheed Nishan Tak Bhi Nahin Zulmat Ka'
-- 'id': '1_25_10'
+- 'id': '1_25_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'In this habitation of light is my abode also | Why then is the star of my destiny burnt down?'
   - 'lang': 'ro'
     'text': 'Main Bhi Abad Hun Iss Noor Ki Basti Mein Magar | Jal Gya Phir Meri Taqdeer Ka Akhtar Khunkar?'
-- 'id': '1_25_11'
+- 'id': '1_25_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -113,7 +113,7 @@
     'text': 'I am far from light and imprisoned in darkness | Why am I so unfortunate, unlucky and sinning"?'
   - 'lang': 'ro'
     'text': 'Noor Se Door Hun Zulmat Mein Griftar Hun Main | Kyun Siyah-e-Roz, Sayah Bakht, Siyah Kar Hun Main?'
-- 'id': '1_25_12'
+- 'id': '1_25_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -122,7 +122,7 @@
     'text': 'As I was saying this a voice from somewhere came | From the sky''s roof or the earth''s expanse it came'
   - 'lang': 'ro'
     'text': 'Main Ye Kehta Tha Ke Awaz Kahin Se Ayi | Baam-e-Gardoon Se Ya Sehan-e-Zameen Se Ayi'
-- 'id': '1_25_13'
+- 'id': '1_25_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -131,7 +131,7 @@
     'text': '"My existence is dependent on your light | Your personality is the gardener of Universe'' garden'
   - 'lang': 'ro'
     'text': 'Hai Tere Noor Se Wabasta Meri Bood-o-Nabood | Baghban Hai Teri Hasti Bay-e-Gulzar-e-Wujood'
-- 'id': '1_25_14'
+- 'id': '1_25_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
     'text': 'You are the assemblage of beauty, your picture I am | You are the Scripture of Love, your commentary I am'
   - 'lang': 'ro'
     'text': 'Anjuman Husn Ki Hai Tu, Teri Tasveer Hun Main | Ishq Ka Tu Hai Sahifa, Teri Tafseer Hun Main'
-- 'id': '1_25_15'
+- 'id': '1_25_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -153,7 +153,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mere Bighre Huwe Kamon Ko Banaya Tu Ne | Baar Jo Mujh Se Na Utha Woh Uthaya Tu Ne'
-- 'id': '1_25_16'
+- 'id': '1_25_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -162,7 +162,7 @@
     'text': 'My existence depends upon the light of the sun | And your splendor is not indebted to the sun'
   - 'lang': 'ro'
     'text': 'Noor-e-Khursheed Ki Mohtaj Hai Hasti Meri | Aur Be Minnat-e-Khursheed Chamak Hai Teri'
-- 'id': '1_25_17'
+- 'id': '1_25_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -171,7 +171,7 @@
     'text': 'Without the sun my rose garden would be desolate | Instead of happiness prison would be my name'
   - 'lang': 'ro'
     'text': 'Ho Na Khursheed To Weeran Ho Gulistan Mera | Manzil-e-Aysh Ki Ja Naam Ho Zindan Mera'
-- 'id': '1_25_18'
+- 'id': '1_25_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -180,7 +180,7 @@
     'text': 'Ah! The one who does not understand the open secret! | The one prone to be entangled in the desires'' net'
   - 'lang': 'ro'
     'text': 'Ah! Ae Raaz-e-Ayan Ke Na Samajh Wale! | Halqa-e-Daam-e-Tammana Mein Ulajh Wale'
-- 'id': '1_25_19'
+- 'id': '1_25_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -189,7 +189,7 @@
     'text': 'Alas insensible! Confined to the material is your eye | Naz behooved you, but prone to Niyaz is your eye'
   - 'lang': 'ro'
     'text': 'Haye Ghafla Ke Teri Ankh Hai Paband-e-Majaz | Naaz Zaiba Tha Tujhe, Tu Hai Magar Garm-e-Niaz'
-- 'id': '1_25_20'
+- 'id': '1_25_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

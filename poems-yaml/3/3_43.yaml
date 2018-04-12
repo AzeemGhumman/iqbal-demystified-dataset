@@ -8,7 +8,7 @@
   'text': 'FATE (SATAN AND GOD)'
 'description': []
 'sher':
-- 'id': '3_43_1'
+- 'id': '3_43_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'SATAN'
   - 'lang': 'ro'
     'text': 'iblees'
-- 'id': '3_43_2'
+- 'id': '3_43_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Oh God, Creator! I did not hate your Adam, | That captive of Far‐and‐Near and Swift‐and‐Slow;'
   - 'lang': 'ro'
     'text': 'Ae Khuda-e-Kun Fakan! Mujh Ko Na Tha Adam Se Bayr | Aah, Woh-e-Nazdeek-o-Door-o-Dair-o-Zood'
-- 'id': '3_43_3'
+- 'id': '3_43_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'And what presumption could refuse to You Obedience? | If I would not kneel to him, The cause was Your own fore‐ordaining will.'
   - 'lang': 'ro'
     'text': 'Harf-e-‘Istaqbar’ Tere Samne Mumkin Na Tha | Haan, Magar Teri Mashiyat Mein Natha Mera Sujood'
-- 'id': '3_43_4'
+- 'id': '3_43_004'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'GOD'
   - 'lang': 'ro'
     'text': 'Yazdaan'
-- 'id': '3_43_5'
+- 'id': '3_43_005'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'SATAN'
   - 'lang': 'ro'
     'text': 'Iblees'
-- 'id': '3_43_6'
+- 'id': '3_43_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'When did that mystery dawn on you? Before, Or after your sedition? | After, oh brightness! Whence all the glory of all being flows.'
   - 'lang': 'ro'
     'text': 'Kab Khula Tujh Par Ye Raaz, Inkaar Se Pehle Ke Baad? | Baad, Ae Teri Tajalli Se Kamalat-e-Wujood'
-- 'id': '3_43_7'
+- 'id': '3_43_007'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'GOD (TO HIS ANGELS)'
   - 'lang': 'ro'
     'text': 'Yazdaan Farishtoon se Mukhatib ho k'
-- 'id': '3_43_8'
+- 'id': '3_43_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'See what a groveling nature taught him this | Fine theorem! His not kneeling, he pretends, Belonged to My fore‐ordinance;'
   - 'lang': 'ro'
     'text': 'Pasti-e-Fitrat Ne Sikhlayi Hai Ye Hujjat Isse | Kehta Hai, ‘Teri Mashiyat Mein Na Tha Mera Sujood’'
-- 'id': '3_43_9'
+- 'id': '3_43_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(19)'
 'description': []
 'sher':
-- 'id': '7_19_1'
+- 'id': '7_19_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ترا ای تازہ پرواز آفریدند | سراپا لذت بال آزمائی'
   - 'lang': 'en'
     'text': 'O swift-winged bird, with your light weight, | You are the joy of flying incarnate.'
-- 'id': '7_19_2'
+- 'id': '7_19_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

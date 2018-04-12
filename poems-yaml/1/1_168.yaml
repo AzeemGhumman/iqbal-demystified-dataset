@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short ghazal conveys the message of activism to the Muslim youth to whom it is primarily addressed.'
 'sher':
-- 'id': '1_168_1'
+- 'id': '1_168_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The spring breeze is flowing again start singing, O Iqbal | If you are a bud be the flower, if a flower the garden become'
   - 'lang': 'ro'
     'text': 'Phir Bad-e-Bahar Ayi, Iqbal Ghazal Khawan Ho | Ghuncha Hai Agar Gul Ho, Gul Hai To Gulistan Ho'
-- 'id': '1_168_2'
+- 'id': '1_168_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'You are a handful of dust , with the warmth of the components | Wander around, scatter about and wilderness in extent become'
   - 'lang': 'ro'
     'text': 'Tu Khak Ki Muthi Hai, Ajza Ki Hararat Se | Barham Ho, Preshan Ho, Wusa’at Mein Byanban Ho'
-- 'id': '1_168_3'
+- 'id': '1_168_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'You belong to the essence of Love, you are invaluable | The purchasers are indigent, low priced in this country become'
   - 'lang': 'ro'
     'text': 'Tu Jins-e-Mohabbat Hai, Qeemat Hai Garan Teri | Kam-Maya Hain Soudagar, Iss Daes Mein Arzan Ho'
-- 'id': '1_168_4'
+- 'id': '1_168_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Why should your tunes be veiled in the guitar’s frets? | You are an ornamented song, evident to every ear become'
   - 'lang': 'ro'
     'text': 'Kyun Saaz Ke Parde Mein Mastoor Ho Lay Teri | Tu Naghma’ay Rangeen Hai, Har Gosh Pe Uryan Ho'
-- 'id': '1_168_5'
+- 'id': '1_168_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'O wise traveler! If in your path you encounter | The garden become dew, if wilderness the storm become'
   - 'lang': 'ro'
     'text': 'Ae Rehro-e-Farzana! Raste Mein Agar Tere | Gulshan Hai To Shabnam Ho, Sehra Hai To Toofan Ho'
-- 'id': '1_168_6'
+- 'id': '1_168_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

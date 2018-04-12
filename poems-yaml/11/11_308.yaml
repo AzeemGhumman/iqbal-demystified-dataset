@@ -8,14 +8,14 @@
   'text': 'VI-VIII'
 'description': []
 'sher':
-- 'id': '11_308_1'
+- 'id': '11_308_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'برون کن کینہ را از سینۂ خویش | کہ دود خانہ از روزن برون بہ'
   - 'lang': 'en'
     'text': 'Turn out fire of envy from thy heart’s core, | Like smoke of house through the ventilator or door.'
-- 'id': '11_308_2'
+- 'id': '11_308_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

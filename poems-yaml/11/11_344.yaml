@@ -8,14 +8,14 @@
   'text': 'XIII-VIII'
 'description': []
 'sher':
-- 'id': '11_344_1'
+- 'id': '11_344_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز فہم دون نہادان گرچہ دور است | ولی این نکتہ را گفتن ضرور است'
   - 'lang': 'en'
     'text': '# translation missing | # translation missing'
-- 'id': '11_344_2'
+- 'id': '11_344_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

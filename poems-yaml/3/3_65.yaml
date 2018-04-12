@@ -8,7 +8,7 @@
   'text': 'DECREES OF GOD'
 'description': []
 'sher':
-- 'id': '3_65_1'
+- 'id': '3_65_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This problem is not hard to solve, O man, endowed with insight great: | Whʹr to obey dictates of God, Or submit to decrees of Fate.'
   - 'lang': 'ro'
     'text': 'Pabandi-e-Taqdeer Ke Pabandi-e-Ahkam! | Ye Masla Mushkil Nahin Ae Mard-e-Khirdmand'
-- 'id': '3_65_2'
+- 'id': '3_65_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The Wheel of Fate spins hundred times, Within the twinkling of the eye; | He, who follows freaks of Fate, Anon is down and anon is high.'
   - 'lang': 'ro'
     'text': 'Ek Aan Mein Sou Bar Badal Jati Hai Taqdeer | Hai Iss Ka Muqallid Abhi Na-Khush, Abhi Khursand'
-- 'id': '3_65_3'
+- 'id': '3_65_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(16)'
 'description': []
 'sher':
-- 'id': '7_16_1'
+- 'id': '7_16_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ یزدان روز محشر برہمن گفت | فروغ زندگی تاب شرر بود'
   - 'lang': 'en'
     'text': 'The Brahmin said to God on Judgement Day, | "Life was a short-lived spark that died away;'
-- 'id': '7_16_2'
+- 'id': '7_16_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

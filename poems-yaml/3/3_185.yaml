@@ -8,7 +8,7 @@
   'text': 'Your prayers can''t avert, Decrees of Fate at all'
 'description': []
 'sher':
-- 'id': '3_185_1'
+- 'id': '3_185_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Your prayers can''t avert, Decrees of Fate at all | Your Self can change, but none, Knows what else may befall.'
   - 'lang': 'ro'
     'text': 'Teri Dua Se Qaza To Badal Nahin Sakti | Magar Hai Iss Se Ye Mumkin Ke Tu Badal Jaye'
-- 'id': '3_185_2'
+- 'id': '3_185_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'If some tremendous change, If human Self e''er shines, | It gains perfection''s height, Gets free of world''s confines.'
   - 'lang': 'ro'
     'text': 'Teri Khudi Mein Agar Inqilab Ho Paida | Ajab Nahin Hai Ke Ye Char Soo Badal Jaye'
-- 'id': '3_185_3'
+- 'id': '3_185_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The wine and drunkard''s cries, May ever live and last | The wont and way of Saqi, And gourd may change too fast.'
   - 'lang': 'ro'
     'text': 'Wohi Sharab, Wohi Haye-o-Hoo Rahe Baqi | Tareeq-e-Saqi-o-Rasm-e-Kadoo Badal Jaye'
-- 'id': '3_185_4'
+- 'id': '3_185_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

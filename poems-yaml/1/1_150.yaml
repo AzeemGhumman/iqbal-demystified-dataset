@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is another poem in which ‘Allamah Iqbal’s views about Western education for Muslims have been expressed. See introduction to poem 128, Musalman Awr Ta‘lam-i-Jadad (Muslims and Modern Education).'
 'sher':
-- 'id': '1_150_1'
+- 'id': '1_150_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hatif Ne Kaha Mujh Se Ka Firdous Mein Ek Roz | Haali Se Mukhatib Huwe Yun Saadi-e-Sheeraz'
-- 'id': '1_150_2'
+- 'id': '1_150_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -36,7 +36,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ae Ankah Za-Noor-e-Guhar-e-Nazam-e-Falak Taab | Daman Ba Charagh-e-Mah-o-Akhtar Zada Aee Baaz!'
-- 'id': '1_150_3'
+- 'id': '1_150_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -45,7 +45,7 @@
     'text': 'Relate to me what the story of the Indian Muslim is | Is he lagging at the halt or busy in exertion is?'
   - 'lang': 'ro'
     'text': 'Kuch Kaifiat-e-Muslim-e-Hindi To Bayan Kar | Wa Mandah-e-Manzil Hai Ke Masroof-e-Tag-o-Taaz'
-- 'id': '1_150_4'
+- 'id': '1_150_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -58,7 +58,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mazhab Ki Hararat Bhi Hai Kuch Iss Ki Ragon Mein? | Thi Jis Ki Falak Souz Kabhi Garmi-e-Awaz'
-- 'id': '1_150_5'
+- 'id': '1_150_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -67,7 +67,7 @@
     'text': 'Hala was moved by the talk of the Shaikh | He started weeping and saying, “O man of miracles!'
   - 'lang': 'ro'
     'text': 'Baaton Se Huwa Sheikh Ki Haali Mutasir | Ro Ro Ke Laga Kehne K "Ae Sahib-e-Ijaz'
-- 'id': '1_150_6'
+- 'id': '1_150_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
     'text': 'When the sky turned over the leaf of time | The call came that respect was possible only with education!'
   - 'lang': 'ro'
     'text': 'Jab Peer-e-Falak Ne Waraq-e-Ayyam Ka Ulta | Ayi Ye Sada, Pao Ge Taleem Se Azaaz'
-- 'id': '1_150_7'
+- 'id': '1_150_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -85,7 +85,7 @@
     'text': 'But this has produced wavering in fundamental beliefs | Secular benefits were obtained, but dan had been undermined'
   - 'lang': 'ro'
     'text': 'Aya Hai Magar Iss Se Aqeedaton Mein Tazalzal | Dunya To Mili, Taeer-e-Deen Kar Gya Parwaz'
-- 'id': '1_150_8'
+- 'id': '1_150_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -94,7 +94,7 @@
     'text': 'Goals also become exalted if the dan is preserved | The youth’s nature is paralyzed and very low keyed'
   - 'lang': 'ro'
     'text': 'Deen Ho To Maqasid Mein Bhi Paida Ho Bulandi | Fitrat Hai Jawanon Ki Zameen-Geer, Zameen Taza'
-- 'id': '1_150_9'
+- 'id': '1_150_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -103,7 +103,7 @@
     'text': 'Concordance among individuals is kept only with dan | Dan is the plectrum if national congregation is the musical instrument'
   - 'lang': 'ro'
     'text': 'Mazhab Se Hum Ahangi-e-Afrad Hai Baqi | Deen Zakhma Hai, Jamiat-e-Millat Hai Agar Saaz'
-- 'id': '1_150_10'
+- 'id': '1_150_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -112,7 +112,7 @@
     'text': 'If the foundation of the garden’s wall is shaken | It is clearly the beginning of the garden’s end'
   - 'lang': 'ro'
     'text': 'Bunyad Laraz Jaye Jo Deewar-e-Chaman Ki | Zahir Hai Ke Anjaam-e-Gulistan Ka Hai Aghaz'
-- 'id': '1_150_11'
+- 'id': '1_150_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Pani Na Mila Zamzam-e-Millat Se Jo Iss Ko | Paida Hain Nayi Poud Mein Ilhaad Ke Andaz'
-- 'id': '1_150_12'
+- 'id': '1_150_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -138,7 +138,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ye Zikr Huzoor-e- Shah-e-Yasrab (S.A.W.) Mein Na Karna | Samjhain Na Kahin Hind Ke Muslim Mujhe Ghammaz'
-- 'id': '1_150_13'
+- 'id': '1_150_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

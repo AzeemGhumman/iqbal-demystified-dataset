@@ -8,7 +8,7 @@
   'text': 'PHILOSOPHY AND RELIGION'
 'description': []
 'sher':
-- 'id': '2_147_1'
+- 'id': '2_147_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Wherefore this succession of day and night? | And what are the sun and the starry heavens?'
   - 'lang': 'ro'
     'text': 'Ye Aftab Kya, Ye Sepehr-e-Bareen Hai Kya! | Samjha Nahin Tasalsul-e-Sham-o-Sehar Ko Main'
-- 'id': '2_147_2'
+- 'id': '2_147_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Am I in my land or in banishment? | The vastness of this desert fills me with fright.'
   - 'lang': 'ro'
     'text': 'Apne Watan Mein Hun Ke Ghareeb-Ud-Diyar Hun | Darta Hun Dekh Dekh Ke Iss Dast-o-Dar Ko Main'
-- 'id': '2_147_3'
+- 'id': '2_147_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'I know not the enigma of this life of mine; | I know not where to find one who knows.'
   - 'lang': 'ro'
     'text': 'Khulta Nahin Mere Safar-e-Zindagi Ka Raaz | Laun Kahan Se Banda-e-Sahib Nazar Ko Main'
-- 'id': '2_147_4'
+- 'id': '2_147_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Avicenna wonders where he came from; | And Rumi wonders where he should go.'
   - 'lang': 'ro'
     'text': 'Heeran Hai Bu Ali Ke Main Aya Kahan Se Hun | Rumi Ye Sochta Hai Ke Jaun Kidhar Ko Main'
-- 'id': '2_147_5'
+- 'id': '2_147_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

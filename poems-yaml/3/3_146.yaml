@@ -8,7 +8,7 @@
   'text': 'DISCIPLINE'
 'description': []
 'sher':
-- 'id': '3_146_1'
+- 'id': '3_146_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'It is the mode of worldly men, Against the world to whine and groan; | It does not suit a dervish true, By Fate‐inflicted wounds to moan.'
   - 'lang': 'ro'
     'text': 'Tareeq-e-Ahl-e-Dunya Hai Gila Shikwah Zamane Ka | Nahin Hai Zakham Kha Kar Aah Karna Shaan-e-Darveshi'
-- 'id': '3_146_2'
+- 'id': '3_146_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

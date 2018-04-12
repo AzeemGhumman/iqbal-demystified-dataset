@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is an allegorical description of the events on the day of the starting of the Universe. It gives a very elegantly artistic description of the way everything was created according to the plan of God. However, the poem is not just an account of the flight of imagination, but a treasure house of mystic ideas. Its central theme is that all created things are bound to perish except the Love of God, which is part of His existence and is eternal (verses 11-23). This Love is one of the basic themes of ‘Allamah Iqbal''s philosophy and pervades all his poetic works. A conspectus of ‘Allamah Iqbal''s views on Love is not possible in this discussion. Only selected samples of his works can be given to show his thinking on this topic and some are given below: | (169) If self-cognizant, self-effective, and self-comprehending is the Khuda of yours | It is also possible that even death may be unable to cause the death of yours | (170) The first, the last, the concealed and the obvious are doomed to perish | Alas ! The old and the new pictures alike are doomed to perish | (171) But in that picture the color of Eternity is | Which perfected by some Man of God is'
 'sher':
-- 'id': '1_27_1'
+- 'id': '1_27_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The hour of the Universe'' appearance was charming | The flower-bud of life was showering smiles'
   - 'lang': 'ro'
     'text': 'Suhani Namood-e-Jahan Ki Ghari Thi | Tabassum Fishan Zindagi Ki Kali Thi'
-- 'id': '1_27_2'
+- 'id': '1_27_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Here the golden crown, the sun was getting | There the moon its moon-light was getting'
   - 'lang': 'ro'
     'text': 'Kahin Mehr Ko Taj-e-Zar Mil Raha Tha | Atta Chand Ko Chandani Ho Rahi Thi'
-- 'id': '1_27_3'
+- 'id': '1_27_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The dark gown to the night was being given | Training of brightness to stars was being given'
   - 'lang': 'ro'
     'text': 'Siyah-e-Pairhan Sham Ko De Rahe The | Sitaron Ko Taleem-e-Tabindagi Thi'
-- 'id': '1_27_4'
+- 'id': '1_27_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The Existence''s branch was getting leaves here | The bud of life was bursting out there'
   - 'lang': 'ro'
     'text': 'Kahin Shakh-e-Hasti Ko Lagte The Patte | Kahin Zindagi Ki Kali Phootti Thi'
-- 'id': '1_27_5'
+- 'id': '1_27_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'The angels were teaching weeping to the dew | For the first time the rose was laughing'
   - 'lang': 'ro'
     'text': 'Farishte Sikhate The Shabnam Ko Rona | Hansi Gul Ko Pehle Pehal Aa Rahi Thi'
-- 'id': '1_27_6'
+- 'id': '1_27_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'They were conferring pathos on the poet''s heart | Khuda for the wine of Bükhuda was pining'
   - 'lang': 'ro'
     'text': 'Atta Dard Hota Tha Shayar Ke Dil Ko | Khudi Tashna Kaam-e-Mai-e-Bekhudi Thi'
-- 'id': '1_27_7'
+- 'id': '1_27_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'For the first time dark black clouds were appearing | As if some Houri of Paradise with open hair was standing'
   - 'lang': 'ro'
     'text': 'Uthi Awwal Awwal Ghata Kali Kali | Koi Hoor Choti Ko Khole Khari Thi'
-- 'id': '1_27_8'
+- 'id': '1_27_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'The earth was claiming elegance of the sky | The space was claiming to be boundless'
   - 'lang': 'ro'
     'text': 'Zameen Ko Tha Dawa Ke Main Asman Hun | Makan Keh Raha Tha Ke Main La-Makan Hun'
-- 'id': '1_27_9'
+- 'id': '1_27_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'In short so beautiful the sight was | That seeing it in itself a panorama was'
   - 'lang': 'ro'
     'text': 'Gharz Iss Qadar Ye Nazara Tha Pyara | Ke Nazaragi Ho Sarapa Nazara'
-- 'id': '1_27_10'
+- 'id': '1_27_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'The angels their flying powers were testing | Eternal lights from their foreheads were appearing'
   - 'lang': 'ro'
     'text': 'Malak Azmate The Parwaz Apni | Jabeenon Se Noor-e-Azal Ashakara'
-- 'id': '1_27_11'
+- 'id': '1_27_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'An angel called Love there was | Whose guidance everyone''s hope was'
   - 'lang': 'ro'
     'text': 'Farishta Tha Ek, Ishq Tha Naam Jis Ka | Ke Thi Rahbari Uss Ki Sub Ka Sahara'
-- 'id': '1_27_12'
+- 'id': '1_27_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'The angel who the embodiment of restlessness was | Angel among angels and restless like mercury he was'
   - 'lang': 'ro'
     'text': 'Farishta Ke Putla Tha Be Tabiyon Ka | Malak Ka Malak Aur Pare Ka Para'
-- 'id': '1_27_13'
+- 'id': '1_27_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'He was going towards the Paradise for a stroll | He met death on its way by the destiny''s roll'
   - 'lang': 'ro'
     'text': 'Pay-e-Sair Fardous Ko Ja Raha Tha | Qaza Se Mila Rah Mein Woh Qaza Ra'
-- 'id': '1_27_14'
+- 'id': '1_27_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
     'text': 'He asked death, "What is the name and work of yours? | I do not want to encounter the face of yours"'
   - 'lang': 'ro'
     'text': 'Ye Pucha Tera Naam Kya, Kaam Kya Hai | Nahin Ankh Ko Deed Teri Gawara'
-- 'id': '1_27_15'
+- 'id': '1_27_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -145,7 +145,7 @@
     'text': 'Hearing this said the angel of death | "My work is clear, I am the angel of death'
   - 'lang': 'ro'
     'text': 'Huwa Sun Ke Goya Qaza Ka Farishta | Ajal Hun, Mera Kaam Hai Ashkara'
-- 'id': '1_27_16'
+- 'id': '1_27_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -154,7 +154,7 @@
     'text': 'I shatter the chattels of existence | I extinguish the spark of life'
   - 'lang': 'ro'
     'text': 'Urati Hun, Main Rakht-e-Hasti Ke Purze | Bujhati Hun Main Zindagi Ka Shararr'
-- 'id': '1_27_17'
+- 'id': '1_27_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
     'text': 'The magic of annihilation is in my eyes | The message of destruction is its symhol'
   - 'lang': 'ro'
     'text': 'Meri Ankh Mein Jadoo-e-Neesti Hai | Paya-e-Fana Hai Issi Ka Ishara'
-- 'id': '1_27_18'
+- 'id': '1_27_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -172,7 +172,7 @@
     'text': 'But there is one entity in the Universe | It is fire, I am only mercury before it'
   - 'lang': 'ro'
     'text': 'Magar Aik Hasti Hai Dunya Mein Aesi | Woh Atish Hai Main Samne Uss Ke Para'
-- 'id': '1_27_19'
+- 'id': '1_27_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
     'text': 'It lives in the human heart as a spark | It is the darling of the Divine Light'
   - 'lang': 'ro'
     'text': 'Sharar Ban Ke Rehti Hai Insan Ke Dil Mein | Woh Hai Noor-e-Mutliq Ki Ankhon Ka Tara'
-- 'id': '1_27_20'
+- 'id': '1_27_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'It constantly drips as tears from the eyes | The tears whose bitterness is tolerable"'
   - 'lang': 'ro'
     'text': 'Tapakti Hai Ankhon Se Ban Ban Ke Ansu | Woh Ansu Ke Ho Jin Ki Talkhi Gawara'
-- 'id': '1_27_21'
+- 'id': '1_27_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'When Love heard this from the death''s lips , | Laughter started appearing from its lips'
   - 'lang': 'ro'
     'text': 'Suni Ishq Ne Guftugoo Jab Qaza Ki | Hansi Uss Ke Lab Par Huwi Ashkara'
-- 'id': '1_27_22'
+- 'id': '1_27_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -208,7 +208,7 @@
     'text': 'The thunder of such smile descended on death | How can darkness stay in front of such light?'
   - 'lang': 'ro'
     'text': 'Giri Uss Tabassum Ki Bijli Ajal Par | Andhere Ka Ho Noor Mein Kya Guzara'
-- 'id': '1_27_23'
+- 'id': '1_27_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

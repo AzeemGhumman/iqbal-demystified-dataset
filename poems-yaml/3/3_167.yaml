@@ -8,7 +8,7 @@
   'text': 'EUROPE AND SYRIA'
 'description': []
 'sher':
-- 'id': '3_167_1'
+- 'id': '3_167_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'This land of Syria gave the West a Prophet | Of purity and pity and innocence;'
   - 'lang': 'ro'
     'text': 'Farangiyon Ko Atta Khak-e-Suriya Ne Kiya | Nabi Iffat-o-Gham Khwari-o-Kam Azari'
-- 'id': '3_167_2'
+- 'id': '3_167_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

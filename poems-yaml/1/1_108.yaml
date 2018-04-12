@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This extremely beautiful poem describing the tranquillity of the moonlit night of the Indian sub-continent expresses the great frustration of ‘Allamah Iqbal. As has been stated in the introductions of several previous poems the three problems causing frustrating to him were the exploitation of the world by the Western nations. The deplorable condition of the Muslim countries and society and the lack of amicable solution of the Hindu-Muslim problem of the Indian sub-continent which was delaying its independence. There was nobody to whom he could talk about these matters which compelled him to come out in the serenity of moonlit night and relate them to it.'
 'sher':
-- 'id': '1_108_1'
+- 'id': '1_108_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Part 1'
   - 'lang': 'ro'
     'text': 'part1'
-- 'id': '1_108_2'
+- 'id': '1_108_002'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Rat ( The Night )'
   - 'lang': 'ro'
     'text': 'raat'
-- 'id': '1_108_3'
+- 'id': '1_108_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Why in my light are you roaming about perturbed? | Silent like the rose, like the fragrance perturbed'
   - 'lang': 'ro'
     'text': 'Kyun Meri Chandni Mein Phirta Hai Tu Preshan | Khamosh Soorat-e-Gul, Manind-e-Bu Preshan'
-- 'id': '1_108_4'
+- 'id': '1_108_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Perhaps you are the jeweler of the star’s pearls | Perhaps you are some fish of the river of my light'
   - 'lang': 'ro'
     'text': 'Taron Ke Moutiyon Ka Shaid Hai Jouhari Tu | Machli Hai Koi Mere Darya-e-Noor Ki Tu'
-- 'id': '1_108_5'
+- 'id': '1_108_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Or you are a star fallen from my forehead | Which, leaving eminence has adopted habitation in humility'
   - 'lang': 'ro'
     'text': 'Ya Tu Meri Jabeen Ka Tara Gira Huwa Hai | Riffat Ko Chor Kar Jo Pasti Mein Ja Basa Hai'
-- 'id': '1_108_6'
+- 'id': '1_108_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'Quiet has become the string of the harp of life | In my mirror is the picture of the dream of life'
   - 'lang': 'ro'
     'text': 'Khamosh Ho Gya Hai Tar-e-Rabab–E-Hasti | Hai Mere Aaeene Mein Tasveer-e-Khawab-e-Hasti'
-- 'id': '1_108_7'
+- 'id': '1_108_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'At the bottom of the river the whirlpool’s eye is asleep | By the river bank the restless wave has fallen asleep'
   - 'lang': 'ro'
     'text': 'Darya Ki Teh Mein Chashm-e-Gard Ab So Gyi Hai | Sahil Se Lag Ke Mouj-e-Betaab So Gyi Hai'
-- 'id': '1_108_8'
+- 'id': '1_108_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'How tumultuous the habitation of the earth is | Has fallen asleep as if it not even inhabited is'
   - 'lang': 'ro'
     'text': 'Basti Zameen Ki Kaisi Hangama Afreen Hai | Yun So Gyi Hai Jaise Abad Hi Nahin Hai'
-- 'id': '1_108_9'
+- 'id': '1_108_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'But the poet’s heart is unacquainted with peace | How did you remain free from my enchantment?'
   - 'lang': 'ro'
     'text': 'Shayar Ka Dil Hai Lekin Na-Ashna Sukoon Se | Azad Reh Gya Tu Kyunkar Mere Fusoon Se'
-- 'id': '1_108_10'
+- 'id': '1_108_010'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'Part 2'
   - 'lang': 'ro'
     'text': 'part2'
-- 'id': '1_108_11'
+- 'id': '1_108_011'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'Sha`ir ( The Night)'
   - 'lang': 'ro'
     'text': 'shayer'
-- 'id': '1_108_12'
+- 'id': '1_108_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'I am sowing pearls in the fields of your moon | Hiding from people I weep like the dawn'
   - 'lang': 'ro'
     'text': 'Main Tere Chand Ki Khaiti Mein Guhar Bota Hun | Chup Ke Insanon Se Manind-e-Sehar  Rota Hun'
-- 'id': '1_108_13'
+- 'id': '1_108_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'Being shy of coming out in the day’s commotion | My tears start dripping in the night’s seclusion'
   - 'lang': 'ro'
     'text': 'Din Ki Sourish Mein Niklte Huwe Ghabrate Hain | Uzlat-e-Shab Mein Mere Ashk Tapak Jate Hain'
-- 'id': '1_108_14'
+- 'id': '1_108_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Mujh Mein Faryad Jo Pinhan Hai, Sunaon Kis Ko | Tapish-e-Shauq Ka Nazzara Dikhaon Kis Ko'
-- 'id': '1_108_15'
+- 'id': '1_108_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -153,7 +153,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Barq-e-Aeman  Mere Seene Pe Pari Roti Hai | Dekhne Wali Hai Jo Ankh, Kahan Soti Hai!'
-- 'id': '1_108_16'
+- 'id': '1_108_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -162,7 +162,7 @@
     'text': 'My congregation is dead like the grave’s candle | Ah! O night my destination is very far'
   - 'lang': 'ro'
     'text': 'Sift-e-Shama-e-Lehd Murda Hai Mehfil Meri | Ah, Ae Raat! Bari Door Hai Manzil Meri'
-- 'id': '1_108_17'
+- 'id': '1_108_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -171,7 +171,7 @@
     'text': 'The present day conditions are not amenable to it | There is no perception of it’s own loss in it'
   - 'lang': 'ro'
     'text': 'Ehd-e-Hazir Ki Hawa Raas Nahin Hai Iss Ko | Apne Nuksan Ka Ehsas Nahin Hai Iss Ko'
-- 'id': '1_108_18'
+- 'id': '1_108_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

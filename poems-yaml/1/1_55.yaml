@@ -8,7 +8,7 @@
   'text': 'UNUSUAL IN STATE, DISTINCT FROM THE WHOLE WORLD THEY ARE'
 'description': []
 'sher':
-- 'id': '1_55_1'
+- 'id': '1_55_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Unusual in state, distinct from the whole world they are | O Lord! Inhabitants of which habitation these Lovers are?'
   - 'lang': 'ro'
     'text': 'Anokhi Waza Hai, Sare Zamane Se Nirale Hain | Ye Ashiq Kon Si Basti Ke Ya-Rab Rehne Wale Hain'
-- 'id': '1_55_2'
+- 'id': '1_55_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Even during pathos''s cure I desperately love pathos | Blisters'' thorns have been extracted with needle''s point'
   - 'lang': 'ro'
     'text': 'Ilaj-e-Dard Mein Bhi Dard Ki Lazzat Pe Merta Hun | Jo The Chhalon Mein Kante, Nok-e-Souzan Se Nikale Hain'
-- 'id': '1_55_3'
+- 'id': '1_55_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O Lord, the garden of my hopes may remain prosperous | I have raised these plants watering them with my blood'
   - 'lang': 'ro'
     'text': 'Phala Phula Rahe Ya Rab ! Chaman Meri Umeedon Ka | Jigar Ka Khoon De De Kar Ye Boote Main Ne Pale Hain'
-- 'id': '1_55_4'
+- 'id': '1_55_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -48,7 +48,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Rulati Hai Mujhe Raton Ko Khamoshi Sitaron Ki | Nirala Ishq Hai Mera, Nirale Mere Nale Hain'
-- 'id': '1_55_5'
+- 'id': '1_55_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -57,7 +57,7 @@
     'text': 'Do not ask me of the pleasure of remaining destitute | Hundreds of nests have been made and destroyed by me'
   - 'lang': 'ro'
     'text': 'Na Pucho Mujh Se Lazzat Khanaman Barbad Rehne | Nasheman Sekron Main Ne Bana Kar Phoonk Dale Hain'
-- 'id': '1_55_6'
+- 'id': '1_55_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -70,7 +70,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Nahin Begangi Achi Rafiq-e-Rah Manzil Se | Theher Ja Ae Sharar, Hum Bhi To Akhir Mitne Wale Hain'
-- 'id': '1_55_7'
+- 'id': '1_55_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -83,7 +83,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Umeed-e-Hoor Ne Sub Kuch Sikha Rakha Hai Waaiz Ko | Ye Hazrat Dekhne Mein Seedhe Sadhe, Bhole Bhale Hain'
-- 'id': '1_55_8'
+- 'id': '1_55_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

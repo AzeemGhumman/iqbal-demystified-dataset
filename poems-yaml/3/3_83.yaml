@@ -8,7 +8,7 @@
   'text': 'UPBRINGING'
 'description': []
 'sher':
-- 'id': '3_83_1'
+- 'id': '3_83_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Existence and knowledge both are poles apart, | Life burns the soul, whereas lore makes it smart.'
   - 'lang': 'ro'
     'text': 'Zindagi Kuch Aur Shay Hai, Ilm Hai Kuch Aur Shay | Zindagi Souz-e-Jigar Hai, Ilm Hai Souz-e-Damagh'
-- 'id': '3_83_2'
+- 'id': '3_83_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Joy, wealth and power all, to lore are due, | How irksome that to self it yields no clue!'
   - 'lang': 'ro'
     'text': 'Ilm Mein Doulat Bhi Hai, Qudrat Bhi Hai, Lazzat Bhi Hai | Aik Mushkil Hai Ke Hath Ata Nahin Apna Suragh'
-- 'id': '3_83_3'
+- 'id': '3_83_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'No dearth of lettered men, ah few! provide | The bowl with wine of gnosis like true guide.'
   - 'lang': 'ro'
     'text': 'Ahl-e-Danish Aam Hain, Kamyaab Hain Ahl-e-Nazar | Kya Ta’ajjub Hai Ke Khali Reh Gya Tera Ayagh!'
-- 'id': '3_83_4'
+- 'id': '3_83_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

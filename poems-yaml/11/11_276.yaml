@@ -8,7 +8,7 @@
   'text': 'A CROCODILE TO ITS YOUNG | Chapter 17'
 'description': []
 'sher':
-- 'id': '11_276_1'
+- 'id': '11_276_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': '‘croco’:'
       'meaning': '        Here croco is ''diminitive'' of crocodile.'
       'occurrence': !!int '1'
-- 'id': '11_276_2'
+- 'id': '11_276_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

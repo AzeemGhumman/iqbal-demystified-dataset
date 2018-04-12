@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem is addressed to the Muslim youth of the Indian sub-continent through the students of the then Muhammadan Anglo-Oriental College, Aligarh, India (the present Muslim University, Aligarh, India). The central theme of the poem is that the ‘Allamah’s message is different from the messages the youth had been getting till then. The difference is that his message is the urge to struggle with ‘heart within and God over head’ in contrast to the messages of others which taught loyalty to the British crown. However, in the last verse there is the warning that as the Love of the Muslim youth for God was till then immature and their self-confidence was still not fully developed they had to remove these shortcomings before launching their struggle.'
 'sher':
-- 'id': '1_67_1'
+- 'id': '1_67_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'The message of others is different, my message is different | The style of address of the one afflicted with Love is different'
   - 'lang': 'ro'
     'text': 'Auron Ka Hai Payam Aur, Mera Payam Aur Hai | Ishq Ke Dardmand Ka Tarz-e-Kalaam Aur Hai'
-- 'id': '1_67_2'
+- 'id': '1_67_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'You have heard the laments of the bird under the net | Also listen to the laments of the bird on the roof tops which are different'
   - 'lang': 'ro'
     'text': 'Taair-e-Zair-e-Daam Ke Naale Tu Sun Chukke Ho Tum | Ye Bhi Suno Ke Nala-e-Tair-e-Baam Aur Hai'
-- 'id': '1_67_3'
+- 'id': '1_67_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Call was coming from the mount, "Life’s secret is peace" | The frail ant was saying "The pleasure of struggle is different"'
   - 'lang': 'ro'
     'text': 'At Thi Koh Se Sada Raaz-e-Hayat Hai Sukoon | Kehta Tha Moor-e-Natwan Lutf-e-Kharaam Aur Hai'
-- 'id': '1_67_4'
+- 'id': '1_67_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The glory of Hijaz’ assemblage is based on Haram’s Love | The station of this is different, the system of that is different!'
   - 'lang': 'ro'
     'text': 'Jazb-e-Haram Se Hai Farough Anjuman-e-Hijaz | Iss Ka Maqam Aur Hai, Iss Ka Nizam Aur Hai'
-- 'id': '1_67_5'
+- 'id': '1_67_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Eternal luxury is death if there is no Longing for Search | Man’s revolving is different, wine-cup’s revolving is different'
   - 'lang': 'ro'
     'text': 'Mout Hai Aysh-e-Javidan, Zuaq-e-Talab Agar Na Ho | Gardish-e-Adami Hai Aur, Gardish-e-Jaam Aur Hai'
-- 'id': '1_67_6'
+- 'id': '1_67_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'The dawn’s candle left the message that burning is life’s secret | In the life’s sorrowful abode the condition for eternity is different'
   - 'lang': 'ro'
     'text': 'Shama-e-Sehar Ye Keh Gyi Souz Hai Zindagi Ka Saaz | Ghamkuda-e-Namood Mein Shart-e-Dawam Aur Hai'
-- 'id': '1_67_7'
+- 'id': '1_67_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

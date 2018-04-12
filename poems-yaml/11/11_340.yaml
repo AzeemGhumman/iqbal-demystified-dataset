@@ -8,14 +8,14 @@
   'text': 'XIII-IV'
 'description': []
 'sher':
-- 'id': '11_340_1'
+- 'id': '11_340_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ زھرابی کہ در پیمانہ اوست | کشد جانرا و تن بیگانہ اوست'
   - 'lang': 'en'
     'text': '# translation missing | # translation missing'
-- 'id': '11_340_2'
+- 'id': '11_340_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

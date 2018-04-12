@@ -8,7 +8,7 @@
   'text': 'TIME'
 'description': []
 'sher':
-- 'id': '2_138_1'
+- 'id': '2_138_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'What was, has faded: what is, is fading: but of these words few can tell the worth; | Time still is gaping with expectation of what is nearest its hour of birth.'
   - 'lang': 'ro'
     'text': 'Jo Tha Nahin Hai, Jo Hai Na Ho Ga, Yehi Hai Ek Harf-e-Mehrmana | Qareeb Tar Hai Namood Jis Ki Ussi Ka Mushtaq Hai Zamana'
-- 'id': '2_138_2'
+- 'id': '2_138_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'New tidings slowly come drop by drop from my pitcher gurgling of time’s new sights, | As I count over the beads strung out on my threaded rosary of days and nights.'
   - 'lang': 'ro'
     'text': 'Meri Soorahi Se Qatra Qatra Naye Hawadis Tapak Rahe Hain | Main Apni Tasbeeh-e-Roz-o-Shab Ka Shumar Karta Hon Dana Dana'
-- 'id': '2_138_3'
+- 'id': '2_138_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'With each man friendly, with each I vary, and have a new part at my command: | To one the rider, to one the courser, to one the whiplash of reprimand.'
   - 'lang': 'ro'
     'text': 'Har Aik Se Ashna Hun, Lekin Juda Juda Rasme-o-Rah Meri | Kisi Ka Raakab, Kisi Ka Markab, Kisi Ko  Ibrat Ka Taziyana'
-- 'id': '2_138_4'
+- 'id': '2_138_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'If in the circle you were not numbered, was it your own fault or mine? | To humour no‐one am I accustomed to keep untasted the midnight wine!'
   - 'lang': 'ro'
     'text': 'Na Tha Agar Tu Shareek-e-Mehfil, Qasoor Mera Hai Ya Ke Tera | Mera Tareeka Nahin Ke Rakh Loon Kisi Ki Khatar Mai’ay Shabana'
-- 'id': '2_138_5'
+- 'id': '2_138_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'No planet‐gazer can ever see through my winding mazes; for when the eye | That aims it sees by no lights from Heaven, the arrow wavers and glances by.'
   - 'lang': 'ro'
     'text': 'Mere Kham-o-Paich Ko Najoomi Ki Ankh Pehchanti Nahin Hai | Hadaf Se Baigana Teer Uss Ka, Nazar Nahin Jis Ki Arfana'
-- 'id': '2_138_6'
+- 'id': '2_138_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'That is no dawn at the Western skyline—it is a bloodbath, that ruddy glow! | Await to‐morrow; our yesterday and to‐day are legends of long ago.'
   - 'lang': 'ro'
     'text': 'Shafaq Nahin Maghrabi Ufaq Par, Ye Jooye Khoon Hai, Ye Jooye Khoon Hai! | Tulu-e-Farda Ka Muntazir Reh Ke Dosh-o-Amroz Hai Fasana'
-- 'id': '2_138_7'
+- 'id': '2_138_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'From Nature’s forces their reckless science has stripped the garments away, until | At last its own nesting‐place is scorched by the restless lightning it cannot still:'
   - 'lang': 'ro'
     'text': 'Woh Fikar-e-Ghustakh Ji Ne Uryaan Kiya Hai Fitrat Ki Taqaton Ko | Ussi Ki Betab Bijliyon Se Khatr Mein Hai Uss Ka Ashiyana'
-- 'id': '2_138_8'
+- 'id': '2_138_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'To them the trade‐wind belongs, the sky‐way, to them the ocean, to them the ship— | It shall not serve them to calm the whirlpool by which their fate holds them in its grip!'
   - 'lang': 'ro'
     'text': 'Hawaen Un Ki, Fazaen Un Ki, Sumundar Un Ke, Jahaz Un Ke | Girah Bhanwar Ki Khule To Kyunkar, Bhanwar Hai Taqeer Ka Bahana'
-- 'id': '2_138_9'
+- 'id': '2_138_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'But now a new world is being born, while this old one sinks out of sight of men, | This world the gamblers of Europe turned into nothing else than a gambling‐den.'
   - 'lang': 'ro'
     'text': 'Jahan-e-Nau Ho Raha Hai Paida, Woh Alam-e-Peer Mar Raha Hai | Jise Farangi Muqamiron Ne Bana Diya Hai Qimar Khana'
-- 'id': '2_138_10'
+- 'id': '2_138_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

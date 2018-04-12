@@ -8,14 +8,14 @@
   'text': '(15)'
 'description': []
 'sher':
-- 'id': '7_15_1'
+- 'id': '7_15_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ز آب و گل خدا خوش پیکری ساخت | جہانی از ارم زیبا تری ساخت'
   - 'lang': 'en'
     'text': 'With water and with earth God, builder-wise, | Made a world fairer than His Paradise:'
-- 'id': '7_15_2'
+- 'id': '7_15_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

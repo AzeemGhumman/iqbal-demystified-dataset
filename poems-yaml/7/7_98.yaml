@@ -8,14 +8,14 @@
   'text': '(98)'
 'description': []
 'sher':
-- 'id': '7_98_1'
+- 'id': '7_98_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو گوئی طایر ما زیر دام است | پریدن بر پر و بالش حرام است'
   - 'lang': 'en'
     'text': 'You say that we are like birds in a snare, | Which cannot stretch their wings so as to fly.'
-- 'id': '7_98_2'
+- 'id': '7_98_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

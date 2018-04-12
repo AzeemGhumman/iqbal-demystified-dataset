@@ -8,14 +8,14 @@
   'text': 'V-II'
 'description': []
 'sher':
-- 'id': '11_193_1'
+- 'id': '11_193_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بگیر از ساغرش  ن لالہ رنگی | کہ تاثیرش دہد لعلی بہ سنگی'
   - 'lang': 'en'
     'text': 'Take from his cup those poppy like stems, | Whose one sip can turn a stone into gem.'
-- 'id': '11_193_2'
+- 'id': '11_193_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

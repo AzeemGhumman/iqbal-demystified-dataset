@@ -8,14 +8,14 @@
   'text': '(94)'
 'description': []
 'sher':
-- 'id': '7_94_1'
+- 'id': '7_94_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'کمال زندگی خواہی بیاموز | گشادن چشم و جز بر خود نبستن'
   - 'lang': 'en'
     'text': 'Do you wish to attain the perfect life? | Learn to fix on yourself your opened eyes,'
-- 'id': '7_94_2'
+- 'id': '7_94_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

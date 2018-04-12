@@ -8,7 +8,7 @@
   'text': 'TO THE AMIRS OF ARABIA'
 'description': []
 'sher':
-- 'id': '3_64_1'
+- 'id': '3_64_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If Amirs of Arabian lands, Donʹt take it for a slur or slight: | This Muslim from the land of Ind, May speak with vigour great and might.'
   - 'lang': 'ro'
     'text': 'Kare Ye Kafir-e-Hindi Bhi Juraat-e-Guftar | Agar Na Ho Umraye Arab Ki Be Adabi !'
-- 'id': '3_64_2'
+- 'id': '3_64_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Who were the people whom at first, Godʹs apostle preached kinship close? | Division amongst them was infused, By men like Bu Lahab and such foes.'
   - 'lang': 'ro'
     'text': 'Ye Nukta Pehle Sikhaya Gya Kis Ummat Ko? | Wasal Mustafawi, Iftaraq Bu Lahbi!'
-- 'id': '3_64_3'
+- 'id': '3_64_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'RELIGION AND CRAFTS'
 'description': []
 'sher':
-- 'id': '3_105_1'
+- 'id': '3_105_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Music, religion, politics, knowledge, art | Have all in their possession matchless pearls.'
   - 'lang': 'ro'
     'text': 'Surood-o-Shair-o-Siasat, Kitab-o-Deen-o-Hunar | Guhar Hain Un Ki Girah Mein Tamam Yakdana'
-- 'id': '3_105_2'
+- 'id': '3_105_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'They emanate from the mind of a creature made of dust, | But higher than the stars is their abode.'
   - 'lang': 'ro'
     'text': 'Zameer-e-Banda-e-Khaki Se Hai Namood Un Ki | Buland Tar Hai Sitaron Se Un Ka Kashana'
-- 'id': '3_105_3'
+- 'id': '3_105_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'If they protect the ego, they are life itself; | If they cannot, they are mere magic and false tales.'
   - 'lang': 'ro'
     'text': 'Agar Khudi Ki Hifazat Karain To Aen-e-Hayat | Na Kar Sakain To Sarapa Fusoon-o-Afsana'
-- 'id': '3_105_4'
+- 'id': '3_105_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Come out of the monastery and play the role of Shabbir'
 'description': []
 'sher':
-- 'id': '4_28_1'
+- 'id': '4_28_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Come out of the monastery and play the role of Shabbir, | for monastery’s faqr is but grief and affliction.'
   - 'lang': 'ro'
     'text': 'Nikl Kar Khanqahon Se Ada Kar Rasm-E-Shabeeri | Ke Faqr-E-Khanqahi Hai Faqat Andoh-O-Dilgeeri'
-- 'id': '4_28_2'
+- 'id': '4_28_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Thy religion and literature both smell of renunciation: | symbol of old age of dying nations.'
   - 'lang': 'ro'
     'text': 'Tere Deen-O-Adab Se Aa Rahi Hai Boo’ay Ruhbani | Ye Hai Marne Wali Ummaton Ka Alam-E-Peeri'
-- 'id': '4_28_3'
+- 'id': '4_28_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Imperialism has myriads of Satans with eyes full of magic charms | that evoke among the prey an irresistible urge to be its victim.'
   - 'lang': 'ro'
     'text': 'Shayateen-E-Mulookiat Ki Ankhon Mein Hai Vo Jadoo | K Khud Nakhcheer Ke Dil Mein Ho Paida Zuaq-E-Nakhcheeri'
-- 'id': '4_28_4'
+- 'id': '4_28_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

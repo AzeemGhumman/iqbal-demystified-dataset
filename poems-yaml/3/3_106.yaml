@@ -8,7 +8,7 @@
   'text': 'CREATION'
 'description': []
 'sher':
-- 'id': '3_106_1'
+- 'id': '3_106_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'New worlds derive their pomp, From thoughts quite fresh and new | From stones and bricks a world, Was neither built nor grew.'
   - 'lang': 'ro'
     'text': 'Jahan-e-Taza Ki Afkar-e-Taza Se Hai Namood | Ke Sang-o-Khisht Se Hote Nahin Jahan Paida'
-- 'id': '3_106_2'
+- 'id': '3_106_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The firm resolve of those, Who depths of self explore, | Transforms this stream to sea, That has no marge or shore.'
   - 'lang': 'ro'
     'text': 'Khudi Mein Doobne Walon Ke Azam-o-Himmat Ne | Iss Aabjoo Se Kiye Behar-e-Bekaran Paida'
-- 'id': '3_106_3'
+- 'id': '3_106_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The fellow same is lord, Of freaks of fate and strife, | Who with eʹery breath he draws, Creates an eternal life.'
   - 'lang': 'ro'
     'text': 'Wohi Zamane Ki Gardish Pe Ghalib Ata Hai | Johar Nafs Se Kare Umar-e-Javidan Paida'
-- 'id': '3_106_4'
+- 'id': '3_106_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The death of self has made, The lands of East effete: | Men who Godʹs secrets share, In these realms are deplete.'
   - 'lang': 'ro'
     'text': 'Khudi Ki Mout Se Mashriq Ki Sarzameenon Mein | Huwa Na Koi Khudai Ka Raazdan Paida'
-- 'id': '3_106_5'
+- 'id': '3_106_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

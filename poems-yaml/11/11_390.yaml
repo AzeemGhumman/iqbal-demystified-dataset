@@ -8,14 +8,14 @@
   'text': 'V-II'
 'description': []
 'sher':
-- 'id': '11_390_1'
+- 'id': '11_390_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ حاجت طول دادن داستان را | بحرفی گویم اسرار نہان را'
   - 'lang': 'en'
     'text': 'A long tale serves no service in a sense, | In one word I tell a hidden fact hence.'
-- 'id': '11_390_2'
+- 'id': '11_390_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

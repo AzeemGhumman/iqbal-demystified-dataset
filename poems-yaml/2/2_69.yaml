@@ -8,7 +8,7 @@
   'text': 'Arise! The bugle calls! It is time to leave!'
 'description': []
 'sher':
-- 'id': '2_69_1'
+- 'id': '2_69_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Arise! The bugle calls! It is time to leave! | Woe be to the traveller who still awaits!'
   - 'lang': 'ro'
     'text': 'Garam-e-Gaghan Hai Jaras, Uth Ke Gya Qafla | Waye Woh Rehru Ke Hai Muntazir-e-Rahla !'
-- 'id': '2_69_2'
+- 'id': '2_69_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The confines of a monastery suit thee not— | The times have changed, thou seest, and so hast thou.'
   - 'lang': 'ro'
     'text': 'Teri Tabiyat Hai Aur, Tera Zamana Hai Aur | Tere Muwafiq Nahin Khanqahi Silsala'
-- 'id': '2_69_3'
+- 'id': '2_69_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Thorny is the path, O seeker of salvation! | Whether thy heart is the slave or the master of reason.'
   - 'lang': 'ro'
     'text': 'Dil Ho Ghulam-e-Khirad Ya Ke Imam-e-Khirad | Salik-e-Rah, Hoshiyar ! Sakht Hai Ye Marhala'
-- 'id': '2_69_4'
+- 'id': '2_69_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The Selfhood of one who bemoans all change, | Is yet a prisoner of time, shackled by days and nights.'
   - 'lang': 'ro'
     'text': 'Uss Ki Khudi Hai Abhi Sham-o-Sehar Mein Aseer | Gardish-e-Doran Ka Hai Jis Ki Zuban Par Gila'
-- 'id': '2_69_5'
+- 'id': '2_69_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

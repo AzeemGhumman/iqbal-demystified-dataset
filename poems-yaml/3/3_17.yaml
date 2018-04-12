@@ -8,7 +8,7 @@
   'text': 'WRITTEN ON THE OCCASION OF THE BRITISH GOVERNMENTʹS PERMISSION TO KEEP SWORD'
 'description': []
 'sher':
-- 'id': '3_17_1'
+- 'id': '3_17_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O Muslim, did you ever think or feel | What is meant by piercing sword of steel?'
   - 'lang': 'ro'
     'text': 'Socha Bhi Hai Ae Mard-e-Musalman Kabhi Tu Ne | Kya Cheez Hai Foulad Ki Shamsheer-e-Jigar Dar'
-- 'id': '3_17_2'
+- 'id': '3_17_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'It is the first hemistich of this verse | That Godʹs Oneness shows in form so terse.'
   - 'lang': 'ro'
     'text': 'Uss Bait Ka Ye Misra-e-Awwal Hai Ke Jis Mein | Poshida Chale Ate Hain Touheed Ke Asrar'
-- 'id': '3_17_3'
+- 'id': '3_17_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'My anxiety for the second half is greater though, | May God the sword of faqr on you bestow'
   - 'lang': 'ro'
     'text': 'Hai Fikr Mujhe Misra-e-Sani Ki Ziada | Allah Kare Tujh Ko Atta Faqr Ki Talwar'
-- 'id': '3_17_4'
+- 'id': '3_17_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'VII-III'
 'description': []
 'sher':
-- 'id': '11_213_1'
+- 'id': '11_213_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'تو ہم بگذار  ن صورت نگاری | مجو غیر از ضمیر خویش یاری'
   - 'lang': 'en'
     'text': 'You leave making now the portraits on wall, | Be friendly with conscience and Ego’s call.'
-- 'id': '11_213_2'
+- 'id': '11_213_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

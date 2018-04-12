@@ -8,7 +8,7 @@
   'text': 'Salman, the mellifluous, In words of power and wit'
 'description': []
 'sher':
-- 'id': '2_74_1'
+- 'id': '2_74_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -21,7 +21,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Yaad Mujhe Nukta-e-Salman-e-Khush Ahang | Dunya Nahin Mardan-e-Jafa Kash Ke Liye Tang'
-- 'id': '2_74_2'
+- 'id': '2_74_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -30,7 +30,7 @@
     'text': 'But one should have a lion’s heart, An eagle’s piercing eye, | Then one can live without the light, Of a lexicon and learning.'
   - 'lang': 'ro'
     'text': 'Cheete Ka Jigar Chahye, Shaheen Ka Tajasus | Ji Sakte Hain Be-Roshni-e-Danish-o-Farhang'
-- 'id': '2_74_3'
+- 'id': '2_74_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

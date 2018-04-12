@@ -8,14 +8,14 @@
   'text': 'X-IV'
 'description': []
 'sher':
-- 'id': '11_76_1'
+- 'id': '11_76_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'عروس زندگی در خلوتش غیر | کہ دارد در مقام نیستی سیر'
   - 'lang': 'en'
     'text': 'The bride of life, in him is not his own, | She comes out then from limbe’s lover line.'
-- 'id': '11_76_2'
+- 'id': '11_76_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

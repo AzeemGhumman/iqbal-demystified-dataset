@@ -8,14 +8,14 @@
   'text': '(87)'
 'description': []
 'sher':
-- 'id': '7_87_1'
+- 'id': '7_87_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'کسی کو درد پنھانی ندارد | تنی دارد ولی جانی ندارد'
   - 'lang': 'en'
     'text': 'One who has been blessed with no secret grief | May have a body, but has not a soul.'
-- 'id': '7_87_2'
+- 'id': '7_87_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

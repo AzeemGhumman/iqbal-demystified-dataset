@@ -8,7 +8,7 @@
   'text': 'Distracted are thy eyes in myriad ways'
 'description': []
 'sher':
-- 'id': '2_91_1'
+- 'id': '2_91_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Distracted are thy eyes in myriad ways; | Distracted is thy reason in many pursuits;'
   - 'lang': 'ro'
     'text': 'Nigah Uljhi Huwi Hai Rang-o-Boo Mein | Khirad Khoyi Gyi Hai Char Soo Mein'
-- 'id': '2_91_2'
+- 'id': '2_91_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

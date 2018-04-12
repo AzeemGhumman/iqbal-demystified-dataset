@@ -8,7 +8,7 @@
   'text': 'SUBMISSION TO FATE'
 'description': []
 'sher':
-- 'id': '3_3_1'
+- 'id': '3_3_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The Quranic teaching that did bring, The Moon and Pleiades within human | Is now explained in manner strange, ’Twixt man and world to cause a breach.'
   - 'lang': 'ro'
     'text': 'Issi Quran Mein Hai Ab Tark-e-Jahan Ki Taleem | Jis Ne Momin Ko Banaya Meh-o-Parveen Ka Ameer'
-- 'id': '3_3_2'
+- 'id': '3_3_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Their mode of work has changed entire, Before the freaks of Fate they bow: | They had a say in what God decreed, But Muslims have now fallen low.'
   - 'lang': 'ro'
     'text': '‘Tan Ba Taqdeer’ Hai Aaj Un Ke Amal Ka Andaz | Thi Nihan Jin Ke Iradon Mein Khuda Ki Taqdeer'
-- 'id': '3_3_3'
+- 'id': '3_3_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

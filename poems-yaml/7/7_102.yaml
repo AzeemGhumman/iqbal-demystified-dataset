@@ -8,14 +8,14 @@
   'text': '(102)'
 'description': []
 'sher':
-- 'id': '7_102_1'
+- 'id': '7_102_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چسان ای آفتاب آسمان گرد | باین دوری بہ چشم من در آئی'
   - 'lang': 'en'
     'text': 'O sun, O restless roamer of the skies, | How are you from so far seen by our eyes?'
-- 'id': '7_102_2'
+- 'id': '7_102_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

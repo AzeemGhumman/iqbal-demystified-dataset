@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This ghazal is very mystical and, as is usual with ghazals it deals with different subjects.'
 'sher':
-- 'id': '1_165_1'
+- 'id': '1_165_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ye Surood-e-Qumri-o-Bulbul Faraib-e-Gosh Hai | Batin-e-Hangama Abad-e-Chaman Khamosh Hai'
-- 'id': '1_165_2'
+- 'id': '1_165_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -36,7 +36,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tere Pemanon Ka Hai Ye Ae Mai-e-Maghrib Asar | Khanda-Zan Saqi Hai, Sari Anjuman Be-Hosh Hai'
-- 'id': '1_165_3'
+- 'id': '1_165_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -49,7 +49,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Dehr Ke Gham Khane Mein Tera Pata Milta Nahin | Jurm Tha Kya Afreenish Bhi Ke Tu Ru-Posh Hai'
-- 'id': '1_165_4'
+- 'id': '1_165_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ah, Dunya Dil Samajhti Hai Jise, Woh Dil Nahin | Pehlu-e-Insan Mein Ek Hangama-e-Khamosh Hai'
-- 'id': '1_165_5'
+- 'id': '1_165_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -75,7 +75,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Zindagi Ki Rah Mein Chal, Lekin Zara Bach Bach Ke Chal | Ye Samajh Le Koi Meena Khana Bar-e-Dosh Hai'
-- 'id': '1_165_6'
+- 'id': '1_165_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

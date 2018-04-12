@@ -8,14 +8,14 @@
   'text': 'I-V'
 'description': []
 'sher':
-- 'id': '11_166_1'
+- 'id': '11_166_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'برون از سینہ کش تکبیر خود را | بخاک خویش زن اکسیر خود را'
   - 'lang': 'en'
     'text': 'Raise from thy bosom a ‘Call of God Great’, | Hit thy own exir on thy dusty fate.'
-- 'id': '11_166_2'
+- 'id': '11_166_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

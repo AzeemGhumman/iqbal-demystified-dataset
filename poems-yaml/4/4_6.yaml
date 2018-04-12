@@ -8,7 +8,7 @@
   'text': 'LITANY OF THE DAMNED'
 'description': []
 'sher':
-- 'id': '4_6_1'
+- 'id': '4_6_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Itching palms, in the old temple of Earth, have the kneelers, | Men who remember their God only when idols are deaf.'
   - 'lang': 'ro'
     'text': 'Iss Dair-e-Kuhan Mein Hain Gharzmand Poojari | Ranjeeda Button Se Hon To Karte Hain Khuda Yaad'
-- 'id': '4_6_2'
+- 'id': '4_6_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Vain are the Hindu’s rites and vain the Mohammedan’s worship; | Wailing and gnashing of teeth still are the lot of the poor.'
   - 'lang': 'ro'
     'text': 'Pooja Bhi hai Be-sood, Namazain bhi hain Be-sood | Qismat Hai Gharibon Ki Wohi Nala-o-Faryad'
-- 'id': '4_6_3'
+- 'id': '4_6_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'None of earth’s cities in truth is more than a populous desert, | High though their buildings soar, kissing the sky with their roofs.'
   - 'lang': 'ro'
     'text': 'Hain Garcha Bulandi Mein Amaraat Falak Bous | Har Sheher Haqiqat Mein Hai Weerana’ay Abad'
-- 'id': '4_6_4'
+- 'id': '4_6_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Axe in hand Farhad toils on;—Fate’s irony witness! | Slek and content is Parvez, parching with drought in Farhad.'
   - 'lang': 'ro'
     'text': 'Teeshe Ki Koi Gardish-e-Taqdeer Tou Dekhe | Sirab Hai Pervaiz, Jigar-e-Tashna Hai Farhad'
-- 'id': '4_6_5'
+- 'id': '4_6_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'All that there is in that world its rulers’ brains have engendered: | Science and learning are theirs, commerce and practice of State;'
   - 'lang': 'ro'
     'text': 'Ye Ilm, Ye Hikmat, Ye Siasat, Ye Tijarat | Jo Kuch Hai, Woh Hai Fikar-e-Mulookana Ki Ijaad'
-- 'id': '4_6_6'
+- 'id': '4_6_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

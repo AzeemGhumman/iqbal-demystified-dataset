@@ -8,14 +8,14 @@
   'text': 'XI-LXIX'
 'description': []
 'sher':
-- 'id': '11_147_1'
+- 'id': '11_147_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہرحالی کہ بودم خوش سرودم | نقاب از روی ھر معنی گشودم'
   - 'lang': 'en'
     'text': 'I kept beaming face in this or that case, | I raised the old veils from the meaning face.'
-- 'id': '11_147_2'
+- 'id': '11_147_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'SECULAR POLITICS'
 'description': []
 'sher':
-- 'id': '3_171_1'
+- 'id': '3_171_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'No truth from me can hide at all its face, | God gave me heart awake and wise, through grace.'
   - 'lang': 'ro'
     'text': 'Jo Baat Haq Ho, Woh Mujh Se Chupi Nahin Rehti | Khuda Ne Mujh Ko Diya Hai Dil-e-Khabeer-o-Baseer'
-- 'id': '3_171_2'
+- 'id': '3_171_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'In my view statesmanship cut off from creed, | Is Satanʹs slave, has no qualms, but low breed.'
   - 'lang': 'ro'
     'text': 'Meri Nigah Mein Hai Ye Siasat-e-La-Deen | Kaneez-e-Ahrman-o-Doon Nihad-o-Murda Zameer'
-- 'id': '3_171_3'
+- 'id': '3_171_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'By quitting Church, Europe has freedom gained: | This statesmanship is like a giant unchained.'
   - 'lang': 'ro'
     'text': 'Huwi Hai Tark-e-Kaleesa Se Hakami Azad | Farangiyon Ki Siasat Se Hai Diyo-e-Bezanjeer'
-- 'id': '3_171_4'
+- 'id': '3_171_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

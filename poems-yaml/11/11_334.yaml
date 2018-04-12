@@ -8,14 +8,14 @@
   'text': 'XII-IV'
 'description': []
 'sher':
-- 'id': '11_334_1'
+- 'id': '11_334_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'ترا از  ستان خود براندند | رجیم و کافر و طاغوت خواندند'
   - 'lang': 'en'
     'text': 'He drove thee out from the Heavens first, | Held thee accursed, kafir and rebel worst.'
-- 'id': '11_334_2'
+- 'id': '11_334_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

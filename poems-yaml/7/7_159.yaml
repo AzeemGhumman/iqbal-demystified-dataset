@@ -8,14 +8,14 @@
   'text': '(159)'
 'description': []
 'sher':
-- 'id': '7_159_1'
+- 'id': '7_159_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بحرف اندر نگیری لامکانرا | درون خود نگر این نکتہ پیداست'
   - 'lang': 'en'
     'text': 'What is abodeless cannot be encaged | In words. You can observe this in yourself;'
-- 'id': '7_159_2'
+- 'id': '7_159_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This is a beautiful nature poem. Its essence is that the present day social life with "the maddening crowd''s ignoble strife" is not conducive to creating noble feelings or knowledge of God in Man. These virtues can be acquired only in the bosom of nature. The climax is attained in the last verse. This poem is adapted from Ralph Waldo Emerson.'
 'sher':
-- 'id': '1_32_1'
+- 'id': '1_32_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Farewell O worldly companions! I am going to my homeland | I am feeling unhappy in this well‑populated wilderness'
   - 'lang': 'ro'
     'text': 'Rukhsat Ae Bazm-e-Jahan! Sooye Watan Jata Hun Main | Ah! Iss Abad Weerane Mein Ghabrata Hun Main'
-- 'id': '1_32_2'
+- 'id': '1_32_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'I am very much dejected, unsuitable for assemblies I am | Neither you are suitable for me nor suitable for you I am'
   - 'lang': 'ro'
     'text': 'Bas Ke Main Afsurda Dil Hun, Dar Khor-e-Mehfil Mehfil Nahin | Tu Mere Qabil Nahin Hai, Main Tere Qabil Nahin'
-- 'id': '1_32_3'
+- 'id': '1_32_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The king''s audience and the minister''s bed-chamber each is a prison | The golden chain''s prisoner will break himself free from this prison'
   - 'lang': 'ro'
     'text': 'Qaid Hai Darbar-e-Sultan-o-Shabistan-e-Wazir | Tor Kar Nikle Ga Zanjeer-e-Talai Ka Aseer'
-- 'id': '1_32_4'
+- 'id': '1_32_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'Though much pleasure is in embellishing your assembly | But some kind of strangeness is in your acquaintance'
   - 'lang': 'ro'
     'text': 'Go Bari Lazzat Teri Hangama Arayi Mein Hai | Ajnabiat Si Magar Teri Shanasai Mein Hai'
-- 'id': '1_32_5'
+- 'id': '1_32_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'I remained long in company of your self‑centered people | I remain restless for long like the waves of the ocean'
   - 'lang': 'ro'
     'text': 'Muddaton Tere Khud Araon Se Hum-Sohbat Raha | Muddaton Betaab Mouj-e-Behr Ki Soorat Raha'
-- 'id': '1_32_6'
+- 'id': '1_32_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'I remained long in your luxury gatherings | I remained long searching for light in the darkness'
   - 'lang': 'ro'
     'text': 'Muddaton Baitha Tere Hangama-e-Ishrat Mein Main | Roshani Ki Justujoo Karta Raha Zulmat Mein Main'
-- 'id': '1_32_7'
+- 'id': '1_32_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -77,7 +77,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Muddaton Dhoonda Kiya Nazara-Egul, Khar Mein | Ah, Woh Yousaf Na Hath Aya Tere Bazaar Mein'
-- 'id': '1_32_8'
+- 'id': '1_32_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -86,7 +86,7 @@
     'text': 'The perplexed eye for another scene is searching | As storm-stricken my eye for coast is searching'
   - 'lang': 'ro'
     'text': 'Chashm-e-Heeran Dhoondti Ab Aur Nazare Ko Hai | Arzu Sahil Ki Mujh Toofan Ke Mare Ko Hai'
-- 'id': '1_32_9'
+- 'id': '1_32_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -95,7 +95,7 @@
     'text': 'Leaving your garden like fragrance I am going | Farewell ! O worldly company I am going to the homeland'
   - 'lang': 'ro'
     'text': 'Chor Kar Manind-e-Bu Tera Chaman Jata Hun Main | Rukhsat Ae Bazm-e-Jahan! Sooye Watan Jata Hun Main'
-- 'id': '1_32_10'
+- 'id': '1_32_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
     'text': 'I have made my home in the quietness of the mountain side | Ah! I do not get this pleasure in conversation''s music!'
   - 'lang': 'ro'
     'text': 'Ghar Banaya Hai Sukoot-e-Daman-e-Kuhsar Mein | Ah! Ye Lazzat Kahan Mausiqi-e-Guftar Mein'
-- 'id': '1_32_11'
+- 'id': '1_32_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -117,7 +117,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hum-Nasheen-e-Nargis-e-Shehla, Rafeeq-e-Gul Hun Main | Hai Chaman Mera Watan, Humsaya-e-Bulbul Hun Main'
-- 'id': '1_32_12'
+- 'id': '1_32_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -126,7 +126,7 @@
     'text': 'The sound of the spring''s music lulls me to sleep | The morning cuckoo from the green carpet wakes me up'
   - 'lang': 'ro'
     'text': 'Sham Ko Awaz Chashmon Ki Sulati Hai Mujhe | Subah Farsh-e-Sabz Se Ko''el Jagati Hai Mujhe'
-- 'id': '1_32_13'
+- 'id': '1_32_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -135,7 +135,7 @@
     'text': 'Everyone in the world assemblage social life likes | The poet''s heart but the solitude''s corner likes'
   - 'lang': 'ro'
     'text': 'Bazm-e-Hasti Mein Hai Sub Ko Mehfil Arayi Pasand | Hai Dil-e-Shayar Ko Lekin Kunj Tanhai Pasand'
-- 'id': '1_32_14'
+- 'id': '1_32_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -148,7 +148,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Hai Junoon Mujh Ko Ke Ghabrata Hun Abadi Mein Main | Dhoondta Phirta Hun Kis Ko Koh Ki Wadi Mein Main?'
-- 'id': '1_32_15'
+- 'id': '1_32_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -157,7 +157,7 @@
     'text': 'Whose love makes me roam in the meadows? | And makes me sleep on the spring''s banks?'
   - 'lang': 'ro'
     'text': 'Shauq Kis Ka Sabza Zaron Mein Phirata Hai Mujhe | Aur Chashmon Ke Kinaron Par Sulata Hai Mujhe?'
-- 'id': '1_32_16'
+- 'id': '1_32_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -166,7 +166,7 @@
     'text': 'You taunt me that fond of the corner of retirement I am | Look O imprudent one! Messenger of Nature''s assembly I am'
   - 'lang': 'ro'
     'text': 'Tanaa Zan Hai Tu Ke Saida Kunj Uzlat Ka Hun Main | Dekh Ae Ghafil! Pyami Bazm-e-Qudrat Ka Hun Main'
-- 'id': '1_32_17'
+- 'id': '1_32_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -175,7 +175,7 @@
     'text': 'Compatriot of the elms, turtle‑dove''s confidante I am! | In this garden''s silence in the state of anxiety I am!'
   - 'lang': 'ro'
     'text': 'Hum Watan Shamshad Ka, Qumri Ka Main Humraaz Hun | Iss Chaman Ki Khamashi Mein Gosh Bar-Awaz Hun'
-- 'id': '1_32_18'
+- 'id': '1_32_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -184,7 +184,7 @@
     'text': 'If I do hear something it is only to tell others | If I do see something it is only to show others'
   - 'lang': 'ro'
     'text': 'Kuch Jo Sunta Hun To Auron Ko Sunane Ke Liye | Dekhta Hun Kuch To Auron Ko Dikhane Ke Liye'
-- 'id': '1_32_19'
+- 'id': '1_32_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Ashiq-e-Uzlat Hai Dil, Nazan Hun Apne Ghar Pe Main | Khanda-Zan Hun Masnad-e-Dara-o-Iskandar Pe Main'
-- 'id': '1_32_20'
+- 'id': '1_32_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -206,7 +206,7 @@
     'text': 'How enchanting is the act of lying under the trees | As now and then my sight falls at the evening star'
   - 'lang': 'ro'
     'text': 'Laitna Zaire-Shajar Rakhta Hai Jadoo Ka Asar | Shaam Ke Tare Pe Jab Parti Ho Reh Reh Kar Nazar'
-- 'id': '1_32_21'
+- 'id': '1_32_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

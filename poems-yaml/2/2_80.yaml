@@ -8,7 +8,7 @@
   'text': 'O wave! Plunge headlong into the dark seas'
 'description': []
 'sher':
-- 'id': '2_80_1'
+- 'id': '2_80_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O wave! Plunge headlong into the dark seas, | And change thyself with many a twist and turn;'
   - 'lang': 'ro'
     'text': 'Zulaam-E-Behar Mein Koh Kar Sanbhal Ja | Tarap Ja, Paich Kha Kha Kar Badal Ja'
-- 'id': '2_80_2'
+- 'id': '2_80_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

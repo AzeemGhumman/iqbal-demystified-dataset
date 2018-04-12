@@ -8,7 +8,7 @@
   'text': 'PROPHETHOOD'
 'description': []
 'sher':
-- 'id': '3_54_1'
+- 'id': '3_54_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'A gnostic, revivalist, jurist or Expert in Prophetʹs maxims I do not claim: | As such a prophetʹs rank and state, In terms precise I canʹt proclaim.'
   - 'lang': 'ro'
     'text': 'Main Na Arif, Na Mujaddid, Na Muhaddis, Na Faqeeh | Mujh Ko Maloom Nahin Kya Hai Nabuwwat Ka Maqam'
-- 'id': '3_54_2'
+- 'id': '3_54_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Despite these things I always keep, On Muslim lands my watchful eye: | To me are known the secrets hid, In depths of this azure sky.'
   - 'lang': 'ro'
     'text': 'Haan, Magar Alam-e-Islam Pe Rakhta Hun Nazar | Fash Hai Mujh Pe Zameer-e-Falak-e-Neeli Faam'
-- 'id': '3_54_3'
+- 'id': '3_54_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'In present age, so full of dusk, I have beheld this fact so stark | That peeps like bright and full grown moon, From sky that wears the mantle dark.'
   - 'lang': 'ro'
     'text': 'Asar-e-Hazir Ki Shab-e-Taar Mein Dekhi Main Ne | Ye Haqeeqat Ke Hai Roshan Sifat-e-Mah-e-Tamam'
-- 'id': '3_54_4'
+- 'id': '3_54_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

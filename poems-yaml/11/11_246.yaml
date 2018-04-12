@@ -8,14 +8,14 @@
   'text': 'XII-IV'
 'description': []
 'sher':
-- 'id': '11_246_1'
+- 'id': '11_246_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'جہان را محکمی از امہات است | نہادشان امین ممکنات است'
   - 'lang': 'en'
     'text': 'The world is stable from the mother’s grace, | Her kind nature guards the whole human race.'
-- 'id': '11_246_2'
+- 'id': '11_246_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

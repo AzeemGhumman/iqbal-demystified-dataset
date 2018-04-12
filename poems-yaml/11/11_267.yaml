@@ -8,14 +8,14 @@
   'text': 'XV-VIII'
 'description': []
 'sher':
-- 'id': '11_267_1'
+- 'id': '11_267_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ پور خویش دین و دانش  موز | کہ تابد چون مہ و انجم نگینش'
   - 'lang': 'en'
     'text': 'Teach the offspring wisdom and faith’s ken, | Their gems would shine like a bright star then.'
-- 'id': '11_267_2'
+- 'id': '11_267_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

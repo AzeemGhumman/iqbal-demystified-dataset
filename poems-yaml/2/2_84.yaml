@@ -8,7 +8,7 @@
   'text': 'Faith survives in fire, like Abraham'
 'description': []
 'sher':
-- 'id': '2_84_1'
+- 'id': '2_84_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Faith survives in fire, like Abraham, | Faith is the soul''s absorption in the Lord;'
   - 'lang': 'ro'
     'text': 'Yaqeen. Misl-e-Khalil Atish Nasheeni | Yaqeen, Allah Masti, Khud Guzini'
-- 'id': '2_84_2'
+- 'id': '2_84_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

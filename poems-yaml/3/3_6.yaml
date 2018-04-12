@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'We live on earth like we will be living here forever but this is not true. It is not necessary that the person on which we believe the most is who we think he is. | {Contributed by user: Faisal Azizi Bandagi}'
 'sher':
-- 'id': '3_6_1'
+- 'id': '3_6_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Perhaps the part of year that Spring you deem, | In othersʹ view destructive Autumn it may seem!'
   - 'lang': 'ro'
     'text': 'Mumkin Hai Ke Tu Jis Ko Samajhta Hai Baharan | Auron Ki Nighahonmein Woh Mousam Ho Khazan Ka'
-- 'id': '3_6_2'
+- 'id': '3_6_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The worldly affairs one pattern donʹt retain, | So pilgrim wise, think not of loss and gain!'
   - 'lang': 'ro'
     'text': 'Hai Silsila Ahwal Ka Har Lehza Dirgargoon | Ae Salik-e-Reh, Fikar Na Kar Sood-o-Zayan Ka'
-- 'id': '3_6_3'
+- 'id': '3_6_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

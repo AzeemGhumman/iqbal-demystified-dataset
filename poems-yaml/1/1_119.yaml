@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This short poem, full of pathos, is the sincere out-pouring of ‘Allamah Iqbal’s heart-felt grief. It is an allegory of an audience with the Holy Prophet S.A.W. It is usual with ‘Allamah Iqbal, in common with Khawajah Altaf Hussain Hala to present his feelings to the Holy Prophet (S.A.W) at critical times and to request him for supplication to God to alleviate the situation. This poem was written in 1913 for the immediate problem of the invasion of Libya by Italy, as is indicated by the last verse. However, it also reflects the ‘Allamah’s feelings on the deplorable condition of the Muslim Ummah throughout the world in the first two decades of the present century. At that time the imperialist countries of Europe were ransacking the whole world, pillaging the natural resources of the defenseless nations of all countries outside Europe. Not stopping there they obliterated the cultures and religions of the vanquished people in the misplaced enthusiasm of making them “civilized”, and protecting them from hell-fire. Their strategy consisted of forcing as well as enticing them into the fold of Christianity, among other things, by their doctrine of vicarious atonement of S.‘Isa A.S. In case of the Muslim countries there was an added reason for enmity in their attempt to wreak vengeance of their repeated defeats at the hands of Muslims in the Wars of Crusades over a long period of time. | tarabilus (Tripoli) is a port in Tripolitania, which is the northwestern province of the present day Libya, extending from the Mediterranean to the Sahara. It was invaded and conquered by Italy in 1911-12, when it was a part of the Khilafah. | The machinations of the European imperialists against the Islamic Ummah have been documented in many books which can be consulted for details. | The bereavement of Muslims was caused not only by the conquest of Muslim countries by Europeans but by the atrocities during and after such conquests. All colonial countries have witnessed them. The following few quotations show the seriousness of the matter: | (Shakab Arsalan (1869-1946) was a Druze Muslim, who fought constantly against European powers throughout his life. - Author.) | “His (Arsalan’s) commitment was most evident in his reaction to the Italian invasion of Libya in October 1911, when he went to the battle-front himself. This response although more direct than others was not unrepresentative of reverberations which the Italian invasion produced throughout the Arab Islam. In Tunisia there were open anti-Italian riots; in Egypt a strong wave of pro-Uthmaniyah sentiment swept across all levels of society. Fear of the systematic European campaign against Islam was heightened by the fact that French forces had occupied Fez in the spring of 1911, initiating the final stages in the process that added Morocco to the international system of protectorates.” (p. 19) | The so-called “International system of protectorates” was the establishment of suzerainty of European powers. (Author) | “In this earlier phase, which is our concern here, Arsalan was never more outspoken than in his condemnation of General Graziani’s brutalization of the Cryenaican population. He wrote to Rida that when he learnt of the deportations, executions, tortures and sexual humiliations inflicted on the civilian population of Jabal al- Akhzar “I let my pen loose on those dogs”. In article after article, he enumerated the horrors committed by the Italian forces and condemned Fascist Italy as being beyond the pale of humankind......... He told his readers that when the Italian forces captured the oasis of Kufrah, they turned the Great Sanusi Zawiyyah into a tavern where they drank toasts to the extermination of Muslims of Tripoli ; and they threw the Holy Qur’an’s beneath their horses’ hooves and then used them to light the fires of their cooking pots.” (p. 100). | “The Italian abuse of Islam and the population of Libya meant more than the atrocities themselves. The real objective of the Fascist government was the extermination of Islam from the entire region and replacing it with Christian colonists. Arsalan saw the Fascists in Libya acting as Ferdinand and Isabella had done toward the Moor of Spain. (pp. 100-101) | In reality one does not have to read any books to appreciate the serious nature of the situation with reference to the relationships of the Western world and their henchmen with the Islamic world. One has only to look around in the present day world to witness the heart rending atrocities of the Western nations and their proxies against the Islamic world. First sight observation is worth a million books.'
 'sher':
-- 'id': '1_119_1'
+- 'id': '1_119_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'When I felt this ignoble strife of the world grievous | Packing up my goods and chattel I departed from the world'
   - 'lang': 'ro'
     'text': 'Giran Jo Mujh Pe Hangama-e-Zamana Huwa | Jahan Se Bandh Ke Rakht-e-Safar Rawana Huwa'
-- 'id': '1_119_2'
+- 'id': '1_119_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'Though I did pass life within limits of morning and evening | I never got acquainted with the old system of the world'
   - 'lang': 'ro'
     'text': 'Qayood-e-Shaam-o-Sahar Mein Basar To Ki Lekin | Nazam-e-Kuhna-e-Alam Se Aashna Na Huwa'
-- 'id': '1_119_3'
+- 'id': '1_119_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'The angles took me to the assembly of the Holy Prophet | They took me to the audience of the symbol of God’s Mercy'
   - 'lang': 'ro'
     'text': 'Farishte Bazm-e- Rifsalat (S.A.W.) Mein Le Gye Mujh Ko Huzoor-e-Aya-e-Rehmat (S.A.W.) Mein Le Gye Mujh Ko | From earth, and angels led me where the Prophet (PBUH)'
-- 'id': '1_119_4'
+- 'id': '1_119_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The Holy Prophet said “ O nightingale of the garden of Hijaz! | Each flower-bud of yours is melted with your music’s warmth'
   - 'lang': 'ro'
     'text': 'Kali Kali Hai Teri Garmi-e-Nawa Se Gudaz | ‘Nightingale of the gardens of Hijaz! each bud'
-- 'id': '1_119_5'
+- 'id': '1_119_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Your heart is always ecstatic with the wine-cup of God’s proximity | Your supplication is the envy of prostrations in Divine Love'
   - 'lang': 'ro'
     'text': 'Fatadgi Hai Teri Ghairat-e-Sujood-e-Niaz | Your heart forever steeped in the wine of ecstasy,'
-- 'id': '1_119_6'
+- 'id': '1_119_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'In your flight from the lowly world to the celestial world | The angels taught you the elegance of the flight'
   - 'lang': 'ro'
     'text': 'Sikhayi Tujh Ko Malaeek Ne Riffat-e-Parwaz | But since, taught by these Seraphim to mount so high,'
-- 'id': '1_119_7'
+- 'id': '1_119_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'You have come like fragrance out of the world’s garden | With what gift for me have come you?”'
   - 'lang': 'ro'
     'text': 'Humare Waste Kya Tohfa Le Ke Tu Aya? | And like a scent comes here from the orchards of the earth—'
-- 'id': '1_119_8'
+- 'id': '1_119_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': '“Sire ! Satisfaction on the earth is not available | The life I am searching for is not available'
   - 'lang': 'ro'
     'text': 'Talash Jis Ki Hai Woh Zindagi Nahin Milti” | ‘Master! there is no quiet in that land of time and space,'
-- 'id': '1_119_9'
+- 'id': '1_119_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'Thousands of tulips and roses exist in the garden of existence | The flower-bud with the fragrance of fidelity is not available'
   - 'lang': 'ro'
     'text': 'Wafa Ki Jis Mein Ho Bu, Wo Kali Nahin Milti | Though all creation’s flowerbeds teem with tulip and red rose,'
-- 'id': '1_119_10'
+- 'id': '1_119_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -104,7 +104,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Jo Cheez Iss Mein Hai, Jannat Mein Bhi Nahin Milti | But I have brought this chalice here to make my sacrifice;'
-- 'id': '1_119_11'
+- 'id': '1_119_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

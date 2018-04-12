@@ -8,7 +8,7 @@
   'text': 'Iqbal said to the Shaykh of the Ka‘bah'
 'description': []
 'sher':
-- 'id': '4_14_1'
+- 'id': '4_14_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Iqbal said to the Shaykh of the Ka‘bah: | ‘Who went to sleep under the very arch in the mosque?’'
   - 'lang': 'ro'
     'text': 'Kaha Iqbal Ne Sheikh-E-Haram Se | Teh-E-Mehrab-E-Masjid So Gya Kon'
-- 'id': '4_14_2'
+- 'id': '4_14_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': 'I-XIX'
 'description': []
 'sher':
-- 'id': '11_364_1'
+- 'id': '11_364_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خرد بیگانہء ذوق یقین است | قمار علم و حکمت بد نشین است'
   - 'lang': 'en'
     'text': 'The wisdom knows not the certitude eyes, | Its gamble of knowledge on vice path lies.'
-- 'id': '11_364_2'
+- 'id': '11_364_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

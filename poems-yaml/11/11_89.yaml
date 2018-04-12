@@ -8,14 +8,14 @@
   'text': 'XI-XI'
 'description': []
 'sher':
-- 'id': '11_89_1'
+- 'id': '11_89_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مسلمانان بہ خویشان در ستیزند | بجز نقش دوئے بر دل نریزند'
   - 'lang': 'en'
     'text': 'The Moslems are fighting with brothers own, | Save seeds of rupture nothing they have sown.'
-- 'id': '11_89_2'
+- 'id': '11_89_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

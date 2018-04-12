@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'For Abu talib Kalam Hamadana Kashana. This is one of the several poems in which ‘Allamah Iqbal has criticized Muslims for their backsliding and straying from the path of Islam. The last verse, taken from the works of Kalim Hamadana, constitutes the essence of the poem.'
 'sher':
-- 'id': '1_135_1'
+- 'id': '1_135_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khoob Hai Tujh Ko Shiaar-e- Sahib-e-Yasrib (S.A.W.) Ka Paas | Keh Rahi Hai Zindagi Teri Ke Tu Muslim Nahin'
-- 'id': '1_135_2'
+- 'id': '1_135_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'What made heavens contained in your ring’s circle | O Sulaiman ! that jewel is lost by your negligence !'
   - 'lang': 'ro'
     'text': 'Jis Se Tere Halqa-e-Khatim Mein Gardoon Tha Aseer | Ae Suleman! Teri Ghaflat Ne Ganwaya Woh Nageen'
-- 'id': '1_135_3'
+- 'id': '1_135_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'That mark of prostration which used to shine like a star | Your forehead has now become unacquainted with that mark !'
   - 'lang': 'ro'
     'text': 'Woh Nishan-e-Sajda Jo Roshan Tha Koukab Ki Tarah | Ho Gyi Hai Uss Se Ab Na-Ashna Teri Jabeen'
-- 'id': '1_135_4'
+- 'id': '1_135_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Just look at your actions, do you envisage | That candor whose fearlessness was always wonderful'
   - 'lang': 'ro'
     'text': 'Dekh To Apna Amal, Tujh Ko Nazar Ati Hai Kya | Woh Sadaqat Jis Ki Be-Baki Thi Hairat Afreen'
-- 'id': '1_135_5'
+- 'id': '1_135_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Your ancestors’ eye was the thunderbolt for falsehood | The same falsehood is now lodged in your breast'
   - 'lang': 'ro'
     'text': 'Tere Aaba Ki Nigah Bijli Thi Jis Ke Waste | Hai Wohi Batil Tere Kashana-e-Dil Mein Makeen'
-- 'id': '1_135_6'
+- 'id': '1_135_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -68,7 +68,7 @@
     'text': 'O negligent one come and inhabit in your abode again | The discerning Kalam is singing on the spiritual tur'
   - 'lang': 'ro'
     'text': 'Ghafil! Apne Ashiyan Ko Aa Ke Phir Abad Kar | Naghma Zan Hai Toor-e-Ma’ani Par Kaleem-e-Nukta Been'
-- 'id': '1_135_7'
+- 'id': '1_135_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

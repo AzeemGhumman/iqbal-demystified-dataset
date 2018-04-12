@@ -8,14 +8,14 @@
   'text': '(146)'
 'description': []
 'sher':
-- 'id': '7_146_1'
+- 'id': '7_146_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'خیالم کو گل از فردوس چیند | چو مضمون غریبی آفریند'
   - 'lang': 'en'
     'text': 'When my imagination, which culls flowers | From Eden’s garden, shapes a rare, new thought,'
-- 'id': '7_146_2'
+- 'id': '7_146_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

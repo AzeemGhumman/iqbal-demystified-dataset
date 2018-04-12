@@ -8,14 +8,14 @@
   'text': 'EGO | Chapter 2'
 'description': []
 'sher':
-- 'id': '11_174_1'
+- 'id': '11_174_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'کسی کو بر خودے زد ’’لاالہ‘‘ را | ز خاک مردہ رویاند نگہ را'
   - 'lang': 'en'
     'text': 'Who makes Ego firm by ‘Lailah’s tie, | From lifeless sands can make a seeing eye.'
-- 'id': '11_174_2'
+- 'id': '11_174_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

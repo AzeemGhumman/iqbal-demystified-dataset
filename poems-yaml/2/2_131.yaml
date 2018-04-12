@@ -8,7 +8,7 @@
   'text': 'THE MULLAH AND PARADISE'
 'description': []
 'sher':
-- 'id': '2_131_1'
+- 'id': '2_131_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'When in a vision I saw, A mullah ordered to paradise, | Unable to hold my tongue, I said something in this wise:'
   - 'lang': 'ro'
     'text': 'Main Bhi Hazir Tha Wahan, Zabt-e-Sukhan Kar Na Saka | Haq Se Jab Hazrat-e-Mullah Ko Mila Hukm-e-Bahisht'
-- 'id': '2_131_2'
+- 'id': '2_131_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': '‘Pardon me, O Lord, For these bold words of mine, | But he will not be pleased, With the houris and the wine.'
   - 'lang': 'ro'
     'text': 'Arz Ki Main Ne, Elahi! Meri Takseer Maaf | Khush Na Ayen Ge Isse Hoor-o-Sharab-o-Lab-e-Kisht'
-- 'id': '2_131_3'
+- 'id': '2_131_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'He loves to dispute and fight, And furiously wrangle, | But paradise is no place, For this kind of jangle.'
   - 'lang': 'ro'
     'text': 'Nahin Fardous Maqam-e-Jadal-o-Qaal-o-Aqwal | Behas-o-Takrak Iss Allah Ke Bande Ki Sarisht'
-- 'id': '2_131_4'
+- 'id': '2_131_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

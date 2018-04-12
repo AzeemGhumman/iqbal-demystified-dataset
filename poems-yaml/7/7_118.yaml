@@ -8,14 +8,14 @@
   'text': '(118)'
 'description': []
 'sher':
-- 'id': '7_118_1'
+- 'id': '7_118_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مرنج از برہمن ای واعظ شہر | گر از ما سجدہ ئی پیش بتان خواست'
   - 'lang': 'en'
     'text': 'O preacher if the Brahmin asks that we | Bow down to idols, then why Should you be'
-- 'id': '7_118_2'
+- 'id': '7_118_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

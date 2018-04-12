@@ -8,14 +8,14 @@
   'text': '(27)'
 'description': []
 'sher':
-- 'id': '7_27_1'
+- 'id': '7_27_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہل افسانۂ آن پا چراغی | حدیث سوز او آزار گوش است'
   - 'lang': 'en'
     'text': 'Do not tell me about that silly moth | Who met an easy, suicidal death.'
-- 'id': '7_27_2'
+- 'id': '7_27_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

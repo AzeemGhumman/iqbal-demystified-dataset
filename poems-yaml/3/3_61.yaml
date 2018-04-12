@@ -8,7 +8,7 @@
   'text': 'FREEDOM'
 'description': []
 'sher':
-- 'id': '3_61_1'
+- 'id': '3_61_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The right of thinking free, a Muslim owns, | Is gift or God which canʹt be checked by frowns.'
   - 'lang': 'ro'
     'text': 'Hai Kis Ki Ye Juraat Ke Musalman Ko Toke | Hurriyat-e-Afkar Ki Naimat Hai Khudadad'
-- 'id': '3_61_2'
+- 'id': '3_61_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'He can transform the Shrine to Magian fane, | Can deck the Shrine with Frankish idols vain.'
   - 'lang': 'ro'
     'text': 'Chahe To Kare Kaabe Ko Aatish Kuda-e-Paaras | Chahe To Kare Iss Mein Farangi Sanam Abad'
-- 'id': '3_61_3'
+- 'id': '3_61_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Can make the Holy Book the sport of boys, | And can with ease devise new faiths like toys.'
   - 'lang': 'ro'
     'text': 'Quran Ko Bazeecha-e-Taveel Bana Kar | Chahe To Khud Ek Taza Shariat Kare Ijad'
-- 'id': '3_61_4'
+- 'id': '3_61_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'CHURCH AND STATE'
 'description': []
 'sher':
-- 'id': '2_132_1'
+- 'id': '2_132_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Monasticism was the church’s base | Its austere living had no room for wealth.'
   - 'lang': 'ro'
     'text': 'Kalisa Ki Bunyad Ruhbaniyat Thi | Samati Kahan Iss Faqeeri Mein Meeri'
-- 'id': '2_132_2'
+- 'id': '2_132_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The anchorite and the king have ever been hostile; | One has humility; the other an exalted power.'
   - 'lang': 'ro'
     'text': 'Khusoomat (Dushmani) Thi Sultani-o-Rahbi Mein | Ke Woh Sarbulandi Hai, Ye Sar-Bazairi'
-- 'id': '2_132_3'
+- 'id': '2_132_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Church and state were separated at last; | The revered priest was rendered powerless.'
   - 'lang': 'ro'
     'text': 'Siasat Ne Mazhab Se Peecha Chhuraya | Chali Kuch Na Peer-e-Kalisa Ki Peeri'
-- 'id': '2_132_4'
+- 'id': '2_132_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'When church and state parted the ways for ever, | It set in the rule of avarice and greed.'
   - 'lang': 'ro'
     'text': 'Huwi Deen-o-Doulat Mein Jis Dam Judai | Hawas Ki Ameeri, Hawas Ki Wazeeri'
-- 'id': '2_132_5'
+- 'id': '2_132_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'This split is a disaster both for country and faith, | And shows the culture’s blind lack of vision.'
   - 'lang': 'ro'
     'text': 'Dooyi Mulk-o-Deen Ke Liye Namuradi | Dooyi Chashm-e-Tehzeeb Ki Nabaseeri'
-- 'id': '2_132_6'
+- 'id': '2_132_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'It is the miracle of a desert‐dweller | To make the grace a mirror to power.'
   - 'lang': 'ro'
     'text': 'Ye Ejaz Hai Aik Sehra Nasheen Ka | Basheeri Hai Aaeena-Dar-e-Nazeeri !'
-- 'id': '2_132_7'
+- 'id': '2_132_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

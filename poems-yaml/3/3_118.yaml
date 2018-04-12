@@ -8,7 +8,7 @@
   'text': 'GHAZAL'
 'description': []
 'sher':
-- 'id': '3_118_1'
+- 'id': '3_118_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'O fearless wave, at bed, Of river gems are found. | What are the gifts of coast? There dust and thorns abound.'
   - 'lang': 'ro'
     'text': 'Darya Mein Moti, Ae Mouj-e-Bebaak | Sahil Ki Soughat! Khar-o-Khs-o-Khaak'
-- 'id': '3_118_2'
+- 'id': '3_118_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The temper of lightning flash, That darts, my spark contains, | But still your bed of reeds, Is moist and sap retains.'
   - 'lang': 'ro'
     'text': 'Mere Sharar Mein Bijli Ke Johar | Lekin Neestan Tera Hai Namnaak'
-- 'id': '3_118_3'
+- 'id': '3_118_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The age in which you live, Is influenced by you: | To spheres that ever spin, It can no way be due.'
   - 'lang': 'ro'
     'text': 'Tera Zamana, Taseer Teri | Nadan, Nahin Ye Taseer-e-Aflaak'
-- 'id': '3_118_4'
+- 'id': '3_118_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'I have come ʹcross in life, Men with such craze and pluck; | They could darn with much ease, The rents produced by Luck.'
   - 'lang': 'ro'
     'text': 'Aesa Junoon Bhi Dekha Hai Main Ne | Jis Ne Siye Hain Taqdeer Ke Chaak'
-- 'id': '3_118_5'
+- 'id': '3_118_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'That man is toper fine, Who owes, no debt to wine: | Such men are very few, They raise no cry or hue.'
   - 'lang': 'ro'
     'text': 'Kamil Wohi Hai Rindi Ke Fan Main | Masti Hai Jis Ki Be-Minnat-e-Taak'
-- 'id': '3_118_6'
+- 'id': '3_118_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'The East has taverns still, Where you can find such wine, | Which makes perception dull, With grandeur gleam and shine.'
   - 'lang': 'ro'
     'text': 'Rakhta Hai Ab Tak Maikhana-e-Sharq | Woh Mai Ke Jis Se Roshan Huwa Idraak'
-- 'id': '3_118_7'
+- 'id': '3_118_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

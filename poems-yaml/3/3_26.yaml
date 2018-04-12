@@ -8,7 +8,7 @@
   'text': 'MYSTICISM'
 'description': []
 'sher':
-- 'id': '3_26_1'
+- 'id': '3_26_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'If angelic art and celestial lore, The ills of Muslims can not cure, | Worthless they are and of no use, Of fact so true you must be sure.'
   - 'lang': 'ro'
     'text': 'Ye Hikmat-e-Malkooti, Ye Ilm-e-Lahooti | Haram Ke Dard Ka Darman Nahin To Kuch Bhi Nahin'
-- 'id': '3_26_2'
+- 'id': '3_26_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Your reveries deep and rapture sweet, Your worship at the midst of night, | If fail to keep a watch on self, Are useless quite and have value slight.'
   - 'lang': 'ro'
     'text': 'Ye Zikr-e-Neem Shabi, Ye Marakabe, Ye Suroor | Teri Khudi Ke Nigheban Nahin To Kuch Bhi Nahin'
-- 'id': '3_26_3'
+- 'id': '3_26_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The intellect can cast its noose, On the Pleiades and the Moon; | If heart is bʹreft of love for God, It is not a worthy gift and boon.'
   - 'lang': 'ro'
     'text': 'Ye Aqal Jo Mah-o-Parveen Ka Khailti Hai Shakar | Shareek-e-Shourish-e-Pinhan Nahin To Kuch Bhi Nahin'
-- 'id': '3_26_4'
+- 'id': '3_26_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'If wit incites a man to say, ʺNo God but Heʺ it brings no gain: | It. has no worth at all I think, Unless affirmed by heart and brain.'
   - 'lang': 'ro'
     'text': 'Khirad Ne Keh Bhi Diya ‘La Ilaha’ To Kya Hasil | Dil-o-Nigah Musalman Nahin To Kuch Bhi Nahin'
-- 'id': '3_26_5'
+- 'id': '3_26_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

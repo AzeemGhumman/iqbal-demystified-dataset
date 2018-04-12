@@ -8,14 +8,14 @@
   'text': 'I-XVIII'
 'description': []
 'sher':
-- 'id': '11_363_1'
+- 'id': '11_363_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نگاہی  فرین جان در بدن بین | بشاخان نادمیدہ یاسمن بین'
   - 'lang': 'en'
     'text': 'Get a self knowing eye and see thy soul, | In stems hidden yet see a jasmine whole.'
-- 'id': '11_363_2'
+- 'id': '11_363_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

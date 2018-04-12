@@ -8,7 +8,7 @@
   'text': 'Am I bound by space, or beyond space?'
 'description': []
 'sher':
-- 'id': '2_81_1'
+- 'id': '2_81_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Am I bound by space, or beyond space? | A world—observer or a world myself''?'
   - 'lang': 'ro'
     'text': 'Makani Hun Ke Azad-e-Makan Hun | Jahan Been Hun Ke Khud Sara Jahan Hun'
-- 'id': '2_81_2'
+- 'id': '2_81_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(54)'
 'description': []
 'sher':
-- 'id': '7_54_1'
+- 'id': '7_54_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'من از بود و نبود خود خموشم | اگر گویم کہ ہستم خود پرستم'
   - 'lang': 'en'
     'text': 'I do not say if I exist or not. | To say I do were self-idolatry.'
-- 'id': '7_54_2'
+- 'id': '7_54_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

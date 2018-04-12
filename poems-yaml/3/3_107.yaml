@@ -8,7 +8,7 @@
   'text': 'MADNESS'
 'description': []
 'sher':
-- 'id': '3_107_1'
+- 'id': '3_107_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Poets and priestly class denote and show, The shops of those who blow the glass. | What pity! the mad frequents the wilds and lanes, To smash these shops, this way he does not pass.'
   - 'lang': 'ro'
     'text': 'Zujaj Gar Ki Dukan Shairi-o-Mullai | Sitam Hai, Khwar Phire Dasht-o-Dar Mein Diwana?'
-- 'id': '3_107_2'
+- 'id': '3_107_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Few know that madness can with ease display, A myriad crafts, accomplishments and skill, | Provided one can completely wean it of, The wastes and deserts, from gorge and hill.'
   - 'lang': 'ro'
     'text': 'Kise Khabar Ke Junoon Mein Kamal Aur Bhi Hain | Karain Agar Isse Koh-o-Qamar Se Begana'
-- 'id': '3_107_3'
+- 'id': '3_107_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

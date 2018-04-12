@@ -8,14 +8,14 @@
   'text': 'III-VIII'
 'description': []
 'sher':
-- 'id': '11_292_1'
+- 'id': '11_292_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چہ خوش گفت اشتری با کرہ خویش | خنک  نکس کہ داند کار خود را'
   - 'lang': 'en'
     'text': 'A camel once said a nice word to foal, | He’s lucky who knows to play his own role.'
-- 'id': '11_292_2'
+- 'id': '11_292_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

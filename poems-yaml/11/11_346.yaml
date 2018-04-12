@@ -8,7 +8,7 @@
   'text': 'TO FRIENDS OF COMMON CREED (SAME PATH)'
 'description': []
 'sher':
-- 'id': '11_346_1'
+- 'id': '11_346_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Qalandar'
       'meaning': '        Iqbal''s own sense of ghayur means jealous for honour, no one word in English carries this sense. Its synonym is ''a man of parts'' (p1:) abilities, modest, noble, bashful plus chaste conveys the sense of ''ghayur''. Is not suitable in new satan''s chart.'
       'occurrence': !!int '1'
-- 'id': '11_346_2'
+- 'id': '11_346_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

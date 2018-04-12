@@ -8,7 +8,7 @@
   'text': 'MODERN MAN'
 'description': []
 'sher':
-- 'id': '3_69_1'
+- 'id': '3_69_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Love fled, Mind stung him like a snake; he could not | Force it to vision’s will.'
   - 'lang': 'ro'
     'text': '‘Ishq Na-Paid-o-Khird Megazardish Soorat-e-Maar’ | Aqal Ko Taba-e-Farman-e-Nazar Kar Na Saka'
-- 'id': '3_69_2'
+- 'id': '3_69_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'He tracked the orbits of the stars, yet could not | Travel his own thoughts’ world;'
   - 'lang': 'ro'
     'text': 'Dhoondne Wala Sitaron Ki Guzrgahon Ka | Apne Afkar Ki Dunya Mein Safar Kar Na Saka'
-- 'id': '3_69_3'
+- 'id': '3_69_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Entangled in the labyrinth of his science | Lost count of good and ill;'
   - 'lang': 'ro'
     'text': 'Apni Hikmat Ke Kham-o-Paich Mein Uljha Aesa | Aj Tak Faisla-e-Nafa-o-Zarar Kar Na Saka'
-- 'id': '3_69_4'
+- 'id': '3_69_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

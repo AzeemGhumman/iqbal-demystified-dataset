@@ -8,14 +8,14 @@
   'text': '(77)'
 'description': []
 'sher':
-- 'id': '7_77_1'
+- 'id': '7_77_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'دل من در طلسم خود اسیر است | جہان از پرتو او تاب گیر است'
   - 'lang': 'en'
     'text': 'My mind is dazzled by its own strong light, | Though it lights up the entire universe for me.'
-- 'id': '7_77_2'
+- 'id': '7_77_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

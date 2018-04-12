@@ -8,14 +8,14 @@
   'text': 'XIX-III'
 'description': []
 'sher':
-- 'id': '11_258_1'
+- 'id': '11_258_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'نگہ دارد برہمن کار خود را | نمی گوید بہ کس اسرار خود را'
   - 'lang': 'en'
     'text': 'A pundit keeps eyes on his own task, | He wont let to know his secret mask.'
-- 'id': '11_258_2'
+- 'id': '11_258_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'Rely on the witness of the phenomenal world'
 'description': []
 'sher':
-- 'id': '2_28_1'
+- 'id': '2_28_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Rely on the witness of the phenomenal world | To know whether you are on the mark or have gone astray:'
   - 'lang': 'ro'
     'text': 'Pooch Iss Se K Maqbool Hai Fitrat Ki Gawahi | Tu Sahib-E-Manzil Hai K Bahtka Huwa Raahi'
-- 'id': '2_28_2'
+- 'id': '2_28_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Neither kingship nor poverty for a Muslim who lacks in faith, | The one who has it is a king even if he be poor.'
   - 'lang': 'ro'
     'text': 'Kafir Hai Musalman To Na Shahi Na Faqeeri | Momin Hai To Karta Hai Faqeeri Mein Bhi Shahi'
-- 'id': '2_28_3'
+- 'id': '2_28_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'He depends on the sword if he lacks in faith: | If he has faith he may need no weapons in the fight.'
   - 'lang': 'ro'
     'text': 'Kafir Hai To Shamsheer Pe Karta Hai Bharosa | Momin Hai To Be-Taeg Bhi Larta Hai Sipahi'
-- 'id': '2_28_4'
+- 'id': '2_28_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'A Muslim without faith yields to what his fate ordains; | With faith, he is destiny incarnate.'
   - 'lang': 'ro'
     'text': 'Kafir Hai To Hai Taba-E-Taqdeer Musalman | Momin Hai, To Who Aap Hai Taqdeer-E-ILAHI'
-- 'id': '2_28_5'
+- 'id': '2_28_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

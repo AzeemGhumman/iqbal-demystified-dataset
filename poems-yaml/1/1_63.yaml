@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem deals with the Love of God, which is a very favorite topic of ‘Allamah Iqbal. The poem deals with the creation, composition and evolution of Love as well as its invigorating effects on the universe and ultimately on Man. However, the style is mystic and very metaphorical, exhibiting flights of poetic imagination. Some words and phrases cannot be translated into correct and succinct English and have been mentioned in original in the text and explained in the explanatory notes.'
 'sher':
-- 'id': '1_63_1'
+- 'id': '1_63_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -23,7 +23,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Uroos-e-Shab Ki Zulfain Theen Abhi Na-Ashna Kham Se | Sitare Asaman Ke Be-Khabar The Lazzat-e-Ram Se'
-- 'id': '1_63_2'
+- 'id': '1_63_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -32,7 +32,7 @@
     'text': 'The moon in its new attire was looking a little strange | Was not familiar with the established laws of revolution'
   - 'lang': 'ro'
     'text': 'Qamar Apne Libas-e-Nawa Mein Begana Sa Lagta Tha | Na Tha Waqif Abhi Gardish Ke Aaeen-e-Muslim Se'
-- 'id': '1_63_3'
+- 'id': '1_63_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
     'text': 'The earth had just emanated from possibility’s dark recesses | Life’s taste was still concealed from the expanse of space'
   - 'lang': 'ro'
     'text': 'Abhi Imkan Ke Zulmat Khane Se Ubhri Hi Thi Dunya | Mazaq-e-Zindagi Poshida Tha Pehnaye Alam Se'
-- 'id': '1_63_4'
+- 'id': '1_63_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'Perfection of the order of existence was just starting | The gem’s longing was apparent from the ring’s eye'
   - 'lang': 'ro'
     'text': 'Kamal-e-Nazam-e-Hasti Ki Abhi Thi Ibtada Goya | Haweda Thi Nagine Ki Tamanna Chashme-e-Khatam Se'
-- 'id': '1_63_5'
+- 'id': '1_63_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -63,7 +63,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Suna Hai Alam-e-Bala Mein Koi Keemiya-Gar Tha | Safa Thi Jis Ki Khak-e-Pa Mein Barh Kar Saghir-e-Jam Se'
-- 'id': '1_63_6'
+- 'id': '1_63_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -76,7 +76,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Likha Tha Arsh Ke Paye Pe Ek Ikseer Ka Nuskha | Chupate The Farishte Jis Ko Chashm-e-Rooh-e-Adam Se'
-- 'id': '1_63_7'
+- 'id': '1_63_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Nigahain Taak Mein Rehti Then Lekin Keemiya-Gar Ki | Woh Iss Nuskhe Ko Barh Kar Janta Tha Ism-e-Azam Se'
-- 'id': '1_63_8'
+- 'id': '1_63_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'He advanced to the ‘Arsh under pretense of doxology | Inner longing was at last achieved by constant effort'
   - 'lang': 'ro'
     'text': 'Barha Tasbeeh Khawani Ke Bahane Arsh Ki Janib | Tamanna-e-Dili Akhir Bar Ayi Saee-e-Peham Se'
-- 'id': '1_63_9'
+- 'id': '1_63_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -111,7 +111,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Phiraya Fikr-e-Ajza Ne Use Maidan-e-Imkan Mein | Chupe Gi Kya Koi Shay Bargah-e-Haq Ke Mehram Se'
-- 'id': '1_63_10'
+- 'id': '1_63_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -124,7 +124,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Chamak Tare Se Mangi, Chand Se Dagh-e-Jigar Manga | Urhayi Teergi Thori Si Shab Ki Zulf-e-Barham Se'
-- 'id': '1_63_11'
+- 'id': '1_63_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -140,7 +140,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Tarap Bijli Se Payi,Hoor Se Pakeezgi Payi | Hararat Li Nafashaye Maseeh-e-Ibn-e-Mariam (A.S.) Se'
-- 'id': '1_63_12'
+- 'id': '1_63_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -153,7 +153,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Zara Si Phir Rabubiat Se Shan-e-Be-Niazi Li | Malak Se Ajazi, Uftadgi Taqdeer-e-Shabnam Se'
-- 'id': '1_63_13'
+- 'id': '1_63_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -166,7 +166,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Phir In Ajza Ko Ghola Chasma-e-Hewan Ke Pani Men | Marakkab Nemohabbat Naam Paya Arsh-e-Azam Se'
-- 'id': '1_63_14'
+- 'id': '1_63_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -175,7 +175,7 @@
     'text': 'The alchemist sprinkled this water at the newly created existence | With skill’s help he opened the knot of the world’s secrets'
   - 'lang': 'ro'
     'text': 'Muhwish Ne Ye Pani Hasti-e-Naukhaiz Par Chirka | Girah Kholi Hunar Ne Uss Ke Goya Kaar-e-Alam Se'
-- 'id': '1_63_15'
+- 'id': '1_63_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -184,7 +184,7 @@
     'text': 'Movement appeared, the elements gave up sleep | Getting up each started embracing its companion'
   - 'lang': 'ro'
     'text': 'Huwi Junbish Ayan, Zarron Ne Lutf-e-Khawab Ko Chora | Gile Milne Lage Uth Uth Ke Apne Apne Humdam Se'
-- 'id': '1_63_16'
+- 'id': '1_63_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

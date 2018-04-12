@@ -8,7 +8,7 @@
   'text': 'To Javaid'
 'description': []
 'sher':
-- 'id': '3_95_1'
+- 'id': '3_95_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': '(1)'
   - 'lang': 'ro'
     'text': '(1)'
-- 'id': '3_95_2'
+- 'id': '3_95_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'The present age destroys the faith and creed, | Like pagans has a bent of mind indeed.'
   - 'lang': 'ro'
     'text': 'Gharat Gar-e-Deen Hai Ye Zamana | Hai Uss Ki Nihad Kafirana'
-- 'id': '3_95_3'
+- 'id': '3_95_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'The threshold of a saint is higher far | Than court of worldly king or mighty Czar.'
   - 'lang': 'ro'
     'text': 'Darbar-e-Shehenshi Se Khaushtar | Mardan-e-Khuda Ka Astana'
-- 'id': '3_95_4'
+- 'id': '3_95_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'It is a period full of magic art, | With spell so strong all play their part.'
   - 'lang': 'ro'
     'text': 'Lekin Ye Dour-e-Sahiri Hai | Andaz Hain Sub Ke Jadooana'
-- 'id': '3_95_5'
+- 'id': '3_95_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'The fount and source of life is parched and dry, | No more the wine of gnosis can supply.'
   - 'lang': 'ro'
     'text': 'Sar Chashma-e-Zindagi Huwa Khushk | Baqi Hai Kahan Mai-e-Shabana'
-- 'id': '3_95_6'
+- 'id': '3_95_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'The shrines are empty of such saintly folk, | Whose glance good manners taught with single stroke.'
   - 'lang': 'ro'
     'text': 'Khali Un Se Huwa Dabistan | Thi Jis Ki Nigah Taziyana'
-- 'id': '3_95_7'
+- 'id': '3_95_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'The house, your presence illumes like a lamp, | Has mystic trend in veins and bears its stamp.'
   - 'lang': 'ro'
     'text': 'Jis Ghar Ka Magar Charagh Hai Tu | Hai Uss Ka Mazaq Arifana'
-- 'id': '3_95_8'
+- 'id': '3_95_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'If essence of Godʹs Oneness be in heart, | The lore of Franks can cause no harm or smart.'
   - 'lang': 'ro'
     'text': 'Johar Mein Ho ‘ LA ILAH ’ To Kya Khof | Taleem Ho Go Farangiyana'
-- 'id': '3_95_9'
+- 'id': '3_95_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'On rose twigs chirp, for long there do not rest, | In selfhood you must seek your home and nest.'
   - 'lang': 'ro'
     'text': 'Shakh-e-Gul Par Chehak Wa-Lekin | Kar Apni Khudi Mein Ashiyana!'
-- 'id': '3_95_10'
+- 'id': '3_95_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'A man is ocean that is vast and free, | Its every drop is like the boundless sea.'
   - 'lang': 'ro'
     'text': 'Woh Behar Hai Admi Ke Jis Ka | Har Qatra Hai Behar-e-Baikarana'
-- 'id': '3_95_11'
+- 'id': '3_95_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'If peasant is not charmed with life of ease, | A seed can yield a thousand‐fold increase.'
   - 'lang': 'ro'
     'text': 'Dehqan Agar Na Ho Tan Asan | Har Dana Hai Sad Hazar Dana'
-- 'id': '3_95_12'
+- 'id': '3_95_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'I donʹt sit like sluggards and indulge in play, | It is time for your craft and skillʹs display.'
   - 'lang': 'ro'
     'text': '“Ghafil Mansheen Na Waqt-e-Bazi Sat | Waqt-e-Hunar Ast-o-Kaar Saazi Sat”'
-- 'id': '3_95_13'
+- 'id': '3_95_013'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': '(2)'
   - 'lang': 'ro'
     'text': '(2)'
-- 'id': '3_95_14'
+- 'id': '3_95_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'If heart with love of God is not replete, | The life of man remains quite incomplete.'
   - 'lang': 'ro'
     'text': 'Seene Meinagar Na Ho Dil-e-Garam | Reh Jati Hai Zindagi Mein Khami'
-- 'id': '3_95_15'
+- 'id': '3_95_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'If quarry is wise acute and bold, | It can not be trapped by hunters old.'
   - 'lang': 'ro'
     'text': 'Nakhcheer Agar Ho Zeerak-o-Chust | Ati Nahin Kaam Kuhna Dami'
-- 'id': '3_95_16'
+- 'id': '3_95_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'The Fount of Life in wordly life is found, | Provided you have a thirst quite true and sound.'
   - 'lang': 'ro'
     'text': 'Hai Aab-e-Hayat Issi Jahan Mein | Shart Iss Ke Liye Hai Tashna Kami'
-- 'id': '3_95_17'
+- 'id': '3_95_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -161,7 +161,7 @@
     'text': 'Your envy for Faith is mystic course indeed, | For growth of faqr a lot of zeal you need.'
   - 'lang': 'ro'
     'text': 'Ghairat Hai Tareeqat-e-Haqiqat | Ghairat Se Hai Faqr Ki Tamami'
-- 'id': '3_95_18'
+- 'id': '3_95_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -170,7 +170,7 @@
     'text': 'My darling son, I see no chance at all | That hawk will like to turn a pheasantʹs thrall.'
   - 'lang': 'ro'
     'text': 'Ae Jaan-e-Padar! Nahin Hai Mumkin | Shaheen Se Tadaro Ki Ghulami'
-- 'id': '3_95_19'
+- 'id': '3_95_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -179,7 +179,7 @@
     'text': 'There is no dearth of goods, called verse or rhyme, | There are hundreds of poets much sublime.'
   - 'lang': 'ro'
     'text': 'Nayab Nahin Mataa-e-Guftar | Sad Anwari-o-Hazar Jami'
-- 'id': '3_95_20'
+- 'id': '3_95_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -188,7 +188,7 @@
     'text': 'My reach and might in world is this alone | That ʹneath the roof I cry, complain and groan.'
   - 'lang': 'ro'
     'text': 'Hai Meri Bisat Kya Jahan Mein | Bus Aik Faghan-e-Ziar Bami'
-- 'id': '3_95_21'
+- 'id': '3_95_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -197,7 +197,7 @@
     'text': 'In speaking truth I am much bold and frank, | In eyes of men I hold a lofty rank.'
   - 'lang': 'ro'
     'text': 'Ek Sidq-e-Maqal Hai Ke Jis Se | Main Chashm-e-Jahan Mein Hun Garami'
-- 'id': '3_95_22'
+- 'id': '3_95_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -206,7 +206,7 @@
     'text': 'A son can not acquire his sireʹs renown, | Unless His grace by Mighty Lord is shown.'
   - 'lang': 'ro'
     'text': 'Allah Ki Dayn Hai, Jis De | Miras Nahin Buland Nami'
-- 'id': '3_95_23'
+- 'id': '3_95_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -215,7 +215,7 @@
     'text': 'Nizami, the poet great of Persian tongue, | Gave counsel wise to son who still was young:'
   - 'lang': 'ro'
     'text': 'Apne Noor-Enazar Se Kya Khoob | Farmate Hain Hazrat-e-Nizami'
-- 'id': '3_95_24'
+- 'id': '3_95_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -224,7 +224,7 @@
     'text': '“On occasions where your greatness must prevail | Your lineage there wonʹt be of much avail.ʺ'
   - 'lang': 'ro'
     'text': '“Jaye Ke Buzurg Bayadat Bood | Farzandi Man Nadaradat Sood”'
-- 'id': '3_95_25'
+- 'id': '3_95_025'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -233,7 +233,7 @@
     'text': '(3)'
   - 'lang': 'ro'
     'text': '(3)'
-- 'id': '3_95_26'
+- 'id': '3_95_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -242,7 +242,7 @@
     'text': 'The days and nights a Muslimʹs toils enhance: | Both creed and rule are like a game of chance.'
   - 'lang': 'ro'
     'text': 'Momin Pe Garan Hain Ye Shab-o-Roz | Deen-o-Doulat, Qimar Bazi !'
-- 'id': '3_95_27'
+- 'id': '3_95_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -251,7 +251,7 @@
     'text': 'Men drunk with zeal for deeds nowhere are found, | The rest are fond of talk with idle sound.'
   - 'lang': 'ro'
     'text': 'Na-Paid Banda-e-Amal Mast | Baqi Hai Faqt Nafas Darazi'
-- 'id': '3_95_28'
+- 'id': '3_95_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -260,7 +260,7 @@
     'text': 'If you have courage great and ample force, | Seek such faqr which in Hijaz has its source.'
   - 'lang': 'ro'
     'text': 'Himmat Ho Agar To Dhoond Woh Faqr | Jis Faqr Ki Asal Hai Hijazi'
-- 'id': '3_95_29'
+- 'id': '3_95_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -269,7 +269,7 @@
     'text': 'This brand of faqr such virtues great can grant | That make man, like God, free from every want.'
   - 'lang': 'ro'
     'text': 'Uss Faqr Se Admi Mein Paida | Allah Ki Shan-e-Be-Niazi'
-- 'id': '3_95_30'
+- 'id': '3_95_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -278,7 +278,7 @@
     'text': 'His hawk‐like status can spread general death | Of sparrows, pigeons all in single breath.'
   - 'lang': 'ro'
     'text': 'Kunjishak-o-Hamam Ke Liye Mout | Hai Uss Ka Maqam Shahbazi'
-- 'id': '3_95_31'
+- 'id': '3_95_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -287,7 +287,7 @@
     'text': 'The glance of mind by its means burns and blazes | Without collyrium begged from Avicenna and Rhazes.'
   - 'lang': 'ro'
     'text': 'Roshan Uss Se Khird Ki Ankhain | Be-Surma-e-Bu Ali-o-Razi'
-- 'id': '3_95_32'
+- 'id': '3_95_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -296,7 +296,7 @@
     'text': 'If temper of Ayaz is free from every slavish trend, | Like Mahmud can win grandeur which hasnʹt end.'
   - 'lang': 'ro'
     'text': 'Hasil Uss Ka Shikwa-e-Mehmood | Fitrat Mein Agar Na Ho Ayazi'
-- 'id': '3_95_33'
+- 'id': '3_95_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -305,7 +305,7 @@
     'text': 'Your worldʹs Sarafil has neither taste nor zeal, | He canʹt blow trumpet nor can skill reveal.'
   - 'lang': 'ro'
     'text': 'Teri Dunya Ka Ye Sarafeel | Rakhta Nahin Zauq-e-Ne Nawazi'
-- 'id': '3_95_34'
+- 'id': '3_95_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -314,7 +314,7 @@
     'text': 'Its glance a world‐wide tumult can inspire, | In obscure mode sets right the things entire.'
   - 'lang': 'ro'
     'text': 'Hai Iss Ki Nigah-e-Alam Ashob | Dar Parda Tamam Kar Sazi'
-- 'id': '3_95_35'
+- 'id': '3_95_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -323,7 +323,7 @@
     'text': 'A warrior who can this Jealous Faqr attain, | Without sword and lance great conquests he can gain.'
   - 'lang': 'ro'
     'text': 'Ye Faqr-e-Ghayoor Jis Ne Paya | Be-Taeg-o-Sana Hai Mard-e-Ghazi'
-- 'id': '3_95_36'
+- 'id': '3_95_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

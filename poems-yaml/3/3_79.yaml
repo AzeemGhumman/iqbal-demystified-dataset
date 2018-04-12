@@ -8,7 +8,7 @@
   'text': 'FREEDOM OF THOUGHT'
 'description': []
 'sher':
-- 'id': '3_79_1'
+- 'id': '3_79_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Free thinking can bring ʹbout the ruin, Of those whose thoughts are low and mean: | They donʹt possess the mode and style, Of though that may be chaste and clean.'
   - 'lang': 'ro'
     'text': 'Azadi-e-Afkar Se Hai Un Ki Tabahi | Rakhte Nahin Jo Fikr-o-Tadabbur Ka Saliqa'
-- 'id': '3_79_2'
+- 'id': '3_79_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

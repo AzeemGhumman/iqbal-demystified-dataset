@@ -8,14 +8,14 @@
   'text': '(1)'
 'description': []
 'sher':
-- 'id': '7_1_1'
+- 'id': '7_1_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'شہید ناز او بزم وجود است | نیاز اندر نہاد ہست و بود است'
   - 'lang': 'en'
     'text': 'The world is under His proud power’s sway | Whom all things were created to obey.'
-- 'id': '7_1_2'
+- 'id': '7_1_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

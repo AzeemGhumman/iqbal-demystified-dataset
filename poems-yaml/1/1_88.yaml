@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'Though apparently this ghazal, like all ghazals expresses various thoughts in its different verses these thoughts are borne on a single logical thread. Three mutually inter‑connected messages are conveyed, viz. (i) Intellect alone is not sufficient for human existence. (ii) A Muslim is not confined to any place, he is universal and his nation is not based on geographical countries. (iii) ‘Allamah Iqbal did not believe in "art for art''s sake" and used poetry only to convey his message of Islam to the people in succinct and impressive form.'
 'sher':
-- 'id': '1_88_1'
+- 'id': '1_88_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'O God ! Teach a little Love to my happy Intellect . | It loves fine stitching but my shirt has no collar'
   - 'lang': 'ro'
     'text': 'Elahi Aqal-e-Khujasta Pe Ko Zara Si Diwangi Sikha De | Isse Hai Sodaye Bakhya Kari, Mujhe Sirr-e-Pairhan Nahin Hai'
-- 'id': '1_88_2'
+- 'id': '1_88_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'As I got Love''s ardor the angels said on azal''s morning | "You are like the grave''s candle, you have no assembly"'
   - 'lang': 'ro'
     'text': 'Mila Mohabbat Ka Souz Mujh Ko To Bole Subah-e-Azal Farishte | Misal-e-Shama-e-Mazar Hai Tu, Teri Koi Anjuman Nahin Hai'
-- 'id': '1_88_3'
+- 'id': '1_88_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'No friend is available here, this land is friendless, O Heart! | You want something from me which does not exist under the sky'
   - 'lang': 'ro'
     'text': 'Yahan Kahan Hum-Nafas Mayyasar, Ye Dais Na-Ashna Hai Ae Dil ! | Woh Cheez Tu Mangta Hai Mujh Se Ke Zair-e-Charakh-e-Kuhan Nahin Hai'
-- 'id': '1_88_4'
+- 'id': '1_88_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'The Arab architect made it distinct from the whole world | The foundation of our nation''s fort is not geographical unity'
   - 'lang': 'ro'
     'text': 'Nirala Sare Jahan Se Iss Ko Arab Ke Maamaar (S.A.W.) Ne Banaya | Bina Humare Hisar-e-Millat Ki Ithaad-e-Watan Nahin Hai'
-- 'id': '1_88_5'
+- 'id': '1_88_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'Why this coming and going, future''s concern is a conceit | We are manifest in everything, we do not have any homeland'
   - 'lang': 'ro'
     'text': 'Kahan Ka Ana, Kahan Ka Jana, Faraib Hai Imtiaz-e-Uqba | Namood Har Shay Mein Hai Humari, Kahin Humara Watan Nahin Hai'
-- 'id': '1_88_6'
+- 'id': '1_88_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

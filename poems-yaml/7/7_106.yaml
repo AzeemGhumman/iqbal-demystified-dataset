@@ -8,7 +8,7 @@
   'text': '(106)'
 'description': []
 'sher':
-- 'id': '7_106_1'
+- 'id': '7_106_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'Farabi'
       'meaning': 'Farabi. Abu Nasr Muhammad al-Farabi, a famous philosopher of Iran.'
       'occurrence': !!int '1'
-- 'id': '7_106_2'
+- 'id': '7_106_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

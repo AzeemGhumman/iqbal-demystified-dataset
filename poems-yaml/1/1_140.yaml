@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This poem was written in Europe at the time of the death of ‘Allamah Iqbal’s mother. It is not only an expression of his grief on this sad incident but is also an expression of the philosophy of life and death and the grief created by them. It expands the thoughts expressed in Poem No. 82 Falsafah-i-Gham (The Philosophy of Grief). In spite of realizing that everything in the universe is subject to the Will and Command of God the news of his mother’s death was too hard to bear. He reminisces his whole life and recapitulates some memorable events of his domestic life. He explains with several examples , that death is a transitory phase in existence and is not designed to annihilate a person. The last verse of stanza 8 is important. By comparing man with stars he presents the Islamic concept of man’s superiority over the rest of creation. The last two verses of stanza 10 are important. Though time mitigates all grief the loss of his mother has caused him so much grief that time cannot reduce it. The poem ends in a supplication to God for his mother.'
 'sher':
-- 'id': '1_140_1'
+- 'id': '1_140_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'Every particle of the universe is a prisoner of destiny | Prudence is a cover for helplessness and compulsion'
   - 'lang': 'ro'
     'text': 'Zarra Zarra Dehr Ka Zindaani-e-Taqdeer Hai | Parda-e-Majboor-o-Bechargi Tadbeer Hai'
-- 'id': '1_140_2'
+- 'id': '1_140_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': 'The sky, the sun and the moon all are helpless | The fast moving stars are compelled to moving'
   - 'lang': 'ro'
     'text': 'Asaman Majboor Hai, Shamas-o-Qamar Majboor Hain | Anjum-e-Seemab Pa Raftar Par Majboor Hai'
-- 'id': '1_140_3'
+- 'id': '1_140_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -37,7 +37,7 @@
     'text': 'Breaking is the end of flower bud’s pitcher in the garden | The garden’s verdure and flowers are also compelled to grow'
   - 'lang': 'ro'
     'text': 'Hai Shikast Anjam Ghunche Ka Saboo Gulzar Mein | Sabza-o-Gul Bhi Hain Majboor-e-Namoo Gulzar Mein'
-- 'id': '1_140_4'
+- 'id': '1_140_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -46,7 +46,7 @@
     'text': 'It may be nightingale’s song or conscience’ silent call | Everything is chained in the same universal chain!'
   - 'lang': 'ro'
     'text': 'Nagma-e-Bulbul Ho Ya Awaz-e-Khamosh-e-Zameer | Hai Issi Zanjeer-e-Alamgeer Mein Har She Aseer'
-- 'id': '1_140_5'
+- 'id': '1_140_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -55,7 +55,7 @@
     'text': 'When this secret of helplessness becomes evident to the eye | The turbulent flood of tears in the heart dries up'
   - 'lang': 'ro'
     'text': 'Ankh Par Hota Hai Jab Ye Sirr-e-Majboori Ayan | Khush Ho Jata Hai Dil Mein Ashak Ka Seel-e-Rawan'
-- 'id': '1_140_6'
+- 'id': '1_140_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -64,7 +64,7 @@
     'text': 'The dance of pleasure and grief does not remain in the human heart | The song remains but the pleasure of treble and bass does not remain'
   - 'lang': 'ro'
     'text': 'Qalb-e-Insani Mein Raqs-e-Aysh-o-Gham Rehta Nahin | Naghma Reh Jata Hai, Lutf-e-Zair-o-Bam Rehta Nahin'
-- 'id': '1_140_7'
+- 'id': '1_140_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -73,7 +73,7 @@
     'text': 'Knowledge and wisdom are robbers of tears and sighs’ wealth | That is the intelligent heart is a piece of diamond!'
   - 'lang': 'ro'
     'text': 'Ilm-o-Hikmat Rahzan-e-Saman-e-Ashak-o-Aah Hai | Yani Ek Almas Ka Tukra Dil Agah Hai'
-- 'id': '1_140_8'
+- 'id': '1_140_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -82,7 +82,7 @@
     'text': 'Though the dew’s freshness does not exist in my garden | My eye is not enriched with the red tears'
   - 'lang': 'ro'
     'text': 'Garche Mere Bagh Mein Shabnam Ki Shadabi Nahin | Ankh Meri Mayadaar-e-Ashak-e-Unnabi Nahin'
-- 'id': '1_140_9'
+- 'id': '1_140_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -91,7 +91,7 @@
     'text': 'Ah! I am aware of the secret of human afflictions | But my nature’s orchestra is unaware of complaint’s song'
   - 'lang': 'ro'
     'text': 'Janta Hun Aah, Main Aalaam Insane Ka Raaz | Hai Nawaye Shikwah Se Khali Meri Fitrat Ka Saaz'
-- 'id': '1_140_10'
+- 'id': '1_140_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -100,7 +100,7 @@
     'text': 'The story of vicissitudes of time does not come on my lips | My heart is not astonished, not laughing, not crying'
   - 'lang': 'ro'
     'text': 'Mere Lab Par Qissa-e-Nairangi-e-Douran Nahin | Dil Mera Heeran Nahin, Khandan Nahin, Giryan Nahin'
-- 'id': '1_140_11'
+- 'id': '1_140_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -109,7 +109,7 @@
     'text': 'But O messenger, your picture is one of constant wailing | Ah! this is the contradiction of my firm wisdom!'
   - 'lang': 'ro'
     'text': 'Par Teri Tasveer Qasid Girya-e-Peham Ki Hai | Aah! Ye Tardeed Meri Hikmat-e-Muhkam Ki Hai'
-- 'id': '1_140_12'
+- 'id': '1_140_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -118,7 +118,7 @@
     'text': 'Life’s foundation becomes lasting with overflowing wailing | The hard hearted Intellect is embarrassed with the knowledge of pathos'
   - 'lang': 'ro'
     'text': 'Girya-e-Sarshaar Se Bunyad-e-Jaan Paeenda Hai | Dard Ke Irfan Se Aqal-e-Sangdil Sharminda Hai'
-- 'id': '1_140_13'
+- 'id': '1_140_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -127,7 +127,7 @@
     'text': 'My mirror is bright with the wave of sighs’ smoke | My skirt is full with the treasure of tears'
   - 'lang': 'ro'
     'text': 'Mouj-e-Dood-e-Aah Se Aaeena Hai Roshan Mera | Gunj-e-Aab Award Se Maamoor Hai Daman Mera'
-- 'id': '1_140_14'
+- 'id': '1_140_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -136,7 +136,7 @@
     'text': 'The miracle of your picture has surprised me | Which has completely changed the flight of time'
   - 'lang': 'ro'
     'text': 'Hairati Hun Mein Teri Tasveer Ke Ijaz Ka | Rukh Badal Dala Hai Jis Ne Waqt Ki Parwaz Ka'
-- 'id': '1_140_15'
+- 'id': '1_140_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -145,7 +145,7 @@
     'text': 'As if it brought the past and present together | It acquainted me again with the age of infancy'
   - 'lang': 'ro'
     'text': 'Rafta-o-Hazir Ko Goya Pa Bapa Iss Ne Kiya | Ehd-e-Tifli Se Mujhe Phir Ashna Iss Ne Kiya'
-- 'id': '1_140_16'
+- 'id': '1_140_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -154,7 +154,7 @@
     'text': 'When that feeble soul was being nurtured by your side | Whose tongue was not adequately familiar with talking'
   - 'lang': 'ro'
     'text': 'Jab Tere Daman Mein Palti Thi Woh Jaan-e-Natwan | Baat Se Achi Tarah Mehram Na Thi Jis Ki Zuban'
-- 'id': '1_140_17'
+- 'id': '1_140_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -163,7 +163,7 @@
     'text': 'And whose linguistic spice is now the subject of conversation | The pearls of whose jewel-shedding eyes are priceless'
   - 'lang': 'ro'
     'text': 'Aur Ab Charche Hain Jis Ki Shoukhi-e-Guftar Ke | Be-Baha Moti Hain Jis Ki Chashm-e-Gohar Baar Ke'
-- 'id': '1_140_18'
+- 'id': '1_140_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -172,7 +172,7 @@
     'text': 'The learning’s serious discourses, the shrewdness of old age | The dignity of worldly honors, the pride of young age'
   - 'lang': 'ro'
     'text': 'Ilm Ki Sanjeeda Guftari, Barhape Ka Shaur | Dunyavi Izaz Ki Shoukat, Jawani Ka Gharoor'
-- 'id': '1_140_19'
+- 'id': '1_140_019'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -181,7 +181,7 @@
     'text': 'We descend from the positions of dignity in life | We descend as a simple child in the lap of the mother'
   - 'lang': 'ro'
     'text': 'Zindagi Ki Auj-Gahon Se Uter Ate Hain Hum | Sohbat-e-Madir Mein Tifl-e-Sada Reh Jate Hain Hum'
-- 'id': '1_140_20'
+- 'id': '1_140_020'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -190,7 +190,7 @@
     'text': 'We are laughing informally, we are free from care | We are once more living in the same lost paradise'
   - 'lang': 'ro'
     'text': 'Be Takaluf  Khandazan Hain, Fikr Se Azad Hain | Phir Ussi Khoye Huwe Firdous Mein Abad Hain'
-- 'id': '1_140_21'
+- 'id': '1_140_021'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -199,7 +199,7 @@
     'text': 'Ah! Who will now be waiting for me in the homeland? | Who will become restless by not getting my letter?'
   - 'lang': 'ro'
     'text': 'Kis Ko Ab Ho Ga Watan Mein Aah! Mera Intizar | Kon Mera Khat Na Ane Se Rahe Ga Be-Qarar'
-- 'id': '1_140_22'
+- 'id': '1_140_022'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -208,7 +208,7 @@
     'text': 'I will come to your grave carrying this lament | To whose thoughts will I come in the midnight prayers?'
   - 'lang': 'ro'
     'text': 'Khak-e-Marqad Par Teri Le Kar Ye Faryad Aun Ga | Ab Duaye Neem Shab Mein Kis Ko Main Yaad Aun Ga!'
-- 'id': '1_140_23'
+- 'id': '1_140_023'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -217,7 +217,7 @@
     'text': 'With your up-bringing I became fortunate like stars | The house of my ancestors became a source of pride'
   - 'lang': 'ro'
     'text': 'Tarbiat Se Teri Main Anjum Ka Hum-Qismat Huwa | Ghar Mere Ajdad Ka Sarmaya-e-Izzat Huwa'
-- 'id': '1_140_24'
+- 'id': '1_140_024'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -226,7 +226,7 @@
     'text': 'Your life was written in gold letters in the existence’ book | Your life was a full lesson of secular and religious education'
   - 'lang': 'ro'
     'text': 'Daftar-e-Hasti Mein Thi Zareen Waraq Teri Hayat | Thi Sarapa Deen-o-Dunya Ka Sabaq Teri Hayat'
-- 'id': '1_140_25'
+- 'id': '1_140_025'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -235,7 +235,7 @@
     'text': 'Your love remained in my service for your whole life | When I was able to serve you, you did not survive'
   - 'lang': 'ro'
     'text': 'Umer Bhar Teri Mohabbat Meri Khidmat Rahi | Main Teri Khidmat Ke Qabil Jab Huwa Tu Chal Basi'
-- 'id': '1_140_26'
+- 'id': '1_140_026'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -248,7 +248,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Woh Jawan, Qamat Mein Hai Jo Soorat-e-Sarv-e-Buland | Teri Khidmat Se Huwa Jo Mujh Se Barh Kar Behramand'
-- 'id': '1_140_27'
+- 'id': '1_140_027'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -257,7 +257,7 @@
     'text': 'That constant companion of mine in the business of life | That picture of yours in love, that source of my strength'
   - 'lang': 'ro'
     'text': 'Karobar-e-Zindagaani Mein Woh Hum Pehlu Mera | Woh Mohabbat Mein Teri Tasveer, Woh Bazoo Mera'
-- 'id': '1_140_28'
+- 'id': '1_140_028'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -266,7 +266,7 @@
     'text': 'He is crying like a helpless infant for you | He is crying with impatience from morning till evening'
   - 'lang': 'ro'
     'text': 'Tujh Ko  Misl-e-Tiflak-e-Be Dast-o-Paa Rota Hai Woh | Sabr Se Na Ashna Subah-o-Masa Rota Hai Woh'
-- 'id': '1_140_29'
+- 'id': '1_140_029'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -275,7 +275,7 @@
     'text': 'The love whose seed you planted in our life’s field | By the grief of separation that love became more firm'
   - 'lang': 'ro'
     'text': 'Tukhm Jis Ka Tu Humari Kisht-e-Jaan Mein Bo Gyi | Shirkat-e-Gham Se Woh Ulfat Aur Mohkam Ho Gyi'
-- 'id': '1_140_30'
+- 'id': '1_140_030'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -284,7 +284,7 @@
     'text': 'Ah! This world, this mourning place for the young and old! | In what a strange ever-changing prison man is imprisoned!'
   - 'lang': 'ro'
     'text': 'Aah! Ye Dunya, Ye Matam Khana-e-Barna-o-Peer | Admi Hai Kis Tilism-e-Dosh-o-Farda Mein Aseer!'
-- 'id': '1_140_31'
+- 'id': '1_140_031'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -293,7 +293,7 @@
     'text': 'How difficult it is to live! How easy it is to die! | In the existence’ garden death is cheap as breeze!'
   - 'lang': 'ro'
     'text': 'Kitni Mushkil Zindagi Hai, Kis Qadar Asan Hai Mout | Gulshan-e-Hasti Mein Manind-e-Naseem Arzan Hai Mout'
-- 'id': '1_140_32'
+- 'id': '1_140_032'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -302,7 +302,7 @@
     'text': 'There are earthquakes, thunderbolts, famines, afflictions | How diverse the daughters of the mother of time are!'
   - 'lang': 'ro'
     'text': 'Zalzale Hain, Bijlian Hain, Qeht Hain, Aalaam Hain | Kaisi Kaisi Dukhtaran-e-Madar-e-Ayyam Hain!'
-- 'id': '1_140_33'
+- 'id': '1_140_033'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -311,7 +311,7 @@
     'text': 'In poor man’s hovel, in rich man’s mansion is death | In forest, house, city, garden, wilderness is death'
   - 'lang': 'ro'
     'text': 'Kulba-e-Aflaas Mein, Doulat Ke Kashane Mein Mout | Dasht-o-Dar Mein, Shehar Mein, Gulshan Mein, Weerane Mein Mout'
-- 'id': '1_140_34'
+- 'id': '1_140_034'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -320,7 +320,7 @@
     'text': 'Death is tumultuous in the silent ocean | Boats are drowned in the lap of death'
   - 'lang': 'ro'
     'text': 'Mout Hai Hangama Aara Qulzum-e-Khamosh Mein | Doob Jate Hain Safeene Mouj Ki Aghosh Mein'
-- 'id': '1_140_35'
+- 'id': '1_140_035'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -329,7 +329,7 @@
     'text': 'Neither there is ability to complain, nor power of speech | Life nothing but is a yoke choking the throat'
   - 'lang': 'ro'
     'text': 'Ne Majal-e-Shikwah Hai, Ne Taqat-e-Guftar Hai | Zindagaani Kya Hai, Ek Tauk-e-Guloo Afshar Hai!'
-- 'id': '1_140_36'
+- 'id': '1_140_036'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -338,7 +338,7 @@
     'text': 'In the caravan nothing but bell’s wailing exists | Nothing except the valuable weeping eye exists!'
   - 'lang': 'ro'
     'text': 'Qafle Mein Ghair-e-Faryad-e-Dra Kuch Bhi Nahin | Ek Mataa-e-Deeda-e-Tar Ke Siwa Kuch Bhi Nahin'
-- 'id': '1_140_37'
+- 'id': '1_140_037'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -351,7 +351,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Khatam Ho Jaye Ga Lekin Imtihaan Ka Dour Bhi | Hain Pas-e-Nuh Parda-e-Gardoon Abhi Dour Aur Bhi'
-- 'id': '1_140_38'
+- 'id': '1_140_038'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -360,7 +360,7 @@
     'text': 'What if the tulips and roses in this garden are afflicted? | What if nightingales are compelled to wail and complain?'
   - 'lang': 'ro'
     'text': 'Seena Chaak Iss Gulistan Mein Lala-o-Gul Hain To Kya | Nala-o-Faryad Par Majboor Bulbul Hain To Kya'
-- 'id': '1_140_39'
+- 'id': '1_140_039'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -369,7 +369,7 @@
     'text': 'The bushes, which are burnt by the sighs of the autumn | Will green up when the breezes of the invigorating spring flow'
   - 'lang': 'ro'
     'text': 'Jhariyan, Jin Ke Qafas Mein Qaid Hai Aah-e-Khazan | Sabz Kar De Gi Unhain Baad-e-Bahar-e-Javidan'
-- 'id': '1_140_40'
+- 'id': '1_140_040'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -378,7 +378,7 @@
     'text': 'What if our spark is asleep in the dust of the shield? | What if this handful of dust is our temporary abode?'
   - 'lang': 'ro'
     'text': 'Khufta Khak-e-Pay Sipr Mein Hai Sharar Apna To Kya | Aarzi Mehmil Hai Ye Musht-e-Ghubar Apna To Kya'
-- 'id': '1_140_41'
+- 'id': '1_140_041'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -387,7 +387,7 @@
     'text': 'The end of the fire of life is not in the ashes! | This is not the jewel whose destiny is breaking!'
   - 'lang': 'ro'
     'text': 'Zindagi Ki Aag Ka Anjaam Khakstar Nahin | Tootna Jis Ka Muqaddar Ho Ye Woh Gohar Nahin'
-- 'id': '1_140_42'
+- 'id': '1_140_042'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -396,7 +396,7 @@
     'text': 'Life is such a beloved in the eye of Nature | Life’s preservation is in everything’s nature'
   - 'lang': 'ro'
     'text': 'Zindagi Mehboob Aesi Dida-e-Qudrat Mein Hai | Zauq-e-Hifz-e-Zindagi Har Cheez Ki Fitrat Mein Hai'
-- 'id': '1_140_43'
+- 'id': '1_140_043'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -405,7 +405,7 @@
     'text': 'If the death’s hand could efface life’s picture | The system of the universe would not have made it so common'
   - 'lang': 'ro'
     'text': 'Mout Ke Hathon Se Mit Sakta Agar Naqsh-e-Hayat | Aam Yun Iss Ko Na Kar Deta Nazam-e-Kainat'
-- 'id': '1_140_44'
+- 'id': '1_140_044'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -414,7 +414,7 @@
     'text': 'If it is cheap then think that death is nothing | Just as there is no break in living by sleeping'
   - 'lang': 'ro'
     'text': 'Hai Agar Arzan To Samjho Ajal Kuch Bhi Nahin | Jis Tarah Sone Se Jeene Mein Khalal Kuch Bhi Nahin'
-- 'id': '1_140_45'
+- 'id': '1_140_045'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -423,7 +423,7 @@
     'text': 'Ah ! O imprudent one! Death’s hidden secret is something different! | The instability of the picture exhibits something different!'
   - 'lang': 'ro'
     'text': 'Ah Ghafil! Mout Ka Raaz-e-Nihan Kuch Aur Hai | Naqsh Ki Na-Paedari Se Ayan Kuch Aur Hai'
-- 'id': '1_140_46'
+- 'id': '1_140_046'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -432,7 +432,7 @@
     'text': 'The picture of wind over water is sight’s paradise | By break in the restless wave it makes the bubbles'
   - 'lang': 'ro'
     'text': 'Jannat Nazzar Hai Naqsh-e-Hawa Balaye Aab | Mouj-e-Muztar Torh Kar Tameer Kari Hai Habab'
-- 'id': '1_140_47'
+- 'id': '1_140_047'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -441,7 +441,7 @@
     'text': 'It conceals it again in the skirt of the wave! | How mercilessly it demolishes its own picture'
   - 'lang': 'ro'
     'text': 'Mouj Ke Daman Mein Phir Uss Ko Chupa Deti Hai Ye | Kitni Baidardi Se Naqsh Apna Mita Deti Hai Ye'
-- 'id': '1_140_48'
+- 'id': '1_140_048'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -450,7 +450,7 @@
     'text': 'If the wind could not create its bubble again | The wind would not have broken it so carelessly'
   - 'lang': 'ro'
     'text': 'Phir Na Kar Sakti Habab Apna Agar Paida Huwa | Torne Mein Uss Ke Yun Hoti Na Be-Parwa Huwa'
-- 'id': '1_140_49'
+- 'id': '1_140_049'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -459,7 +459,7 @@
     'text': 'What is the effect of this custom on the form of creation? | This is the proof of the power of wind over creation'
   - 'lang': 'ro'
     'text': 'Iss Rawish Ka Kya Asar Hai Heeyat-e-Tameer Par | Ye To Hujjat Hai Hawa Ki Quwwat-e-Tameeer Par'
-- 'id': '1_140_50'
+- 'id': '1_140_050'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -468,7 +468,7 @@
     'text': 'If the existence’ nature be not in search of longing | It would never be in search of the better form!'
   - 'lang': 'ro'
     'text': 'Fitrat-e-Hasti Shaheed-e-Arzu Rehti Na Ho | Khoob Tar Paikar Ki Iss Ko Justujoo Rehti Na Ho'
-- 'id': '1_140_51'
+- 'id': '1_140_051'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -477,7 +477,7 @@
     'text': 'Ah ! The restless mercury, the sky brightening stars | The heat of these sparks is obligated to the night'
   - 'lang': 'ro'
     'text': 'Ah Seemab-e-Preshan, Anjum-e-Gardoon Faroz | Shoukh Ye Chingariyan, Mamnoon-e-Shab Hai Jin Ka Souz'
-- 'id': '1_140_52'
+- 'id': '1_140_052'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -486,7 +486,7 @@
     'text': 'Their antiquity is bewildering to the Intellect | The history of the human race is a mere moment for them'
   - 'lang': 'ro'
     'text': 'Aqal Jis Se Sar Ba Zanu Hai Woh Muddat Un Ki Hai | Sargazisht-e-Nu-e-Insan Aik Saa’at In Ki Hai'
-- 'id': '1_140_53'
+- 'id': '1_140_053'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -499,7 +499,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Phir Ye Insan, Aan Sooye Aflaak Hai Jis Ki Nazar | Qudsiyon Se Bhi Maqasid Mein Hai Jo Pakeeza Tar'
-- 'id': '1_140_54'
+- 'id': '1_140_054'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -508,7 +508,7 @@
     'text': 'Who is lighted up like a candle in the assembly of Nature | In the expanse of whose nature celestial world is a mere dot'
   - 'lang': 'ro'
     'text': 'Jo Misal-e-Shama Roshan Mehfil-e-Qudrat Mein Hai | Saman Ek Nukta Jis Ki Wusaat-e-Fitrat Mein Hai'
-- 'id': '1_140_55'
+- 'id': '1_140_055'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -517,7 +517,7 @@
     'text': 'Whose ignorance is restless to know the Truth | Whose nail is the plectrum to the harp of existence'
   - 'lang': 'ro'
     'text': 'Jis Ki Nadani Sadaqat Ke Liye Betaab Hai | Jis Ka Nakhun Saaz-e-Hasti Ke Liye Mizraab Hai'
-- 'id': '1_140_56'
+- 'id': '1_140_056'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -526,7 +526,7 @@
     'text': 'Is this flame inferior than the sky’s sparks even? | Is our sun less precious than the stars even?'
   - 'lang': 'ro'
     'text': 'Shaola Ye Kamtar Hai Gadroon Ke Shararon Se Bhi Kya | Kama Baha Hai Aftab Apna Sitaron Se Bhi Kya'
-- 'id': '1_140_57'
+- 'id': '1_140_057'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -535,7 +535,7 @@
     'text': 'The eye of flower’s seed is awake even under the soil | How restless for growth and development the seed is'
   - 'lang': 'ro'
     'text': 'Tukhm-e-Gul Ki Ankh Zair-e-Khak Bhi Be-Khawab Hai | Kis Qadar Nashonama Ke Waste Be-Taab Hai'
-- 'id': '1_140_58'
+- 'id': '1_140_058'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -544,7 +544,7 @@
     'text': 'The flame of life which is concealed in this grain | Is under compulsion for self-assertion and growth'
   - 'lang': 'ro'
     'text': 'Zindagi Ka Shaola Iss Dane Mein Jo Mastoor Hai | Khudnumayi, Khudfazai Ke Liye Majboor Hai'
-- 'id': '1_140_59'
+- 'id': '1_140_059'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -553,7 +553,7 @@
     'text': 'Even with the grave’s cold it cannot become dispirited | Even by being buried under soil it cannot become cold!'
   - 'lang': 'ro'
     'text': 'Sardi-e-Marqad Se Bhi Afsurda Ho Sakta Nahin | Khak Mein Dab Kar Bhi Apna Souz Kho Sakta Nahin'
-- 'id': '1_140_60'
+- 'id': '1_140_060'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -562,7 +562,7 @@
     'text': 'Becoming a flower, it comes out of its grave | That is it gets the robe of life from its death'
   - 'lang': 'ro'
     'text': 'Phool Ban Kar Apni Turbat Se Nikl Ata Hai Ye | Mout Se Goya Qabaye Zindagi Pata Hai Ye'
-- 'id': '1_140_61'
+- 'id': '1_140_061'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -571,7 +571,7 @@
     'text': 'Grave is the organizer of its scattered powers | Which is throwing its rope-ladder round sky’s neck'
   - 'lang': 'ro'
     'text': 'Hai Lehad Uss Quwwat-e-Aashufta Ki Sheeraza Band | Dalti Hai Gardan-e-Gardoon Mein Jo Apne Kumand'
-- 'id': '1_140_62'
+- 'id': '1_140_062'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -580,7 +580,7 @@
     'text': 'Death is the name of the renewal of life’s taste | Behind the veil of sleep it is a message of awakening'
   - 'lang': 'ro'
     'text': 'Mout, Tajdeed-e-Mazaq-e-Zindagi Ka Naam Hai | Khawab Ke Parde Mein Baidari Ka Ek Paigham Hai'
-- 'id': '1_140_63'
+- 'id': '1_140_063'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -589,7 +589,7 @@
     'text': 'The one accustomed to flight is not afraid of flight! | Death in this garden is nothing but readying for flight!'
   - 'lang': 'ro'
     'text': 'Khugar-e-Parwaz Ko Parwaz Mein Dar Kuch Nahin | Mout Iss Gulshan Mein Juz Sanjeedan-e-Par Kuch Nahin'
-- 'id': '1_140_64'
+- 'id': '1_140_064'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -598,7 +598,7 @@
     'text': 'People say that the pain of death is incurable | Separation’s wound is cured with time’s salve'
   - 'lang': 'ro'
     'text': 'Kehte Hain Ahl-e-Jahan Dard-e-Ajal Hai La Dawa | Zakham-e-Furqat Waqt Ke Marham Se Pata Hai Shafa'
-- 'id': '1_140_65'
+- 'id': '1_140_065'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -607,7 +607,7 @@
     'text': 'But the heart where the grief of the dead ones is living | Is free from the loop of the chain of morning and evening'
   - 'lang': 'ro'
     'text': 'Dil Magar, Ghum Merne Walon Ka Jahan Abad Hai | Halqa-e-Zanjeer-e-Subah-o-Shaam Se Azad Hai'
-- 'id': '1_140_66'
+- 'id': '1_140_066'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -616,7 +616,7 @@
     'text': 'Mourning’s wailing does not stop with the spell of time | Time is no salve for the wound of separation’s sword'
   - 'lang': 'ro'
     'text': 'Waqt Ke Afsoon Se Thamta Nala-e-Matam Nahin | Waqt Zakhm-e-Taigh-e-Furqat Ka Koi Marham Nahin'
-- 'id': '1_140_67'
+- 'id': '1_140_067'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -625,7 +625,7 @@
     'text': 'When some sudden calamity befalls us | Tears come out of the eyes constantly'
   - 'lang': 'ro'
     'text': 'Sar Pe Aa Jati Hai Jab Koi Musibat Nagahan | Ashak-e-Peham Dida-e-Insan Se Hote Hain Rawan'
-- 'id': '1_140_68'
+- 'id': '1_140_068'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -634,7 +634,7 @@
     'text': 'The heart becomes accustomed to wailing and complaint | The heart’s blood drips from the tearful eyes'
   - 'lang': 'ro'
     'text': 'Rabt Ho Jata Hai Dil Ko Nala-o-Faryad Se | Khoon-e-Dil Behta Hai Ankhon Ki Sarshak Abad Se'
-- 'id': '1_140_69'
+- 'id': '1_140_069'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -643,7 +643,7 @@
     'text': 'Though Man is deprived of the power of patience | This sub-conscious feeling always exists in his nature'
   - 'lang': 'ro'
     'text': 'Admi Taab-e-Shikeebai Se Go Mehroom Hai | Iss Ki Fitrat Mein Ye Ek Ehsas-e-Namaloom Hai'
-- 'id': '1_140_70'
+- 'id': '1_140_070'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -652,7 +652,7 @@
     'text': 'The essence of Man does not become annihilated | He disappears from sight but is not annihilated'
   - 'lang': 'ro'
     'text': 'Jouhar-e-Insan Adam Se Ashna Hota Nahin | Ankh Se Ghaeeb To Hota Hai Fana Hota Nahin'
-- 'id': '1_140_71'
+- 'id': '1_140_071'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -661,7 +661,7 @@
     'text': 'The baggage of life is dust with the flame of grief | This fire is cooled with this subtle feeling’s water'
   - 'lang': 'ro'
     'text': 'Rakht-e-Hasti Khak, Gham Ki Shaola Afshani Se Hai | Sard Ye Aag Iss Lateef Ehsas Ke Pani Se Hai'
-- 'id': '1_140_72'
+- 'id': '1_140_072'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -670,7 +670,7 @@
     'text': 'Ah! This control of wailing is not negligence’ silence | This consolation is awareness, it is not forgetfulness!'
   - 'lang': 'ro'
     'text': 'Ah, Ye Zabt-e-Faghan Ghaflat Ki Khamoshi Nahin | Aa Gahi Hai Ye Dil Aasayi, Faramoshi Nahin'
-- 'id': '1_140_73'
+- 'id': '1_140_073'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -679,7 +679,7 @@
     'text': 'When the dawn manifests itself from the east | It washes away the night’s stain from the world’s skirt'
   - 'lang': 'ro'
     'text': 'Parda-e-Mashriq Se Jis Dam Jalwagar Hoti Hai Subah | Dagh Shab Ka Daman-e-Afaq Se Dhoti Hai Subah'
-- 'id': '1_140_74'
+- 'id': '1_140_074'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -688,7 +688,7 @@
     'text': 'It clothes the melancholy tulip in red garb | It makes the silent bird intoxicated with music'
   - 'lang': 'ro'
     'text': 'Lala-e-Afsurda Ko Atish Qaba Karti Hai Ye | Be-Zuban Taeer Ko Sarmast-e-Nawa Karti Hai Ye'
-- 'id': '1_140_75'
+- 'id': '1_140_075'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -697,7 +697,7 @@
     'text': 'The song is freed from the nightingale’s breast | The morning breeze is so full of hundreds of tunes'
   - 'lang': 'ro'
     'text': 'Seena-e-Bulbul Ke Zindan Se Surood Azad Hai | Saikhron Naghmon Se Baad-e-Subahdam Abad Hai'
-- 'id': '1_140_76'
+- 'id': '1_140_076'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -706,7 +706,7 @@
     'text': 'Those who in rose beds, mountains and brooks were sleeping | At long last in the morning the bride of life are embracing'
   - 'lang': 'ro'
     'text': 'Khuftagan-e-Lala Zaar -o-Kuhsar-o-Roodbar | Hote Hain Akhir Uroos-e-Zindagi Se Humkinar'
-- 'id': '1_140_77'
+- 'id': '1_140_077'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -715,7 +715,7 @@
     'text': 'If the law of life is that every night dawn be | Why the end of Man’s grave should not his dawn be'
   - 'lang': 'ro'
     'text': 'Ye Agar Aaeen-e-Hasti Hai Ke Ho Har Shaam Subah | Marqad-e-Insaan Ki Shab Ka Kyun Na Ho Anjaam Subah'
-- 'id': '1_140_78'
+- 'id': '1_140_078'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -724,7 +724,7 @@
     'text': 'The net of my silvery imagination is universal | In which I have imprisoned your remembrance!'
   - 'lang': 'ro'
     'text': 'Daam-e-Seemeen-e-Takhiyul Hai Mera Afaqgeer | Kar Liya Hai Jis Se Teri Yaad Ko Main Ne Aseer'
-- 'id': '1_140_79'
+- 'id': '1_140_079'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -733,7 +733,7 @@
     'text': 'The affliction stricken heart is filled with your memory | As in the Ka’bah the expanse is filled with supplications!'
   - 'lang': 'ro'
     'text': 'Yaad Se Teri Dil Dard Ashna Mamoor Hai | Kaise Kaabe Mein Duaon Se Faza Maamoor Hai'
-- 'id': '1_140_80'
+- 'id': '1_140_080'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -742,7 +742,7 @@
     'text': 'The sequence of Divine commands which is called life | Its manifestations are covering myriad of unstable worlds'
   - 'lang': 'ro'
     'text': 'Woh Faraeez Ka Taslsul Naam Hai Jis Ka Hayat | Jalwah Gahain Uss Ki Hai Lakhon Jahan-e-Be-Sabat'
-- 'id': '1_140_81'
+- 'id': '1_140_081'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -751,7 +751,7 @@
     'text': 'The ways of every stage of life are different | Hereafter also is a marshaling place of life!'
   - 'lang': 'ro'
     'text': 'Mukhtalif Har Manzil-e-Hasti Ki Rasm-o-Rah Hai | Akhrat Bhi Zindagi Ki Aik Joulangah Hai'
-- 'id': '1_140_82'
+- 'id': '1_140_082'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -760,7 +760,7 @@
     'text': 'Nothing is available there to the death’s field | But the climate is favorable for action’s seed'
   - 'lang': 'ro'
     'text': 'Hai Wahan Be-Hasili Kisht-e-Ajal Ke Waste | Saazgar Aab-o-Hawa Tukhm-e-Amal Ke Waste'
-- 'id': '1_140_83'
+- 'id': '1_140_083'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -769,7 +769,7 @@
     'text': 'The light of nature is not imprisoned in body’s darkness | The expanse of the human thought is not so narrow'
   - 'lang': 'ro'
     'text': 'Noor-e-Fitrat Zulmat-e-Pekar Ka Zindaani Nahin | Tang Aesa Halqa-e-Afkaar-e-Insaani Nahin'
-- 'id': '1_140_84'
+- 'id': '1_140_084'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -778,7 +778,7 @@
     'text': 'Your life was brighter than even the moon | Your journey was better than even that of the morning star'
   - 'lang': 'ro'
     'text': 'Zindagaani Thi Teri Mehtaab Se Tabinda Tar | Khoob Tar Tha Subah Ke Tare Se Bhi Tera Safar'
-- 'id': '1_140_85'
+- 'id': '1_140_085'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -787,7 +787,7 @@
     'text': 'May your grave be bright like the dawn’s mansion | May this dusty bed-chamber of yours be light-filled!'
   - 'lang': 'ro'
     'text': 'Misl-e-Aewan-e-Sehar Marqad Furozan Ho Tera | Noor Se Maamoor Ye Khaki Shabisan Ho Tera'
-- 'id': '1_140_86'
+- 'id': '1_140_086'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

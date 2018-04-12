@@ -8,7 +8,7 @@
   'text': 'One who resides in desert waste'
 'description': []
 'sher':
-- 'id': '3_202_1'
+- 'id': '3_202_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'One who resides in desert waste, Or person born on mountains steep | Can keep a watch on aims and ends, That Nature in its view does keep.'
   - 'lang': 'ro'
     'text': 'Fitrat Ke Maqasid Ki Karta Hai Nigehbani | Ya Banda-e-Sehrai Ya Mard-e-Kuhistani'
-- 'id': '3_202_2'
+- 'id': '3_202_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'He draws no line ''twixt fair and foul, Of culture, whose spell makes you sleep | His Faqr possesses the wealth of kings, Who coffers full of God do as keep.'
   - 'lang': 'ro'
     'text': 'Dunya Mein Muhasib Hai Tehzeeb-e-Fasoon Gar Ka | Hai Iss Ki Faqeeri Mein Sarmaya-e-Sultani'
-- 'id': '3_202_3'
+- 'id': '3_202_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'O warbler of this earthly mead, Why are your songs so sweet and fair | Wherefore, desert hawk, you own, Such grandeur great and daring rare?'
   - 'lang': 'ro'
     'text': 'Ye Husn-o-Latafat Kyun, Woh Quwwat-o-Shoukat Kyun | Bulbul Chamanistani, Shahbaz Byabani !'
-- 'id': '3_202_4'
+- 'id': '3_202_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'O Shaikh, no doubt, the climate of your school, Is so much pure and chaste | But men, like Salman and Farooq, Are brought up in some desert waste.'
   - 'lang': 'ro'
     'text': 'Ae Sheikh! Bohat Achi Maktab Ki Faza, Lekin | Banti Hai Byaban Mein Farooqi-o-Salmani'
-- 'id': '3_202_5'
+- 'id': '3_202_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

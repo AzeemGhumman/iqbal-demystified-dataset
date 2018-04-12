@@ -8,7 +8,7 @@
   'text': 'XI-XXXIII'
 'description': []
 'sher':
-- 'id': '11_111_1'
+- 'id': '11_111_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     - 'phrase': 'path'
       'meaning': '        Dalil: path and guide.'
       'occurrence': !!int '1'
-- 'id': '11_111_2'
+- 'id': '11_111_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

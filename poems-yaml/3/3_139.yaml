@@ -8,7 +8,7 @@
   'text': 'THE GREAT MAN'
 'description': []
 'sher':
-- 'id': '3_139_1'
+- 'id': '3_139_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'His contempt has no bound, His Loveʹs depth none can sound: | His wrath on men of God, Is tempered in manner odd.'
   - 'lang': 'ro'
     'text': 'Uss Ki Nafrat Bhi Umeeq, Uss Ki Muhabbat Bhi Umeeq | Qeher Bhi Uss Ka Hai Allah Ke Bandon Pe Shafeeq'
-- 'id': '3_139_2'
+- 'id': '3_139_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Nurtured in mimicryʹs gloom, To tread like sheep his doom; | But he is much inclined, To creative bent of mind.'
   - 'lang': 'ro'
     'text': 'Parwarish Pata Hai Taqleed Ki Tareeki Mein | Hai Magar Uss Ki Tabiat Ka Taqaza Takhleeq'
-- 'id': '3_139_3'
+- 'id': '3_139_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'In midst of surging throng, He keeps aloof for long: | Like lamp, he lights the hall, But has not mate at all.'
   - 'lang': 'ro'
     'text': 'Anjuman Mein Bhi Mayassar Rahi Khalwat Uss Ko | Shama-e-Mehfil Ki Tarah Sub Se Judda, Sub Ka Rafeeq'
-- 'id': '3_139_4'
+- 'id': '3_139_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Faqr can like sun of morn, With light the mead adorn: | Its speech is frank and free, Though meanings tenuous be.'
   - 'lang': 'ro'
     'text': 'Misl-e-Khursheed-e-Sehar Fikr Ki Tabani Mein | Baat Mein Sada-o-Azadah, Ma’aani Mein Daqeeq'
-- 'id': '3_139_5'
+- 'id': '3_139_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,14 +8,14 @@
   'text': '(42)'
 'description': []
 'sher':
-- 'id': '7_42_1'
+- 'id': '7_42_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'بہ خود باز آورد رند کہن را | می برنا کہ من در جام کردم'
   - 'lang': 'en'
     'text': 'I offer you a strange, new kind of wine, | Which makes old tipplers sober, sane and wise;'
-- 'id': '7_42_2'
+- 'id': '7_42_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

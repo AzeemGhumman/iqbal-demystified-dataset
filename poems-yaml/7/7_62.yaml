@@ -8,14 +8,14 @@
   'text': '(62)'
 'description': []
 'sher':
-- 'id': '7_62_1'
+- 'id': '7_62_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'مگو از مدعای زندگانی | ترا بر شیوہ ہای او نگہ نیست'
   - 'lang': 'en'
     'text': 'Do not speak of thc purpose of this life: | Enjoy its interesting spectacle.'
-- 'id': '7_62_2'
+- 'id': '7_62_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

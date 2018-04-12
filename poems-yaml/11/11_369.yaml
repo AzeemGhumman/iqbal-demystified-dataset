@@ -8,14 +8,14 @@
   'text': 'I-XXIV'
 'description': []
 'sher':
-- 'id': '11_369_1'
+- 'id': '11_369_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'چو رخت خویش بر بستم ازین خاک | ہمہ گفتند با ما  شنا بود'
   - 'lang': 'en'
     'text': 'When I packed my self from this dusty fuss, | All were saying he was so close to us.'
-- 'id': '11_369_2'
+- 'id': '11_369_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

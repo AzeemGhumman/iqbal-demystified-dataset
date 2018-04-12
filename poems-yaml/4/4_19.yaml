@@ -8,7 +8,7 @@
   'text': 'Why is there no storm in your sea'
 'description': []
 'sher':
-- 'id': '4_19_1'
+- 'id': '4_19_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Why is there no storm in your sea? | Why is your khudi not Muslim?'
   - 'lang': 'ro'
     'text': 'Tere Darya Mein Toofan Kyun Nahin Hai | Khudi Teri Musalman Kyun Nahin Hai'
-- 'id': '4_19_2'
+- 'id': '4_19_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

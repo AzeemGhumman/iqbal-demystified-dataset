@@ -8,7 +8,7 @@
   'text': 'The West seeks to make life a perpetual feast'
 'description': []
 'sher':
-- 'id': '2_57_1'
+- 'id': '2_57_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'The West seeks to make life a perpetual feast; | A wish in vain, in vain, in vain!'
   - 'lang': 'ro'
     'text': 'Dhoond Raha Hai Farang Aysh-e-Jahan Ka Dawam | Waye Tamana-e-Kham, Waye Tamana-e-Kham !'
-- 'id': '2_57_2'
+- 'id': '2_57_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Aware of my state, my spiritual guide assures me, | Thy ecstasy has reached the plenitude of its power.'
   - 'lang': 'ro'
     'text': 'Peer-e-Haram Ne Kaha Sun Ke Meri Ruedad | Pukhta Hai Teri Faghan, Ab Na Isse Dil Mein Thaam'
-- 'id': '2_57_3'
+- 'id': '2_57_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'Moses asked for a Divine glimpse, but I do not: | The demand was right for him; but is forbidden for me.'
   - 'lang': 'ro'
     'text': 'Tha Arini Go Kaleem, Main Arini Go Nahin | Uss Ko Taqaza Rawa, Mujh Pe Taqaza Haraam'
-- 'id': '2_57_4'
+- 'id': '2_57_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'The plaint of the men of God betrays a suppressed secret; | But the ways of the men of God are not meant for all.'
   - 'lang': 'ro'
     'text': 'Gharche Hai Afsaye Raaz, Ahl-e-Nazar Ki Fagahan | Ho Nahin Sakta Kabhi Shewa-e-Rindana Aam'
-- 'id': '2_57_5'
+- 'id': '2_57_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Zikr in the Sufis’ circle was devoid of ecstasy, | I remained unsatisfied, and so was everyone.'
   - 'lang': 'ro'
     'text': 'Halqa-e-Sufi Mein Zikr, Benam-o-Besouz-o-Saaz | Main Bhi Raha Tashna Kaam, Tub Hi Raha Tashna Kaam'
-- 'id': '2_57_6'
+- 'id': '2_57_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Love is thy goal, and mine, too, but both | Are so far novices on the path of love.'
   - 'lang': 'ro'
     'text': 'Ishq Teri Intaha, Ishq Meri Intaha | Tu Bhi Abhi Na-Tamam, Main Bhi Abhi Na-Tamam'
-- 'id': '2_57_7'
+- 'id': '2_57_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

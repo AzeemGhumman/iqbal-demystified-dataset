@@ -10,7 +10,7 @@
 - 'lang': 'en'
   'text': 'This and the previous poem, named “Star” are complementary to each other. Stars are the units or building blocks of the universe. They are marvels of the creation of God. The history of astronomy shows that the marvels and mysteries of the universe have always baffled mankind. The greatest marvel of the universe is it’s organization and the coherence of the celestial bodies which constitute it. This is created by the mutual attraction of stars or gravity divinely conferred upon them. ‘Allamah Iqbal has frequently alluded to this phenomenon in his works, often as a lesson to the Muslim Ummah to acquire the virtue of mutual love among it’s constituents to create and maintain the coherence and continuity of the Islamic society. | Just as the universe is a coherent and well-organized entity the Holy Qur’an , which is another marvel of the creation of God, is also a masterpiece of logical order of it’s constituents. Though the Holy Qur’an was revealed to the Holy Prophet S.A.W. over a period of 23 years, it’s compilation and organization in the present form was done by the Holy Prophet S.A.W. himself under Divine guidance. Comprehensive overview of the Holy Qur’an shows that its surahs (chapters) and ayat (verses) within the surahs are not haphazardly arranged as alleged by Islam’s enemies due to ignorance or prejudice. Indeed these parts follow a distinct logical order, which is more helpful to it’s study than chronological order, which is often suggested by western scholars. | ‘Allamah ‘Abd Allah Yusuf ‘Ala has very ably shown this orderly arrangement as well as it’s logic in his Introduction to the relevant surahs. He has recognized 14 groups of surahs and has shown how these groups are arranged in a logical sequence and how the surahs in each group are similarly arranged. These groups are ; Surahs 1-7; 8-16; 17-21; 22-25; 26-28; 29-32; 33; 34-39; 40-46; 47-49; 50-56; 57-66; 67-94; and 95-114. Perusal of Introductions to the first surah of each group clarifies the above assertion. In addition to these groups certain surahs are arranged in pairs. In such surahs the continuation of the subject matter is shown or suggested by a cue-word, e.g. surahs 33-34, 45-46, 52-53. | The poem under study alludes to the last of the three pairs referred to above. In these surahs the continuity is shown by the word “star” in the last verse of surah 52 corresponding to “stars” in the first verse of surah 53. Consequently, this pair of surahs is called “Zahrawatain” or “The Two Bright Ones”. The central theme of surah 52 (Al-tur or The Mount) is that the Revelation of the Holy Qur’an, as that of the previous scriptures, is in accord with all the signs of God, and that the here-after is irresistible and we must prepare for it. The theme of Surah 53 (Al-Najm or The Star) is that as God is the source of all things, including Revelation, the latter is not an illusion. Illusion is in the minds of those with weak or no Iman. The central theme of these two surahs is expressed in the poem’s last verse, i.e. the destruction of the universe in it’s present form is inevitable and that all those existing in this universe in company will separate and will be severally responsible for their deeds. It will also be noticed that the subject matter of this poem and the previous one is continuous. | In a later edition of Bang-i-Dara the first hemistich of the first verse is written with the vowel sign, kasrah or zer, in the third word, reading it as “qiran”, meaning “conjunction of stars”. If this reading is adopted the meaning and message of the poem still remains as related above, with emphasis on the last paragraph of the same. There will be a little change in the translation of the first verse which should read as follows: | As two stars appeared in the Qiran together | One started saying to the other | However, in this case the stated meaning is far-fetched and indirect, for which reason I would prefer the first version, i.e. “Qur’an”.'
 'sher':
-- 'id': '1_96_1'
+- 'id': '1_96_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -19,7 +19,7 @@
     'text': 'As two stars came together in the Holy Qur’an | One started saying this to the other'
   - 'lang': 'ro'
     'text': 'Aye Jo Qiran Mein Do Sitare | Kehne Laga Aik, Dusre Se'
-- 'id': '1_96_2'
+- 'id': '1_96_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -28,7 +28,7 @@
     'text': '“How excellent if this union together be permanent | How excellent if the end be walking together'
   - 'lang': 'ro'
     'text': 'Ye Wasl Madaam Ho To Kya Khoob | Anjaam-e-Kharaam Ho To Kya Khoob'
-- 'id': '1_96_3'
+- 'id': '1_96_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -41,7 +41,7 @@
       'occurrence': !!int '1'
   - 'lang': 'ro'
     'text': 'Thora Sa Jo Mehrban Falak Ho | Hum Dono Ki Aik Hi Chamak Ho'
-- 'id': '1_96_4'
+- 'id': '1_96_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -50,7 +50,7 @@
     'text': 'But this longing for the union proved | Completely a message of the end of the union'
   - 'lang': 'ro'
     'text': 'Lekin Ye Visal Ki Tamanna | Pegham-e-Faraaq Thi Sarapa'
-- 'id': '1_96_5'
+- 'id': '1_96_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -59,7 +59,7 @@
     'text': 'Revolution is the destiny of the stars | For each its special orbit is fixed'
   - 'lang': 'ro'
     'text': 'Gardish Taron Ka Hai Muqaddar | Har Aik Ki Rah Hai Muqarrar'
-- 'id': '1_96_6'
+- 'id': '1_96_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

@@ -8,7 +8,7 @@
   'text': 'GABRIEL AND SATAN'
 'description': []
 'sher':
-- 'id': '2_142_1'
+- 'id': '2_142_001'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -17,7 +17,7 @@
     'text': 'Gabriel:'
   - 'lang': 'ro'
     'text': 'Gabriel:'
-- 'id': '2_142_2'
+- 'id': '2_142_002'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -26,7 +26,7 @@
     'text': 'Satan:'
   - 'lang': 'ro'
     'text': 'Satan:'
-- 'id': '2_142_3'
+- 'id': '2_142_003'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -35,7 +35,7 @@
     'text': 'My old friend, How is the world of sight and sound? | Pain and passion; quest and yearning.'
   - 'lang': 'ro'
     'text': 'Humdam Dairina! Kaisa Hai Jahan-e-Rang-o-Boo? | Souz-o-Saaz-o-Dard-o-Dagh-o-Justujooye-o-Arzoo'
-- 'id': '2_142_4'
+- 'id': '2_142_004'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +44,7 @@
     'text': 'Gabriel:'
   - 'lang': 'ro'
     'text': 'Gabriel:'
-- 'id': '2_142_5'
+- 'id': '2_142_005'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +53,7 @@
     'text': 'Thou never talkest of anything but the heavens. | Is there no cure for thy constant pain?'
   - 'lang': 'ro'
     'text': 'Har Ghari Aflak Par Rehti Hai Teri Guftugu | Kya Nahin Mumkin Ke Tera Chaak-e-Daman Ho Rafoo'
-- 'id': '2_142_6'
+- 'id': '2_142_006'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +62,7 @@
     'text': 'Satan:'
   - 'lang': 'ro'
     'text': 'Satan:'
-- 'id': '2_142_7'
+- 'id': '2_142_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +71,7 @@
     'text': 'Thou knowest not, alas, the secret of my pain! | The loss I have suffered, has increased my passion more-,'
   - 'lang': 'ro'
     'text': 'Aah Ae Jibreel! Tu waqif Nahin Iss Raaz Se | Kar Gya Sarmast Mujh Ko Toot Kar Mera Saboo'
-- 'id': '2_142_8'
+- 'id': '2_142_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +80,7 @@
     'text': 'How silent is this world; desolate and wild! | I cannot ever live here; I cannot!'
   - 'lang': 'ro'
     'text': 'Ab Yahan Meri Guzar Mumkin Nahin, Mumkin Nahin | Kis Qadar Khamosh Hai Ye Alam-e-Be-Kaakh-o-Koo!'
-- 'id': '2_142_9'
+- 'id': '2_142_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +89,7 @@
     'text': 'For one whose despair throbs in the heart of the universe, | What is better-despair, or hope?'
   - 'lang': 'ro'
     'text': 'Jis Ki Naumeedi Se Ho Souz-e-Daroon-e-Kainat | Uss Ke Haq Mein ‘Taqnatu’ Acha Hai Ya ‘La-Taqnatu’ ?'
-- 'id': '2_142_10'
+- 'id': '2_142_010'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +98,7 @@
     'text': 'Gabriel:'
   - 'lang': 'ro'
     'text': 'Gabriel'
-- 'id': '2_142_11'
+- 'id': '2_142_011'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +107,7 @@
     'text': 'By thy refusal thou hast lost thy place in heaven— | And disgraced the angels in the eyes of the Lord.'
   - 'lang': 'ro'
     'text': 'Kho Diye Inkaar Se Tu Ne Maqamat-e-Buland | Chashm-e-Yazdaan Mein Farishton Ki Rahi Kya Abroo!'
-- 'id': '2_142_12'
+- 'id': '2_142_012'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +116,7 @@
     'text': 'Satan:'
   - 'lang': 'ro'
     'text': 'Satan:'
-- 'id': '2_142_13'
+- 'id': '2_142_013'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +125,7 @@
     'text': 'With my boldness I make this handful of dust rise up. | My mischief weaves the garment that reason wears.”'
   - 'lang': 'ro'
     'text': 'Hai Meri Jurraat Se Musht-e-Khak Mein Zauq-e-Namoo | Mere Fitne Jama-e-Aqal-o-Khirad Ka Taar-o-Poo'
-- 'id': '2_142_14'
+- 'id': '2_142_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +134,7 @@
     'text': 'From the shore you watch the clash of good and evil. | Which of us suffers the buffets of the storms—you or I?'
   - 'lang': 'ro'
     'text': 'Dekhta Hai Tu Faqat Sahil Se Razm-e-Khair-o-Shar | Kon Toofan Ke Tamanche Kha Raha Hai, Main Ke Tu?'
-- 'id': '2_142_15'
+- 'id': '2_142_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +143,7 @@
     'text': 'Both Khizr and Ilyas feel helpless: | The storms I have stirred up rage in oceans, rivers, and streams.'
   - 'lang': 'ro'
     'text': 'Khizar Bhi Bedast-o-Pa, Ilyas Bhi Bedast-o-Pa | Mere Toofan Tam-Ba-Yam, Darya-Ba-Darya, Joo-Ba-Joo'
-- 'id': '2_142_16'
+- 'id': '2_142_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +152,7 @@
     'text': 'If you are ever alone with God, ask Him: | Whose blood coloured the story of Adam?'
   - 'lang': 'ro'
     'text': 'Gar Khalwat Mayassir Ho To Puch Allah Se | Qissa-e-Adam Ko Rangeen Kar Gya Kis Ka Lahoo!'
-- 'id': '2_142_17'
+- 'id': '2_142_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

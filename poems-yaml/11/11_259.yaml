@@ -8,14 +8,14 @@
   'text': 'XIX-IV'
 'description': []
 'sher':
-- 'id': '11_259_1'
+- 'id': '11_259_001'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
     'text': 'برہمن گفت برخیز از در غیر | ز یاران وطن ناید بجز خیر'
   - 'lang': 'en'
     'text': 'The Brahmen said leave this white man’s door, | From Hindies think not, save good any more.'
-- 'id': '11_259_2'
+- 'id': '11_259_002'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
