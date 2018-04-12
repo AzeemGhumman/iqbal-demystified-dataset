@@ -1,7 +1,15 @@
-poem-parser.py
+The file list-of-lists.yaml contains the list of books 
 
-This script takes 2 inputs:
-1) Input folder - containing input .txt files
-2) Output folder - that will contain the generated .yaml files
+The folder lists-yaml contains the list of poems for each book
 
-$ python poem-parser.py {folder-input} {folder-output}
+The folder poems-yaml contains the contents of the individual poems
+
+
+
+(Note for developers)
+
+To create a .yaml file from a .txt file, use the poem-parser.py python script
+
+This script takes as argument an input folder path (containing .txt files) and an output folder path (for generated .yaml files)
+
+$> python poem-parser.py {folder-input} {folder-output}
