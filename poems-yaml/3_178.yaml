@@ -1,0 +1,37 @@
+---
+'id': '3_178'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-31.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'نفسيات غلامي'
+- 'lang': 'en'
+  'text': 'PSYCHOLOGY OF BONDAGE'
+'description': []
+'sher':
+- 'id': '3_178_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخت باريک ہيں امراض امم کے اسباب | کھول کر کہيے تو کرتا ہے بياں کوتاہي'
+  - 'lang': 'en'
+    'text': 'The causes that make the nations sick, Are quite obscure, too vague and fine: | Although some man may try his best, Yet cause in full he can’t define.'
+  - 'lang': 'ro'
+    'text': 'Sakht Bareek Hain Amraz-e-Umam Ke Asbab | Khol Kar Kahiye To Karta Hai Byan Kotahi'
+- 'id': '3_178_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دين شيري ميں غلاموں کے امام اور شيوخ | ديکھتے ہيں فقط اک فلسفہ روباہي'
+  - 'lang': 'en'
+    'text': 'The chiefs and guides of slaves have sunk, So low that it seems so much odd: | If mode of lions is presented to them, They will see naught save guile and fraud.'
+  - 'lang': 'ro'
+    'text': 'Deen-e-Sheri Mein Ghulami Ke Imam Aur Shyukh | Dekhte Hain Faqt Ek Falsafa-e-Rubahi'
+- 'id': '3_178_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہو اگر قوت فرعون کي در پردہ مريد | قوم کے حق ميں ہے لعنت وہ کليم اللہي'
+  - 'lang': 'en'
+    'text': 'If a Moses forms a secret league, With the Pharaoh of his time: | For his nation such like‐Moses, Is curse, committing dreadful crime.'
+  - 'lang': 'ro'
+    'text': 'Ho Agar Quwwat-e-Firon Ki Darparda Mureed | Qoum Ke Haq Mein Hai Lanat Woh Kaleem-Ullahi !'

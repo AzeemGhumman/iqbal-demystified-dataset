@@ -1,0 +1,37 @@
+---
+'id': '3_122'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-18.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اہرام مصر'
+- 'lang': 'en'
+  'text': 'THE PYRAMIDS OF EGYPT'
+'description': []
+'sher':
+- 'id': '3_122_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس دشت جگر تاب کي خاموش فضا ميں | فطرت نے فقط ريت کے ٹيلے کيے تعمير'
+  - 'lang': 'en'
+    'text': 'The quiet environs of this waste, Whose intense heat scalds the heart: | In forming only dunes of sand, Nature has displayed its Art.'
+  - 'lang': 'ro'
+    'text': 'Iss Dasht-e-Jigar Taab Ki Khamoshi Faza Mein | Fitrat Ne Faqt Rait Ke Teele Kiye Tameer'
+- 'id': '3_122_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اہرام کي عظمت سے نگوں سار ہيں افلاک | !کس ہاتھ نے کھينچي ابدےت کي يہ تصوير'
+  - 'lang': 'en'
+    'text': 'The grandeur of these pyramids, Puts lofty heavens to disgrace | What hand did build, design and frame, They seem attired in lasting grace?'
+  - 'lang': 'ro'
+    'text': 'Ahram Ki Azmat Se Nugoon Saar Hain Aflaak | Kis Hath Ne Khainchi Ab Abdiat Ki Ye Tasveer!'
+- 'id': '3_122_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت کي غلامي سے کر آزاد ہنر کو | صياد ہيں مردان ہنر مند کہ نخچير'
+  - 'lang': 'en'
+    'text': 'Set your craftsmanship quite free, From Natureʹs chains that bind it tight | For men endowed with gift of craft, Arenʹt prey, of hunters need no fright.'
+  - 'lang': 'ro'
+    'text': 'Fitrat Ki Ghulami Se Kar Azad Hunar Ko | Sayyad Hain Mardan-e-Hunarmand Ke Nakhcheer'

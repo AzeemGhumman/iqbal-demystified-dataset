@@ -1,0 +1,24 @@
+---
+'id': '11_323'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچہ قومی در گذشت از گفتگوہا"
+- 'lang': 'en'
+  'text': 'IX-II'
+'description': []
+'sher':
+- 'id': '11_323_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ قومی در گذشت از گفتگوہا | ز خاک او بروید  رزوہا'
+  - 'lang': 'en'
+    'text': 'When a nation gives up gossip’s course, | From her dust then grows the longing’s force.'
+- 'id': '11_323_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودی از  رزو شمشیر گردد | دم او رنگ ہا برد ز بوہا'
+  - 'lang': 'en'
+    'text': 'The self becomes sword from longing’s flow, | Whose sharp edge cuts all stains of vain show.'

@@ -1,0 +1,24 @@
+---
+'id': '7_6'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نہ ہر کس از محبت مایہ دار است'
+- 'lang': 'en'
+  'text': '(6)'
+'description': []
+'sher':
+- 'id': '7_6_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ ہر کس از محبت مایہ دار است | نہ با ہر کس محبت سازگار است'
+  - 'lang': 'en'
+    'text': 'On very few men is Love’s wealth bestowed; | Not all men find it does their system good.'
+- 'id': '7_6_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بروید لالہ با داغ جگر تاب | دل لعل بدخشان بی شرار است'
+  - 'lang': 'en'
+    'text': 'The tulip’s breast glows with a purple heart, | But cold and sparkless is the ruby’s red.'

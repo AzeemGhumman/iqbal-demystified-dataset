@@ -1,0 +1,24 @@
+---
+'id': '11_284'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': '’’بسا کس اندوہ فردا کشیدند'
+- 'lang': 'en'
+  'text': 'II-II'
+'description': []
+'sher':
+- 'id': '11_284_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’بسا کس اندوہ فردا کشیدند | کہ دی مردند و فردا را ندیدند‘‘'
+  - 'lang': 'en'
+    'text': 'Those who had fears for the future days, | They died yesterday before coming days.'
+- 'id': '11_284_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خنک مردان کہ در دامان امروز | ہزاران تازہ تر ہنگامہ چیدند'
+  - 'lang': 'en'
+    'text': 'Lucky are those whose dress of today, | Is booming with success day by day.1'

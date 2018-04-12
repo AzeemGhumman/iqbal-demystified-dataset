@@ -1,0 +1,24 @@
+---
+'id': '11_104'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو گفتی از حیات جاودان گوی'
+- 'lang': 'en'
+  'text': 'XI-XXVI'
+'description': []
+'sher':
+- 'id': '11_104_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو گفتی از حیات جاودان گوی | بگوش مردہ ئی پیغام جان گوی'
+  - 'lang': 'en'
+    'text': 'You bid me for a theme on bliss life long, | On a dead ear sound a cheerful song.'
+- 'id': '11_104_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولی گویند این ناحق شناسان | کہ تاریخ وفات این و آن گوی'
+  - 'lang': 'en'
+    'text': 'Those uncouth put me in a poet’s hat, | To write a death date of this man or that.'

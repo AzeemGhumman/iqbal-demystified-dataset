@@ -1,0 +1,46 @@
+---
+'id': '2_156'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-38.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'حال ومقام'
+- 'lang': 'en'
+  'text': 'WORLDS APART'
+'description': []
+'sher':
+- 'id': '2_156_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل زندہ و بيدار اگر ہو تو بتدريج | بندے کو عطا کرتے ہيں چشم نگراں اور'
+  - 'lang': 'en'
+    'text': 'When the heart is enlightened, | It is blessed with an inward eye.'
+  - 'lang': 'ro'
+    'text': 'Dil Zinda-o-Baidar Agar Ho To Batadreej | Bande Ko Atta Karte Hain Chashme-e-Nigran Aur'
+- 'id': '2_156_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'احوال و مقامات پہ موقوف ہے سب کچھ | ہر لحظہ ہے سالک کا زماں اور مکاں اور'
+  - 'lang': 'en'
+    'text': 'The initiate has a different level | Of space and time in each position.'
+  - 'lang': 'ro'
+    'text': 'Ahwal-o-Maqamat Pe Mouqoof Hai Sub Kuch | Har Lehza Hai Salik Ka Zaman Aur Makan Aur'
+- 'id': '2_156_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'الفاظ و معاني ميں تفاوت نہيں ليکن | ملا کي اذاں اور مجاہد کي اذاں اور'
+  - 'lang': 'en'
+    'text': 'The mullah’s and the crusader’s azan, | The same in words, are apart in spirit.'
+  - 'lang': 'ro'
+    'text': 'Alfaz-o-Maani Mein Tafawat Nahin Lekin | Mullah Ki Azan Aur, Mujahid Ki Azan Aur'
+- 'id': '2_156_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پرواز ہے دونوں کي اسي ايک فضا ميں | کرگس کا جہاں اور ہے ، شاہيں کا جہاں اور'
+  - 'lang': 'en'
+    'text': 'The vulture and the eagle soar | In the same air, but in worlds apart.'
+  - 'lang': 'ro'
+    'text': 'Parwaz Hai Dono Ki Issi Aik Faza Mein | Kargas Ka Jahan Aur Hai, Shaheen Ka Jahan Aur'

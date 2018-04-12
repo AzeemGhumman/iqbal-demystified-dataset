@@ -1,0 +1,37 @@
+---
+'id': '3_100'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/03-05.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عورت'
+- 'lang': 'en'
+  'text': 'WOMAN'
+'description': []
+'sher':
+- 'id': '3_100_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وجود زن سے ہے تصوير کائنات ميں رنگ | اسي کے ساز سے ہے زندگي کا سوز دروں'
+  - 'lang': 'en'
+    'text': 'The picture that this world presents, From woman gets its tints and scents: | She is the lyre that can impart, Pathos and warmth to human heart.'
+  - 'lang': 'ro'
+    'text': 'Wujood-e-Zan Se Hai Tasveer-e-Kainat Mein Rang | Issi Ke Saaz Se Hai Zindagi Ka Souz-e-Darun'
+- 'id': '3_100_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شرف ميں بڑھ کے ثريا سے مشت خاک اس کي | کہ ہر شرف ہے اسي درج کا در مکنوں'
+  - 'lang': 'en'
+    'text': 'Her handful clay is superior far, To Pleiades that so higher are | For every man with knowledge vast, Like gem out of her cask is cast.'
+  - 'lang': 'ro'
+    'text': 'Sharaf Mein Barh Ke Sureya Se Musht-e-Khak Iss Ki | Ke Har Sharaf Hai Issi Durj Ka Dur-e-Makoon'
+- 'id': '3_100_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مکالمات فلاطوں نہ لکھ سکي ، ليکن | اسي کے شعلے سے ٹوٹا شرار افلاطوں'
+  - 'lang': 'en'
+    'text': 'Like Plato can not hold discourse, Nor can with thunderous voice declaim: | But Plato was a spark that broke, From her fire that blazed like flame.'
+  - 'lang': 'ro'
+    'text': 'Makalat-e-Falatoon Na Likh Saki, Lekin | Issi Ke Shole Se Toota Sharaar-e-Aflatoon'

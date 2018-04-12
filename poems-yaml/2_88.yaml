@@ -1,0 +1,28 @@
+---
+'id': '2_88'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-12.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ترا انديشہ افلاکي نہيں ہے'
+- 'lang': 'en'
+  'text': 'Thy vision is not lofty, ethereal'
+'description': []
+'sher':
+- 'id': '2_88_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا انديشہ افلاکي نہيں ہے | تري پرواز لولاکي نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Thy vision is not lofty, ethereal, | Thou dost not have the flight of a faith inspired;'
+  - 'lang': 'ro'
+    'text': 'Tera Andesha Aflaki Nahin Hai | Teri Parwaz Loulaki Nahin Hai'
+- 'id': '2_88_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ مانا اصل شاہيني ہے تيري | تري آنکھوں ميں بے باکي نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Thou mayest be of an eagle breed, no doubt, | Thou dost not have those bold, piercing eyes.'
+  - 'lang': 'ro'
+    'text': 'Ye Mana Asal Shaheeni Hai Teri | Teri Ankhon Mein Bebaki Nahin Hai'

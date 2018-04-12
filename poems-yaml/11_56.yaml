@@ -1,0 +1,24 @@
+---
+'id': '11_56'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'غم پنہاں کہ بی گفتن عیان است'
+- 'lang': 'en'
+  'text': 'VI-I'
+'description': []
+'sher':
+- 'id': '11_56_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غم پنہاں کہ بی گفتن عیان است | چو آید بر زبان یک داستان است'
+  - 'lang': 'en'
+    'text': 'A hidden grief untold is clear, | To lips when brought, a tale-we hear-,'
+- 'id': '11_56_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رہی پر پیچ و راہی خستہ و زار | چراغش مردہ و شب درمیان است'
+  - 'lang': 'en'
+    'text': 'The ways are like a maze, seeker is weak, | The lamp blown out, night amidst, also bleak.'

@@ -1,0 +1,24 @@
+---
+'id': '11_308'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'برون کن کینہ را از سینۂ خویش'
+- 'lang': 'en'
+  'text': 'VI-VIII'
+'description': []
+'sher':
+- 'id': '11_308_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برون کن کینہ را از سینۂ خویش | کہ دود خانہ از روزن برون بہ'
+  - 'lang': 'en'
+    'text': 'Turn out fire of envy from thy heart’s core, | Like smoke of house through the ventilator or door.'
+- 'id': '11_308_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز کشت دل مدہ کس را خراجی | مشو ای دھخدا غارتگر دہ'
+  - 'lang': 'en'
+    'text': 'No tax ever pay on heart’s yield to none, | To make the lands barren O! landlord shun.'

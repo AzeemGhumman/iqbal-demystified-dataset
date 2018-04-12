@@ -1,0 +1,24 @@
+---
+'id': '11_19'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چہ میخواہی ازین مرد تن آساے'
+- 'lang': 'en'
+  'text': 'III-V'
+'description': []
+'sher':
+- 'id': '11_19_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ میخواہی ازین مرد تن آساے | بہ ہر بادی کہ آمد رفتم از جای'
+  - 'lang': 'en'
+    'text': 'What ye hopes from an easy going bloke, | Whither the wind blows he changes his cloak.'
+- 'id': '11_19_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سحر جاوید را در سجدہ دیدم | بہ صبحش چہرہ شامم بیارای'
+  - 'lang': 'en'
+    'text': 'I espied Javed in ‘Sajdah’ this dawn, | Deck my even face by his shining dawn.'

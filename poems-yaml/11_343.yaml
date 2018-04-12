@@ -1,0 +1,24 @@
+---
+'id': '11_343'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'حریف ضرب او مرد تمام است'
+- 'lang': 'en'
+  'text': 'XIII-VII'
+'description': []
+'sher':
+- 'id': '11_343_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حریف ضرب او مرد تمام است | کہ  ن  تش نسب والامقام است'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+- 'id': '11_343_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ ہر خاکی سزاوار نخ اوست | کہ صید لاغری بر وی حرام است'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'

@@ -1,0 +1,28 @@
+---
+'id': '11_196'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبروے من در دل باز کردند"
+- 'lang': 'en'
+  'text': 'V-V'
+'description': []
+'sher':
+- 'id': '11_196_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بروے من در دل باز کردند | ز خاک من جھانی ساز کردند'
+  - 'lang': 'en'
+    'text': 'He solved many ties I had to face, | He gave to way’s dust his exir’s grace.'
+- 'id': '11_196_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز فیض او گرفتم اعتباری | کہ با من ماہ و انجم ساز کردند'
+  - 'lang': 'en'
+    'text': 'The tone of this flutist, tender heart hence, | Made me conscious of Love and fervour sense.'
+    'notes':
+    - 'phrase': 'sense.'
+      'meaning': '        (1) Way''s dust the poet himself. (2) Exir=elexir.'
+      'occurrence': !!int '1'

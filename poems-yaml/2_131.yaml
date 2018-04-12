@@ -1,0 +1,46 @@
+---
+'id': '2_131'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-13.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ملااور بہشت'
+- 'lang': 'en'
+  'text': 'THE MULLAH AND PARADISE'
+'description': []
+'sher':
+- 'id': '2_131_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميں بھي حاضر تھا وہاں ، ضبط سخن کر نہ سکا | حق سے جب حضرت ملا کو ملا حکم بہشت'
+  - 'lang': 'en'
+    'text': 'When in a vision I saw, A mullah ordered to paradise, | Unable to hold my tongue, I said something in this wise:'
+  - 'lang': 'ro'
+    'text': 'Main Bhi Hazir Tha Wahan, Zabt-e-Sukhan Kar Na Saka | Haq Se Jab Hazrat-e-Mullah Ko Mila Hukm-e-Bahisht'
+- 'id': '2_131_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عرض کي ميں نے ، الہي! مري تقصير معاف | خوش نہ آئيں گے اسے حور و شراب و لب کشت'
+  - 'lang': 'en'
+    'text': '‘Pardon me, O Lord, For these bold words of mine, | But he will not be pleased, With the houris and the wine.'
+  - 'lang': 'ro'
+    'text': 'Arz Ki Main Ne, Elahi! Meri Takseer Maaf | Khush Na Ayen Ge Isse Hoor-o-Sharab-o-Lab-e-Kisht'
+- 'id': '2_131_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہيں فردوس مقام جدل و قال و اقول | بحث و تکرار اس اللہ کے بندے کي سرشت'
+  - 'lang': 'en'
+    'text': 'He loves to dispute and fight, And furiously wrangle, | But paradise is no place, For this kind of jangle.'
+  - 'lang': 'ro'
+    'text': 'Nahin Fardous Maqam-e-Jadal-o-Qaal-o-Aqwal | Behas-o-Takrak Iss Allah Ke Bande Ki Sarisht'
+- 'id': '2_131_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے بد آموزي اقوام و ملل کام اس کا | !اور جنت ميں نہ مسجد ، نہ کليسا ، نہ کنشت'
+  - 'lang': 'en'
+    'text': 'His task is to disunite, And leave people in the lurch, | But paradise has no temple, No mosque and no church.’'
+  - 'lang': 'ro'
+    'text': 'Hai Badamozi-e-Aqwam-o-Milal Kaam Iss Ka | Aur Jannat Mein Na Masjid, Na Kalisa, Na Kunisht!'

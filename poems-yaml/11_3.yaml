@@ -1,0 +1,28 @@
+---
+'id': '11_3'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل من در گشاد چون و چند است"
+- 'lang': 'en'
+  'text': 'I-III'
+'description': []
+'sher':
+- 'id': '11_3_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل من در گشاد چون و چند است | نگاہش از مہ و پروین بلند است'
+  - 'lang': 'en'
+    'text': 'My heart rakes often knots of ‘how’ and ‘why’. | His glance getting higher than stars and sky.'
+    'notes':
+    - 'phrase': 'rakes'
+      'meaning': '        To search through minutely.'
+      'occurrence': !!int '1'
+- 'id': '11_3_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدہ ویرانہ ئے در دوزخ او را | کہ این کافر بسی خلوت پسند است'
+  - 'lang': 'en'
+    'text': 'So hurl this heart in a hellish heat, | This heathen is mad for a lone retreat.'

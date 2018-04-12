@@ -1,0 +1,32 @@
+---
+'id': '11_379'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمن و تو از دل و دین نا امیدیم"
+- 'lang': 'en'
+  'text': 'IV-I'
+'description': []
+'sher':
+- 'id': '11_379_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من و تو از دل و دین نا امیدیم | چوبوی گل ز اصل خود رمیدیم'
+  - 'lang': 'en'
+    'text': 'We are despaired of heart and faith’s way, | From faith like smell we are running away.'
+    'notes':
+    - 'phrase': 'we'
+      'meaning': '        We are=viz the whole Ummah, (I and you).'
+      'occurrence': !!int '1'
+- 'id': '11_379_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل مامرد و دین از مردنش مرد | دو تامرگی بیک سود اخریدیم'
+  - 'lang': 'en'
+    'text': 'My heart whom died it killed the faith too, | By a bargain lone I got losses two.'
+    'notes':
+    - 'phrase': 'two.'
+      'meaning': '        From ''datyaftan'' (inf: ) daryah; discover, get, find. Time of stay; viz, time for prayers.'
+      'occurrence': !!int '1'

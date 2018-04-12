@@ -1,0 +1,56 @@
+---
+'id': '1_170'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bang/audio/03-71-7.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'تہ دام بھي غزل آشنا رہے طائران چمن تو کيا'
+- 'lang': 'en'
+  'text': 'NO WONDER IF THE GARDEN BIRDS REMAINED FOND OF POETRY EVEN UNDER THE NET'
+'description':
+- 'lang': 'en'
+  'text': 'This ghazal gives the flavor of ‘Allamah Iqbal’s Love for God in the first two verses and Islamic ideology in the last two verses.'
+'sher':
+- 'id': '1_170_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تہ دام بھي غزل آشنا رہے طائران چمن تو کيا | جو فغاں دلوں ميں تڑپ رہي تھي، نوائے زير لبي رہي'
+  - 'lang': 'en'
+    'text': 'No wonder if the garden birds remained fond of poetry even under the net | The lament fluttering in hearts as silent song remained'
+  - 'lang': 'ro'
+    'text': 'Teh-e-Daam Bhi Ghazal Ashna Rahe Taaeeran-e-Chaman To Kya | Jo Faghan Dilon Mein Tarap Rahi Thi, Nawaye Ziar-e-Labi Rahi'
+- 'id': '1_170_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا جلوہ کچھ بھي تسلي دل ناصبور نہ کر سکا | وہ گريہ سحري رہا ، وہي آہ نيم شبي رہي'
+  - 'lang': 'en'
+    'text': 'Thy Effulgence could not satisfy the restless heart at all | The same dawn’s lament remained, the same midnight sighs remained'
+  - 'lang': 'ro'
+    'text': 'Tera Jalwa Kuch Bhi Tasalli Dil-e-Na-Saboor Na Kar Saka | Wohi Garya-e-Sehri Raha, Wohi Aah-e-Neem Shabi Rahi'
+- 'id': '1_170_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ خدا رہا نہ صنم رہے ، نہ رقيب دير حرم رہے | نہ رہي کہيں اسد اللہي، نہ کہيں ابولہبي رہي'
+  - 'lang': 'en'
+    'text': 'Neither God, nor idols nor the rivals of temple and the Haram remained | Neither ‘Ali’s prowess nor Abu Lahab’s infidelity remained'
+    'notes':
+    - 'phrase': 'remained'
+      'meaning': 'This is a sad commentary on the disappearance of religion and the Love of God from the present day Man and the goals of his life.'
+      'occurrence': !!int '1'
+  - 'lang': 'ro'
+    'text': 'Na Khuda Raha Na Sanam Rahe, Na Raqeeb-e-Dair-o-Haram Rahe | Na Rahi Kahin Asadullah, Na Kahin Abu Lahbi Rahi'
+- 'id': '1_170_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا ساز اگرچہ ستم رسيدئہ زخمہ ہائے عجم رہا | وہ شہيد ذوق وفا ہوں ميں کہ نوا مري عربي رہي'
+  - 'lang': 'en'
+    'text': 'Though my orchestra remained oppressed by `Ajam’s plectrum | I am that martyr in fidelity’s cause whose song ever Arabic remained!'
+    'notes':
+    - 'phrase': 'remained!'
+      'meaning': '‘Allamah Iqbal was one of those reformers who tried to remove the effect of non-Islamic thoughts and ideologies (Greek, Zoroastrian, Chinese, Hindu) from Islamic thinking. This verse refers to this and says that in spite of the deep influence of non-Islamic ideologies on Islam he has continued to keep his thinking purely Islamic.'
+      'occurrence': !!int '1'
+  - 'lang': 'ro'
+    'text': 'Mera Saaz Agarcha Sitam Raseeda-e-Zakhama Haye Ajam Raha | Woh Shaheed-e-Zauq Wafa Hun Mein Ke Nawa Meri Arabi Rahi'

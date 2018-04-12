@@ -1,0 +1,28 @@
+---
+'id': '11_376'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ ساحل گفت موج بیقراری"
+- 'lang': 'en'
+  'text': 'III-VI'
+'description': []
+'sher':
+- 'id': '11_376_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ساحل گفت موج بیقراری | بہ فرعونی کنم خود را عیاری'
+  - 'lang': 'en'
+    'text': 'A restive wave said once to a coast, | I test my might on a Pharoah’s boast.'
+- 'id': '11_376_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گہی بر خویش می پیچم چو ماری | گہی رقصم بہ ذوق انتظاری'
+  - 'lang': 'en'
+    'text': 'I coil around self often like snake, | Oft I dance for a ‘waiting’ taste sake.'
+    'notes':
+    - 'phrase': 'sake.'
+      'meaning': '        Pharoah (Fero); a title of old kings of Egypt. Restive wave = an allusion to ''Momin''. Coast = An allusion to impractical man, given to theorising.'
+      'occurrence': !!int '1'

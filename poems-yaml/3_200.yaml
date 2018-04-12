@@ -1,0 +1,46 @@
+---
+'id': '3_200'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/06-18.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'يہ نکتہ خوب کہا شير شاہ سوري نے'
+- 'lang': 'en'
+  'text': 'Sher Shah explained this point with so much grace'
+'description': []
+'sher':
+- 'id': '3_200_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ نکتہ خوب کہا شير شاہ سوري نے | کہ امتياز قبائل تمام تر خواري'
+  - 'lang': 'en'
+    'text': 'Sher Shah explained this point with so much grace, | Distinction of tribes leads to much disgrace.'
+  - 'lang': 'ro'
+    'text': 'Ye Nukta Khoob Kaha Sher Shah Suri Ne | Ke Imtiaz-e-Qabail Tamam Tar Khwari'
+- 'id': '3_200_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عزيز ہے انھيں نام وزيري و محسود | ابھي يہ خلعت افغانيت سے ہيں عاري'
+  - 'lang': 'en'
+    'text': 'The names of various tribes to them are dear, | The robe of Afghaniat don''t like to wear.'
+  - 'lang': 'ro'
+    'text': 'Aziz Hai Unhain Naam-e-Waziri-o-Mehsood | Abhi Ye Khilaat-e-Afghaniat Se Hain Aari'
+- 'id': '3_200_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہزار پارہ ہے کہسار کي مسلماني | کہ ہر قبيلہ ہے اپنے بتوں کا زناري'
+  - 'lang': 'en'
+    'text': 'Their Islam is to pieces and fragments torn, | Like pagans, girdles by them still are worn.'
+  - 'lang': 'ro'
+    'text': 'Hazar Parah Hai Kuhasar Ki Musalmani | Ke Har Qabeela Hai Apne Buton Ka Zunnari'
+- 'id': '3_200_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہي حرم ہے ، وہي اعتبار لات و منات | !خدا نصيب کرے تجھ کو ضربت کاري'
+  - 'lang': 'en'
+    'text': 'They worship and adore their idols old, | May God help them deaf blows much bold'
+  - 'lang': 'ro'
+    'text': 'Wohi Haram Hai, Wohi Itebaar-e-Laat-o-Manaat | Khuda Naseeb Kare Tujh Ko Zarbat-e-Kari!'

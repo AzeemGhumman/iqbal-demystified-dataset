@@ -1,0 +1,37 @@
+---
+'id': '3_151'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-04.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خوشامد'
+- 'lang': 'en'
+  'text': 'FLATTERY'
+'description': []
+'sher':
+- 'id': '3_151_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميں کار جہاں سے نہيں آگاہ ، وليکن | ارباب نظر سے نہيں پوشيدہ کوئي راز'
+  - 'lang': 'en'
+    'text': 'The versed in this world’s business I am not, | There are shrewd folk who always know what’s what.'
+  - 'lang': 'ro'
+    'text': 'Main Kaar-e-Jahan Se Nahin Aagah, Wa Lekin | Arbab-e-Nazar Se Nahin Poshida Koi Raaz'
+- 'id': '3_151_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کر تو بھي حکومت کے وزيروں کي خوشامد | دستور نيا ، اور نئے دور کا آغاز'
+  - 'lang': 'en'
+    'text': 'Swim with the tide, flatter Their Excellencies | Of the new dispensation that commences!'
+  - 'lang': 'ro'
+    'text': 'Kar Tu Bhi Hukumat Ke Wazeeron Ki Khushamd | Dastoor Naya, Aur Naye Dour Ka Aghaz'
+- 'id': '3_151_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'معلوم نہيں ، ہے يہ خوشامد کہ حقيقت | کہہ دے کوئي الو کو اگر ''رات کا شہباز'
+  - 'lang': 'en'
+    'text': 'Would it be more vicarious, or—polite, | I wonder, to call an owl ‘the falcon of the night’?'
+  - 'lang': 'ro'
+    'text': 'Maloom Nahin Hai Ye Khushamd Ke Haqiqat | Keh De Koi Allu Ko Agar ‘Raat Ka Shahbaz’!'

@@ -1,0 +1,28 @@
+---
+'id': '2_82'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-06.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خودي کي خلوتوں ميں گم رہا ميں'
+- 'lang': 'en'
+  'text': 'I was in the solitude of Selfhood lost'
+'description': []
+'sher':
+- 'id': '2_82_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودي کي خلوتوں ميں گم رہا ميں | خدا کے سامنے گويا نہ تھا ميں'
+  - 'lang': 'en'
+    'text': 'I was in the solitude of Selfhood lost, | And was, it seemed, unaware of the Presence;'
+  - 'lang': 'ro'
+    'text': 'Khudi Ki Khalwaton Mein Gum Raha Main | Khuda Ke Samne Goya Na Tha Main'
+- 'id': '2_82_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ ديکھا آنکھ اٹھا کر جلوہ دوست | !قيامت ميں تماشا بن گيا ميں'
+  - 'lang': 'en'
+    'text': 'I lifted not my eyes to see my Friend, | And, on the Day of Judgement, shamed myself'
+  - 'lang': 'ro'
+    'text': 'Na Dekha Ankh Utha Kar Jalwa-e-Dost | Qayamat Mein Tamasha Ban Gya Main!'

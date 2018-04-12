@@ -1,0 +1,28 @@
+---
+'id': '2_114'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-38.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کھلے جاتے ہيں اسرار نہاني'
+- 'lang': 'en'
+  'text': '# title missing'
+'description': []
+'sher':
+- 'id': '2_114_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کھلے جاتے ہيں اسرار نہاني | ''گيا دور حديث ''لن تراني'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+  - 'lang': 'ro'
+    'text': 'Khule Jate Hain Asrar-e-Nihani | Gya Dour-e-Hadees-e-‘Lan Tarani’'
+- 'id': '2_114_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہوئي جس کي خودي پہلے نمودار | !وہي مہدي ، وہي آخر زماني'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+  - 'lang': 'ro'
+    'text': 'Huwi Jis Ki Khudi Pehle Namoodar | Wohi Mehdi, Wohi Akhir Zamani!'

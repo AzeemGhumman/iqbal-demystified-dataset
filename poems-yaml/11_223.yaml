@@ -1,0 +1,28 @@
+---
+'id': '11_223'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFعرب را حق دلیل کاروان کرد"
+- 'lang': 'en'
+  'text': 'VIII-II'
+'description': []
+'sher':
+- 'id': '11_223_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عرب را حق دلیل کاروان کرد | کہ او با فقر خود را امتحان کرد'
+  - 'lang': 'en'
+    'text': 'The Truth chose Arab for caravan’s lead, | On faqr since he tested his own self’s breed.'
+- 'id': '11_223_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر فقر تہی دستان غیور است | جہانے را تہ و بالا توان کرد'
+  - 'lang': 'en'
+    'text': 'If the poor’s content with envy is green, | His growth can upset the whole world’s scene.'
+    'notes':
+    - 'phrase': 'scene.'
+      'meaning': '        Here green means flourishing, in ''figurative'' sanse. It means full of vigour as we say (keep a man''s memory green). He lives to a green old age, although looking green with envy also means pale or sickly looking.'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '11_261'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFز علم چارہ سازی بی گدازی"
+- 'lang': 'en'
+  'text': 'XV-II'
+'description': []
+'sher':
+- 'id': '11_261_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز علم چارہ سازی بی گدازی | بسی خوشتر نگاہ پاک بازی'
+  - 'lang': 'en'
+    'text': 'A knowledge which cures but melts not to trance, | Far better is the eye with sacred glance.'
+- 'id': '11_261_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نکو تر از نگاہ پاک بازی | ولی از ھر دو عالم بی نیازی'
+  - 'lang': 'en'
+    'text': 'It looks better yet to the sacred eyes, | A heart who seeks not any earthly ties.'
+    'notes':
+    - 'phrase': 'ties.'
+      'meaning': '        "A sans souci heart who sought no world''s ties" is the ideal translation of line 4, sanssouci (FR ) who cares not for aught (but not careless).'
+      'occurrence': !!int '1'

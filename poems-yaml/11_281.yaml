@@ -1,0 +1,28 @@
+---
+'id': '11_281'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبیا ساقی بیار  ن کہنہ می را"
+- 'lang': 'en'
+  'text': 'I-I'
+'description': []
+'sher':
+- 'id': '11_281_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا ساقی بیار  ن کہنہ می را | جوان فرودین کن پیر وی را'
+  - 'lang': 'en'
+    'text': 'O bearer come and serve the old wine, | Which gives an old man the youth’s new shine.'
+- 'id': '11_281_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نوائی دہ کہ از فیض دم خویش | چو مشعل بر فروزم چوب نی را'
+  - 'lang': 'en'
+    'text': 'Give me a sweet tone, that by my breath own, | Like torch I may lit up my flute’s gay tone.'
+    'notes':
+    - 'phrase': 'tone.'
+      'meaning': '        In this chapter Iqbal is addressing whole mankind without distinction of cast and creed.'
+      'occurrence': !!int '1'

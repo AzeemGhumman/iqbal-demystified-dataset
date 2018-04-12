@@ -1,0 +1,28 @@
+---
+'id': '4_16'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-08.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'حديث بندئہ مومن دل آويز'
+- 'lang': 'en'
+  'text': 'The talk of Muslim is interesting'
+'description': []
+'sher':
+- 'id': '4_16_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حديث بندئہ مومن دل آويز | جگر پر خوں، نفس روشن، نگہ تيز'
+  - 'lang': 'en'
+    'text': 'The talk of Muslim is interesting, His heart warm, | breath light and gaze arresting.'
+  - 'lang': 'ro'
+    'text': 'Hadees-E-Banda’ay Momin Dil Awaiz | Jigar Pur Khoon, Nafs Roshan, Nigah Taiz'
+- 'id': '4_16_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميسر ہو کسے ديدار اس کا | کہ ہے وہ رونق محفل کم آميز'
+  - 'lang': 'en'
+    'text': 'O who can catch a glimpse of him, for he, | Though the very soul of company, is by himself resting!'
+  - 'lang': 'ro'
+    'text': 'Muyassar Ho Kise Didar Uss Ka | Ke Hai Woh Ronaq-E-Mehfil Kam Amaiz'

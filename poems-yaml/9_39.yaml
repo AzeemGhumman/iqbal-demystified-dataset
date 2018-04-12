@@ -1,0 +1,52 @@
+---
+'id': '9_39'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنوای غالب"
+- 'lang': 'en'
+  'text': 'THE SONG OF GHALIB'
+'description': []
+'sher':
+- 'id': '9_39_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’بیا کہ قاعدۂ آسمان بگردانیم | قضا بگردش رطل گران بگردانیم'
+  - 'lang': 'en'
+    'text': 'Come, let us change the rule of heaven, | let us change fate by revolving a heavy measure of wine;'
+- 'id': '9_39_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر ز شحنہ بود گیر و دار نندیشیم | وگر ز شاہ رسد ارمغان بگردانیم'
+  - 'lang': 'en'
+    'text': 'though the police-captain makes trouble, we will not worry, | and if the king himself sends a present, we will reject it.'
+- 'id': '9_39_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر کلیم شود ہمزبان سخن نکنیم | وگر خلیل شود میہمان بگردانیم'
+  - 'lang': 'en'
+    'text': 'Though Moses converse with us, we will not say a word; | though Abraham be our host, we will decline him.'
+- 'id': '9_39_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بجنگ باج ستانان شاخساری را | تہی سبد ز در گلستان بگردانیم'
+  - 'lang': 'en'
+    'text': 'Battling, the tribute-snatchers of the grove | we will turn away from our garden’s gate with empty basket;'
+- 'id': '9_39_5'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ صلح بال فشانان صبحگاہی را | ز شاخسار سوی آشیان بگردانیم'
+  - 'lang': 'en'
+    'text': 'peacefully, the birds that flutter their wings at dawn | we will send back from the grove to their nests.'
+- 'id': '9_39_6'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز حیدریم من و تو ز ما عجب نبود | گر آفتاب سوی خاوران بگردانیم‘‘'
+  - 'lang': 'en'
+    'text': 'You and I are of Haidar, so no wonder would it be | if we turn back the sun towards the East.'

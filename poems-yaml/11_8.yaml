@@ -1,0 +1,32 @@
+---
+'id': '11_8'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبخود پیچیدگان در دل اسیرند"
+- 'lang': 'en'
+  'text': 'II-III'
+'description': []
+'sher':
+- 'id': '11_8_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بخود پیچیدگان در دل اسیرند | ھمہ دردند و درمان ناپذیرند'
+  - 'lang': 'en'
+    'text': 'The self writhing hearts are captives of lures, | All writhing in pains and wriggling for cures.'
+    'notes':
+    - 'phrase': 'writhing'
+      'meaning': '        Self writhing-for want of contentment.'
+      'occurrence': !!int '1'
+- 'id': '11_8_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سجود از ما چہ میخواہی کہ شاہان | خراجی از دہ ویران نگیرند'
+  - 'lang': 'en'
+    'text': 'Thou seekest my kowtows but see that kings, | Are prone not to tax the desolated wings.'
+    'notes':
+    - 'phrase': 'wings.'
+      'meaning': '        Desolated wings barren lands. His heart, as much his forehead are barren, as the light of God is not filled there in.'
+      'occurrence': !!int '1'

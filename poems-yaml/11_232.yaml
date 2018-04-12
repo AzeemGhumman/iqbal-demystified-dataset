@@ -1,0 +1,24 @@
+---
+'id': '11_232'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چو بر گیرد زمام کاروان را'
+- 'lang': 'en'
+  'text': 'IX-VIII'
+'description': []
+'sher':
+- 'id': '11_232_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو بر گیرد زمام کاروان را | دہد ذوق تجلی ہر نہان را'
+  - 'lang': 'en'
+    'text': 'The caravans reins he would take when, | He gives vision taste to each hidden then.'
+- 'id': '11_232_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کند افلاکیان را  نچنان فاش | تہ پا می کشد نہ  سمان را'
+  - 'lang': 'en'
+    'text': 'He makes so much bare the heavenly hosts | That all nine skies would be tinder his force.'

@@ -1,0 +1,28 @@
+---
+'id': '3_97'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/03-02.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ايک سوال'
+- 'lang': 'en'
+  'text': 'A QUESTION'
+'description': []
+'sher':
+- 'id': '3_97_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کوئي پوچھے حکيم يورپ سے | ہند و يوناں ہيں جس کے حلقہ بگوش'
+  - 'lang': 'en'
+    'text': 'Ask the wise men of Europe, who have hung | Their ring in the nose of Greece and Hindostan:'
+  - 'lang': 'ro'
+    'text': 'Koi Puche Hakeem-e-Yourap Se | Hind-o-Yunan Hain Jis Ke Halqa Bagosh'
+- 'id': '3_97_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کيا يہي ہے معاشرت کا کمال | !مرد بے کار و زن تہي آغوش'
+  - 'lang': 'en'
+    'text': 'Is this their civilization’s highest rung— | A childless woman and a jobless man?'
+  - 'lang': 'ro'
+    'text': 'Kya Yehi Hai Maasharat Ka Kamal | Mard Bekaar-o-Zan Tehi Aagosh !'

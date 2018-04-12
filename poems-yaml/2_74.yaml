@@ -1,0 +1,41 @@
+---
+'id': '2_74'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/02-58.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ہے ياد مجھے نکتہ سلمان خوش آہنگ'
+- 'lang': 'en'
+  'text': 'Salman, the mellifluous, In words of power and wit'
+'description': []
+'sher':
+- 'id': '2_74_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے ياد مجھے نکتہ سلمان خوش آہنگ | دنيا نہيں مردان جفاکش کے ليے تنگ'
+  - 'lang': 'en'
+    'text': 'Salman the mellifluous, In words of power and wit, | Said the world is too narrow, For men of skill and daring.'
+    'notes':
+    - 'phrase': 'Salman'
+      'meaning': '(Iqbal’s Note): Salman—Masood Saad Salman was a Persian poet of the Ghaznavi period, and was probably born in Lahore.'
+      'occurrence': !!int '1'
+  - 'lang': 'ro'
+    'text': 'Hai Yaad Mujhe Nukta-e-Salman-e-Khush Ahang | Dunya Nahin Mardan-e-Jafa Kash Ke Liye Tang'
+- 'id': '2_74_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چيتے کا جگر چاہيے ، شاہيں کا تجسس | جي سکتے ہيں بے روشني دانش و فرہنگ'
+  - 'lang': 'en'
+    'text': 'But one should have a lion’s heart, An eagle’s piercing eye, | Then one can live without the light, Of a lexicon and learning.'
+  - 'lang': 'ro'
+    'text': 'Cheete Ka Jigar Chahye, Shaheen Ka Tajasus | Ji Sakte Hain Be-Roshni-e-Danish-o-Farhang'
+- 'id': '2_74_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کر بلبل و طاؤس کي تقليد سے توبہ | !بلبل فقط آواز ہے ، طاؤس فقط رنگ'
+  - 'lang': 'en'
+    'text': 'Ape not the ways of the nightingale, Nor those of the peacock, | For the one is but a voice, And the other is but a colour.'
+  - 'lang': 'ro'
+    'text': 'Kar Bulbul-o-Taaus Ki Taqleed Se Tauba | Bulbul Faqat Awaz Hai, Taaus Faqat Rang!'

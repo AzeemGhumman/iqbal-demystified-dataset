@@ -1,0 +1,24 @@
+---
+'id': '11_239'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'محبت از نگاہش پایدار است'
+- 'lang': 'en'
+  'text': 'X-V'
+'description': []
+'sher':
+- 'id': '11_239_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'محبت از نگاہش پایدار است | سلوکش عشق و مستی را عیار است'
+  - 'lang': 'en'
+    'text': 'The love, from his glance is stable and best, | To love and passions his path is a Test.'
+- 'id': '11_239_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقامش عبدہ‘  مد ولیکن | جہان شوق را پروردگار است'
+  - 'lang': 'en'
+    'text': 'His ‘slave’ he was ranked, yet the slave ranks. | To eager world’s eyes in the Master’s Ranks.'

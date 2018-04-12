@@ -1,0 +1,46 @@
+---
+'id': '3_17'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-17.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'آزادي شمشير کے اعلان پر'
+- 'lang': 'en'
+  'text': 'WRITTEN ON THE OCCASION OF THE BRITISH GOVERNMENTʹS PERMISSION TO KEEP SWORD'
+'description': []
+'sher':
+- 'id': '3_17_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سوچا بھي ہے اے مرد مسلماں کبھي تو نے | کيا چيز ہے فولاد کي شمشير جگردار'
+  - 'lang': 'en'
+    'text': 'O Muslim, did you ever think or feel | What is meant by piercing sword of steel?'
+  - 'lang': 'ro'
+    'text': 'Socha Bhi Hai Ae Mard-e-Musalman Kabhi Tu Ne | Kya Cheez Hai Foulad Ki Shamsheer-e-Jigar Dar'
+- 'id': '3_17_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس بيت کا يہ مصرع اول ہے کہ جس ميں | پوشيدہ چلے آتے ہيں توحيد کے اسرار'
+  - 'lang': 'en'
+    'text': 'It is the first hemistich of this verse | That Godʹs Oneness shows in form so terse.'
+  - 'lang': 'ro'
+    'text': 'Uss Bait Ka Ye Misra-e-Awwal Hai Ke Jis Mein | Poshida Chale Ate Hain Touheed Ke Asrar'
+- 'id': '3_17_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے فکر مجھے مصرع ثاني کي زيادہ | اللہ کرے تجھ کو عطا فقر کي تلوار'
+  - 'lang': 'en'
+    'text': 'My anxiety for the second half is greater though, | May God the sword of faqr on you bestow'
+  - 'lang': 'ro'
+    'text': 'Hai Fikr Mujhe Misra-e-Sani Ki Ziada | Allah Kare Tujh Ko Atta Faqr Ki Talwar'
+- 'id': '3_17_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قبضے ميں يہ تلوار بھي آجائے تو مومن | يا خالد جانباز ہے يا حيدر کرار'
+  - 'lang': 'en'
+    'text': 'If Muslim true can get this sword in hold | He is Ali the Lion of God, or Khalid bold.'
+  - 'lang': 'ro'
+    'text': 'Qabze Mein Ye Talwar Aa Jaye To Momin | Ya Khalid (R.A.) Janbaz Hai Ya Haidar-e-Karar (R.A.)'

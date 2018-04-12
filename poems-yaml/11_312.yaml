@@ -1,0 +1,31 @@
+---
+'id': '11_312'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل ما  تش و تن موج دودش"
+- 'lang': 'en'
+  'text': 'VIII-II'
+'description': []
+'sher':
+- 'id': '11_312_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل ما  تش و تن موج دودش | تپید دمبدم ساز وجودش'
+  - 'lang': 'en'
+    'text': 'My heart is a fire, a smoke my frame, | My being’s harp burns with a constant flame.'
+- 'id': '11_312_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ذکر نیم شب جمعیت او | چو سیمابی کہ بندو چوب عودش'
+  - 'lang': 'en'
+    'text': 'From mid night prayers the heart gets a calm, | Like mercury closed in aloe wood balm.'
+    'notes':
+    - 'phrase': 'mercury'
+      'meaning': '        The mercury was killed (to make calx) in aloe wood in old days. Aloe wood is called ood (Ud) in Arabic and Persian. (It also means lute or harp). It gives a sweet smelling fragrance when it burns.'
+      'occurrence': !!int '1'
+    - 'phrase': 'balm.'
+      'meaning': '        Balm; ointment (fig:) that which gives peace of mind or consolation.'
+      'occurrence': !!int '1'

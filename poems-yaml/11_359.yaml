@@ -1,0 +1,24 @@
+---
+'id': '11_359'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بچشم من جہان جز رہگذر نیست'
+- 'lang': 'en'
+  'text': 'I-XIV'
+'description': []
+'sher':
+- 'id': '11_359_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بچشم من جہان جز رہگذر نیست | ہزاران رہرو و یک ہمسفر نیست'
+  - 'lang': 'en'
+    'text': 'This world is a path to my eyes and sense, | None shares my journey in a thousands hence.'
+- 'id': '11_359_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گذشتم از ھجوم خویش و پیوند | کہ از خویشان کسی بیگانہ تر نیست'
+  - 'lang': 'en'
+    'text': 'I saved my skin from scores of kith and kin, | None stands in with me through thick and thin.'

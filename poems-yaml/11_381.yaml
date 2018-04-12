@@ -1,0 +1,28 @@
+---
+'id': '11_381'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل بیگانہ خوزین خاکدان نیست"
+- 'lang': 'en'
+  'text': 'IV-III'
+'description': []
+'sher':
+- 'id': '11_381_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل بیگانہ خوزین خاکدان نیست | شب و روزش زدور  سمان نیست'
+  - 'lang': 'en'
+    'text': 'O callous heart make not a link with clay, | The nature changes not her night and day.'
+- 'id': '11_381_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو خود وقت قیام خویش دریاب | نماز عشق و مستی را اذان نیست'
+  - 'lang': 'en'
+    'text': 'You fix up thy self, the times of stay, | The love prayers need, no ‘call for pray’.'
+    'notes':
+    - 'phrase': 'pray’.'
+      'meaning': '        From ''datyaftan'' (inf: ) daryah; discover, get, find. Time of stay; viz, time for prayers.'
+      'occurrence': !!int '1'

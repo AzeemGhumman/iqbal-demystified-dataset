@@ -1,0 +1,28 @@
+---
+'id': '3_78'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-11.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خودي کي تربيت'
+- 'lang': 'en'
+  'text': 'UPBRINGING OF SELFHOOD'
+'description': []
+'sher':
+- 'id': '3_78_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودي کي پرورش و تربيت پہ ہے موقوف | کہ مشت خاک ميں پيدا ہو آتش ہمہ سوز'
+  - 'lang': 'en'
+    'text': 'If self is bred with perfect care, Such force and strength it can acquire | That handful dust of man with ease, Can set untruths and wrongs afire.'
+  - 'lang': 'ro'
+    'text': 'Khudi Ki Parwarish-o-Tarbiat Pe Hai Moqoof | Ke Musht-e-Khak Mein Paida Ho Atish-e-Hama Souz'
+- 'id': '3_78_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہي ہے سر کليمي ہر اک زمانے ميں | !ہوائے دشت و شعيب و شباني شب و روز'
+  - 'lang': 'en'
+    'text': 'This is the mystery we ascribe, To Moses in every age and clime: | He tended the sheep in wilds and learnt, From Shoaib to toil and mode sublime.'
+  - 'lang': 'ro'
+    'text': 'Yei Hai Sirr-e-Kaleemi Har Ek Zamane Mein | Hawaye Dast-o-Shoaib-o-Shabani-e-Shab-o-Roz'

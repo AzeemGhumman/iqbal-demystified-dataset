@@ -1,0 +1,46 @@
+---
+'id': '2_171'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-53.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'باغي مريد'
+- 'lang': 'en'
+  'text': 'DISCIPLES IN REVOLT'
+'description': []
+'sher':
+- 'id': '2_171_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہم کو تو ميسر نہيں مٹي کا ديا بھي | گھر پير کا بجلي کے چراغوں سے ہے روشن'
+  - 'lang': 'en'
+    'text': 'Not a rushlight for us,—in our Master’s | Fine windows electric lights blaze!'
+  - 'lang': 'ro'
+    'text': 'Hum Ko To Mayassar Nahin Mitti Ka Diya Bhi | Ghar Peer Ka Bijli Ke Charaghon Se Hai Roshan'
+- 'id': '2_171_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شہري ہو، دہاتي ہو، مسلمان ہے سادہ | مانند بتاں پجتے ہيں کعبے کے برہمن'
+  - 'lang': 'en'
+    'text': 'Town or village, the Muslim’s a duffer— | To his Brahmins like idols he prays.'
+  - 'lang': 'ro'
+    'text': 'Shehri Ho, Dahati Ho, Musalman Hai Sada | Manind-e-Poojte Hain Kaabe Ke Barhman'
+- 'id': '2_171_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نذرانہ نہيں ، سود ہے پيران حرم کا | ہر خرقہء سالوس کے اندر ہے مہاجن'
+  - 'lang': 'en'
+    'text': 'Not mere gifts—compound interest these saints want, | In each hair‐shirt a usurer’s dressed,'
+  - 'lang': 'ro'
+    'text': 'Nazrana Nahin, Sood Hai Peeran-e-Haram Ka | Har Kharqa-e-Saaloos Ke Andar Hai Mahajan'
+- 'id': '2_171_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميراث ميں آئي ہے انھيں مسند ارشاد | !زاغوں کے تصرف ميں عقابوں کے نشيمن'
+  - 'lang': 'en'
+    'text': 'Who inherits his seat of authority | Like a crow in the eagle’s old nest.'
+  - 'lang': 'ro'
+    'text': 'Meeras Mein Ayi Hai Inhain Masnad-e-Irshad | Zaghon Ke Tasarruf Mein Auqabon Ke Nasheman!'

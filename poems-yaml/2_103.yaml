@@ -1,0 +1,28 @@
+---
+'id': '2_103'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-27.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کرم تيرا کہ بے جوہر نہيں ميں'
+- 'lang': 'en'
+  'text': 'Thank Thee, O Lord, I am not without talent born'
+'description': []
+'sher':
+- 'id': '2_103_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کرم تيرا کہ بے جوہر نہيں ميں | غلام طغرل و سنجر نہيں ميں'
+  - 'lang': 'en'
+    'text': 'Thank Thee, O Lord, I am not without talent born; | I am not a slave of kings and potentates;'
+  - 'lang': 'ro'
+    'text': 'Karam Tera Ke Be-Jauhar Nahin Main | Ghulam-e-Tughral-o-Sanjar Nahin Main'
+- 'id': '2_103_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہاں بيني مري فطرت ہے ليکن | کسي جمشيد کا ساغر نہيں ميں'
+  - 'lang': 'en'
+    'text': 'Though born I am with a power to see the world, | I belong to none, like Jamsheed''s all—seeing glass.'
+  - 'lang': 'ro'
+    'text': 'Jahan Beeni Meri Fitrat Hai Lekin | Kisi Jamshaid Ka Saghar Nahin Main'

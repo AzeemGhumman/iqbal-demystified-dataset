@@ -1,0 +1,28 @@
+---
+'id': '4_17'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-09.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'تميز خار و گل سے آشکارا'
+- 'lang': 'en'
+  'text': 'The clairvoyance of the zephyr'
+'description': []
+'sher':
+- 'id': '4_17_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تميز خار و گل سے آشکارا | نسيم صبح کي روشن ضميري'
+  - 'lang': 'en'
+    'text': 'The clairvoyance of the zephyr | Is apparent from its discrimination between flowers and thorns!'
+  - 'lang': 'ro'
+    'text': 'Na Kar Zikr-E-Firaq-O-Ashanai | Ke Asal-E-Zindagi Hai Khud-Numai'
+- 'id': '4_17_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حفاظت پھول کي ممکن نہيں ہے | اگر کانٹے ميں ہو خوئے حريري'
+  - 'lang': 'en'
+    'text': 'A flower cannot be guarded | If the thorn has the nature of silk.'
+  - 'lang': 'ro'
+    'text': 'Na Darya Ka Zayan Hai, Ne Guhar Ka | Dil-E-Darya Se Gohar Ki Judai'

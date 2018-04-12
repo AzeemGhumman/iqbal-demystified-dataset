@@ -1,0 +1,46 @@
+---
+'id': '2_177'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-59.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'چيونٹي اورعقاب'
+- 'lang': 'en'
+  'text': 'THE ANT AND THE EAGLE'
+'description': []
+'sher':
+- 'id': '2_177_1'
+  'meta': !!bool 'true'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چيونٹي'
+  - 'lang': 'en'
+    'text': 'THE ANT'
+  - 'lang': 'ro'
+    'text': 'ant'
+- 'id': '2_177_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميں پائمال و خوار و پريشان و دردمند | تيرا مقام کيوں ہے ستاروں سے بھي بلند؟'
+  - 'lang': 'en'
+    'text': 'I am so miserable and forlorn— | Why is your station loftier than the skies?'
+  - 'lang': 'ro'
+    'text': 'Main Paimaal-o-Khawar-o-Preshan-o-Dardmand | Tera Maqam Kyun Hai Sitaron Se Bhi Buland?'
+- 'id': '2_177_3'
+  'meta': !!bool 'true'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عقاب'
+  - 'lang': 'en'
+    'text': 'THE EAGLE'
+  - 'lang': 'ro'
+    'text': 'eagle'
+- 'id': '2_177_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو رزق اپنا ڈھونڈتي ہے خاک راہ ميں | !ميں نہ سپہر کو نہيں لاتا نگاہ ميں'
+  - 'lang': 'en'
+    'text': 'You forage about in dusty paths; | The nine heavens are as nothing to me!'
+  - 'lang': 'ro'
+    'text': 'Tu Rizq Apna Dhoondti Hai Khak-e-Rah Mein | Main Na Sipihr Ko Nahin Lata Nigah Mein!'

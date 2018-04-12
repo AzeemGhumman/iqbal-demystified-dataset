@@ -1,0 +1,46 @@
+---
+'id': '3_113'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-09.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'تياتر'
+- 'lang': 'en'
+  'text': 'THEATRE'
+'description': []
+'sher':
+- 'id': '3_113_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تري خودي سے ہے روشن ترا حريم وجود | حيات کيا ہے ، اسي کا سرور و سوز و ثبات'
+  - 'lang': 'en'
+    'text': 'Your beingʹs sanctum gets, From self its inner light: | Save zeal and firm resolve, Naught can make life eʹer bright.'
+  - 'lang': 'ro'
+    'text': 'Teri Khudi Se Hai Roshan Tera Hareem-e-Wujood | Hayat Kya Hai, Ussi Ka Suroor-o-Souz-o-Sabat'
+- 'id': '3_113_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بلند تر مہ و پرويں سے ہے اسي کا مقام | اسي کے نور سے پيدا ہيں تيرے ذات و صفات'
+  - 'lang': 'en'
+    'text': 'Its rank is higher than, The Pleiades and the moon: | Your essence and its gifts, Are egoʹs greatest boon.'
+  - 'lang': 'ro'
+    'text': 'Buland Tar Mah-o-Parveen Se Hai Ussi Ka Maqam | Ussi Ke Noor Se Paida Hain Tere Zaat-o-Sifat'
+- 'id': '3_113_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حريم تيرا ، خودي غير کي ! معاذاللہ | دوبارہ زندہ نہ کر کاروبار لات و منات'
+  - 'lang': 'en'
+    'text': 'God save that alien self, Seek shelter in your shrine! | The creed of idols shun, Donʹt desecrate house divine.'
+  - 'lang': 'ro'
+    'text': 'Harem Tera, Khudi Ghair Ki ! Maaz Allah | Dobara Zinda Na Kar Karobar-e-Laat-o-Manat'
+- 'id': '3_113_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہي کمال ہے تمثيل کا کہ تو نہ رہے | رہا نہ تو تو نہ سوز خودي ، نہ ساز حيات'
+  - 'lang': 'en'
+    'text': 'Forgetfulness of self, Imports the height of art, | But with the loss of self, Both joy and warmth depart.'
+  - 'lang': 'ro'
+    'text': 'Yehi Kamal Hai Tamseel Ka Ke Tu Na Rahe | Raha Na Tu To Na Souz-e-Khudi , Na Saaz-e-Hayat'

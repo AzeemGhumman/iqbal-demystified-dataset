@@ -1,0 +1,28 @@
+---
+'id': '11_306'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFاز  ن غم ہا دل ما دردمند است"
+- 'lang': 'en'
+  'text': 'VI-VI'
+'description': []
+'sher':
+- 'id': '11_306_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از  ن غم ہا دل ما دردمند است | کہ اصل او ازین خاک نژند است'
+  - 'lang': 'en'
+    'text': 'Such griefs this heart now likes to take, | Like dust of low things of humble make.'
+- 'id': '11_306_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من و تو زان غم شیرین ندانیم | کہ اصل او ز افکار بلند است'
+  - 'lang': 'en'
+    'text': 'To those sweet griefs alas! we know not, | Which make a man great with higher ‘thought.'
+    'notes':
+    - 'phrase': '‘thought.'
+      'meaning': '        Khak-i-Nazand (Per) Dust which is low, downcast, sorrowful, blind, (as such this world). (See text). Sweet griefs, of God and country''s love, etc.'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '11_360'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ این نابودمندی بودن  موز"
+- 'lang': 'en'
+  'text': 'I-XV'
+'description': []
+'sher':
+- 'id': '11_360_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ این نابودمندی بودن  موز | بہای خویش را افزودن  موز'
+  - 'lang': 'en'
+    'text': 'With nothingness learn to live with grace, | Raise thy worth more and keep the faqr’s face.'
+    'notes':
+    - 'phrase': 'nothingness'
+      'meaning': '        With nothingness learn; with empty pocket learn. Literal line 4: Like pearls live with ease in floods and rain storms. As a poetical licence the rainstorm has been written as storms rain.'
+      'occurrence': !!int '1'
+- 'id': '11_360_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیفت اندر محیط نغمہء من | بہ طوفانم چو در  سودن  موز'
+  - 'lang': 'en'
+    'text': 'Dive a bit deep in my song’s big main, | Like pearls learn to live in my stormsrain.'

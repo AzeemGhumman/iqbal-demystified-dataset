@@ -1,0 +1,28 @@
+---
+'id': '11_321'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمحبت چیست تاثیر نگاہی است"
+- 'lang': 'en'
+  'text': 'VIII-XI'
+'description': []
+'sher':
+- 'id': '11_321_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'محبت چیست تاثیر نگاہی است | چہ شیرین زخمی از تیر نگاہی است'
+  - 'lang': 'en'
+    'text': 'What is the love? an impact of glance, | Which gives a sweet prick of the eye’s lance.'
+- 'id': '11_321_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ صید دل روی ، ترکش بینداز | کہ این نخچیر ، نخچیر نگاہی است'
+  - 'lang': 'en'
+    'text': 'If you seek heart’s hand? throw quiver and bow, | This game is the game of glance and eye brow?'
+    'notes':
+    - 'phrase': 'brow?'
+      'meaning': '        Basic thought: [Borrow a glance from a good guide hence, He is thy guide who gives thee a glance.]'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '11_273'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFشتر را بچہ او گفت در دشت"
+- 'lang': 'en'
+  'text': 'XV-XIV'
+'description': []
+'sher':
+- 'id': '11_273_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شتر را بچہ او گفت در دشت | نمی بینم خدای چار سو را'
+  - 'lang': 'en'
+    'text': 'To a camel addressed its youngest foal, | No God I have seen in the desert whole.'
+- 'id': '11_273_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پدر گفت ای پسر چون پا بلغزد | شتر ہم خویش را بیند ہم او را'
+  - 'lang': 'en'
+    'text': 'The father said, “Filly thy foot slips when, | You would see thy self, to God also then.”'
+    'notes':
+    - 'phrase': 'then.”'
+      'meaning': '        Due to too much load on his back his foot is likely to slip (Of course when he is grown up).'
+      'occurrence': !!int '1'

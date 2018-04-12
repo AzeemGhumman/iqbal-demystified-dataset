@@ -1,0 +1,28 @@
+---
+'id': '11_305'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFجوانمردی کہ دل با خویشتن بست"
+- 'lang': 'en'
+  'text': 'VI-V'
+'description': []
+'sher':
+- 'id': '11_305_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جوانمردی کہ دل با خویشتن بست | رود در بحر و دریا ایمن از شست'
+  - 'lang': 'en'
+    'text': 'A young who tied heart with ego’s call, | He swam quite safe, along seas, and rivers all.'
+- 'id': '11_305_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگہ را جلوہ مستی ہا حلال است | ولی باید نگہ داری دل و دست'
+  - 'lang': 'en'
+    'text': 'No harm if you relish a decent scene, | Keep an eye on heart that the hands are clean.'
+    'notes':
+    - 'phrase': 'clean.'
+      'meaning': '        Line I who tied call; viz, who strengthened his ego.'
+      'occurrence': !!int '1'

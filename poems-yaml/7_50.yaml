@@ -1,0 +1,24 @@
+---
+'id': '7_50'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دلت می لرزد از اندیشۂ مرگ'
+- 'lang': 'en'
+  'text': '(50)'
+'description': []
+'sher':
+- 'id': '7_50_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلت می لرزد از اندیشۂ مرگ | ز بیمش زرد مانند زریری'
+  - 'lang': 'en'
+    'text': 'Your heart quakes with the fear of death: you pale | At the mere thought of it. Go and acquire'
+- 'id': '7_50_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ خود باز آ خودی را پختہ تر گیر | اگر گیری ، پس از مردن نمیری'
+  - 'lang': 'en'
+    'text': 'A selfhood and hold fast to it, If you | Do this, you will not die when you expire.'

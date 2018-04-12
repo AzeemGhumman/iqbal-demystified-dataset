@@ -1,0 +1,31 @@
+---
+'id': '11_362'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFندانی تا نباشی محرم مرد"
+- 'lang': 'en'
+  'text': 'I-XVII'
+'description': []
+'sher':
+- 'id': '11_362_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندانی تا نباشی محرم مرد | کہ دلھا زندہ گردد از دم مرد'
+  - 'lang': 'en'
+    'text': 'You cant learn aught ‘sans’ a conscious soul, | The hearts get a life from breath of man’s dole .'
+    'notes':
+    - 'phrase': '‘sans’'
+      'meaning': '        Sans, (Sanz) Fr without. a conscious soul; viz, a guide.'
+      'occurrence': !!int '1'
+    - 'phrase': 'dole'
+      'meaning': '        Dole, n., pain, grief. (arch and in poetry), heaviness of heart. Hence doleful., adj.'
+      'occurrence': !!int '1'
+- 'id': '11_362_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگہدارد ز  ہ و نالہ خود را | کہ خود دار است چون مردان ، غم مرد'
+  - 'lang': 'en'
+    'text': 'Who guards his ego by wails and sighs, | And keeps self’s honour by ruthful eyes.'

@@ -1,0 +1,37 @@
+---
+'id': '3_96'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/03-01.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مرد فرنگ'
+- 'lang': 'en'
+  'text': 'THE FRANKISH MAN'
+'description': []
+'sher':
+- 'id': '3_96_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہزار بار حکيموں نے اس کو سلجھايا | مگر يہ مسئلہ زن رہا وہيں کا وہيں'
+  - 'lang': 'en'
+    'text': 'To solve this riddle thinkers have much tried, | Their efforts all so far it has defied.'
+  - 'lang': 'ro'
+    'text': 'Hazar Bar Hakeemon Ne Iss Ko Suljhaya | Magar Ye Masla-e-Zan Raha Wahin Ka Wahin'
+- 'id': '3_96_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قصور زن کا نہيں ہے کچھ اس خرابي ميں | گواہ اس کي شرافت پہ ہيں مہ و پرويں'
+  - 'lang': 'en'
+    'text': 'No doubt, to womanʹs faith and conduct clear, | The Pleiades and moon do witness bear.'
+  - 'lang': 'ro'
+    'text': 'Qasoor Zan Ka Nahin Hai Kuch Iss Kharabi Mein | Gawah Iss Ki Sharafat Pe Hain Mah-o-Parveen'
+- 'id': '3_96_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فساد کا ہے فرنگي معاشرت ميں ظہور | کہ مرد سادہ ہے بيچارہ زن شناس نہيں'
+  - 'lang': 'en'
+    'text': 'This vice in Frankish way of life we find, | Men fools and blind, canʹt read a womanʹs mind.'
+  - 'lang': 'ro'
+    'text': 'Fasad Ka Haifarangi Maasharat Mein Zahoor | Ke Mard Sada Hai Bechara Zan Shanas Nahin'

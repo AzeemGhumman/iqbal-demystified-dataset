@@ -1,0 +1,28 @@
+---
+'id': '7_53'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFز رازی معنی قرآن چہ پرسی؟"
+- 'lang': 'en'
+  'text': '(53)'
+'description': []
+'sher':
+- 'id': '7_53_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز رازی معنی قرآن چہ پرسی؟ | ضمیر ما بہ آیاتش دلیل است'
+  - 'lang': 'en'
+    'text': 'Why ask of Razi what the Quran means? | By each man’s own heart is it best construed.'
+    'notes':
+    - 'phrase': 'Razi'
+      'meaning': 'Razi. Fakhr-al-Din of Ray (Iran), a famous philosopher, jurist and exegete.'
+      'occurrence': !!int '1'
+- 'id': '7_53_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد آتش فروزد دل بسوزد | ہمین تفسیر نمرود و خلیل است'
+  - 'lang': 'en'
+    'text': 'Mind lights a fire, heart burns in it: the one | Is Abraham, the other is Namrud.'

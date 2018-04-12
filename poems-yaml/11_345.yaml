@@ -1,0 +1,24 @@
+---
+'id': '11_345'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بیا تا کار این امت بسازیم'
+- 'lang': 'en'
+  'text': 'XIII-IX'
+'description': []
+'sher':
+- 'id': '11_345_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا تا کار این امت بسازیم | قمار زندگے مردانہ بازیم'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+- 'id': '11_345_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چنان نالیم اندر مسجد شہر | کہ دل در سینۂ ملا گدازیم'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'

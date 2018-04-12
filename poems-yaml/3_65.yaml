@@ -1,0 +1,37 @@
+---
+'id': '3_65'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-65.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'احکام الہي'
+- 'lang': 'en'
+  'text': 'DECREES OF GOD'
+'description': []
+'sher':
+- 'id': '3_65_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '!پابندي تقدير کہ پابندي احکام | يہ مسئلہ مشکل نہيں اے مرد خرد مند'
+  - 'lang': 'en'
+    'text': 'This problem is not hard to solve, O man, endowed with insight great: | Whʹr to obey dictates of God, Or submit to decrees of Fate.'
+  - 'lang': 'ro'
+    'text': 'Pabandi-e-Taqdeer Ke Pabandi-e-Ahkam! | Ye Masla Mushkil Nahin Ae Mard-e-Khirdmand'
+- 'id': '3_65_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک آن ميں سو بار بدل جاتي ہے تقدير | ہے اس کا مقلد ابھي ناخوش ، ابھي خورسند'
+  - 'lang': 'en'
+    'text': 'The Wheel of Fate spins hundred times, Within the twinkling of the eye; | He, who follows freaks of Fate, Anon is down and anon is high.'
+  - 'lang': 'ro'
+    'text': 'Ek Aan Mein Sou Bar Badal Jati Hai Taqdeer | Hai Iss Ka Muqallid Abhi Na-Khush, Abhi Khursand'
+- 'id': '3_65_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تقدير کے پابند نباتات و جمادات | مومن فقط احکام الہي کا ہے پابند'
+  - 'lang': 'en'
+    'text': 'Herbs, vegetables and minerals alike, Adhere to what Fate pre‐ordains: | But Muslim true obeys laws of God, All else abhors and much disdains.'
+  - 'lang': 'ro'
+    'text': 'Taqdeer Ke Paband Nabataat-o-Jamadaat | Momin Faqt Ahkam-e-Elahi Ka Hai Paband'

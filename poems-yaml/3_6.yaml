@@ -1,0 +1,39 @@
+---
+'id': '3_6'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-06.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFزمين و آسماں"
+- 'lang': 'en'
+  'text': 'THE EARTH AND THE SKY'
+'description':
+- 'lang': 'en'
+  'text': 'We live on earth like we will be living here forever but this is not true. It is not necessary that the person on which we believe the most is who we think he is. | {Contributed by user: Faisal Azizi Bandagi}'
+'sher':
+- 'id': '3_6_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ممکن ہے کہ تو جس کو سمجھتا ہے بہاراں | اوروں کي نگاہوں ميں وہ موسم ہو خزاں کا'
+  - 'lang': 'en'
+    'text': 'Perhaps the part of year that Spring you deem, | In othersʹ view destructive Autumn it may seem!'
+  - 'lang': 'ro'
+    'text': 'Mumkin Hai Ke Tu Jis Ko Samajhta Hai Baharan | Auron Ki Nighahonmein Woh Mousam Ho Khazan Ka'
+- 'id': '3_6_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے سلسلہ احوال کا ہر لحظہ دگرگوں | اے سالک رہ! فکر نہ کر سود و زياں کا'
+  - 'lang': 'en'
+    'text': 'The worldly affairs one pattern donʹt retain, | So pilgrim wise, think not of loss and gain!'
+  - 'lang': 'ro'
+    'text': 'Hai Silsila Ahwal Ka Har Lehza Dirgargoon | Ae Salik-e-Reh, Fikar Na Kar Sood-o-Zayan Ka'
+- 'id': '3_6_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شايد کہ زميں ہے يہ کسي اور جہاں کي | !تو جس کو سمجھتا ہے فلک اپنے جہاں کا'
+  - 'lang': 'en'
+    'text': 'The thing you take for sky of earthly tract, | Perhaps is soil of some other world in fact!'
+  - 'lang': 'ro'
+    'text': 'Shaid Ke Zameen Hai Ye Kisi Aur Jahan Ki | Tu Jis Ko Samajhta Hai Falak Apne Jahan Ka!'

@@ -1,0 +1,37 @@
+---
+'id': '3_92'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-25.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اساتذہ'
+- 'lang': 'en'
+  'text': 'TEACHERS'
+'description': []
+'sher':
+- 'id': '3_92_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقصد ہو اگر تربيت لعل بدخشاں | بے سود ہے بھٹکے ہوئے خورشيد کا پر تو'
+  - 'lang': 'en'
+    'text': 'If you desire to breed such ruby which is red, | Donʹt beg light of sun that from course has fled.'
+  - 'lang': 'ro'
+    'text': 'Maqsad Ho Agar Tarbiat-e-Laal-e-Badkhashan | Be-Sood Hai Bhatke Huwe Khursheed Ka Partou'
+- 'id': '3_92_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دنيا ہے روايات کے پھندوں ميں گرفتار | !کيا مدرسہ ، کيا مدرسے والوں کي تگ و دو'
+  - 'lang': 'en'
+    'text': 'The world is trapped by traditions old and hoar, | Preceptors helpless quite, can do no more.'
+  - 'lang': 'ro'
+    'text': 'Dunya Hai Rawayat Ke Phandon Mein Griftar | Kya Madrasa, Kta Madrase Walon Ki Tag-o-Dou!'
+- 'id': '3_92_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کر سکتے تھے جو اپنے زمانے کي امامت | وہ کہنہ دماغ اپنے زمانے کے ہيں پيرو'
+  - 'lang': 'en'
+    'text': 'Those who deserved to lead the modern age, | Have worn out brains and others hold the stage.'
+  - 'lang': 'ro'
+    'text': 'Kar Sakte The Jo Apne Zamane Ki Imamat | Woh Kuhna Damagh Apne Zamane Ke Hain Pairou !'

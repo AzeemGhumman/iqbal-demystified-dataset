@@ -1,0 +1,28 @@
+---
+'id': '11_270'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFکسی کو ’’لا الہ‘‘ را در گرہ بست"
+- 'lang': 'en'
+  'text': 'XV-XI'
+'description': []
+'sher':
+- 'id': '11_270_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کسی کو ’’لا الہ‘‘ را در گرہ بست | ز بند مکتب و ملا برون جست'
+  - 'lang': 'en'
+    'text': 'Who e’er tied himself with Lailah’s tie, | From Mullah’s Maktab he jump’d very high.'
+- 'id': '11_270_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ  ن دین و بہ  ن دانش مپرداز | کہ از ما میبرد چشم و دل و دست'
+  - 'lang': 'en'
+    'text': 'To that faith and fire no heed we should pay, | My friend’s heart and eye from me who took away.'
+    'notes':
+    - 'phrase': 'away.'
+      'meaning': '        My friend''s heart and eye; his love and tender eye, viz. (My friend''s love and eye from me who took away)'
+      'occurrence': !!int '1'

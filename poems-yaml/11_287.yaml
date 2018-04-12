@@ -1,0 +1,28 @@
+---
+'id': '11_287'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFگلہ از سختی ایام بگذار"
+- 'lang': 'en'
+  'text': 'III-III'
+'description': []
+'sher':
+- 'id': '11_287_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گلہ از سختی ایام بگذار | کہ سختی ناکشیدہ کم عیار است'
+  - 'lang': 'en'
+    'text': 'Give up the habit to weep on fate, | Face the hard times with a courage great.'
+- 'id': '11_287_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمی دانی کہ  ب جویباران | اگر بر سنگ غلطد خوشگوار است'
+  - 'lang': 'en'
+    'text': 'Dont you know that the water of a brook. | When falls on stone, it gives a lovely look.'
+    'notes':
+    - 'phrase': 'look.'
+      'meaning': '        Underlying thought: ''Strengthen your self, face tile hardships of life''.'
+      'occurrence': !!int '1'

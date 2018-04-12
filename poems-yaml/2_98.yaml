@@ -1,0 +1,28 @@
+---
+'id': '2_98'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-22.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خودي کے زور سے دنيا پہ چھا جا'
+- 'lang': 'en'
+  'text': 'Conquer the world with the power of Selfhood'
+'description': []
+'sher':
+- 'id': '2_98_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودي کے زور سے دنيا پہ چھا جا | مقام رنگ و بو کا راز پا جا'
+  - 'lang': 'en'
+    'text': 'Conquer the world with the power of Selfhood, | And solve the riddle of the universe;'
+  - 'lang': 'ro'
+    'text': 'Khudi Ke Zor Se Dunya Pe Chha Ja | Maqam-e-Rang-o-Boo Ka Raaz Pa Ja'
+- 'id': '2_98_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برنگ بحر ساحل آشنا رہ | کف ساحل سے دامن کھينچتا جا'
+  - 'lang': 'en'
+    'text': 'Be intimate with thy shores, like the sea, | But avoid the surf around the boundless deep.'
+  - 'lang': 'ro'
+    'text': 'Barang-e-Behar Sahil Aashna Reh | Kaf-e-Sahil Se Daman Khenchta Ja'

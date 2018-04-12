@@ -1,0 +1,24 @@
+---
+'id': '11_7'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFصبنت الکاس عنا ام عمرو"
+- 'lang': 'en'
+  'text': 'II-II'
+'description': []
+'sher':
+- 'id': '11_7_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صبنت الکاس عنا ام عمرو | وکان الکاس مجراہا الیمنیا'
+  - 'lang': 'en'
+    'text': 'O Amrine, thou hast turn’d the cup of wine, | Which ought to have moved from the right hand line,'
+- 'id': '11_7_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر این است رسم دوستداری | بدیوار حرم زن جام و مینا'
+  - 'lang': 'en'
+    'text': 'If this is the fashion of friendship lore, | By the sacred wall bang the flask and bowl.'

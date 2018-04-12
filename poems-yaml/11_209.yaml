@@ -1,0 +1,28 @@
+---
+'id': '11_209'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFکسی کو داند اسرار یقین را"
+- 'lang': 'en'
+  'text': 'VI-VIII'
+'description': []
+'sher':
+- 'id': '11_209_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '# persian missing | # persian missing'
+  - 'lang': 'en'
+    'text': 'To certitude truth who so ever knew, | With two eyes he had had the oneness view.'
+- 'id': '11_209_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '# persian missing | # persian missing'
+  - 'lang': 'en'
+    'text': 'As we often join two lamps in need | Be cautious from rift in home and creed.'
+    'notes':
+    - 'phrase': 'creed.'
+      'meaning': '        Iqbal used ''certitude secret'' which amounts to certitude truth.'
+      'occurrence': !!int '1'

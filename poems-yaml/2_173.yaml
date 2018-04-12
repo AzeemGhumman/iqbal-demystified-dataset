@@ -1,0 +1,28 @@
+---
+'id': '2_173'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-55.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ماہر نفسيات سے'
+- 'lang': 'en'
+  'text': 'TO THE PSYCHOLOGIST'
+'description': []
+'sher':
+- 'id': '2_173_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جرات ہے تو افکار کي دنيا سے گزر جا | ہيں بحر خودي ميں ابھي پوشيدہ جزيرے'
+  - 'lang': 'en'
+    'text': 'Transcend the intellect if you have courage to do so: | There are islands hidden in the ocean of the self as yet.'
+  - 'lang': 'ro'
+    'text': 'Jurrat Hai To Afkar Ki Dunya Se Guzar Ja | Hain Behar-e-Khudi Mein Abhi Poshida Jazeere'
+- 'id': '2_173_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کھلتے نہيں اس قلزم خاموش کے اسرار | جب تک تو اسے ضرب کليمي سے نہ چيرے'
+  - 'lang': 'en'
+    'text': 'The secrets of this silent sea, however, do not yield | Until you cut it with the blow of the Moses’ rod.'
+  - 'lang': 'ro'
+    'text': 'Khulte Nahin Iss Qulzam-e-Khamosh Ke Asrar | Jab Tak Tu Iss Zarb-e-Kaleemi Se Na Cheere'

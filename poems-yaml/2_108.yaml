@@ -1,0 +1,28 @@
+---
+'id': '2_108'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-32.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'يہ نکتہ ميں نے سيکھا بوالحسن سے'
+- 'lang': 'en'
+  'text': 'It was Abul Hassan who stressed the truth'
+'description': []
+'sher':
+- 'id': '2_108_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ نکتہ ميں نے سيکھا بوالحسن سے | کہ جاں مرتي نہيں مرگ بدن سے'
+  - 'lang': 'en'
+    'text': 'It was Abul Hassan who stressed the truth, | That the soul does not expire with the body''s death;'
+  - 'lang': 'ro'
+    'text': 'Ye Nukta Main Ne Sikha Bu-Al-Hassan Se | Ke Jaan Marti Nahin Marg-e-Badan Se'
+- 'id': '2_108_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چمک سورج ميں کيا باقي رہے گي | !اگر بيزار ہو اپني کرن سے'
+  - 'lang': 'en'
+    'text': 'How could the sun have any light at all, | If it spurns and loses its own beams?'
+  - 'lang': 'ro'
+    'text': 'Chamak Sooraj Mein Kya Baqi Rahe Gi | Agar Bezar Ho Apni Kiran Se!'

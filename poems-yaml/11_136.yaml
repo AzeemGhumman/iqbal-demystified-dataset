@@ -1,0 +1,28 @@
+---
+'id': '11_136'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدرین بتخانہ دل با کس نبستم"
+- 'lang': 'en'
+  'text': 'XI-LVIII'
+'description': []
+'sher':
+- 'id': '11_136_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین بتخانہ دل با کس نبستم | ولیکن از مقام خود گسستم'
+  - 'lang': 'en'
+    'text': 'This heart, I tied not with aught in this fane, | I lost self’s place in my own eye’s pane.'
+- 'id': '11_136_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز من امروز میخواھد سجودی | خداوندی کہ دی او را شکستم'
+  - 'lang': 'en'
+    'text': 'Now he is looking for my ‘bows’ today, | On whom I was ruling just the last day.'
+    'notes':
+    - 'phrase': 'day.'
+      'meaning': '        Line 3 and 4 (Literal): [That idol seeks now my kowtows today, To whom I had broken just the last day.]'
+      'occurrence': !!int '1'

@@ -1,0 +1,37 @@
+---
+'id': '4_5'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/01-05.MP3'
+'heading':
+- 'lang': 'ur'
+  'text': 'معزول شہنشاہ'
+- 'lang': 'en'
+  'text': 'A DEPOSED MONARCH'
+'description': []
+'sher':
+- 'id': '4_5_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہو مبارک اس شہنشاہ نکو فرجام کو | جس کي قرباني سے اسرار ملوکيت ہيں فاش'
+  - 'lang': 'en'
+    'text': 'Good luck to that King, cashiered so gracefully, whose | Dismissal shows how a ruling Power behaves!'
+  - 'lang': 'ro'
+    'text': 'Ho Mubarik Uss Shahenshah-e-Nikofar Jaam Ko | Jis Ki Qurbani Se Asrar-e-Mulookiyat Hain Faash'
+- 'id': '4_5_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '''شاہ'' ہے برطانوي مندر ميں اک مٹي کا بت | جس کو کر سکتے ہيں، جب چاہيں پجاري پاش پاش'
+  - 'lang': 'en'
+    'text': 'In Britain’s fane the King is only a plaster | Image its worshippers smash whenever they choose;'
+  - 'lang': 'ro'
+    'text': '''Shah'' Hai Bartanvi Mandar Mein Ek Mitti Ka But | Jis Ko Kar Sakte Hain, Jab Chahain Poojari Paash Paash'
+- 'id': '4_5_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے يہ مشک آميز افيوں ہم غلاموں کے ليے | ساحر انگليس! مارا خواجہ ديگر تراش'
+  - 'lang': 'en'
+    'text': 'Its opiate incense is for us, the slaves— | Come, English swindler, bring out our new master!'
+  - 'lang': 'ro'
+    'text': 'Hai Ye Mushk Amaiz Afyoon Hum Ghulamon Ke Liye | Sahir-e-Ungleen ! Mara Khawaja''ay Digar Taraash'

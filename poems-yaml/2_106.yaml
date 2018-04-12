@@ -1,0 +1,28 @@
+---
+'id': '2_106'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-30.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کبھي تنہائي کوہ و دمن عشق'
+- 'lang': 'en'
+  'text': 'Love seeks sometimes the solitude of hills'
+'description': []
+'sher':
+- 'id': '2_106_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي تنہائي کوہ و دمن عشق | کبھي سوز و سرور و انجمن عشق'
+  - 'lang': 'en'
+    'text': 'Love seeks sometimes the solitude of hills; | At other times, the tuneful chords of life;'
+  - 'lang': 'ro'
+    'text': 'Kabhi Tanhai-e-Koh-o-Daman Ishq | Kabhi Souz-o-Suroor-o-Anjuman Ishq'
+- 'id': '2_106_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي سرمايہ محراب و منبر | !کبھي مولا علي خيبر شکن عشق'
+  - 'lang': 'en'
+    'text': 'Sometimes pent in the corner of a mosque, | At other times it fights like the Tiger of God.'
+  - 'lang': 'ro'
+    'text': 'Kabhi Sarmaya-E-Mehrab-o-Manbar | Kabhi Moula Ali (R.A.) Khaybar Shikan Ishq!'

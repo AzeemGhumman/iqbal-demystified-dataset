@@ -1,0 +1,24 @@
+---
+'id': '11_255'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچہ گویم رقص تو چون است و چون نیست"
+- 'lang': 'en'
+  'text': 'XIII-V'
+'description': []
+'sher':
+- 'id': '11_255_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ گویم رقص تو چون است و چون نیست | حشیش است این نشاط اندرون نیست'
+  - 'lang': 'en'
+    'text': 'The dance you now play in this or that way, | Is just a drug’s kick, a bliss to soul nay'
+- 'id': '11_255_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ تقلید فرنگی پاے کوبی | بہ رگہای تو  ن طغیان خون نیست'
+  - 'lang': 'en'
+    'text': 'In wake of whites so? You play feet, lo! | No blood boils ever in thy-own-veins so!'

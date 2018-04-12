@@ -1,0 +1,28 @@
+---
+'id': '11_348'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچو اشک اندر دل فطرت تپیدم"
+- 'lang': 'en'
+  'text': 'I-III'
+'description': []
+'sher':
+- 'id': '11_348_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو اشک اندر دل فطرت تپیدم | تپیدم تا بہ چشم او رسیدم'
+  - 'lang': 'en'
+    'text': 'In the heart of nature like tears I groan, | Till I got in her eyes a place by moans.'
+- 'id': '11_348_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درخش من ز مژگانش توان دید | کہ من بر برگ کاہی کم چکیدم'
+  - 'lang': 'en'
+    'text': 'On nature’s eyelash my shine could be seen. | I fall seldom thus on leaves of grass green.'
+    'notes':
+    - 'phrase': 'green.'
+      'meaning': '        Line 4: I am not such an ordinary thing which you can see on a grass leaf. (See me in nature''s heart and eye).'
+      'occurrence': !!int '1'

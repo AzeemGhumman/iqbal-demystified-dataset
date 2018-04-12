@@ -1,0 +1,24 @@
+---
+'id': '11_123'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ہنوز این خاک دارای شرر ہست'
+- 'lang': 'en'
+  'text': 'XI-XLV'
+'description': []
+'sher':
+- 'id': '11_123_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنوز این خاک دارای شرر ہست | ہنوز این سینہ را آہ سحر ہست'
+  - 'lang': 'en'
+    'text': 'This dust still feels His living flame, | To midnight sighs, the heart still claims.'
+- 'id': '11_123_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تجلی ریز بر چشمم کہ بینی | باین پیری مرا تاب نظر ہست'
+  - 'lang': 'en'
+    'text': 'Cast Thy vision’s light so that I may see, | Though old I have courage to bear this glee.'

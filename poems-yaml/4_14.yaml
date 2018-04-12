@@ -1,0 +1,28 @@
+---
+'id': '4_14'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-06.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کہا اقبال نے شيخ حرم سے'
+- 'lang': 'en'
+  'text': 'Iqbal said to the Shaykh of the Ka‘bah'
+'description': []
+'sher':
+- 'id': '4_14_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہا اقبال نے شيخ حرم سے | تہ محراب مسجد سو گيا کون'
+  - 'lang': 'en'
+    'text': 'Iqbal said to the Shaykh of the Ka‘bah: | ‘Who went to sleep under the very arch in the mosque?’'
+  - 'lang': 'ro'
+    'text': 'Kaha Iqbal Ne Sheikh-E-Haram Se | Teh-E-Mehrab-E-Masjid So Gya Kon'
+- 'id': '4_14_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندا مسجد کي ديواروں سے آئي | فرنگي بت کدے ميں کھو گيا کون؟'
+  - 'lang': 'en'
+    'text': 'A voice sounded from the walls of the mosque: | ‘Who became lost in the idol‐house of the West?’'
+  - 'lang': 'ro'
+    'text': 'Nida Masjid Ki Dewaron Se Ayi | Farangi But-kade Mein Kho Gya Kon?'

@@ -1,0 +1,24 @@
+---
+'id': '11_266'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ترا نومیدی از طفلان روا نیست'
+- 'lang': 'en'
+  'text': 'XV-VII'
+'description': []
+'sher':
+- 'id': '11_266_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا نومیدی از طفلان روا نیست | چہ پروا گر دماغ شان رسا نیست'
+  - 'lang': 'en'
+    'text': 'Why you lose hopes of kids a bit, | If they do not catch a point of wits.'
+- 'id': '11_266_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگو ای شیخ مکتب گر بدانی | کہ دل در سینۂ شان ہست یا نیست'
+  - 'lang': 'en'
+    'text': 'Tell me Maktab Sheikh if you know a lot, | Do they keep in bosom a heart or not?'

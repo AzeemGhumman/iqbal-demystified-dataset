@@ -1,0 +1,24 @@
+---
+'id': '7_45'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خرد اندر سر ھر کس نہادند'
+- 'lang': 'en'
+  'text': '(45)'
+'description': []
+'sher':
+- 'id': '7_45_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد اندر سر ھر کس نہادند | تنم چون دیگران از خاک و خون است'
+  - 'lang': 'en'
+    'text': 'There is an intellect in every man. | My body is, like others’, clay and blood,'
+- 'id': '7_45_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولی این راز کس جز من نداند | ضمیر خاک و خونم بیچگون است'
+  - 'lang': 'en'
+    'text': 'Just mud. But no one knows this secret but | Myself: a subtle soul informs my mud.'

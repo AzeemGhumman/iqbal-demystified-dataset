@@ -1,0 +1,24 @@
+---
+'id': '11_25'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دل از دست کسی بردن نداند'
+- 'lang': 'en'
+  'text': 'V-I'
+'description': []
+'sher':
+- 'id': '11_25_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل از دست کسی بردن نداند | غم اندر سینہ پروردن نداند'
+  - 'lang': 'en'
+    'text': 'To lose heart to some one he did not know, | How1 grief is held dear he knew not so.'
+- 'id': '11_25_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دم خود را دمیدی اندر آن خاک | کہ غیر از خوردن و مردن نداند'
+  - 'lang': 'en'
+    'text': 'He just fanned breath in his dusty frame, | Save eat and die he had no aim.'

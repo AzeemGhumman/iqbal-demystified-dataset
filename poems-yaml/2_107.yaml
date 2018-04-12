@@ -1,0 +1,28 @@
+---
+'id': '2_107'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-31.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عطا اسلاف کا جذب دروں کر'
+- 'lang': 'en'
+  'text': 'Grant me the absorption of souls of the past'
+'description': []
+'sher':
+- 'id': '2_107_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عطا اسلاف کا جذب دروں کر | شريک زمرئہ لا يحزنوں ، کر'
+  - 'lang': 'en'
+    'text': 'Grant me the absorption of souls of the past, | And let me be of those who never grieve;'
+  - 'lang': 'ro'
+    'text': 'Atta Islaf Ka Jazb-e-Daroon Kar | Shareek-e-Zamarahu La Yahzanoon, Kar'
+- 'id': '2_107_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد کي گتھياں سلجھا چکا ميں | !مرے مولا مجھے صاحب جنوں کر'
+  - 'lang': 'en'
+    'text': 'The riddles of reason I have solved, but now, | O Lord! Give me a life of ecstasy.'
+  - 'lang': 'ro'
+    'text': 'Khirad Ki Ghuthiyan Suljha Chuka Main | Mere Moula Mujhe Sahib-e-Junoon Kar!'

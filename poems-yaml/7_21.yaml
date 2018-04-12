@@ -1,0 +1,24 @@
+---
+'id': '7_21'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'شنیدم در عدم پروانہ میگفت'
+- 'lang': 'en'
+  'text': '(21)'
+'description': []
+'sher':
+- 'id': '7_21_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شنیدم در عدم پروانہ میگفت | دمی از زندگی تاب تبم بخش'
+  - 'lang': 'en'
+    'text': 'I hear a moth before Creation prayed, | "For one bright moment, God, let me be made.'
+- 'id': '7_21_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پریشان کن سحر خاکسترم را | ولیکن سوز و ساز یک شبم بخش'
+  - 'lang': 'en'
+    'text': 'At daybreak cast away my ashes; but | For one night let my splendour be displayed."'

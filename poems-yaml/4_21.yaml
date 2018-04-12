@@ -1,0 +1,28 @@
+---
+'id': '4_21'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-13.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کبھي دريا سے مثل موج ابھر کر'
+- 'lang': 'en'
+  'text': 'Sometimes by rising from the ocean like a wave'
+'description': []
+'sher':
+- 'id': '4_21_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي دريا سے مثل موج ابھر کر | کبھي دريا کے سينے ميں اتر کر'
+  - 'lang': 'en'
+    'text': 'Sometimes by rising from the ocean like a wave, | Occasionally like a diver in its bosom behave.'
+  - 'lang': 'ro'
+    'text': 'Kabhi Darya Se Misl-E-Mouj Ubhar Kar | Kabhi Darya Ke Sahil Se Guzar Kar'
+- 'id': '4_21_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي دريا کے ساحل سے گزر کر | مقام اپني خودي کا فاش تر کر'
+  - 'lang': 'en'
+    'text': 'At times cross beyond the ocean’s shore | To expose better your self’s real enclave.'
+  - 'lang': 'ro'
+    'text': 'Kabhi Darya Ke Sahil Se Guzar Kar | Maqam Apni Khudi Ka Faash Tar Kar'

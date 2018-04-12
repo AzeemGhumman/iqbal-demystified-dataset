@@ -1,0 +1,28 @@
+---
+'id': '11_293'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمرا یاد است از دانای افرنگ"
+- 'lang': 'en'
+  'text': 'IV-I'
+'description': []
+'sher':
+- 'id': '11_293_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا یاد است از دانای افرنگ | بسا رازی کہ از بود و عدم گفت'
+  - 'lang': 'en'
+    'text': 'I know many savants and gems of west, | On being and non being they felt the same quest.'
+- 'id': '11_293_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولیکن با تو گویم این دو حرفی | کہ با من پیر مردی از عجم گفت'
+  - 'lang': 'en'
+    'text': 'Bid me, tell to thee two words at least, | To me please talk in accent of East.'
+    'notes':
+    - 'phrase': 'East.'
+      'meaning': '        Line 3 (Literal): with this old man talk in accent of East.'
+      'occurrence': !!int '1'

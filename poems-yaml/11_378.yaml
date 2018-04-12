@@ -1,0 +1,31 @@
+---
+'id': '11_378'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFفرنگی را دلی زیر نگین نیست"
+- 'lang': 'en'
+  'text': 'III-VIII'
+'description': []
+'sher':
+- 'id': '11_378_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرنگی را دلی زیر نگین نیست | متاع او ہمہ ملک است دین نیست'
+  - 'lang': 'en'
+    'text': 'To Anglians thus the hearts do not own, | They own only lands, to faith they disown.'
+- 'id': '11_378_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خداوندی کہ در طوف حریمش | صد ابلیس است و یک روح الامین نیست'
+  - 'lang': 'en'
+    'text': 'O God during rounds of thy sacred place, | I saw hundred satans not the Gabe’s face.'
+    'notes':
+    - 'phrase': 'rounds'
+      'meaning': '        During rounds; viz circumambulation or Tawaf (or tawf) in Arabic. Sacred place viz Kaaba (in Mecca).'
+      'occurrence': !!int '1'
+    - 'phrase': 'Gabe’s'
+      'meaning': '        The Gabe, a diminutive noun of the Gabrial, one of the seven arch angels of the God. (Dan 8 16; luke 1: 26) as Dan is dim. of Daniel.'
+      'occurrence': !!int '1'

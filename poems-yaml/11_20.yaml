@@ -1,0 +1,24 @@
+---
+'id': '11_20'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ آن قوم از تو میخواہم گشادی'
+- 'lang': 'en'
+  'text': 'IV-I'
+'description': []
+'sher':
+- 'id': '11_20_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ آن قوم از تو میخواہم گشادی | فقیہش بی یقینی کم سوادی'
+  - 'lang': 'en'
+    'text': 'I seek for that nation a rising field, | With jurists confused, too rigid to yield.'
+- 'id': '11_20_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بسی نادیدنے را دیدہ ام من | ’’مرا ای کاشکی مادر نزادی‘‘'
+  - 'lang': 'en'
+    'text': 'The woes I have seen I wish not to spot, | Alas my mother had mothered me not.'

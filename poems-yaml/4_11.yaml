@@ -1,0 +1,28 @@
+---
+'id': '4_11'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-03.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'دگرگوں عالم شام و سحر کر'
+- 'lang': 'en'
+  'text': 'Upset this world of morn and eve'
+'description': []
+'sher':
+- 'id': '4_11_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگرگوں عالم شام و سحر کر | جہان خشک و تر زير و زبر کر'
+  - 'lang': 'en'
+    'text': 'Upset this world of morn and eve, | Of these wetlands, of those dry leave.'
+  - 'lang': 'ro'
+    'text': 'Digargoon Alam-E-Shaam-O-Sahar Kar | Jahan-E-Khusk-O-Tar Zayr-O-Zabar Kar'
+- 'id': '4_11_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رہے تيري خدائي داغ سے پاک | مرے بے ذوق سجدوں سے حذر کر'
+  - 'lang': 'en'
+    'text': 'May your Godhead remain free of blemish all | In my insipid prostrations do not believe!'
+  - 'lang': 'ro'
+    'text': 'Rahe Teri Khudai Daagh Se Pak | Mere Bezauq Sajdon Se Hazzar Kar'

@@ -1,0 +1,24 @@
+---
+'id': '11_83'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ چشمش وانمودم زندگی را'
+- 'lang': 'en'
+  'text': 'XI-V'
+'description': []
+'sher':
+- 'id': '11_83_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ چشمش وانمودم زندگی را | گشودم نکتہ فردا و دی را'
+  - 'lang': 'en'
+    'text': 'I have scanned the whole world through his eye, | So past and future tips I would untie.'
+- 'id': '11_83_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'توان اسرار جانرا فاش تر گفت | بدہ نطق عرب این اعجمی را'
+  - 'lang': 'en'
+    'text': 'Thus ope more and more life’s secret tips, | Give the Arab’s tone on this Ajmi’s1 lips.'

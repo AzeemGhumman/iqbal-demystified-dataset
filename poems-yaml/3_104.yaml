@@ -1,0 +1,46 @@
+---
+'id': '3_104'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/03-09.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عورت'
+- 'lang': 'en'
+  'text': 'WOMAN'
+'description': []
+'sher':
+- 'id': '3_104_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جوہر مرد عياں ہوتا ہے بے منت غير | غير کے ہاتھ ميں ہے جوہر عورت کي نمود'
+  - 'lang': 'en'
+    'text': 'The spirit of man can display its self without obligation to another, | But the spirit of woman cannot fully reveal its self without another’s help.'
+  - 'lang': 'ro'
+    'text': 'Johar-e-Mardayan Hota Hai Be Minnat-e-Ghair | Ghair Ke Hath Mein Hai Johar-e-Aurat Ki Namood'
+- 'id': '3_104_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'راز ہے اس کے تپ غم کا يہي نکتہ شوق | آتشيں ، لذت تخليق سے ہے اس کا وجود'
+  - 'lang': 'en'
+    'text': 'Her desire is the secret of her fever of sorrow: | Her existence is full of fire with the wish to create.'
+  - 'lang': 'ro'
+    'text': 'Raaz Iss Ke Tap-e-Gham Ka Yehi Nukta-e-Shauq | Atisheen, Lazzat-e-Takhleeq Se Hai Iss Ka Wujood'
+- 'id': '3_104_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کھلتے جاتے ہيں اسي آگ سے اسرار حيات | گرم اسي آگ سے ہے معرکہ بود و نبود'
+  - 'lang': 'en'
+    'text': 'Here is the fire which opens the secrets of life; | That is the heat which sustains the struggle between to be and not to be.'
+  - 'lang': 'ro'
+    'text': 'Khule Jate Hain Issi Aag Se Asrar-e-Hayat | Garam Issi Aag Se Hai Maarka-e-Bood-o-Nabood'
+- 'id': '3_104_4'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميں بھي مظلومي نسواں سے ہوں غم ناک بہت | !نہيں ممکن مگر اس عقدہ مشکل کي کشود'
+  - 'lang': 'en'
+    'text': 'I too feel sad about the oppression of women, | But this knotty problem cannot be resolved.'
+  - 'lang': 'ro'
+    'text': 'Mein Bhi Mazloomi-e-Niswan Se Hun Gham-Naak Bohat | Nahin Mumkin Magar Iss Uqda-e-Mushkil Ki Kushood!'

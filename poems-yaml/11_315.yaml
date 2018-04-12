@@ -1,0 +1,31 @@
+---
+'id': '11_315'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFتو میگوئی کہ دل از خاک و خون است"
+- 'lang': 'en'
+  'text': 'VIII-V'
+'description': []
+'sher':
+- 'id': '11_315_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو میگوئی کہ دل از خاک و خون است | گرفتار طلسم کاف و نون است'
+  - 'lang': 'en'
+    'text': 'You say the heart is the Khak and Khoon , | A work of magic of Kaf and Noon.'
+    'notes':
+    - 'phrase': 'Khoon'
+      'meaning': '        Khak and Khoon; mud (dust) and blood.'
+      'occurrence': !!int '1'
+    - 'phrase': 'Noon.'
+      'meaning': '        K and N or Kaf and Nun, are two Arabic alphabets. From K and N, God said ''Kun'' = be, become and the whole cosmos came into being. God says ''be'' (Kun) and it ''becomes'' automatically a reality.'
+      'occurrence': !!int '1'
+- 'id': '11_315_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل ما گرچہ اندر سینۂ ماست | ولیکن از جھان ما برون است'
+  - 'lang': 'en'
+    'text': 'My heart is though in the bosom of mine, | It is yet beyond the pale of world thine.'

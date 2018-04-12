@@ -1,0 +1,28 @@
+---
+'id': '11_158'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFترا اندر بیابانی مقام است"
+- 'lang': 'en'
+  'text': 'XIII-V'
+'description': []
+'sher':
+- 'id': '11_158_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا اندر بیابانی مقام است | کہ شامش چون سحر آئینہ فام است'
+  - 'lang': 'en'
+    'text': 'You hold a high place in the desert’s land, | Whose eyes are bright like a mirror house grand.'
+- 'id': '11_158_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہرجائی کہ خواہی خیمہ گستر | طناب از دیگران جستن حرام است'
+  - 'lang': 'en'
+    'text': 'Where e’er you wish you may pitch up the tents. | But ban a feast there if the tent chords are lent.'
+    'notes':
+    - 'phrase': 'lent.'
+      'meaning': '        Line 2 (Literal): whose eve like dawn is a mirror house grand.'
+      'occurrence': !!int '1'

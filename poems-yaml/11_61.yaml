@@ -1,0 +1,24 @@
+---
+'id': '11_61'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'حکیمان را بھا کمتر نہادند'
+- 'lang': 'en'
+  'text': 'VIII-II'
+'description': []
+'sher':
+- 'id': '11_61_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکیمان را بھا کمتر نہادند | بہ نادان جلوہ مستانہ دادند'
+  - 'lang': 'en'
+    'text': 'To wise he gave less wealth and affluence, | The duffer got lustres of raptures hence.'
+- 'id': '11_61_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ خوش بختی ، چہ خرم روزگاری | در سلطان بہ درویشی گشادند'
+  - 'lang': 'en'
+    'text': 'How lucky they were and lucky that age, | When king’s door were open to a saint or page.'

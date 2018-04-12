@@ -1,0 +1,28 @@
+---
+'id': '11_210'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمسلمانے کہ خود را امتحان کرد"
+- 'lang': 'en'
+  'text': 'VI-VIX'
+'description': []
+'sher':
+- 'id': '11_210_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانے کہ خود را امتحان کرد | غبار راہ خود را  سمان کرد'
+  - 'lang': 'en'
+    'text': 'A Muslim who tested his own ego first, | He took to the heavens his paths’s own dust.'
+- 'id': '11_210_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شرار شوق اگر داری نگھدار | کہ با وی  فتابی میتوان کرد'
+  - 'lang': 'en'
+    'text': 'Keep an eye on, if you hold the love flame, | With that you could make the whole world tame.'
+    'notes':
+    - 'phrase': 'tame.'
+      'meaning': '        To guard, lit it not to be extinguished. His path''s own dust; the poet himself. Those who followed his path.'
+      'occurrence': !!int '1'

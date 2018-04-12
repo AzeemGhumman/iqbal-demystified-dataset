@@ -1,0 +1,24 @@
+---
+'id': '7_7'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'درین گلشن پریشان مثل بویم'
+- 'lang': 'en'
+  'text': '(7)'
+'description': []
+'sher':
+- 'id': '7_7_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین گلشن پریشان مثل بویم | نمیدانم چہ میخواھم چہ جویم'
+  - 'lang': 'en'
+    'text': 'I roam this garden like its flowers’ scent, | Not knowing on what quest my heart is bent.'
+- 'id': '7_7_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برآید آرزو یا بر نیاید | شہید سوز و ساز آرزویم'
+  - 'lang': 'en'
+    'text': 'Whatever be the fate of my desire, | Its fire in my breast never will be spent.'

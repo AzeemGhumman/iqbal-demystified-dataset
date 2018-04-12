@@ -1,0 +1,28 @@
+---
+'id': '3_144'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-40.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'شعر'
+- 'lang': 'en'
+  'text': 'VERSE'
+'description': []
+'sher':
+- 'id': '3_144_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميں شعر کے اسرار سے محرم نہيں ليکن | يہ نکتہ ہے ، تاريخ امم جس کي ہے تفصيل'
+  - 'lang': 'en'
+    'text': 'I do not know the mysteries of poetry. | This point, however, is clear from the nation’s history.'
+  - 'lang': 'ro'
+    'text': 'Main Shair Ke Asrar Se Mehram Nahin Lekin | Ye Nukta Hai, Tareekh-e-Umam Jis Ki Hai Tafseel'
+- 'id': '3_144_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ شعر کہ پيغام حيات ابدي ہے | يا نغمہ جبريل ہے يا بانگ سرافيل'
+  - 'lang': 'en'
+    'text': 'That poetry which is a message of eternal life | Is Gabriel’s song or Israfil’s trumpet‐call.'
+  - 'lang': 'ro'
+    'text': 'Woh Shair Ke Paigham-e-Hayat-e-Abdi Hai | Ya Naghma-e-Jibreel Hai Ya Bang-e-Sarafeel!'

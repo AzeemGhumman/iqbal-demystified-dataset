@@ -1,0 +1,39 @@
+---
+'id': '2_78'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/03.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFانداز بياں گرچہ بہت شوخ نہيں ہے"
+- 'lang': 'en'
+  'text': 'The style may not he vivid and lively'
+'description':
+- 'lang': 'en'
+  'text': 'This poem introduces one of Iqbal''s basic understanding about the downfall of Islamic civilization in political as well as social and religious spheres.  Therefore, he creates a comparison of understanding of religion in Muslims in their golden age and today''s Islamic conceptualization. | {Contributed by user: Saad Mahmood}'
+'sher':
+- 'id': '2_78_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'انداز بياں گرچہ بہت شوخ نہيں ہے | شايد کہ اتر جائے ترے دل ميں مري بات'
+  - 'lang': 'en'
+    'text': 'The style may not he vivid and lively, still | Perhaps the meaning may penetrate thy mind:'
+  - 'lang': 'ro'
+    'text': 'Andaz-e-Byan Gharche Bohat Shaukh Nahin Hai | Shaid Ke Utar Jaye Tere Dil Mein Meri Baat'
+- 'id': '2_78_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يا وسعت افلاک ميں تکبير مسلسل | يا خاک کے آغوش ميں تسبيح و مناجات'
+  - 'lang': 'en'
+    'text': 'The faith of men of God and ecstasy | Is like the call to prayer echoing in the skies;'
+  - 'lang': 'ro'
+    'text': 'Ya Wusaat-e-Aflak Mein Takbeer-e-Musalsal | Ya Khak Ke Aghosh Mein Tasbeeh-o-Munajat'
+- 'id': '2_78_3'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ مذہب مردان خود آگاہ و خدا مست | يہ مذہب ملا و جمادات و نباتات'
+  - 'lang': 'en'
+    'text': 'The faith of the mullah, a vermin of the earth, | Is the telling of beads, and mumblings in the dust.'
+  - 'lang': 'ro'
+    'text': 'Woh Mazhab-e-Mardan-e-Khud Agah-o-Khuda Mast | Ye Mazhab-e-Mullah-o-Jamadat-o-Nabataat'

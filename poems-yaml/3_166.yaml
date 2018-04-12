@@ -1,0 +1,32 @@
+---
+'id': '3_166'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-19.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'جمہوريت'
+- 'lang': 'en'
+  'text': 'DEMOCRACY'
+'description': []
+'sher':
+- 'id': '3_166_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس راز کو اک مرد فرنگي نے کيا فاش | ہر چند کہ دانا اسے کھولا نہيں کرتے'
+  - 'lang': 'en'
+    'text': 'A certain European revealed a secret, | Although the wise do not reveal the core of the matter.'
+    'notes':
+    - 'phrase': 'European'
+      'meaning': 'Stendhal'
+      'occurrence': !!int '1'
+  - 'lang': 'ro'
+    'text': 'Iss Raaz Ko Ek Mard-e-Farangi* Ne Kiya Fash | Har Chand Ke Dana Isse Khila Nahin Karte'
+- 'id': '3_166_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جمہوريت اک طرز حکومت ہے کہ جس ميں | بندوں کو گنا کرتے ہيں ، تولا نہيں کرتے'
+  - 'lang': 'en'
+    'text': 'Democracy is a certain form of government in which | Men are counted but not weighed.'
+  - 'lang': 'ro'
+    'text': 'Jumhooriat Ek Tarz-e-Hukumat Hai Ke Jis Mein | Bandon Ko Gina Karte Hain, Tola Nahin Karte!'

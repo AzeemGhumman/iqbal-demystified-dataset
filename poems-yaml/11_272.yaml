@@ -1,0 +1,28 @@
+---
+'id': '11_272'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFجوانی خوش گلی رنگین کلاہی"
+- 'lang': 'en'
+  'text': 'XV-XIII'
+'description': []
+'sher':
+- 'id': '11_272_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جوانی خوش گلی رنگین کلاہی | نگاہ او چو شیران بی پناہی'
+  - 'lang': 'en'
+    'text': 'A well dressed fighter and handsome guy, | His flaming eyes beamed like a lion’s eye.'
+- 'id': '11_272_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ مکتب علم میشی را بیاموخت | میسر نایدش برگ گیاہی'
+  - 'lang': 'en'
+    'text': 'He learn’d from Maktab a knowledge of sheep | He is now craving for few crumbs to keep.'
+    'notes':
+    - 'phrase': 'keep.'
+      'meaning': '        Nigah (glance) Be panah, unlimited (shelterless), this construction is not used in the English language. Here the metaphorical meaning of be pariah would be ferocious savage.'
+      'occurrence': !!int '1'

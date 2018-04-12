@@ -1,0 +1,28 @@
+---
+'id': '11_307'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمگو با من خدای ما چنین کرد"
+- 'lang': 'en'
+  'text': 'VI-VII'
+'description': []
+'sher':
+- 'id': '11_307_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مگو با من خدای ما چنین کرد | کہ شستن میتوان از دامنش گرد'
+  - 'lang': 'en'
+    'text': 'Blame not the God for this or that hurt, | This dust should be dusted from thy skirt.'
+- 'id': '11_307_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تہ بالا کن این عالم کہ در وی | قماری میبرد نامرد از مرد'
+  - 'lang': 'en'
+    'text': 'Change the heinous world whose bad nature yet, | Gives lead to bookies to take the whole bet.'
+    'notes':
+    - 'phrase': 'bet.'
+      'meaning': '        Az daman-ash, here the antecedent (merja) as pronoun hints towards man and not towards God. It means that man must absolve himself from such complaints against God.'
+      'occurrence': !!int '1'

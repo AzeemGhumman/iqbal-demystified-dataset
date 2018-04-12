@@ -1,0 +1,24 @@
+---
+'id': '11_43'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نگاہی داشتم بر جوہر دل'
+- 'lang': 'en'
+  'text': 'I-II'
+'description': []
+'sher':
+- 'id': '11_43_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگاہی داشتم بر جوہر دل | تپیدم ، آرمیدم در بر دل'
+  - 'lang': 'en'
+    'text': 'I keep my eyes penchant on hearts essence, | Though writhing I am resting on heart’s fence.'
+- 'id': '11_43_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رمیدم از ہوای قریہ و شہر | بہ باد دشت وا کردم در دل'
+  - 'lang': 'en'
+    'text': 'From cities and bergs I liked to flee, | To the deserts breeze I look up with glee.'

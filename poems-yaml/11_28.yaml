@@ -1,0 +1,28 @@
+---
+'id': '11_28'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFشب این انجمن آراستم من"
+- 'lang': 'en'
+  'text': 'V-IV'
+'description': []
+'sher':
+- 'id': '11_28_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شب این انجمن آراستم من | چو مہ از گردش خود کاستم من'
+  - 'lang': 'en'
+    'text': 'Knows not the Gabriel this hue and cry, | He knows not the status of quest and pry.'
+- 'id': '11_28_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکایت از تغافلہای تو رفت | ولیکن از میان برخاستم من'
+  - 'lang': 'en'
+    'text': 'Then ask the poor man, who is hapless still, | Who knows the sting and nectar of will.'
+    'notes':
+    - 'phrase': 'nectar'
+      'meaning': '        The central thought of this poem is that Man''s status is higher than Angels'' as angels are not gifted with man intrinsic faculties.'
+      'occurrence': !!int '1'

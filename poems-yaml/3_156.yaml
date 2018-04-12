@@ -1,0 +1,28 @@
+---
+'id': '3_156'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-09.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'آج اور کل'
+- 'lang': 'en'
+  'text': 'TODAY AND TOMORROW'
+'description': []
+'sher':
+- 'id': '3_156_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ کل کے غم و عيش پہ کچھ حق نہيں رکھتا | جو آج خود افروز و جگر سوز نہيں ہے'
+  - 'lang': 'en'
+    'text': 'No claim to the future, its joy or sorrow, | Has he in whose soul no hot passion burns now;'
+  - 'lang': 'ro'
+    'text': 'Woh Kal Ke Gham-o-Ayesh Pe Kuch Haq Nahin Rakhta | Jo Aaj Khud Afroz-o-Jigar Souz Nahin Hai'
+- 'id': '3_156_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ قوم نہيں لائق ہنگامہ فردا | !جس قوم کي تقدير ميں امروز نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Unworthy the tumult and strife of tomorrow | That nation to whole will to‐day does not bow.'
+  - 'lang': 'ro'
+    'text': 'Woh Qoum Nahin Laeek-e-Hangama-e-Farda | Jis Qoum Ki Taqdeer Mein Amroz Nahin Hai!'

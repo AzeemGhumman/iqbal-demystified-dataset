@@ -1,0 +1,35 @@
+---
+'id': '11_85'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمتاع شیخ اساطیر کہن بود"
+- 'lang': 'en'
+  'text': 'XI-VII'
+'description': []
+'sher':
+- 'id': '11_85_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'متاع شیخ اساطیر کہن بود | حدیث او ہمہ تخمین و ظن بود'
+  - 'lang': 'en'
+    'text': 'The assets of Sheikh were the fables old, | On guess and thinking his Hadith was mould.'
+    'notes':
+    - 'phrase': 'Sheikh'
+      'meaning': '        Assets of Sheikh viz, the canonist, who issues rescripts on doctrinal points.'
+      'occurrence': !!int '1'
+    - 'phrase': 'guess'
+      'meaning': '        Zan; conjecture supposition.'
+      'occurrence': !!int '1'
+- 'id': '11_85_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنوز اسلام او زنار دار است | حرم چون دیر بود او برہمن بود'
+  - 'lang': 'en'
+    'text': 'He holds faith yet like a Hindu’s thread , | His mosque thus sways in a temple’s stead.'
+    'notes':
+    - 'phrase': 'thread'
+      'meaning': '        Hindu''s thread; as worn by Brehmans like rosary of Muslims and Christians is called a Jan''a Ou: in Hindi and Sanskrit.'
+      'occurrence': !!int '1'

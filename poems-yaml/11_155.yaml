@@ -1,0 +1,24 @@
+---
+'id': '11_155'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو سلطان حجازی من فقیرم'
+- 'lang': 'en'
+  'text': 'XIII-II'
+'description': []
+'sher':
+- 'id': '11_155_1'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو سلطان حجازی من فقیرم | ولی در کشور معنی امیرم'
+  - 'lang': 'en'
+    'text': 'A poor man I’m, you hold the ‘Arab’s reign, | I hold a king’s place in meaning’s domain.'
+- 'id': '11_155_2'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہانی کو ز تخم ’’لاالہ‘‘ رست | بیا بنگر بہ آغوش ضمیرم'
+  - 'lang': 'en'
+    'text': 'A world which grew up from ‘Lailah’s’ seed, | Its root are quite deep in my faith and creed.'
