@@ -1,0 +1,74 @@
+---
+lists:
+- id: List_1
+  name:
+  - lang: ur
+    text: بانگ درا
+  - lang: en
+    text: Bang-e-Dara
+- id: List_2
+  name:
+  - lang: ur
+    text: بال جبریل
+  - lang: en
+    text: Bal-e-Jibreel
+- id: List_3
+  name:
+  - lang: ur
+    text: ضرب کلیم
+  - lang: en
+    text: Zarb-e-Kaleem
+- id: List_4
+  name:
+  - lang: ur
+    text: ارمغان حجاز (اردو)
+  - lang: en
+    text: Armaghan-e-Hijaz (English)
+- id: List_5
+  name:
+  - lang: ur
+    text: اسرارِ خودی
+  - lang: en
+    text: Asrar-e-Khudi
+- id: List_6
+  name:
+  - lang: ur
+    text: رموزِ بیخودی
+  - lang: en
+    text: Rumuz-e-Bekhudi
+- id: List_7
+  name:
+  - lang: ur
+    text: پیامِ مشرق
+  - lang: en
+    text: Payam-e-Mashriq
+- id: List_8
+  name:
+  - lang: ur
+    text: زبورِعجم
+  - lang: en
+    text: Zabur-e-Ajam
+- id: List_9
+  name:
+  - lang: ur
+    text: جاوید نامہ
+  - lang: en
+    text: Javed Nama
+- id: List_10
+  name:
+  - lang: ur
+    text: پس چہ بائد کرد
+  - lang: en
+    text: Pas Cheh Bayad Kard
+- id: List_11
+  name:
+  - lang: ur
+    text: ارمغان حجاز (فارسی)
+  - lang: en
+    text: Armaghan-e-Hijaz (Persian)
+- id: List_Editor
+  name:
+  - lang: ur
+    text: انتخاب
+  - lang: en
+    text: Editor's Pick
