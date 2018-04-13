@@ -11,11 +11,12 @@ There are 3 types of YAML files
 
 ###  List Of Lists
 This YAML file contains the lists of all the lists present in the database. There is an ID associated with each List. To get the contents of a specific lists, the user can query the server using the List ID
+
 | Field Name | Type | Description
 | ------ | ------ | ------ |
 | lists | [ListOfListsObject](#listoflistsobject) |
 
-##### Example
+##### Example - a small section of list-of-lists.yaml file
 ---
 lists:
 - id: List_001
@@ -39,7 +40,7 @@ This YAML file contains the contents of a list. A list is further divided into s
 | name | List<[ListNameObject](#listnameobject)> |
 | sections | List<[SectionObject](sectionobject)> |
 
-##### Example
+##### Example - a small section of lists/List_001.yaml
 ---
 name:
 - lang: ur
@@ -77,7 +78,7 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 | description | List<[DescriptionObject](#descriptionobject)> |
 | sher | List<[SherObject](#sherobject)> |
 
-##### Example
+##### Example - a small section of poems/001/001_010.yaml
 ---
 'id': '001_010'
 'audioUrl': ''
@@ -158,9 +159,9 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 
 # Text Structure (Deprecated)
 
-### Scripts
 When I started collecting data, I used a custom format to store the contents in text file. After some time, I realized that an approach like this can work for simple projects, but if I want to move data around, I have to implement special parsers for every platform that needs to extract the contents of these files. We have ported all files to **YAML**. Almost every language has a YAML parser implemented which we can use to extract the contents. 
 
+### Scripts
 To port files from custom text format to YAML format, I wrote the following 2 scripts:
 
 * convert-list-text-to-yaml.py
