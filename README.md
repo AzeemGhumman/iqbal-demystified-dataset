@@ -20,8 +20,10 @@ This repository contains the following books by [Dr. Allama Iqbal](https://en.wi
     (ارمغان حجاز (فارسی [Armaghan-e-Hijaz (Persian)]
 
 ## Source
-Major source of the data is [Iqbal Academy Pakistan](http://iap.gov.pk/) website
+Major source of the data is [Iqbal Academy Pakistan](http://iap.gov.pk/) website.
+
 Other than that, hundreds of _Iqbal Demystified Android App Users_ have reported typos in the text.
+
 A lot of poem introductions are also contributed by our App users.
 
 ## Intent
@@ -29,10 +31,13 @@ This repository serves as the source of truth for our projects that use this dat
 
 Currently, we have 2 projects that use this data:
 * [Iqbal Demystified Android App](https://play.google.com/store/apps/details?id=com.vanity.iqbal&hl=en_US)
+    
     We recently made this an open-souce project.
-GitHub link: https://github.com/AzeemGhumman/iqbal-demystified-android-app
+    
+    GitHub link: https://github.com/AzeemGhumman/iqbal-demystified-android-app
 * Iqbal Demystified Web Client
-GitHub link: https://github.com/azeemghumman/iqbal-demystified-web-client
+
+    GitHub link: https://github.com/azeemghumman/iqbal-demystified-web-client
 
 We also encourage researchers and hobbyists to use this dataset for their projects. The **developers** folder contains more information about the YAML defination.
 
@@ -43,4 +48,5 @@ TODO: Can someone please go over the steps required to submit a pull request - w
 
 ## Contact
 Email: azeemghumman3@gmail.com
+
 Project supported by: [International Iqbal Society](http://iqbal.com.pk/)
