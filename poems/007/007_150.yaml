@@ -1,0 +1,24 @@
+---
+'id': '007_150'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'قبای زندگانی چاک تا کی'
+- 'lang': 'en'
+  'text': '(150)'
+'description': []
+'sher':
+- 'id': '007_150_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قبای زندگانی چاک تا کی | چو موران آشیان در خاک تا کی'
+  - 'lang': 'en'
+    'text': 'How long will you remain depressed like this? | How long have, your nest in the dust like ants?'
+- 'id': '007_150_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بپرواز آًًً و شاہینی بیاموز | تلاش دانہ در خاشاک تا کی'
+  - 'lang': 'en'
+    'text': 'Learn how to fly like falcons and soar high; | Seek food, not on the ground, but in the sky.'

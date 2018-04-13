@@ -1,0 +1,46 @@
+---
+'id': '003_172'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-25.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'دام تہذيب'
+- 'lang': 'en'
+  'text': 'CIVILIZATION’S CLUTCHES'
+'description': []
+'sher':
+- 'id': '003_172_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اقبال کو شک اس کي شرافت ميں نہيں ہے | ہر ملت مظلوم کا يورپ ہے خريدار'
+  - 'lang': 'en'
+    'text': 'Iqbal has no doubt of Europe’s humaneness: | She sheds tears for all peoples groaning beneath oppression;'
+  - 'lang': 'ro'
+    'text': 'Iqbal Ko Shak Iss Ki Sharafat Mein Nahin Hai | Har Millat-e-Mazloom Ka Yourap Hai Khareedar'
+- 'id': '003_172_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ پير کليسا کي کرامت ہے کہ اس نے | بجلي کے چراغوں سے منور کيے افکار'
+  - 'lang': 'en'
+    'text': 'Her reverend churchmen furnish her liberally | With wiring and bulbs for moral illumination.'
+  - 'lang': 'ro'
+    'text': 'Ye Peer-e-Kaleesa Ki Karamat Hai Ke Uss Ne | Bijli Ke Charaghon Se Munawwar Kiye Afkar'
+- 'id': '003_172_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جلتا ہے مگر شام و فلسطيں پہ مرا دل | تدبير سے کھلتا نہيں يہ عقدہ دشوار'
+  - 'lang': 'en'
+    'text': 'And yet, my heart burns for Syria and Palestine, | And finds for this knotty puzzle no explanation—'
+  - 'lang': 'ro'
+    'text': 'Jalta Hai Magar Sham-o-Falasteen Pe Mera Dil | Tadbeer Se Khulta Nahin Ye Uqda-e-Dushwar'
+- 'id': '003_172_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترکان ''جفا پيشہ'' کے پنجے سے نکل کر | بيچارے ہيں تہذيب کے پھندے ميں گرفتار'
+  - 'lang': 'en'
+    'text': 'Enlarged from the ‘savage grasp’ of the Turk, they pine, | Poor things, in the clutches now of ‘civilization.’'
+  - 'lang': 'ro'
+    'text': 'Turkaan-e-‘Jafa Paisha’ Ke Panje Se Nikl Kar | Bechare Hain Tehzeeb Ke Phande Mein Giraftar!'

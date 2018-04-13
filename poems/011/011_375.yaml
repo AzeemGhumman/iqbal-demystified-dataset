@@ -1,0 +1,32 @@
+---
+'id': '011_375'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFز پیری یاد دارم این دو اندرز"
+- 'lang': 'en'
+  'text': 'III-V'
+'description': []
+'sher':
+- 'id': '011_375_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز پیری یاد دارم این دو اندرز | نباید جز بجان خویشتن زیست'
+  - 'lang': 'en'
+    'text': 'Two worlds of old man I keep in mind still, | That a man is alive from one’s own will.'
+    'notes':
+    - 'phrase': 'worlds'
+      'meaning': '        Andurz advice, a will, a maxim.'
+      'occurrence': !!int '1'
+- 'id': '011_375_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گریز از پیش  ن مرد فرودست | کہ جان خود گرو کرد و بہ تن زیست'
+  - 'lang': 'en'
+    'text': 'Shun that mean man who made no life’s goal, | For body who lived and pawned his soul.'
+    'notes':
+    - 'phrase': 'mean'
+      'meaning': '        Frodast; weak, bumble, of low birth.'
+      'occurrence': !!int '1'

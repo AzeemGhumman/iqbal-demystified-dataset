@@ -1,0 +1,28 @@
+---
+'id': '011_241'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFخنک مردان کہ سحر او شکستند"
+- 'lang': 'en'
+  'text': 'XI-II'
+'description': []
+'sher':
+- 'id': '011_241_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خنک مردان کہ سحر او شکستند | بہ پیمان فرنگی دل نبستند'
+  - 'lang': 'en'
+    'text': 'How daring were they who broke his charms, | Who paid no heed to his pledges warm.'
+- 'id': '011_241_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مشو نومید و با خود  شنا باش | کہ مردان پیش ازین بودند و ہستند'
+  - 'lang': 'en'
+    'text': 'Get not despaired, have thy ego’s own view, | What did the past nations you also do.'
+    'notes':
+    - 'phrase': 'do.'
+      'meaning': '        Iqbal has given the same thought of Line 3 in Zarb-i-Kaleem in an address to P.L.O. (Palestine Liberation Organisation).'
+      'occurrence': !!int '1'

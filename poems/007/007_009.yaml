@@ -1,0 +1,24 @@
+---
+'id': '007_009'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'سحر می گفت بلبل باغبان را'
+- 'lang': 'en'
+  'text': '(9)'
+'description': []
+'sher':
+- 'id': '007_009_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سحر می گفت بلبل باغبان را | درین گل جز نہال غم نگیرد'
+  - 'lang': 'en'
+    'text': '"O gardener", said the nightingale one morn, | "No plant but grief has this soil ever borne.'
+- 'id': '007_009_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ پیری میرسد خار بیابان | ولی گل چون جوان گردد بمیرد'
+  - 'lang': 'en'
+    'text': 'The rose dies as soon as it reaches youth; | To a ripe old age lives the desert thorn."'

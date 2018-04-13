@@ -1,0 +1,46 @@
+---
+'id': '002_175'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-57.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'آزادي افکار'
+- 'lang': 'en'
+  'text': 'FREEDOM OF THOUGHT'
+'description': []
+'sher':
+- 'id': '002_175_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جو دوني فطرت سے نہيں لائق پرواز | اس مرغک بيچارہ کا انجام ہے افتاد'
+  - 'lang': 'en'
+    'text': 'Falling down is the destiny of that bird | Whose duality of nature renders him unable to fly.'
+  - 'lang': 'ro'
+    'text': 'Jo Dooni Fitrat Se Nahin Laik-e-Parwaz | Uss Murghak-e-Bechara Ka Anjaam Hai Uftaad'
+- 'id': '002_175_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر سينہ نشيمن نہيں جبريل اميں کا | ہر فکر نہيں طائر فردوس کا صےاد'
+  - 'lang': 'en'
+    'text': 'Not every heart is an abode to the trusty Gabriel, | Nor can every thought ensnare the Paradise like a bird.'
+  - 'lang': 'ro'
+    'text': 'Har Seena Naheman Nahin Jibreel-e-Ameen Ka | Har Fikar Nahin Tair-e-Firdous Ka Sayyad'
+- 'id': '002_175_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس قوم ميں ہے شوخي انديشہ خطرناک | جس قوم کے افراد ہوں ہر بند سے آزاد'
+  - 'lang': 'en'
+    'text': 'The ecstasy of thought is dangerous in a nation | Where the individuals observe no rule.'
+  - 'lang': 'ro'
+    'text': 'Uss Qoum Mein Hai Shoukhi-e-Andesha Khatarnak | Jis Qoum Ke Afraad Hon Har Band Se Azad'
+- 'id': '002_175_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گو فکر خدا داد سے روشن ہے زمانہ | آزادي افکار ہے ابليس کي ايجاد'
+  - 'lang': 'en'
+    'text': 'Though God‐gifted intellect is the lamp of an age, | The freedom of thought is a Satanic concept.'
+  - 'lang': 'ro'
+    'text': 'Go Fikar-e-Khudad Se Roshan Hai Zamana | Azadi-e-Afkar Hai Iblees Ki Aejaad'

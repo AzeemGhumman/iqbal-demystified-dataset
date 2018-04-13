@@ -1,0 +1,28 @@
+---
+'id': '011_153'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبدہ دستی ز پا افتادگان را"
+- 'lang': 'en'
+  'text': 'XII-III'
+'description': []
+'sher':
+- 'id': '011_153_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدہ دستی ز پا افتادگان را | بہ غیراللہ دل نادادگان را'
+  - 'lang': 'en'
+    'text': 'Give a helping hand to those who are weak, | They look not to aught, but Allah they seek.'
+- 'id': '011_153_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از آن آتش کہ جان من بر افروخت | نصیبی دہ مسلمان زادگان را'
+  - 'lang': 'en'
+    'text': 'From that fire’s flame which kindled my heart, | Bid the Muslim boys a wee bit part.'
+    'notes':
+    - 'phrase': 'part.'
+      'meaning': '        Wee bit a little.'
+      'occurrence': !!int '1'

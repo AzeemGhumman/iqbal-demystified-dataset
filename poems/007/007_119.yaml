@@ -1,0 +1,28 @@
+---
+'id': '007_119'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFحکیمان گرچہ صد پیکر شکستند"
+- 'lang': 'en'
+  'text': '(119)'
+'description': []
+'sher':
+- 'id': '007_119_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکیمان گرچہ صد پیکر شکستند | مقیم سومنات بود و ہستند'
+  - 'lang': 'en'
+    'text': 'Philosophers break idols in their wrath, | But still are prisoners of Being’s Somnath.'
+    'notes':
+    - 'phrase': 'Somnath.'
+      'meaning': 'Somnath (Sumnat). An idol-temple in Gujerat (India) destroyed by Mahmud Ghaznawi.'
+      'occurrence': !!int '1'
+- 'id': '007_119_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چسان افرشتہ و یزدان بگیرند | ہنوز آدم بہ فتراکی نبستند'
+  - 'lang': 'en'
+    'text': 'They chase God and His angels. But how can | They capture them? Have they yet captured man?'

@@ -1,0 +1,45 @@
+---
+'id': '010_022'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFقندہار و زیارت خرقہ مبارک"
+- 'lang': 'en'
+  'text': 'SEEING PROPHET’S GARB AT QANDHAR'
+'description': []
+'sher':
+- 'id': '010_022_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قندہار آن کشور مینو سواد | اہل دل را خاک او خاک مراد'
+  - 'lang': 'en'
+    'text': 'Qandhar, that place of paradisiac charm, | Its dust the heart’s desire of men of heart.'
+- 'id': '010_022_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رنگ ہا ، بوہا ، ہواہا ، آب ہا | آب ہا تابندہ چون سیماب ہا'
+  - 'lang': 'en'
+    'text': 'These hues, scents, waters! | These waters glittering like mercury!'
+- 'id': '010_022_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لالہ ھا در خلوت کہسار ہا | نارھا یخ بستہ اندر نارہا'
+  - 'lang': 'en'
+    'text': 'Tulips in the coign of the mountains. | fires frozen within pomegranates.'
+- 'id': '010_022_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کوی آن شہر است ما را کوی دوست | ساربان بر بند محمل سوی دوست'
+  - 'lang': 'en'
+    'text': 'Its streets the streets of the friend for us, | O camel-driver, set the litter for the beautiful one.'
+- 'id': '010_022_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می سرایم دیگر از یاران نجد | از نوائی ، ناقہ را آرم بہ وجد'
+  - 'lang': 'en'
+    'text': 'I sing again of the mates of Najd | and bring the dromedary into ecstasy with my chant.'

@@ -1,0 +1,24 @@
+---
+'id': '007_101'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جہان ما کہ جز انگارہ ئی نیست'
+- 'lang': 'en'
+  'text': '(101)'
+'description': []
+'sher':
+- 'id': '007_101_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان ما کہ جز انگارہ ئی نیست | اسیر انقلاب صبح و شام است'
+  - 'lang': 'en'
+    'text': 'This world of our, a sculptors study still, | Is undergoing changes night and day.'
+- 'id': '007_101_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز سوہان قضا ہموار گردد | ہنوز این پیکر گل ناتمام است'
+  - 'lang': 'en'
+    'text': 'The chisel of Destiny in due course will | Give it a shape; for It is still rough-hewn.'

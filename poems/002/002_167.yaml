@@ -1,0 +1,46 @@
+---
+'id': '002_167'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-49.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'پرواز'
+- 'lang': 'en'
+  'text': 'FLIGHT'
+'description': []
+'sher':
+- 'id': '002_167_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہا درخت نے اک روز مرغ صحرا سے | ستم پہ غم کدئہ رنگ و بو کي ہے بنياد'
+  - 'lang': 'en'
+    'text': 'The tree said to a bird of the desert one day: | “Creation is founded on the principle of injustice;'
+  - 'lang': 'ro'
+    'text': 'Kaha Darkht Ne Ek Roz Murgh-e-Sehra | Sitam Pe Gham Kada-e-Rang-o-Bu Ki Hai Bunyad'
+- 'id': '002_167_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا مجھے بھي اگر بال و پر عطا کرتا | شگفتہ اور بھي ہوتا يہ عالم ايجاد'
+  - 'lang': 'en'
+    'text': 'For the Creation could have been so much more pleasant | If I had also been granted the gift of flight.”'
+  - 'lang': 'ro'
+    'text': 'Khuda Mujhe Bhi Agar Baal-o-Par Atta Karta | Shugufta Aur Bhi Hota Ye Alam-e-Aejad'
+- 'id': '002_167_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ديا جواب اسے خوب مرغ صحرا نے | !غضب ہے ، داد کو سمجھا ہوا ہے تو بيداد'
+  - 'lang': 'en'
+    'text': 'The bird gave him a good reply: | “Woe! You regard justice to be injustice;'
+  - 'lang': 'ro'
+    'text': 'Diya Jawab Use Khoob Murgh-e-Sehra Ne | Ghazab Hai, Dad Ko Samjha Huwa Hai Tu Bedad!'
+- 'id': '002_167_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہاں ميں لذت پرواز حق نہيں اس کا | وجود جس کا نہيں جذب خاک سے آزاد'
+  - 'lang': 'en'
+    'text': 'He is not entitled to fly in this world, | Whoever is not free from earth‐rootedness.”'
+  - 'lang': 'ro'
+    'text': 'Jahan Mein Lazzat-e-Parwaz Haq Nahin Uss Ka | Wujood Jis Ka Nahin Jazb-e-Khak Se Azad'

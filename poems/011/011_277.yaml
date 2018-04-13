@@ -1,0 +1,24 @@
+---
+'id': '011_277'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو در دریا نئے او در بر تست'
+- 'lang': 'en'
+  'text': 'XVII-II'
+'description': []
+'sher':
+- 'id': '011_277_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو در دریا نئے او در بر تست | بہ طوفان در فتادن جوہر تست'
+  - 'lang': 'en'
+    'text': 'In sea you are not it lies but in thee, | Show thy mettle now and face floods of sea.'
+- 'id': '011_277_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو یک دم از تلاطم ہا بیاسود | ہمین دریای تو غارتگر تست'
+  - 'lang': 'en'
+    'text': 'If you seek from storms a fast retreat, | This sea within thee will rob thy heat.'

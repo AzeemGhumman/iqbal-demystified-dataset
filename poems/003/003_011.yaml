@@ -1,0 +1,37 @@
+---
+'id': '003_011'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-11.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ذکر و فکر'
+- 'lang': 'en'
+  'text': 'DHIKR AND FIKR'
+'description': []
+'sher':
+- 'id': '003_011_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ ہيں سب ايک ہي سالک کي جستجو کے مقام | ''وہ جس کي شان ميں آيا ہے ''علم الاسما'
+  - 'lang': 'en'
+    'text': 'These are all a wayfarer’s search posts | about whom the Quran says: He taught all the names.'
+  - 'lang': 'ro'
+    'text': 'Ye Hain Sub Aik Hi Salik Ki Justujoo Ke Maqam | Woh Jis Ki Shan Mein Aya Hai ‘Allam Al-Asma’'
+- 'id': '003_011_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقام ذکر، کمالات رومي و عطار | مقام فکر، مقالات بوعليسينا'
+  - 'lang': 'en'
+    'text': 'The achievements of Rumi and ‘Attar are stations of dhikr; | the computations of Bu ‘Ali Sina pertain to the station of fikr.'
+  - 'lang': 'ro'
+    'text': 'Maqam-e-Zikr, Kamalat-e-Rumi-O-Attar | Maqam-e-Fikr, Maqalat-e-Bu Ali Seena'
+- 'id': '003_011_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقام فکر ہے پيمائش زمان و مکاں | مقام ذکر ہے سبحان ربي الاعلي'
+  - 'lang': 'en'
+    'text': 'To measure time and space is the station of fikr, | to recite: Exalted be my Lord, Most High is the station of dhikr.'
+  - 'lang': 'ro'
+    'text': 'Maqam-e-Fikr Hai Pemaish-e-Zaman-o-Makan | Maqam-e-Zikr Hai Subhana Rubi Al Aala'

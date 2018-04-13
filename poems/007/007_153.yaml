@@ -1,0 +1,24 @@
+---
+'id': '007_153'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ گوشم آمد از خاک مزاری'
+- 'lang': 'en'
+  'text': '(153)'
+'description': []
+'sher':
+- 'id': '007_153_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ گوشم آمد از خاک مزاری | کہ در زیر زمین ہم میتوان زیست'
+  - 'lang': 'en'
+    'text': 'I heard a voice from inside a grave say: | "You can commence a new life in the grave.'
+- 'id': '007_153_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نفس دارد ولیکن جان ندارد | کسی کو بر مراد دیگران زیست'
+  - 'lang': 'en'
+    'text': 'The man who lives by others’ wishes may | Have breath in him, but has no soul to save."'

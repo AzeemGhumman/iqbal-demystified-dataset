@@ -1,0 +1,24 @@
+---
+'id': '007_145'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز شاخ آرزو بر خوردہ ام من'
+- 'lang': 'en'
+  'text': '(145)'
+'description': []
+'sher':
+- 'id': '007_145_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز شاخ آرزو بر خوردہ ام من | بہ راز زندگی پے بردہ ام من'
+  - 'lang': 'en'
+    'text': 'I have partaken of the fruit I sought | And bad life’s mystery revealed to me.'
+- 'id': '007_145_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بترس از باغبان ای ناوک انداز | کہ پیغام بھار آوردہ ام من'
+  - 'lang': 'en'
+    'text': 'Beware the gardener, O bird-hunter. See | The spring is nigh whose message I have brought.'

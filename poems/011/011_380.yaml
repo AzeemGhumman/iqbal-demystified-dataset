@@ -1,0 +1,24 @@
+---
+'id': '011_380'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمانے کہ داندرمز دین را'
+- 'lang': 'en'
+  'text': 'IV-II'
+'description': []
+'sher':
+- 'id': '011_380_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانے کہ داندرمز دین را | نساید پیش غیر اللہ جبین را'
+  - 'lang': 'en'
+    'text': 'His path’s true sign if a Muslim could know. | To else save God, he would never bow.'
+- 'id': '011_380_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اکر گرد ون بکام او مکردد | بہ کام خود بگر داند زمین را'
+  - 'lang': 'en'
+    'text': 'If the heaven moves not to his own will. | He can move the earth whole to his will, still.'

@@ -1,0 +1,37 @@
+---
+'id': '003_098'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/03-03.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'پردہ'
+- 'lang': 'en'
+  'text': 'VEIL'
+'description': []
+'sher':
+- 'id': '003_098_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہت رنگ بدلے سپہر بريں نے | خدايا يہ دنيا جہاں تھي ، وہيں ہے'
+  - 'lang': 'en'
+    'text': 'Great change the lofty spheres have met, | O God! the world has not budged as yet.'
+  - 'lang': 'ro'
+    'text': 'Bohat Rang Badle, Sipihr-e-Bareen Ne | Khudaya Ye Dunya Jahan Thi, Wahin Hai'
+- 'id': '003_098_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تفاوت نہ ديکھا زن و شو ميں ميں نے | وہ خلوت نشيں ہے ، يہ خلوت نشيں ہے'
+  - 'lang': 'en'
+    'text': 'In man and wife is no contrast, | They like seclusion and hold it fast.'
+  - 'lang': 'ro'
+    'text': 'Tafawuf Na Dekha Zan-o-Sho Mein Main Ne | Woh Khalwat Nasheen Hai, Ye Khalwat Nasheen Hai'
+- 'id': '003_098_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ابھي تک ہے پردے ميں اولاد آدم | کسي کي خودي آشکارا نہيں ہے'
+  - 'lang': 'en'
+    'text': 'The sons of Adam still wear the mask, | But self hasnʹt peeped out of the casque.'
+  - 'lang': 'ro'
+    'text': 'Abhi Tak Hai Parde Mein Aulad-e-Adam | Kisi Ki Khudi Ashakara Nahin Hai'

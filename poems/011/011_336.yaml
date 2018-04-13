@@ -1,0 +1,35 @@
+---
+'id': '011_336'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبیا تا نرد را شاہانہ بازیم"
+- 'lang': 'en'
+  'text': 'XII-VI'
+'description': []
+'sher':
+- 'id': '011_336_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا تا نرد را شاہانہ بازیم | جہان چار سو را درگدازیم'
+  - 'lang': 'en'
+    'text': 'Let us play a chess like a royal game, | To melt the world whole with mutual flame.'
+    'notes':
+    - 'phrase': 'chess'
+      'meaning': '        Here waste land is a hint (an allusion) to man''s intrinsic nature, devoid of good qualities.'
+      'occurrence': !!int '1'
+- 'id': '011_336_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ افسون ھنر از برگ کاہش | بہشتی این سوی گردون بسازیم'
+  - 'lang': 'en'
+    'text': 'Use thy own skill, may be a grain of sand, | For a paradise true on every land.'
+    'notes':
+    - 'phrase': 'skill,'
+      'meaning': '        Nard; chess or chausar as invented/played first by Bazur Jamuhr of Persia. Ba afsoon-i-hunar; with own intrinsic qualities and capabilities.'
+      'occurrence': !!int '1'
+    - 'phrase': 'land.'
+      'meaning': '        Fasad; corruption, villainery, violence, vice etc.'
+      'occurrence': !!int '1'

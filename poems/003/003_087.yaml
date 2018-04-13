@@ -1,0 +1,37 @@
+---
+'id': '003_087'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-20.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عصر حاضر'
+- 'lang': 'en'
+  'text': 'MODERN AGE'
+'description': []
+'sher':
+- 'id': '003_087_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پختہ افکار کہاں ڈھونڈنے جائے کوئي | اس زمانے کي ہوا رکھتي ہے ہر چيز کو خام'
+  - 'lang': 'en'
+    'text': 'Wherefrom a man can find, Ripe thoughts in present age? | The weather of this park, No ripeness can presage.'
+  - 'lang': 'ro'
+    'text': 'Pukhta Afkar Kahan Dhoondne Jaye Koi | Iss Zamane Ki Hawa Rakhti Hai Har Cheez Ko Khaam'
+- 'id': '003_087_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدرسہ عقل کو آزاد تو کرتا ہے مگر | چھوڑ جاتا ہے خيالات کو بے ربط و نظام'
+  - 'lang': 'en'
+    'text': 'The seats of learning give, The mind of pupils scope: | But leave the thoughts of youth, Unlinked by thread or rope.'
+  - 'lang': 'ro'
+    'text': 'Madrasa Aqal Ko Azad To Karta Hai Magar | Chor Jata Hai Khayalat Ko Be-Rabt-o-Nizam'
+- 'id': '003_087_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مردہ ، ''لا ديني افکار سے افرنگ ميں عشق | !عقل بے ربطي افکار سے مشرق ميں غلام'
+  - 'lang': 'en'
+    'text': 'The love of God is dead, By unbelief ’mong Franks: | Through lack of link in thoughts, East shackles wears on shanks.'
+  - 'lang': 'ro'
+    'text': 'Murda, La-Deeni-e-Afkar Se Afrang Mein Ishq | Aqal Be-Rabti-e-Afkar Se Mashriq Mein Ghulam!'

@@ -1,0 +1,19 @@
+---
+'id': '004_039'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/03-18.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'آں عزم بلند آور آں سوز جگر آور'
+- 'lang': 'en'
+  'text': 'Nourish that lofty will and burning heart'
+'description': []
+'sher':
+- 'id': '004_039_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آں عزم بلند آور آں سوز جگر آور | شمشير پدر خواہي بازوے پدر آور'
+  - 'lang': 'en'
+    'text': 'Nourish that lofty will and burning heart, | get back your father’s arms if thou wish’st to have his sword.'
+  - 'lang': 'ro'
+    'text': 'Aan Azam-E-Buland Awar Aan Soz-E-Jigar Awar | Shamsheer-E-Pidr Khawahi Bazoo’ay Padar Awar'

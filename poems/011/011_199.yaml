@@ -1,0 +1,28 @@
+---
+'id': '011_199'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFز رومی گیر اسرار فقیری"
+- 'lang': 'en'
+  'text': 'V-VIII'
+'description': []
+'sher':
+- 'id': '011_199_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز رومی گیر اسرار فقیری | کہ  ن فقر است محسود امیری'
+  - 'lang': 'en'
+    'text': 'Take secrets of content from Rumi’s call, | That content is envied by rich men all.'
+- 'id': '011_199_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حذر زان فقر و درویشی کہ از وی | رسیدی بر مقام سر بزیری'
+  - 'lang': 'en'
+    'text': 'Be cautious from content which may take thee, | To a place of bow1 down and sheer slavery.'
+    'notes':
+    - 'phrase': 'slavery.'
+      'meaning': '        To a place obeisance., or To a place of slumber'
+      'occurrence': !!int '1'

@@ -1,0 +1,46 @@
+---
+'id': '003_129'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-25.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'جدت'
+- 'lang': 'en'
+  'text': 'NEWNESS'
+'description': []
+'sher':
+- 'id': '003_129_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ديکھے تو زمانے کو اگر اپني نظر سے | افلاک منور ہوں ترے نور سحر سے'
+  - 'lang': 'en'
+    'text': 'If you behold the world with gaze much bright, | Of you the sky may beg morning light.'
+  - 'lang': 'ro'
+    'text': 'Dekhe Tu Zamane Ko Agar Apni Nazar Se | Aflaak Munnawar Hon Tere Noor-e-Sehar Se'
+- 'id': '003_129_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خورشيد کرے کسب ضيا تيرے شرر سے | ظاہر تري تقدير ہو سيمائے قمر سے'
+  - 'lang': 'en'
+    'text': 'The sun may beg light from gleam of your spark | Your Luck may shine, from moonʹs brow, mark!'
+  - 'lang': 'ro'
+    'text': 'Khursheed Kare Kasb-e-Zia Tere Sharar Se | Zahir Teri Taqdeer Ho Seemaye Qamar Se'
+- 'id': '003_129_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دريا متلاطم ہوں تري موج گہر سے | شرمندہ ہو فطرت ترے اعجاز ہنر سے'
+  - 'lang': 'en'
+    'text': 'The sea may swell with lustrous waves of gems, | Put world to shame with art that from you stems.'
+  - 'lang': 'ro'
+    'text': 'Darya Mutalatum Hon Teri Mouj-e-Guhar Se | Sharminda Ho Fitrat Tere Ejaz-e-Hunar Se'
+- 'id': '003_129_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اغيار کے افکار و تخيل کي گدائي | کيا تجھ کو نہيں اپني خودي تک بھي رسائي؟'
+  - 'lang': 'en'
+    'text': 'You beg and borrow thoughts of othersʹ brains, | Find approach to self, donʹt take much pains!'
+  - 'lang': 'ro'
+    'text': 'Aghyar Ke Afkar-o-Takhiyyul Ki Gadai! | Kya Tujh Ko Nahin Apni Khudi Tak Bhi Rasai?'

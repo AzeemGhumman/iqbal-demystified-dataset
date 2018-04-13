@@ -1,0 +1,28 @@
+---
+'id': '011_168'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمسلمانان کہ خود را فاش دیدند"
+- 'lang': 'en'
+  'text': 'I-VII'
+'description': []
+'sher':
+- 'id': '011_168_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانان کہ خود را فاش دیدند | بہ ہر دریا چو گوھر آرمیدند'
+  - 'lang': 'en'
+    'text': 'As long the Muslim, in self can peep, | Like pearls they rest in the oceans deep.'
+- 'id': '011_168_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر از خود رمیدند اندرین دیر | بجان تو کہ مرگ خود خریدند'
+  - 'lang': 'en'
+    'text': 'From ego if you ran in this fane, | Your own death you buy for life’s bargain.'
+    'notes':
+    - 'phrase': 'bargain.'
+      'meaning': '        Basic thought: [Thus the Ego''s price he forgot when, He took his own life with own hands then.]'
+      'occurrence': !!int '1'

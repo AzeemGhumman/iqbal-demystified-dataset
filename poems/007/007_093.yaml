@@ -1,0 +1,24 @@
+---
+'id': '007_093'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نہ من بر مرکب ختلی سوارم'
+- 'lang': 'en'
+  'text': '(93)'
+'description': []
+'sher':
+- 'id': '007_093_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ من بر مرکب ختلی سوارم | نہ از وابستگان شہریارم'
+  - 'lang': 'en'
+    'text': 'I have no steed to ride upon, nor am | Some great king’s courtier. Enough for me,'
+- 'id': '007_093_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا ای ہمنشین دولت ہمین بس | چوکاوم سینہ را لعلی بر آرم'
+  - 'lang': 'en'
+    'text': 'O friend, is this wealth that, whenever I | Dig into myself, I bring up a gem.'

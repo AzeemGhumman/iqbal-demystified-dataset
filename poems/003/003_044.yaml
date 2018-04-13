@@ -1,0 +1,46 @@
+---
+'id': '003_044'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-44.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اے روح محمد'
+- 'lang': 'en'
+  'text': 'INVOCATION TO THE SOUL OF MUHAMMAD (PEACE BE UPON HIM)'
+'description': []
+'sher':
+- 'id': '003_044_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شيرازہ ہوا ملت مرحوم کا ابتر | !اب تو ہي بتا، تيرا مسلمان کدھر جائے'
+  - 'lang': 'en'
+    'text': 'The bonds that in past, like bundle knit, The Faithful Fold, have now been split! | O God sent Guide, let Muslims know, What to do and where to go?'
+  - 'lang': 'ro'
+    'text': 'Shiraza Huwa Millat-e-Marhoom Ka Abtar | Ab Tu Hi Bata, Tera Musalman Kidhar Jaye!'
+- 'id': '003_044_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ لذت آشوب نہيں بحر عرب ميں | پوشيدہ جو ہے مجھ ميں، وہ طوفان کدھر جائے'
+  - 'lang': 'en'
+    'text': 'The Arabian Sea is quite bereft, Of stir, there rise no waves and crest; | The tempest that in me is hid, Has no place to spread and skid!'
+  - 'lang': 'ro'
+    'text': 'Woh Lazzat-e-Ashob Nahin Beher-e-Arab Mein | Poshidah Jo Hai Mujh Mein, Woh Toofan Kidhar Jaye'
+- 'id': '003_044_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر چند ہے بے قافلہ و راحلہ و زاد | اس کوہ و بياباں سے حدي خوان کدھر جائے'
+  - 'lang': 'en'
+    'text': 'Caravan has left the tramp alone, But mount or food he does not own: | Where can the singing cameleer go, Who rides on hill and waste to and fro!'
+  - 'lang': 'ro'
+    'text': 'Har Chand Hai Be-Qafla-o-Rahla-o-Zaad | Iss Koh-o-Bayaban Se Hudi Khawan Kidhar Jaye'
+- 'id': '003_044_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس راز کو اب فاش کر اے روح محمد | !آيات الہي کا نگہبان کدھر جائے'
+  - 'lang': 'en'
+    'text': 'O Soul, whom God for message chose! This secret hid to me disclose: | Some light on this problem throw, Where may the guard of Godʹs portents go?'
+  - 'lang': 'ro'
+    'text': 'Iss Raaz Ko Ab Fash Kar Ae Rooh-e- Muhammad (S.A.W.) | Ayaat-e-Elahi Ka Nigheban Kidhar Jaye! O Soul, whom God for message chose ! This secret hid to me disclose:'

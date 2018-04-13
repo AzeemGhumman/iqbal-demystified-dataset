@@ -1,0 +1,28 @@
+---
+'id': '011_130'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچو خود را در کنار خود کشیدم"
+- 'lang': 'en'
+  'text': 'XI-LII'
+'description': []
+'sher':
+- 'id': '011_130_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو خود را در کنار خود کشیدم | بہ نور تو مقام خویش دیدم'
+  - 'lang': 'en'
+    'text': 'When I pressed myself in my own embrace, | Then I saw my place with thy light’s grace.'
+- 'id': '011_130_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین دیر از نوای صبحگاہی | جہان عشق و مستی آفریدم'
+  - 'lang': 'en'
+    'text': 'In this fane old with the morning tears mere, | A world of love and daze lo I cause here.'
+    'notes':
+    - 'phrase': 'here.'
+      'meaning': 'The essence of line 1 and 2 is given in a verse of Iqbal whose translation (by me) has been published in the Pakistan Review of April, 1966, is given below: [Through a reverie of thy soul, Find the Secret of the-world-whole. Either you, take me on thy side ]'
+      'occurrence': !!int '1'

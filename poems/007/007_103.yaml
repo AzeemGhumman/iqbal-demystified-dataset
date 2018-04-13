@@ -1,0 +1,24 @@
+---
+'id': '007_103'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تراش از تیشۂ خود جادۂ خویش'
+- 'lang': 'en'
+  'text': '(103)'
+'description': []
+'sher':
+- 'id': '007_103_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تراش از تیشۂ خود جادۂ خویش | براہ دیگران رفتن عذاب است'
+  - 'lang': 'en'
+    'text': 'Dig your path with your own pickaxe. It is | A shame to tread somebody else’s path'
+- 'id': '007_103_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گر از دست تو کار نادر آید | گناہی ہم اگر باشد ثواب است'
+  - 'lang': 'en'
+    'text': 'If you do aomething new, be it a sin, | I tell you it will not incur God’s wrath.'

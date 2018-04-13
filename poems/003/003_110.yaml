@@ -1,0 +1,28 @@
+---
+'id': '003_110'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-06.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ادبيات'
+- 'lang': 'en'
+  'text': 'LITERATURE'
+'description': []
+'sher':
+- 'id': '003_110_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق اب پيروي عقل خدا داد کرے | آبرو کوچہ جاناں ميں نہ برباد کرے'
+  - 'lang': 'en'
+    'text': 'Now Love from mind must take the lead, By God bestowed on human race: | To dear oneʹs lane it must not go, And bring with haste on head disgrace.'
+  - 'lang': 'ro'
+    'text': 'Ishq Ab Pairwi-e-Aqal-e-Khudadad Kare | Aabru Koocha-e-Janana Mein Na Barbad Kare'
+- 'id': '003_110_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہنہ پيکر ميں نئي روح کو آباد کرے | يا کہن روح کو تقليد سے آزاد کرے'
+  - 'lang': 'en'
+    'text': 'Love must infuse new soul in old, Poetic moulds and change their course, | Or break the chains of antique soul, Set it free from mimetic force.'
+  - 'lang': 'ro'
+    'text': 'Kuhna Paikar Mein Nayi Rooh Ko Abad Kare | Ya Kuhan Rooh Ko Taqleed Se Azad Kare'

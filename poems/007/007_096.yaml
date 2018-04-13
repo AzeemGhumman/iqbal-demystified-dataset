@@ -1,0 +1,24 @@
+---
+'id': '007_096'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دل بیباک را ضرغام رنگ است'
+- 'lang': 'en'
+  'text': '(96)'
+'description': []
+'sher':
+- 'id': '007_096_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل بیباک را ضرغام رنگ است | دل ترسندہ را آہو پلنگ است'
+  - 'lang': 'en'
+    'text': 'Lions to dauntless hearts appear as sheep, | While quaking hearts see tigers in mere deer.'
+- 'id': '007_096_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر بیمی نداری بحر صحراست | اگر ترسی بہر موجش نہنگ است'
+  - 'lang': 'en'
+    'text': 'The sea is a plain, if you do not fear. | But if you fear, each wave contains a shark.'

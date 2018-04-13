@@ -1,0 +1,24 @@
+---
+'id': '007_030'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'برون از ورطۂ بود و عدم شو'
+- 'lang': 'en'
+  'text': '(30)'
+'description': []
+'sher':
+- 'id': '007_030_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برون از ورطۂ بود و عدم شو | فزونتر زین جہان کیف و کم شو'
+  - 'lang': 'en'
+    'text': 'From being and non-being’s whirlpool free | Yourself; in this world of contingency'
+- 'id': '007_030_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودی تعمیر کن در پیکر خویش | چو ابراہیم معمار حرم شو'
+  - 'lang': 'en'
+    'text': 'Build in yourself a Kaaba sacrosanct | Like Abraham’s home of eternity.'

@@ -1,0 +1,28 @@
+---
+'id': '002_092'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-16.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'جمال عشق و مستي نے نوازي'
+- 'lang': 'en'
+  'text': 'The beauty of mystic love is shaped in song'
+'description': []
+'sher':
+- 'id': '002_092_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جمال عشق و مستي نے نوازي | جلال عشق و مستي بے نيازي'
+  - 'lang': 'en'
+    'text': 'The beauty of mystic love is shaped in song; | The majesty of mystic love is abandon;'
+  - 'lang': 'ro'
+    'text': 'Jamal-e-Ishq-o-Masti Ne Nawazi | Jalal-e-Ishq-o-Masti Be-Niazi'
+- 'id': '002_092_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کمال عشق و مستي ظرف حيدر | زوال عشق و مستي حرف رازي'
+  - 'lang': 'en'
+    'text': 'The peak of mystic love is Hyder''s power; | The decline of mystic love is Razi''s word.'
+  - 'lang': 'ro'
+    'text': 'Kamal-e-Ishq-o-Masti Zaraf-e-Haidar (R.A.) | Zawal-e-Ishq-o-Masti Harf-e-Razi'

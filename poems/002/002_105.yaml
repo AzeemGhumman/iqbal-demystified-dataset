@@ -1,0 +1,28 @@
+---
+'id': '002_105'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-29.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'کبھي آوارہ و بے خانماں عشق'
+- 'lang': 'en'
+  'text': 'Love is sometimes a wanderer in the woods'
+'description': []
+'sher':
+- 'id': '002_105_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي آوارہ و بے خانماں عشق | کبھي شاہ شہاں نوشيرواں عشق'
+  - 'lang': 'en'
+    'text': 'Love is sometimes a wanderer in the woods; | At other times, a king of kings in power;'
+  - 'lang': 'ro'
+    'text': 'Kabhi Awara-o-Be-Khanama Ishq | Kabhi Shah-e-Shahan Nausherwan Ish'
+- 'id': '002_105_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي ميداں ميں آتا ہے زرہ پوش | !کبھي عريان و بے تيغ و سناں عشق'
+  - 'lang': 'en'
+    'text': 'Sometimes an armed warrior in the field; | At other times defenceless, unarmed.'
+  - 'lang': 'ro'
+    'text': 'Kabhi Maidan Mein Ata Hai Zaraposh | Kabhi Uryan-e-Be-Taeg-o-Sanaa Ishq!'

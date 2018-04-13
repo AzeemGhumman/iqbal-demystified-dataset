@@ -1,0 +1,28 @@
+---
+'id': '002_116'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-40.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'حکيمي ، نامسلماني خودي کي'
+- 'lang': 'en'
+  'text': 'Selfhood''s apostate is the life of reason'
+'description': []
+'sher':
+- 'id': '002_116_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکيمي ، نامسلماني خودي کي | کليمي ، رمز پنہاني خودي کي'
+  - 'lang': 'en'
+    'text': 'Selfhood''s apostate is the life of reason; | Its secret lies in communion with God;'
+  - 'lang': 'ro'
+    'text': 'Hakeemi, Na-Musalmani Khudi Ki | Kaleemi, Ramz-e-Pinhani Khudi Ki'
+- 'id': '002_116_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تجھے گر فقر و شاہي کا بتا دوں | !غريبي ميں نگہباني خودي کي'
+  - 'lang': 'en'
+    'text': 'If thou couldst guard it in thy poverty, | Thou art indeed a fakir greater than kings.'
+  - 'lang': 'ro'
+    'text': 'Tujhe Gurr Faqr-o-Shahi Ka Bata Doon | Ghareebi Mein Nighebani Khudi Ke !'

@@ -1,0 +1,24 @@
+---
+'id': '007_088'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چہ پرسے از کجایم چیستم من ؟'
+- 'lang': 'en'
+  'text': '(88)'
+'description': []
+'sher':
+- 'id': '007_088_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ پرسے از کجایم چیستم من ؟ | بہ خود پیچیدہ ام تا زیستم من'
+  - 'lang': 'en'
+    'text': 'Why ask what I am and where I came from? | In this sea I am like a restless wave.'
+- 'id': '007_088_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین دریا چو موج بیقرارم | اگر بر خود نپیچم نیستم من'
+  - 'lang': 'en'
+    'text': 'Self-agitated and therefore alive. | Were I to rest, I would just cease to be.'

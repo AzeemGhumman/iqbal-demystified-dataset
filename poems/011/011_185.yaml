@@ -1,0 +1,28 @@
+---
+'id': '011_185'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFفرنگی صید بست از کعبہ و دیر"
+- 'lang': 'en'
+  'text': 'IV-II'
+'description': []
+'sher':
+- 'id': '011_185_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرنگی صید بست از کعبہ و دیر | صدا از خانقاہان رفت ’’لاغیر‘‘'
+  - 'lang': 'en'
+    'text': 'When the English subdued the mosque and fane, | “No aliens are they”, said the convent’s brain.'
+- 'id': '011_185_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکایت پیش ملا باز گفتم | دعا فرمود ’’یا رب عاقبت خیر‘‘'
+  - 'lang': 'en'
+    'text': 'I told my fears to a Mullah when, | “Make his end well”, he just prayed then.'
+    'notes':
+    - 'phrase': 'then.'
+      'meaning': '        Convent; a Khanqah or monastry.'
+      'occurrence': !!int '1'

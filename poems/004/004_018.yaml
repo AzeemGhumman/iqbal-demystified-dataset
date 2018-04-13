@@ -1,0 +1,28 @@
+---
+'id': '004_018'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-10.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'نہ کر ذکر فراق و آشنائي'
+- 'lang': 'en'
+  'text': 'Of love and losing what words need be said'
+'description': []
+'sher':
+- 'id': '004_018_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ کر ذکر فراق و آشنائي | کہ اصل زندگي ہے خود نمائي'
+  - 'lang': 'en'
+    'text': 'Of love and losing what words need be said? | The self’s unfolding is Life’s fountain‐head;'
+  - 'lang': 'ro'
+    'text': 'Na Kar Zikr-E-Firaq-O-Ashanai | Ke Asal-E-Zindagi Hai Khud-Numai'
+- 'id': '004_018_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ دريا کا زياں ہے، نے گہر کا | دل دريا سے گوہر کي جدائي'
+  - 'lang': 'en'
+    'text': 'There’s neither loss to ocean nor to pearl | In the pearl’s loosening from the ocean’s bed.'
+  - 'lang': 'ro'
+    'text': 'Na Darya Ka Zayan Hai, Ne Guhar Ka | Dil-E-Darya Se Gohar Ki Judai'

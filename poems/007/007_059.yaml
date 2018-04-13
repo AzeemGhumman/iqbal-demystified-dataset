@@ -1,0 +1,24 @@
+---
+'id': '007_059'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'من ای دانشوران در پیچ و تابم'
+- 'lang': 'en'
+  'text': '(59)'
+'description': []
+'sher':
+- 'id': '007_059_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من ای دانشوران در پیچ و تابم | خرد را فہم این معنی محال است'
+  - 'lang': 'en'
+    'text': 'This riddle is beyond me–reason is | Unable to resolve it, O wise men –'
+- 'id': '007_059_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چسان در مشت خاکی تن زند دل | کہ دل دشت غزالان خیال است'
+  - 'lang': 'en'
+    'text': 'How in a pinch of dust the mind appears, | That field for thought’s gazelles to wander in.'

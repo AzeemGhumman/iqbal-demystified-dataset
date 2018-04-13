@@ -1,0 +1,28 @@
+---
+'id': '002_145'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-27.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ستارے کا پيغام'
+- 'lang': 'en'
+  'text': 'THE STAR’S MESSAGE'
+'description': []
+'sher':
+- 'id': '002_145_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجھے ڈرا نہيں سکتي فضا کي تاريکي | مري سرشت ميں ہے پاکي و درخشاني'
+  - 'lang': 'en'
+    'text': 'I fear not the darkness of the night; | My nature is bred in purity and light;'
+  - 'lang': 'ro'
+    'text': 'Mujhe Dra Nahin Sakti Faza Ki Tareeki | Meri Sarisht Mein Hai Paki-o-Durkhashani'
+- 'id': '002_145_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو اے مسافر شب! خود چراغ بن اپنا | کر اپني رات کو داغ جگر سے نوراني'
+  - 'lang': 'en'
+    'text': 'Wayfarer of the night! Be a lamp to thyself; | With thy passion’s flame, make thy darkness bright.'
+  - 'lang': 'ro'
+    'text': 'Tu Ae Musafir-e-Shab! Khud Charagh Ban Apna | Kar Apni Raat Ko Dagh-e-Jigar Se Noorani'

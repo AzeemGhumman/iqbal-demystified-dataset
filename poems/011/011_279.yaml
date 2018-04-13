@@ -1,0 +1,24 @@
+---
+'id': '011_279'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بخود باز او دامان دلے گیر'
+- 'lang': 'en'
+  'text': 'XVIII-II'
+'description': []
+'sher':
+- 'id': '011_279_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بخود باز او دامان دلے گیر | درون سینہ خود منزلی گیر'
+  - 'lang': 'en'
+    'text': 'Back to ego turn, and back to heart look, | Make the self’s own place in thy bosom nook.'
+- 'id': '011_279_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدہ این کشت را خونابۂ خویش | فشاندم دانہ من تو حاصلی گیر'
+  - 'lang': 'en'
+    'text': 'Treat this tillage with moist of blood and tear. | Eat the harvest thus, I throw my seeds here.'

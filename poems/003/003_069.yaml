@@ -1,0 +1,46 @@
+---
+'id': '003_069'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-02.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'زمانہ حاضر کا انسان'
+- 'lang': 'en'
+  'text': 'MODERN MAN'
+'description': []
+'sher':
+- 'id': '003_069_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '''عشق ناپيد و خرد ميگزدش صورت مار'' | عقل کو تابع فرمان نظر کر نہ سکا'
+  - 'lang': 'en'
+    'text': 'Love fled, Mind stung him like a snake; he could not | Force it to vision’s will.'
+  - 'lang': 'ro'
+    'text': '‘Ishq Na-Paid-o-Khird Megazardish Soorat-e-Maar’ | Aqal Ko Taba-e-Farman-e-Nazar Kar Na Saka'
+- 'id': '003_069_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ڈھونڈنے والا ستاروں کي گزرگاہوں کا | اپنے افکار کي دنيا ميں سفر کر نہ سکا'
+  - 'lang': 'en'
+    'text': 'He tracked the orbits of the stars, yet could not | Travel his own thoughts’ world;'
+  - 'lang': 'ro'
+    'text': 'Dhoondne Wala Sitaron Ki Guzrgahon Ka | Apne Afkar Ki Dunya Mein Safar Kar Na Saka'
+- 'id': '003_069_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اپني حکمت کے خم و پيچ ميں الجھا ايسا | آج تک فيصلہ نفع و ضرر کر نہ سکا'
+  - 'lang': 'en'
+    'text': 'Entangled in the labyrinth of his science | Lost count of good and ill;'
+  - 'lang': 'ro'
+    'text': 'Apni Hikmat Ke Kham-o-Paich Mein Uljha Aesa | Aj Tak Faisla-e-Nafa-o-Zarar Kar Na Saka'
+- 'id': '003_069_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جس نے سورج کي شعاعوں کو گرفتار کيا | !زندگي کي شب تاريک سحر کر نہ سکا'
+  - 'lang': 'en'
+    'text': 'Took captive the sun’s rays, and yet no sunrise | On life’s thick night unfurled.'
+  - 'lang': 'ro'
+    'text': 'Jis Ne Suraj Ki Shuaon Ko Giraftar Kiya | Zindagi Ki Shab-e-Tareek Sehar Kar Na Saka !'

@@ -1,0 +1,24 @@
+---
+'id': '011_256'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در صد فتنہ را بر خود گشادی'
+- 'lang': 'en'
+  'text': 'BRAHMEN | Chapter 14'
+'description': []
+'sher':
+- 'id': '011_256_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در صد فتنہ را بر خود گشادی | دو گامی رفتی و از پا فتادی'
+  - 'lang': 'en'
+    'text': 'For him, he opened hundred doors for plots, | Two steps he only takes and slips in trot.'
+- 'id': '011_256_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برہمن از بتان طاق خود  راست | تو قر ن را سر طاقی نہادی'
+  - 'lang': 'en'
+    'text': 'The Brahmen adorned his idols on arch, | In arch bin you placed the Quran as mark.'

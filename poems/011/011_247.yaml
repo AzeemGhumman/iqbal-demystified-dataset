@@ -1,0 +1,28 @@
+---
+'id': '011_247'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمرا داد این خرد پرور جنونی"
+- 'lang': 'en'
+  'text': 'XII-V'
+'description': []
+'sher':
+- 'id': '011_247_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا داد این خرد پرور جنونی | نگاہ مادر پاک اندرونی'
+  - 'lang': 'en'
+    'text': 'That nation is lucky in whose hard race, | A change the world espied on each man’s face.'
+- 'id': '011_247_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز مکتب چشم و دل نتوان گرفتن | کہ مکتب نیست جز سحر و فسونی'
+  - 'lang': 'en'
+    'text': 'What happen’d to him in this world’s race, | Can be seen now from their mother’s face.'
+    'notes':
+    - 'phrase': 'face.'
+      'meaning': '        here it means struggle'
+      'occurrence': !!int '1'

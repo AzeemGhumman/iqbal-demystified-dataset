@@ -1,0 +1,28 @@
+---
+'id': '011_217'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمسلمانی غم دل در خریدن"
+- 'lang': 'en'
+  'text': 'VII-VII'
+'description': []
+'sher':
+- 'id': '011_217_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانی غم دل در خریدن | چو سیماب از تپ یاران تپیدن'
+  - 'lang': 'en'
+    'text': 'A Muslim you were named for grief’s bargain, | To be restive for friends in pains and strains.'
+- 'id': '011_217_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حضور ملت از خود در گذشتن | دگر بانگ ’’انا الملت‘‘ کشیدن'
+  - 'lang': 'en'
+    'text': 'He cares not for hlmself in nation’s cause, | He shouts “I am Ummah from every clause.”'
+    'notes':
+    - 'phrase': 'Ummah'
+      'meaning': '        Ummah a nation.'
+      'occurrence': !!int '1'

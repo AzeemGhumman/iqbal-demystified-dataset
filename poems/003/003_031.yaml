@@ -1,0 +1,37 @@
+---
+'id': '003_031'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-31.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'وحي'
+- 'lang': 'en'
+  'text': 'REVELATION'
+'description': []
+'sher':
+- 'id': '003_031_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عقل بے مايہ امامت کي سزاوار نہيں | راہبر ہو ظن و تخميں تو زبوں کار حيات'
+  - 'lang': 'en'
+    'text': 'Poor intellect canʹt be fit, To be your guide in life: | If led by guess and doubt, Disruption may get rife.'
+  - 'lang': 'ro'
+    'text': 'Aqal-e-Bemaya Imamat Ki Sazawar | Rahbar Hi Zan-o-Takhmeen To Zaboon Kar-e-Hayat'
+- 'id': '003_031_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فکر بے نور ترا، جذب عمل بے بنياد | سخت مشکل ہے کہ روشن ہو شب تار حيات'
+  - 'lang': 'en'
+    'text': 'Your zeal infirm and weak, Unlit your thoughts by light: | It is too hard to illume, Your lifeʹs dark dismal night.'
+  - 'lang': 'ro'
+    'text': 'Fikar Be-Noor Tera, Jazb-Eamal Be-Bunyad | Sakht Mushkil Hai Ke Roshan Ho Shab-e-Tar-e-Hayat'
+- 'id': '003_031_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوب و ناخوب عمل کي ہو گرہ وا کيونکر | !گر حيات آپ نہ ہو شارح اسرار حيات'
+  - 'lang': 'en'
+    'text': '’Twixt actions good and bad, Itʹs hard to draw a line, | Unless life undertakes, Such subtle points to define.'
+  - 'lang': 'ro'
+    'text': 'Khoob-o-Na-Khoob Amal Ki Ho Girah Wa Kyunkar | Gar Hayat Aap Na Ho Shareh-e-Asrar-e-Hayat'

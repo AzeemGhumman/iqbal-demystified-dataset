@@ -1,0 +1,24 @@
+---
+'id': '007_003'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ باغان باد فروردین دہد عشق'
+- 'lang': 'en'
+  'text': '(3)'
+'description': []
+'sher':
+- 'id': '007_003_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ باغان باد فروردین دہد عشق | بہ راغان غنچہ چون پروین دہد عشق'
+  - 'lang': 'en'
+    'text': 'Love breathes spring breezes upon garden bowers, | And it star-spangles hills and dales with flowers.'
+- 'id': '007_003_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شعاع مہر او قلزم شکاف است | بہ ماھے دیدۂ رہ بین دہد عشق'
+  - 'lang': 'en'
+    'text': 'Its sunbeams pierce the darkness of the sea | And give the eyes of fish path-seeing powers.'

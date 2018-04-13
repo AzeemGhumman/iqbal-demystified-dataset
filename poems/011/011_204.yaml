@@ -1,0 +1,28 @@
+---
+'id': '011_204'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFجوانمردی کہ خود را فاش بیند"
+- 'lang': 'en'
+  'text': 'VI-III'
+'description': []
+'sher':
+- 'id': '011_204_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جوانمردی کہ خود را فاش بیند | جہان کہنہ را باز  فریند'
+  - 'lang': 'en'
+    'text': 'A young man who peeps in his ego deep, | Can make a world anew on old world’s heap.'
+- 'id': '011_204_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہزاران انجمن اندر طوافش | کہ او با خویشتن خلوت گزیند'
+  - 'lang': 'en'
+    'text': 'Around his circle lo! are thousand leagues, | In self’s reading though a solace he needs.'
+    'notes':
+    - 'phrase': 'needs.'
+      'meaning': '        Line 2 means can fill the world with justice. Line 4, means self''s reading; here it probably means worshipping the God'
+      'occurrence': !!int '1'

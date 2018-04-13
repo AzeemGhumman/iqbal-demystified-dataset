@@ -1,0 +1,28 @@
+---
+'id': '003_022'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-22.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'حيات ابدي'
+- 'lang': 'en'
+  'text': 'ETERNAL LIFE'
+'description': []
+'sher':
+- 'id': '003_022_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندگاني ہے صدف، قرہ نيساں ہے خودي | وہ صدف کيا کہ جو قطرے کو گہر کر نہ سکے'
+  - 'lang': 'en'
+    'text': 'Life is a like a shell and ego like a drop of April shower— | It is unbecoming a shell if it cannot turn the drop into a pearl.'
+  - 'lang': 'ro'
+    'text': 'Zindagaani Hai Sadaf, Qatra-e-Neesan Hai Khudi | Woh Sadaf Kya Ke Jo Qatre Ko Guhar Kar Na Sake'
+- 'id': '003_022_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہو اگر خودنگر و خودگر و خودگير خودي | يہ بھي ممکن ہے کہ تو موت سے بھي مر نہ سکے'
+  - 'lang': 'en'
+    'text': 'If the ego is self‐preserving, self‐creating and self‐sustaining, | Then it is possible that even death may not make you die.'
+  - 'lang': 'ro'
+    'text': 'Ho Agar Khudnigar-o-Khudgar-o-Khudgeer Khudi | Ye Bhi Mumkin Hai Ke Tu Mout Se Bhi Mer Na Sake'

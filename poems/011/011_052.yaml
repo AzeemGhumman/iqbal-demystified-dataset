@@ -1,0 +1,24 @@
+---
+'id': '011_052'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چہ خوش صحرا کہ در وی کاروانہا'
+- 'lang': 'en'
+  'text': 'IV-I'
+'description': []
+'sher':
+- 'id': '011_052_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ خوش صحرا کہ در وی کاروانہا | درودی خواند و محمل براند'
+  - 'lang': 'en'
+    'text': 'How lucky are deserts caravan lines, | They bless the Prophet driving litters fine.'
+- 'id': '011_052_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ریگ گرم او آور سجودی | جبین را سوز تا داغے بماند'
+  - 'lang': 'en'
+    'text': 'Cast thy kowtows on hot sand grains, | Burn thy forehead to form a stain.'

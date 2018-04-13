@@ -1,0 +1,24 @@
+---
+'id': '007_085'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دل من اے دل من ایدل من'
+- 'lang': 'en'
+  'text': '(85)'
+'description': []
+'sher':
+- 'id': '007_085_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل من اے دل من ایدل من | یم من کشتی من ساحل من'
+  - 'lang': 'en'
+    'text': 'O heart, my heart, O heart within my breast, | You are my sea, my barque and my seashore.'
+- 'id': '007_085_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو شبنم بر سر خاکم چکیدی | و یا چون غنچہ رستی از گل من'
+  - 'lang': 'en'
+    'text': 'Did you drop on my dust like dew at night, | Or did you grow like a rose from my dust?'

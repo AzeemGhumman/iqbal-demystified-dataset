@@ -1,0 +1,46 @@
+---
+'id': '003_077'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-10.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'بيداري'
+- 'lang': 'en'
+  'text': 'AWAKENING'
+'description': []
+'sher':
+- 'id': '003_077_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جس بندئہ حق بيں کي خودي ہوگئي بيدار | شمشير کي مانند ہے برندہ و براق'
+  - 'lang': 'en'
+    'text': 'The Truth‐seeking man whose self has awakened | Is like a sword which is cutting and brilliant.'
+  - 'lang': 'ro'
+    'text': 'Jis Banda-e-Haq Been Ki Khudi Ho Gyi Baidar | Shamsheer Ki Manind Hai Buranda-o-Barraq'
+- 'id': '003_077_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس کي نگہ شوخ پہ ہوتي ہے نمودار | ہر ذرے ميں پوشيدہ ہے جو قوت اشراق'
+  - 'lang': 'en'
+    'text': 'To his keen eye is visible | The power to show what is latent in every atom.'
+  - 'lang': 'ro'
+    'text': 'Uss Ki Nigah-e-Shoukh Pe Hoti Hai Namoodar | Har Zarre Mein Poshida Hai Jo Quwwat-e-Ashraq'
+- 'id': '003_077_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اس مرد خدا سے کوئي نسبت نہيں تجھ کو | تو بندئہ آفاق ہے ، وہ صاحب آفاق'
+  - 'lang': 'en'
+    'text': 'To him you cannot be compared: | You are the slave of the heavens while he is their master.'
+  - 'lang': 'ro'
+    'text': 'Uss Mard-e-Khuda Se Koi Nisbat Nahin Tujh Ko | Tu Banda-e-Afaq Hai, Woh Sahib-e-Afaq'
+- 'id': '003_077_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تجھ ميں ابھي پيدا نہيں ساحل کي طلب بھي | وہ پاکي فطرت سے ہوا محرم اعماق'
+  - 'lang': 'en'
+    'text': 'You have not yet developed even a desire for the shore; | He has grasped the secrets of the deep through the purity of his soul.'
+  - 'lang': 'ro'
+    'text': 'Tujh Mein Abhi Paida Nahin Sahil Ki Talab Bhi | Woh Paki-e-Fitrat Se Huwa Mehram-e-Aamaq'

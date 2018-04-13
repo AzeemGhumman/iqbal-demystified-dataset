@@ -1,0 +1,37 @@
+---
+'id': '004_029'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/03-08.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'سمجھا لہو کي بوند اگر تو اسے تو خير'
+- 'lang': 'en'
+  'text': 'Thou think’st it a mere drop of blood'
+'description': []
+'sher':
+- 'id': '004_029_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سمجھا لہو کي بوند اگر تو اسے تو خير | دل آدمي کا ہے فقط اک جذبہء بلند'
+  - 'lang': 'en'
+    'text': 'Thou think’st it a mere drop of blood; well, | manʹs heart is but lofty ambitions.'
+  - 'lang': 'ro'
+    'text': 'Samjha Lahoo Ki Boond Agar Tu Issay To Khair | Dil Adami Ka Hai Faqt Ek Jazba’ay Buland'
+- 'id': '004_029_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گردش مہ و ستارہ کي ہے ناگوار اسے | دل آپ اپنے شام و سحر کا ہے نقش بند'
+  - 'lang': 'en'
+    'text': 'The revolutions of moon and stars are not to its liking: | It makes its own nights and days.'
+  - 'lang': 'ro'
+    'text': 'Gardish Mah-O-Sitara Ki Hai Nagwaar Isse | Dil Ap Apne Sham-O-Sahar Ka Hai Naqsh Band'
+- 'id': '004_029_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جس خاک کے ضمير ميں ہے آتش چنار | ممکن نہيں کہ سرد ہو وہ خاک ارجمند'
+  - 'lang': 'en'
+    'text': 'The earth that enshrines in its bosom the fire of plane tree: | this exalted earth can never be dead and cold.'
+  - 'lang': 'ro'
+    'text': 'Jis Khak Ke Zameer Mein Hai Aatish-E-Chinaar | Mumkin Nahin K Sard Ho Vo Khaak-E-Arjuman'

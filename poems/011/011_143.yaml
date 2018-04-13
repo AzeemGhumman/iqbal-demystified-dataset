@@ -1,0 +1,24 @@
+---
+'id': '011_143'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمان تا بساحل آرمید است'
+- 'lang': 'en'
+  'text': 'XI-LXV'
+'description': []
+'sher':
+- 'id': '011_143_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمان تا بساحل آرمید است | خجل از بحر و از خود نا امید است'
+  - 'lang': 'en'
+    'text': 'A Muslim is resting from coast to coast, | On self he lost hopes, is shy of sea most.'
+- 'id': '011_143_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جز این مرد فقیری دردمندی | جراحتہای پنہانش کہ دید است'
+  - 'lang': 'en'
+    'text': 'Save this poor soul a pathos who keeps, | Who sees hidden wounds1 when his heart weeps.'

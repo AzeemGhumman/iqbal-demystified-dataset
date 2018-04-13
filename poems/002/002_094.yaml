@@ -1,0 +1,28 @@
+---
+'id': '002_094'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-18.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'سوار ناقہ و محمل نہيں ميں'
+- 'lang': 'en'
+  'text': 'I am not a pursuer, nor a traveller'
+'description': []
+'sher':
+- 'id': '002_094_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سوار ناقہ و محمل نہيں ميں | نشان جادہ ہوں ، منزل نہيں ميں'
+  - 'lang': 'en'
+    'text': 'I am not a pursuer, nor a traveller, | I am not a goal, but a narrow track,'
+  - 'lang': 'ro'
+    'text': 'Sawar-e-Naqa-o-Mehmil Nahin Main | Nishan-e-Jadah Hun, Manzil Nahin Main'
+- 'id': '002_094_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مري تقدير ہے خاشاک سوزي | فقط بجلي ہوں ميں ، حاصل نہيں ميں'
+  - 'lang': 'en'
+    'text': 'I am not a harvest, but a thunder-bolt, | Born to set fire to straw.., buried in the dust.'
+  - 'lang': 'ro'
+    'text': 'Meri Taqdeer Hai Khashak Souzi | Faqt Bijli Hun Main, Hasil Nahin Main'

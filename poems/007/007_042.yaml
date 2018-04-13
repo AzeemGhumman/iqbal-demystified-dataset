@@ -1,0 +1,24 @@
+---
+'id': '007_042'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ خود باز آورد رند کہن را'
+- 'lang': 'en'
+  'text': '(42)'
+'description': []
+'sher':
+- 'id': '007_042_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ خود باز آورد رند کہن را | می برنا کہ من در جام کردم'
+  - 'lang': 'en'
+    'text': 'I offer you a strange, new kind of wine, | Which makes old tipplers sober, sane and wise;'
+- 'id': '007_042_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من این می چون مغان دور پیشین | ز چشم مست ساقی وام کردم'
+  - 'lang': 'en'
+    'text': 'And like the mystical Magi of old | I borrowed it from the Cupbearer’s eyes.'

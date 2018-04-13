@@ -1,0 +1,37 @@
+---
+'id': '003_155'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-08.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'بلشويک روس'
+- 'lang': 'en'
+  'text': 'BOLSHEVIK RUSSIA'
+'description': []
+'sher':
+- 'id': '003_155_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'روش قضائے الہي کي ہے عجيب و غريب | خبر نہيں کہ ضمير جہاں ميں ہے کيا بات'
+  - 'lang': 'en'
+    'text': 'Unsearchably God’s edicts move; who knows | What thoughts are stirring up deep in the world‐mind!'
+  - 'lang': 'ro'
+    'text': 'Rawish Qazaye Elahi Ki Hai Ajeeb-o-Ghareeb | Khabar Nahin Ke Zameer-e-Jahan Mein Hai Kya Baat'
+- 'id': '003_155_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہوئے ہيں کسر چليپا کے واسطے مامور | وہي کہ حفظ چليپا کو جانتے تھے نجات'
+  - 'lang': 'en'
+    'text': 'Those are appointed to pull down, who lately | Held it salvation to protect, the priests;'
+  - 'lang': 'ro'
+    'text': 'Huwe Hain Kasr-e-Chalipa Ke Waste Maamoor | Wohi Ke Hifz-e-Chalipa Ko Jante The Nijat'
+- 'id': '003_155_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ وحي دہريت روس پر ہوئي نازل | !کہ توڑ ڈال کليسائيوں کے لات و منات'
+  - 'lang': 'en'
+    'text': 'On godless Russia the command descends: | Smite all the Baals and Dagons of the Church!'
+  - 'lang': 'ro'
+    'text': 'Ye Wahi Dohriyat-e-Roos Par Huwi Nazil | Ke Torh Daal Kaleesaon Ke Laat-o-Manat !'

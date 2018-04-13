@@ -1,0 +1,28 @@
+---
+'id': '011_129'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ چشم من نگہ آوردۂ تست"
+- 'lang': 'en'
+  'text': 'XI-LI'
+'description': []
+'sher':
+- 'id': '011_129_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ چشم من نگہ آوردۂ تست | فروغ ’’لاالہ‘‘ آوردۂ تست'
+  - 'lang': 'en'
+    'text': 'You have lit up my eyes with an insight, | To thee owes hence, the Lailah’s light,'
+- 'id': '011_129_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دچارم کن بہ صبح ’’من ٓرآنی‘‘ | شبم را تاب مہ آوردۂ تست'
+  - 'lang': 'en'
+    'text': 'Bring a Dawn for me, with Thy Vision’s Scene, | My night gets thy light, like moonlight sheen.'
+    'notes':
+    - 'phrase': 'sheen.'
+      'meaning': '        The origin of the Prophet''s being owes to the light (noor) of God. Noor means ''Shine and Sheen'', fire in the distance bloom, blossom, light, God''s enlightenment. Thus every Prophet has a peculiar ''floor'' of Allah which can he seen from earth to heaven when God wishes so. There is a Hadith of Allah''s Prophet Whosoever saw me he saw the Almighty.'
+      'occurrence': !!int '1'

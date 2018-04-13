@@ -1,0 +1,24 @@
+---
+'id': '011_116'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نہ با ملا نہ با صوفی نشینم'
+- 'lang': 'en'
+  'text': 'XI-XXXVIII'
+'description': []
+'sher':
+- 'id': '011_116_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ با ملا نہ با صوفی نشینم | تو میدانی کہ من آنم ، نہ اینم'
+  - 'lang': 'en'
+    'text': 'With ‘mullah’ or ‘Sufi’ I do not sit, | With this or that, you know I dont fit.'
+- 'id': '011_116_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نویس ’’اللہ‘‘ بر لوح دل من | کہ ہم خود را ھم او را فاش بینم'
+  - 'lang': 'en'
+    'text': 'Thus write the word Allah on my heart’s slate, | To see ‘Him’ and Self in a lucent state.'

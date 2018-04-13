@@ -1,0 +1,28 @@
+---
+'id': '004_012'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-04.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'غريبي ميں ہوں محسود اميري'
+- 'lang': 'en'
+  'text': 'My poor estate makes proud men covetous'
+'description': []
+'sher':
+- 'id': '004_012_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غريبي ميں ہوں محسود اميري | کہ غيرت مند ہے ميري فقيري'
+  - 'lang': 'en'
+    'text': 'My poor estate makes proud men covetous, | Poverty such as mine ennobles us.'
+  - 'lang': 'ro'
+    'text': 'Ghareebi Mein Hon Mehsood-E-Ameeri | Ke Ghairatmand Hai Meri Faqeeri'
+- 'id': '004_012_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حذر اس فقر و درويشي سے، جس نے | مسلماں کو سکھا دي سر بزيري'
+  - 'lang': 'en'
+    'text': 'Beware those other rags and begging‐bowls | That make the Muslim pusillanimous!'
+  - 'lang': 'ro'
+    'text': 'Hazzar Uss Faqar-O-Darveshi Se, Jis Ne | Musalman Ko Sikha Di Sar-Ba-Zayri'

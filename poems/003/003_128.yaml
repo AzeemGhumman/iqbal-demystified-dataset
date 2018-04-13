@@ -1,0 +1,37 @@
+---
+'id': '003_128'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-24.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'رومي'
+- 'lang': 'en'
+  'text': 'RUMI'
+'description': []
+'sher':
+- 'id': '003_128_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غلط نگر ہے تري چشم نيم باز اب تک | ترا وجود ترے واسطے ہے راز اب تک'
+  - 'lang': 'en'
+    'text': 'Your half‐shut eyes still fail to see | What subtle fact this life may be.'
+  - 'lang': 'ro'
+    'text': 'Galat-e-Nigar Hai Teri Chashm-e-Neem Baaz Ab Tak | Tera Wujood Tere Waste Hai Raaz Ab Tak'
+- 'id': '003_128_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا نياز نہيں آشنائے ناز اب تک | کہ ہے قيام سے خالي تري نماز اب تک'
+  - 'lang': 'en'
+    'text': 'Too meek to have a fondling will, | Devoid of qiam your worship still.'
+  - 'lang': 'ro'
+    'text': 'Tera Niaz Nahin Ashnaye Naaz Ab Tak | Ke Hai Qayam Se Khali Teri Namaz Ab Tak'
+- 'id': '003_128_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گسستہ تار ہے تيري خودي کا ساز اب تک | !کہ تو ہے نغمہ رومي سے بے نياز اب تک'
+  - 'lang': 'en'
+    'text': 'For songs of Rumi you havenʹt ears sharp, | Snapped the strings of your selfʹs harp.'
+  - 'lang': 'ro'
+    'text': 'Gasta Taar Hai Teri Khudi Ka Saaz Ab Tak | Ke Tu Hai Naghma-e-Tumi Se Be-Niaz Ab Tak!'

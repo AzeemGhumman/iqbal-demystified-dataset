@@ -1,0 +1,32 @@
+---
+'id': '011_063'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدرین وادی زمانی جاودانے"
+- 'lang': 'en'
+  'text': 'VIII-IV'
+'description': []
+'sher':
+- 'id': '011_063_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین وادی زمانی جاودانے | زخاکش بی صور روید معانے'
+  - 'lang': 'en'
+    'text': 'In this valley lies a lasting life new, | This dust solves meanings’ with an arcane clue.'
+    'notes':
+    - 'phrase': 'meanings’'
+      'meaning': '        In Persian ''Mayani'' (or meanings) also mean talents, higher faculties, intrinsic qualities etc.'
+      'occurrence': !!int '1'
+- 'id': '011_063_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکیمان با کلیمان دوش بردوش | کہ اینجا کس نگوید ’’لن ترانے‘‘'
+  - 'lang': 'en'
+    'text': 'The Sages and Moses are side by side, | There none would ever look a “Can’t see” slide.'
+    'notes':
+    - 'phrase': 'see”'
+      'meaning': '        Can''t see is a reference to when God said to Moses, You cannot see me. This dust grows meanings in shapeless form (is the literal version) in that case 1st line''s last word would be "norm''.'
+      'occurrence': !!int '1'

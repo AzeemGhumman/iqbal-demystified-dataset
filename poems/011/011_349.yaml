@@ -1,0 +1,24 @@
+---
+'id': '011_349'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمرا از منطق  ید بوی خامے"
+- 'lang': 'en'
+  'text': 'I-IV'
+'description': []
+'sher':
+- 'id': '011_349_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا از منطق  ید بوی خامے | دلیل او دلیل ناتمامے'
+  - 'lang': 'en'
+    'text': 'In logic I feel a smell of raws, | Its pleas and reasons are full of flaws.'
+- 'id': '011_349_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برویم بستہ درہا را کشاید | دو بیت از پیر رومی یا ز جامی'
+  - 'lang': 'en'
+    'text': 'To me the shut doors are opened soon. | From a verse of Rumi or Jami’s croon.'

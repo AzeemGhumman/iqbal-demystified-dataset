@@ -1,0 +1,24 @@
+---
+'id': '011_326'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFوصال ما وصال اندر فراق است"
+- 'lang': 'en'
+  'text': 'IX-V'
+'description': []
+'sher':
+- 'id': '011_326_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وصال ما وصال اندر فراق است | گشود این گرہ غیر از نظر نیست'
+  - 'lang': 'en'
+    'text': 'His parting’s prick in my tete-a-tete lies, | To ope this tie get a glance of one’s eyes.'
+- 'id': '011_326_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گہر گم گشتۂ  غوش دریا است | ولیکن  ب بحر ،  ب گہر نیست'
+  - 'lang': 'en'
+    'text': 'That pearl is hidden though in depths of sea, | To pearls water yet we cannot call sea.'

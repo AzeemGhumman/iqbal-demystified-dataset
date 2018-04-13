@@ -1,0 +1,24 @@
+---
+'id': '011_301'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نگرید مرد از رنج و غم و درد'
+- 'lang': 'en'
+  'text': 'VI-I'
+'description': []
+'sher':
+- 'id': '011_301_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگرید مرد از رنج و غم و درد | ز دوران کم نشیند بر دلش گرد'
+  - 'lang': 'en'
+    'text': 'A man weeps not from a grief or pains, | No dust e’er falls, on his heart from.strain.'
+- 'id': '011_301_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قیاس او را مکن از گریہ خویش | کہ ہست از سوز و مستی گریۂ مرد'
+  - 'lang': 'en'
+    'text': 'If he e’er weeps you take it in this sense, | His weeping is a part of love pangs trance.'

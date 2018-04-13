@@ -1,0 +1,32 @@
+---
+'id': '011_314'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنہ نیروی خودی را  زمودی"
+- 'lang': 'en'
+  'text': 'VIII-IV'
+'description': []
+'sher':
+- 'id': '011_314_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ نیروی خودی را  زمودی | نہ بند از دست و پای خود گشودی'
+  - 'lang': 'en'
+    'text': 'The Ego’s power he did not try, | His hands and feet too opened no tie.'
+    'notes':
+    - 'phrase': 'Ego’s'
+      'meaning': '        Nairoo (ru); control, power, force, mastery.'
+      'occurrence': !!int '1'
+- 'id': '011_314_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد زنجیر بودی  دمے را | اگر در سینۂ او دل نبودے'
+  - 'lang': 'en'
+    'text': 'The wisdom to man is sometimes a chain, | If he had no heart to check and restrain.'
+    'notes':
+    - 'phrase': 'heart'
+      'meaning': '        Heart; here it means flame of love, his attention.'
+      'occurrence': !!int '1'

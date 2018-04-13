@@ -1,0 +1,24 @@
+---
+'id': '007_110'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز خاک نرگسستان غنچہ ئی رست'
+- 'lang': 'en'
+  'text': '(110)'
+'description': []
+'sher':
+- 'id': '007_110_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز خاک نرگسستان غنچہ ئی رست | کہ خواب از چشم او شبنم فرو شست'
+  - 'lang': 'en'
+    'text': 'A bud sprang up in the narcissus bed, | And dew washed sleep out of its eyes.'
+- 'id': '007_110_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودی از بیخودے آمد پدیدار | جہان دریافت آخر آنچہ می جست'
+  - 'lang': 'en'
+    'text': 'Thus out of Selflessness did Self arise: | The world at last found what it had long sought.'

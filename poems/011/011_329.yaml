@@ -1,0 +1,28 @@
+---
+'id': '011_329'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ روما گفت با من راہب پیر"
+- 'lang': 'en'
+  'text': 'X-II'
+'description': []
+'sher':
+- 'id': '011_329_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ روما گفت با من راہب پیر | کہ دارم نکتہ ئی از من فراگیر'
+  - 'lang': 'en'
+    'text': 'In city of Room a pontiff told me, | A word of wisdom I like to tell thee.'
+- 'id': '011_329_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کند ہر قوم پیدا مرگ خود را | ترا تقدیر و ما را کشت تدبیر'
+  - 'lang': 'en'
+    'text': 'Every nation makes her death’s own source, | To thee the fate, to us the planning course.'
+    'notes':
+    - 'phrase': 'course.'
+      'meaning': '        Line 4, ''tadbir'' also means politics, policy, administration, and planning.'
+      'occurrence': !!int '1'

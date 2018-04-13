@@ -1,0 +1,28 @@
+---
+'id': '011_389'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFفرنگ  ئین رزاقی بداند"
+- 'lang': 'en'
+  'text': 'V-I'
+'description': []
+'sher':
+- 'id': '011_389_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرنگ  ئین رزاقی بداند | بہ این بخشد از دوامی ستاند'
+  - 'lang': 'en'
+    'text': 'The English mind knows God’s Food Law Rules, | He takes from debtors to give to his tools.'
+- 'id': '011_389_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ شیطان  نچنان روزی رساند | کہ یزدان اندر  ن حیران بماند'
+  - 'lang': 'en'
+    'text': 'How he gives food to satan’s lay, | In wonderment lies the God at his way.'
+    'notes':
+    - 'phrase': 'way.'
+      'meaning': '        Wami (Per) a debtor; one burdened with debt. To satan''s lay here it means for the satan''s  trap.'
+      'occurrence': !!int '1'

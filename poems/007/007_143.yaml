@@ -1,0 +1,24 @@
+---
+'id': '007_143'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مرا مثل نسیم آوارہ کردند'
+- 'lang': 'en'
+  'text': '(143)'
+'description': []
+'sher':
+- 'id': '007_143_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا مثل نسیم آوارہ کردند | دلم مانند گل صد پارہ کردند'
+  - 'lang': 'en'
+    'text': 'Mine is to wander like the breeze of morn | With a heart like a full-blown rose’s rent'
+- 'id': '007_143_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگاہم را کہ پیدا ہم نبیند | شہید لذت نظارہ کردند'
+  - 'lang': 'en'
+    'text': 'And eyes, blind even to the evident, | Yet given to the joy of looking on.'

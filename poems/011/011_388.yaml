@@ -1,0 +1,28 @@
+---
+'id': '011_388'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدوگیتی را صلا از قرأت اوست"
+- 'lang': 'en'
+  'text': 'IV-X'
+'description': []
+'sher':
+- 'id': '011_388_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دوگیتی را صلا از قرأت اوست | مسلمان لایموت از رکعت اوست'
+  - 'lang': 'en'
+    'text': 'He calls both worlds to Quran by prays, | By such one prayer, Muslim dies nay.'
+- 'id': '011_388_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ند اندکشتۂ این عصربی سوز | قیامتہا کہ درقد قامت اوست'
+  - 'lang': 'en'
+    'text': 'Never knew thus the swains of this Age, | In his prayer hids a doomsday’s rage.'
+    'notes':
+    - 'phrase': 'rage.'
+      'meaning': '        Swain; (Poet or arch ), Young rustic man regarded as a Love. (Jocular; ) Lover.'
+      'occurrence': !!int '1'

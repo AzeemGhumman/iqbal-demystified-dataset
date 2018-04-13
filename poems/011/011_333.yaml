@@ -1,0 +1,24 @@
+---
+'id': '011_333'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFجدائی شوق را روشن بصر کرد"
+- 'lang': 'en'
+  'text': 'XII-III'
+'description': []
+'sher':
+- 'id': '011_333_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جدائی شوق را روشن بصر کرد | جدائی شوق را جویندہ تر کرد'
+  - 'lang': 'en'
+    'text': 'The separation gave to zeal great spur, | It gave to his passions a force and stir.'
+- 'id': '011_333_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمی دانم کہ احوال تو چون است | مرا این  ب و گل از من خبر کرد'
+  - 'lang': 'en'
+    'text': 'Of thy own affairs though I have no ken, | My heart made me conscious of my self then.'

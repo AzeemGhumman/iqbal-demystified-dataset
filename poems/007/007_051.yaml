@@ -1,0 +1,24 @@
+---
+'id': '007_051'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز پیوند تن و جانم چہ پرسی'
+- 'lang': 'en'
+  'text': '(51)'
+'description': []
+'sher':
+- 'id': '007_051_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز پیوند تن و جانم چہ پرسی | بہ دام چند و چون در می نیایم'
+  - 'lang': 'en'
+    'text': 'You ask how close the link between my soul | And body: that link is beyond compute.'
+- 'id': '007_051_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دم آشفتہ ام در پیچ و تابم | چو از آغوش نی خیزم نوایم'
+  - 'lang': 'en'
+    'text': 'Mere swirling, choked-up breath while in it, I | Am music when I issue from the flute.'

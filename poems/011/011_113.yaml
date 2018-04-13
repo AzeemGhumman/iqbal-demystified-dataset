@@ -1,0 +1,28 @@
+---
+'id': '011_113'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ افرنگی بتان دل باختم من"
+- 'lang': 'en'
+  'text': 'XI-XXXV'
+'description': []
+'sher':
+- 'id': '011_113_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ افرنگی بتان دل باختم من | ز تاب دیریان بگداختم من'
+  - 'lang': 'en'
+    'text': 'On idols white my heart is sweet, | It melts in Tina’s glamour’s heat.'
+    'notes':
+    - 'phrase': 'Tina’s'
+      'meaning': '        Tina is a diminutive of Christina, a common name for a Christian girl, whose masculine gender is Christie, also a common name for a Christian. It was dim-cult to convey a true sense for Daeree of fane) in English, being a ''dichtomy'' of ''masita'' means one who belongs to mosque but he is not a maulvi. Similarly ''daeree'' means who belongs to fane, not necessarily a priest.'
+      'occurrence': !!int '1'
+- 'id': '011_113_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چنان از خویشتن بیگانہ بودم | چو دیدم خویش را نشناختم من'
+  - 'lang': 'en'
+    'text': 'So alien to self I made of me, | I sought of my ‘self’ but did not see.'

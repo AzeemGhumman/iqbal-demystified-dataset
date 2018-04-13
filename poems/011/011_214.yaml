@@ -1,0 +1,28 @@
+---
+'id': '011_214'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبخاک ما دلی ، در دل غمی ہست"
+- 'lang': 'en'
+  'text': 'VII-IV'
+'description': []
+'sher':
+- 'id': '011_214_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بخاک ما دلی ، در دل غمی ہست | ہنوز این کہنہ شاخی را نمی ہست'
+  - 'lang': 'en'
+    'text': 'My heart has a grief, and dust has a heart, | Yet this old branch claims His moist’s great part.'
+- 'id': '011_214_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ افسون ھنر  ن چشمہ بگشای | درون ہر مسلمان زمزمی ہست'
+  - 'lang': 'en'
+    'text': 'With thy skill’s magic cause a fount so, | In each Muslim lies a fountain lo!'
+    'notes':
+    - 'phrase': 'lo!'
+      'meaning': '        Grief; here it means love of the Prophet.'
+      'occurrence': !!int '1'

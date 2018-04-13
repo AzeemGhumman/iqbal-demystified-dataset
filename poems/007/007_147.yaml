@@ -1,0 +1,24 @@
+---
+'id': '007_147'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عجم بحریست ناپیدا کناری'
+- 'lang': 'en'
+  'text': '(147)'
+'description': []
+'sher':
+- 'id': '007_147_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عجم بحریست ناپیدا کناری | کہ در وی گوہر الماس رنگ است'
+  - 'lang': 'en'
+    'text': 'Iran is like a boundless sea which teems | With pearls as rich as diamonds in sheen.'
+- 'id': '007_147_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولیکن من نرانم کشتی خویش | بہ دریائی کہ موجش بی نہنگ است'
+  - 'lang': 'en'
+    'text': 'Yet on that sea I will not sail my barque | Whose waters do not have a single shark.'

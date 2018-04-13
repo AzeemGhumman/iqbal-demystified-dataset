@@ -1,0 +1,28 @@
+---
+'id': '002_109'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-33.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خرد واقف نہيں ہے نيک و بد سے'
+- 'lang': 'en'
+  'text': 'This reason of mine knows not good from evil'
+'description': []
+'sher':
+- 'id': '002_109_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد واقف نہيں ہے نيک و بد سے | بڑھي جاتي ہے ظالم اپني حد سے'
+  - 'lang': 'en'
+    'text': 'This reason of mine knows not good from evil; | And tries to exceed the bounds that nature fixed;'
+  - 'lang': 'ro'
+    'text': 'Khirad Waqif Nahin Hai Naik-o-Bad Se | Barhi Jati Hai Zalim Apni Had Se'
+- 'id': '002_109_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا جانے مجھے کيا ہو گيا ہے | !خرد بيزار دل سے ، دل خرد سے'
+  - 'lang': 'en'
+    'text': 'I know not what has happened to me of late, | My reason and my heart are ever at war.'
+  - 'lang': 'ro'
+    'text': 'Khuda Jane Mujhe Kya Ho Gya Hau | Khirad Bezar Dil Se, Dil Khirad Se!'

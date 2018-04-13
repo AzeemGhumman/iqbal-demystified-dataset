@@ -1,0 +1,24 @@
+---
+'id': '007_046'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'گدای جلوہ رفتی بر سر طور'
+- 'lang': 'en'
+  'text': '(46)'
+'description': []
+'sher':
+- 'id': '007_046_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گدای جلوہ رفتی بر سر طور | کہ جان تو ز خود نامحرمی ہست'
+  - 'lang': 'en'
+    'text': 'You went to Mount Sinai, soliciting | A sight of God, being a stranger to'
+- 'id': '007_046_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قدم در جستجوی آدمی زن | خدا ہم در تلاش آدمی ہست'
+  - 'lang': 'en'
+    'text': 'Yourself. Go and seek man; for God Himself | Is seeking man; yes, He is seeking you.'

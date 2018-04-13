@@ -1,0 +1,32 @@
+---
+'id': '011_383'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمسلمان را ہمین عرفان و ادراک"
+- 'lang': 'en'
+  'text': 'IV-V'
+'description': []
+'sher':
+- 'id': '011_383_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمان را ہمین عرفان و ادراک | کہ در خود فاش بیندر مزلولاک'
+  - 'lang': 'en'
+    'text': 'For Muslim ‘this is the gnosis and ken, | In self he sees vivid Laulak’s ken when.'
+    'notes':
+    - 'phrase': 'Laulak’s'
+      'meaning': '        Laulaka; Lamma Khuliqat-il-Aflak (A Hadith) If you had not been the whole skies would have not been.'
+      'occurrence': !!int '1'
+- 'id': '011_383_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا اندر قیاس مانگنجد | شناس  نرا کہ گوید ما عرفناک'
+  - 'lang': 'en'
+    'text': 'We cannot hold God as in our thought, | Be conscious of whom who said, ‘you knew not’.'
+    'notes':
+    - 'phrase': 'not’.'
+      'meaning': '        Ma''araf na ka (haqqa marifatika), We admit O God that we did not fulfill the debt and duty of Thy gnosis (acquaintance). M''arifat, knowledge gained through experience, enough for recognition, but not as deep as certitude.'
+      'occurrence': !!int '1'

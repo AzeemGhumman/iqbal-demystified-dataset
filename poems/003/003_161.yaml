@@ -1,0 +1,37 @@
+---
+'id': '003_161'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-14.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اہل مصر سے'
+- 'lang': 'en'
+  'text': 'TO THE EGYPTIANS'
+'description': []
+'sher':
+- 'id': '003_161_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خود ابوالہول نے يہ نکتہ سکھايا مجھ کو | وہ ابوالہول کہ ہے صاحب اسرار قديم'
+  - 'lang': 'en'
+    'text': 'None other than the Sphinx, the Dread One, lord | Of the secrets of old times, taught me this:'
+  - 'lang': 'ro'
+    'text': 'Khud Abu-Ul-Hol Ne Ye Nukta Sikhaya Nujh Ko | Woh Abu-Ul-Hol Ke Hai Sahib-e-Asrar-e-Qadeem'
+- 'id': '003_161_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دفعتہً جس سے بدل جاتي ہے تقدير امم | ہے وہ قوت کہ حريف اس کي نہيں عقل حکيم'
+  - 'lang': 'en'
+    'text': 'Strength That in one hour can swerve the fates of nations | Admits no puzzling intellect for rival,'
+  - 'lang': 'ro'
+    'text': 'Dafatan Jis Se Badal Jati Hai Taqdeer-e-Ummam | Hai Woh Quwwat Ke Hareef Iss Ki Nahin Aqal-e-Hakeem'
+- 'id': '003_161_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر زمانے ميں دگر گوں ہے طبيعت اس کي | !کبھي شمشير محمد ہے ، کبھي چوب کليم'
+  - 'lang': 'en'
+    'text': 'Though many in each age are its manifestations— | Now Moses’ rod, and now Muhammad’s sword.'
+  - 'lang': 'ro'
+    'text': 'Har Zamane Mein Digargoon Hai Tabiat Iss Ki | Kabhi Shamsheer-e- Muhammad (S.A.W.) Hai, Kabhi Chob-e- Kaleem (A.S.) !'

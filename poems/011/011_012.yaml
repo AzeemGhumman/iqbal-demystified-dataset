@@ -1,0 +1,24 @@
+---
+'id': '011_012'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز من ہنگامہ ئی وہ این جہان را'
+- 'lang': 'en'
+  'text': 'II-VII'
+'description': []
+'sher':
+- 'id': '011_012_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز من ہنگامہ ئی وہ این جہان را | دگرگون کن زمین و آسمان را'
+  - 'lang': 'en'
+    'text': 'Bid me shake the world with a cry and hue | Get change on the globe with a complex new.'
+- 'id': '011_012_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز خاک ما دگر آدم برانگیز | بکش این بندہ سود و زیان را'
+  - 'lang': 'en'
+    'text': 'From dust of mine make an Adam again, | Kill the bonds and slaves of loss and gain.'

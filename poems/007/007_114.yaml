@@ -1,0 +1,24 @@
+---
+'id': '007_114'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مزاج لالۂ خود رو شناسم'
+- 'lang': 'en'
+  'text': '(114)'
+'description': []
+'sher':
+- 'id': '007_114_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مزاج لالۂ خود رو شناسم | بشاخ اندر گلان را بو شناسم'
+  - 'lang': 'en'
+    'text': 'I know the ways of the wild tulip well. | I can smell roses’ fragrance in the stem.'
+- 'id': '007_114_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از آن دارد مرا مرغ چمن دوست | مقام نغمہ ہای او شناسم'
+  - 'lang': 'en'
+    'text': 'The garden songsters take me for a friend | Because I sing in harmony with them.'

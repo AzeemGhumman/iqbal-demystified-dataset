@@ -1,0 +1,37 @@
+---
+'id': '003_032'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-32.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'شکست'
+- 'lang': 'en'
+  'text': 'DEFEATISM'
+'description': []
+'sher':
+- 'id': '003_032_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجاہدانہ حرارت رہي نہ صوفي ميں | بہانہ بے عملي کا بني شراب الست'
+  - 'lang': 'en'
+    'text': 'The mystics of the present age, Are devoid of warriorʹs rage: | The claim that they are rapt with wine, Of ’Last and turn from Code Divine!'
+  - 'lang': 'ro'
+    'text': 'Mujahidana Hararat Rahi Na Sufi Mein | Bahana Be-Amali Ka Bani Sharab-e-Alasst'
+- 'id': '003_032_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فقيہ شہر بھي رہبانيت پہ ہے مجبور | کہ معرکے ہيں شريعت کے جنگ دست بدست'
+  - 'lang': 'en'
+    'text': 'The jurist has such bent of mind, That makes to monkish mode inclined, | In Holy Wars take rock‐like stand, They are just combats hand to hand.'
+  - 'lang': 'ro'
+    'text': 'Faqeeh-e-Sheher Bhi Ruhbaniat Pe Hai Majboor | Ke Maarke Hain Shariat Ke Jang-e-Dast-Badast'
+- 'id': '003_032_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گريز کشمکش زندگي سے، مردوں کي | !اگر شکست نہيں ہے تو اور کيا ہے شکست'
+  - 'lang': 'en'
+    'text': 'Manʹs flight from conflicts of life, Or escape from its heat and strife: | If these not be abject defeat, What else is then a mean retreat?'
+  - 'lang': 'ro'
+    'text': 'Garaiz Kashmakash-e-Zindagi Se, Mardon Ki | Agar Shikast Nahin Hai To Aur Kya Hai Shikast!'

@@ -1,0 +1,24 @@
+---
+'id': '011_190'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مریدی خود شناسی پختہ کاری'
+- 'lang': 'en'
+  'text': 'IV-VII'
+'description': []
+'sher':
+- 'id': '011_190_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مریدی خود شناسی پختہ کاری | بہ پیری گفت حرف نیش داری'
+  - 'lang': 'en'
+    'text': 'A well read disciple asked his guide, | With a word in which a sting did hide.'
+- 'id': '011_190_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بمرگ ناتمامی جان سپردن | گرفتن روزی از خاک مزاری'
+  - 'lang': 'en'
+    'text': 'To die for a life will it well behave? | To make one’s living from bones of a grave.'

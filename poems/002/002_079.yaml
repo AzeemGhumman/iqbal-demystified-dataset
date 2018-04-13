@@ -1,0 +1,28 @@
+---
+'id': '002_079'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-03.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'رہ و رسم حرم نا محرمانہ'
+- 'lang': 'en'
+  'text': 'Estranging are the ways in the holy precinct'
+'description': []
+'sher':
+- 'id': '002_079_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رہ و رسم حرم نا محرمانہ | کليسا کي ادا سوداگرانہ'
+  - 'lang': 'en'
+    'text': 'Estranging are the ways in the holy precinct, | And commercial is the tone of churches rites;'
+  - 'lang': 'ro'
+    'text': 'Rah-o-Rasm-e-Haram Na-Mehramana | Kalisa Ki Ada Soudagarana'
+- 'id': '002_079_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تبرک ہے مرا پيراہن چاک | نہيں اہل جنوں کا يہ زمانہ'
+  - 'lang': 'en'
+    'text': 'My soul''s absorption is a relic now, | For gone are the days of men of ecstasy.'
+  - 'lang': 'ro'
+    'text': 'Tabarrak Hai Mera Pairhan-e-Chaak | Nahin Ahl-e-Junoon Ka Ye Zamana'

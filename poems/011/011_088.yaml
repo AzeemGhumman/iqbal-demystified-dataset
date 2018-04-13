@@ -1,0 +1,32 @@
+---
+'id': '011_088'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFفقیران تا بہ مسجد صف کشیدند"
+- 'lang': 'en'
+  'text': 'XI-X'
+'description': []
+'sher':
+- 'id': '011_088_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فقیران تا بہ مسجد صف کشیدند | گریبان شہنشاہان دریدند'
+  - 'lang': 'en'
+    'text': 'As long in mosque the poor kept a row, | They tore the emperors collars he'
+    'notes':
+    - 'phrase': 'row,'
+      'meaning': '        A row or rows of five time prayers.'
+      'occurrence': !!int '1'
+- 'id': '011_088_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو آن آتش درون سینہ افسرد | مسلمانان بہ درگاہان خزیدند'
+  - 'lang': 'en'
+    'text': 'That fire when cooled in his heart and soul, | They crawled to tombs of saints to roll.'
+    'notes':
+    - 'phrase': 'roll.'
+      'meaning': '        To roll around.'
+      'occurrence': !!int '1'

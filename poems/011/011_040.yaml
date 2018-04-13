@@ -1,0 +1,28 @@
+---
+'id': '011_040'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبپایان چون رسد این عالم پیر"
+- 'lang': 'en'
+  'text': 'XI-I'
+'description': []
+'sher':
+- 'id': '011_040_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بپایان چون رسد این عالم پیر | شود بی پردہ ہر پوشیدہ تقدیر'
+  - 'lang': 'en'
+    'text': 'When the old world gets its apex of height , | Then the fate unsheaths every secret might.'
+    'notes':
+    - 'phrase': 'height'
+      'meaning': '        It means that his doom is getting near. Line 2 also conveys the same thought.'
+      'occurrence': !!int '1'
+- 'id': '011_040_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مکن رسوا حضور خواجہ مارا | حساب من ز چشم او نہان گیر'
+  - 'lang': 'en'
+    'text': 'Disgrace me not before my master hence, | My! ‘counts book’! be hidden from Prophet thence.'

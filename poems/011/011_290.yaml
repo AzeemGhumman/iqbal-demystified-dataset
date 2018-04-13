@@ -1,0 +1,28 @@
+---
+'id': '011_290'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFخوشا روزی کہ خود را باز گیری"
+- 'lang': 'en'
+  'text': 'III-VI'
+'description': []
+'sher':
+- 'id': '011_290_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوشا روزی کہ خود را باز گیری | ہمین فقر است کو بخشد امیری'
+  - 'lang': 'en'
+    'text': 'I hail that day when he turns to self’s bold, | This is the faqr’s essence which makes him gold'
+- 'id': '011_290_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حیات جاودان اندر یقین است | رہ تخمین و ظن گیری بمیری'
+  - 'lang': 'en'
+    'text': 'The lasting life thus in certitude. lies, | A thought when you follow the self then dies.'
+    'notes':
+    - 'phrase': 'dies.'
+      'meaning': '        Underlying thought: When you express your own opinion or view in the exegesis of Quran or Hadith it means that you are (unconsciously or inadvertantly) under an impression that the God, and the Prophet, were unable to ezplain those verses, inspite of all the eloquence we owe to the words of Allah in the Holy Quran. There a man claims to be a great scholar than God Himself. As such if you prefer the views of the biggest scholar on earth over the clear meaning of Holy Quran, then your faith, gnosis and then the certitude in God and the Prophet is not complete The views of different experts, may be the Holiest men on earth, create different castes and creeds in any religion.'
+      'occurrence': !!int '1'

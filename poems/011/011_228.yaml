@@ -1,0 +1,28 @@
+---
+'id': '011_228'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFپریشانم چو گرد رہ گذاری"
+- 'lang': 'en'
+  'text': 'IX-IV'
+'description': []
+'sher':
+- 'id': '011_228_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پریشانم چو گرد رہ گذاری | کہ بر دوش ہوا گیرد قراری'
+  - 'lang': 'en'
+    'text': 'So scattered I’m like dust of the way, | On the wings of storms I cannot stay.'
+- 'id': '011_228_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوشا بختی و خرم روزگاری | کہ بیرون  ید از من شہسواری'
+  - 'lang': 'en'
+    'text': 'How august and happy would be that day, | When a ride is born from my own clay.'
+    'notes':
+    - 'phrase': 'clay.'
+      'meaning': '        Here Iqbal forecasts that a superman will appear to guide the destiny of nation.'
+      'occurrence': !!int '1'

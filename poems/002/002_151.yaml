@@ -1,0 +1,28 @@
+---
+'id': '002_151'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-33.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'سوال'
+- 'lang': 'en'
+  'text': 'A QUESTION'
+'description': []
+'sher':
+- 'id': '002_151_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک مفلس خود دار يہ کہتا تھا خدا سے | ميں کر نہيں سکتا گلہء درد فقيري'
+  - 'lang': 'en'
+    'text': 'A self‐respecting tramp was saying to the Almighty: | I dare not complain for my woes of poverty;'
+  - 'lang': 'ro'
+    'text': 'Ek Muflas-e-Khud-Dar Ye Kehta Tha Khuda Se | Main Kar Nahin Sakta Gila-e-Dard-e-Faqeeri'
+- 'id': '002_151_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ليکن يہ بتا ، تيري اجازت سے فرشتے | کرتے ہيں عطا مرد فرومايہ کو ميري ؟'
+  - 'lang': 'en'
+    'text': 'But pray tell me if it is by Your permission | That the angels bestow riches upon the worthless ones?'
+  - 'lang': 'ro'
+    'text': 'Lekin Ye Bata, Teri Ijazat Se Farishte | Karte Hain Atta Mard-e-Firomaya Ko Meeri?'

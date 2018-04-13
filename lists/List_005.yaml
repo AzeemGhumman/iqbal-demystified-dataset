@@ -1,0 +1,127 @@
+---
+name:
+- lang: ur
+  text: اسرارِ خودی
+- lang: en
+  text: Asrar-e-Khudi
+sections:
+- sectionName:
+  - lang: ur
+    text: اشعار فارسی
+  - lang: en
+    text: PERSIAN POEMS
+- poems:
+  - id: '005_001'
+    poemName:
+    - lang: ur
+      text: تمہید
+    - lang: en
+      text: PROLOGUE
+  - id: '005_002'
+    poemName:
+    - lang: ur
+      text: دربیان اینکہ اصل نظام عالم از خودی است و تسلسل حیات تعینات وجود بر استحکام خودی انحصاردارد
+    - lang: en
+      text: SHOWING THAT THE SYSTEM OF THE UNIVERSE ORIGINATES IN THE SELF AND THAT THE CONTINUATION OF THE LIFE OF ALL INDIVIDUALS DEPENDS ON STRENGTHENING THE SELF.
+  - id: '005_003'
+    poemName:
+    - lang: ur
+      text: دربیان اینکہ حیات خودی از تخلیق و تولیدمقاصداست
+    - lang: en
+      text: SHOWING THAT THE LIFE OF THE SELF COMES FROM FORMING IDEALS AND BRINGING THEM TO BIRTH.
+  - id: '005_004'
+    poemName:
+    - lang: ur
+      text: در بیان اینکہ خودی از عشق و محبت استحکام می پذیرد
+    - lang: en
+      text: SHOWING THAT THE SELF IS STRENGTHENED BY LOVE
+  - id: '005_005'
+    poemName:
+    - lang: ur
+      text: در بیان اینکہ خودی از سؤال ضعیف میگردد
+    - lang: en
+      text: SHOWING THAT THE SELF IS WEAKENED BY ASKING
+  - id: '005_006'
+    poemName:
+    - lang: ur
+      text: قوای ظاہرہ و مخفیہ نظام عالم را مسخر می سازد در بیان اینکہ چون خودی از عشق و محبت محکم میگردد ،
+    - lang: en
+      text: THE CLOUD ON THE MOUNTAIN
+  - id: '005_007'
+    poemName:
+    - lang: ur
+      text: حکایت درین معنی کہ مسئلۂ نفی خودی از مخترعات اقوام مغلوبۂ بنی نوع انسان است کہ بہ این طریق مخفی اخلاق اقوام غالبہ را ضعیف میسازند
+    - lang: en
+      text: A TALE OF WHICH THE MORAL IS THAT NEGATION OF THE SELF IS A DOCTRINE INVENTED BY THE SUBJECT RACES OF MANKIND IN ORDER THAT BY THIS MEANS THEY MAY SAP AND WEAKEN THE CHARACTER OF THEIR RULERS.
+  - id: 005_008
+    poemName:
+    - lang: ur
+      text: و از تخیلات او احتراز واجب است از افکار او اثر عظیم پذیرفتہ بر مسلک گوسفندی رفتہ است در معنی اینکہ افلاطون یونانی کہ تصوف و ادبیات اقوام اسلامیہ
+    - lang: en
+      text: TO THE EFFECT THAT PLATO, WHOSE THOUGHT HAS DEEPLY INFLUENCED THE MYSTICISM AND LITERATURE OF ISLAM, FOLLOWED THE SHEEP'S DOCTRINE, AND THAT WE MUST BE ON OUR GUARD AGAINST HIS THEORIES
+  - id: 005_009
+    poemName:
+    - lang: ur
+      text: در حقیقت شعر و اصلاح ادبیات اسلامیہ
+    - lang: en
+      text: CONCERNING THE TRUE NATURE OF POETRY AND REFORM OF ISLAMIC LITERATURE.
+  - id: '005_010'
+    poemName:
+    - lang: ur
+      text: و مرحلہ سوم را نیابت الھی نامیدہ اند مرحلۂ اول را اطاعت و مرحلۂ دوم را ضبط نفس، در بیان اینکہ تربیت خودی را سہ مراحل است
+    - lang: en
+      text: 'SHOWING THAT THE EDUCATION OF THE SELF HAS THREE STAGES: OBEDIENCE, SELF-CONTROL, AND DIVINE VICEGERENCE.'
+  - id: '005_011'
+    poemName:
+    - lang: ur
+      text: ’’در شرح اسرار اسمای علی مرتضی‘‘
+    - lang: en
+      text: SETTING FORTH THE INNER MEANING OF THE NAMES OF ALI
+  - id: '005_012'
+    poemName:
+    - lang: ur
+      text: حکایت نوجوانی از مرو کہ پیش حضرت سید مخدوم علی ھجویری رحمة اﷲ علیہ آمدہ از ستم اعدا فریاد کرد
+    - lang: en
+      text: STORY OF A YOUNG MAN OF MERV WHO CAME TO THE SAINT ALI HAJWIRI (GOD HAVE MERCY ON HIM!) AND  COMPLAINED THAT HE WAS OPPRESSED BY HIS ENEMIES.
+  - id: '005_013'
+    poemName:
+    - lang: ur
+      text: حکایت طایری کہ از تشنگی بیتاب بود
+    - lang: en
+      text: STORY OF THE BIRD THAT WAS FAINT WITH THIRST
+  - id: '005_014'
+    poemName:
+    - lang: ur
+      text: حکایت الماس و  زغال
+    - lang: en
+      text: STORY OF THE DIAMOND AND THE COAL
+  - id: '005_015'
+    poemName:
+    - lang: ur
+      text: از محکم گرفتن روایات مخصوصہ ملیہ می باشد تسلسل حیات ملیہ حکایت شیخ و برہمن و مکالمہ گنگ و ہمالہ در معنی اینکہ
+    - lang: en
+      text: STORY OF THE SHEIKH AND THE BRAHMIN FOLLOWED BY A CONVERSATION BETWEEN GANGES AND HIMALAYA TO THE EFFECT THAT THE CONTINUATION OF SOCIAL LIFE DEPEND ON FIRM ATTACHMENTS TO THE CHARACTERISTIC TRADITIONS OF THE COMMUNITY.
+  - id: '005_016'
+    poemName:
+    - lang: ur
+      text: در مذہب اسلام حرام است و جہاد ، اگر محرک آن جوع الارض باشد در بیان اینکہ مقصد حیات مسلم ، اعلای کلمة اللہ است
+    - lang: en
+      text: SHOWING THAT THE PURPOSE OF THE MUSLIM'S LIFE IS TO EXALT THE WORD OF ALLAH AND THAT THE JIHAD (WAR AGAINST UNBELIEVERS), IF IT BE PROMPTED BY LAND-HUNGER, IS UNLAWFUL IN THE RELIGION OF ISLAM.
+  - id: '005_017'
+    poemName:
+    - lang: ur
+      text: اندر ز میر نجات نقشبند المعروف بہ بابای صحرائی کہ برای مسلمانان ہندوستان رقم فرمودہ است
+    - lang: en
+      text: PRECEPTS WRITTEN FOR THE MUSLIMS OF INDIA BY MIR NAJAT NAKSHBAND, WHO IS GENERALLY KNOWN AS BABA SHARI'S
+  - id: 005_018
+    poemName:
+    - lang: ur
+      text: الوقت سیف
+    - lang: en
+      text: TIME IS A SWORD
+  - id: 005_019
+    poemName:
+    - lang: ur
+      text: دعا
+    - lang: en
+      text: AN INVOCATION

@@ -1,0 +1,24 @@
+---
+'id': '011_031'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمان فاقہ مست و ژندہ پوش است'
+- 'lang': 'en'
+  'text': 'VII-I'
+'description': []
+'sher':
+- 'id': '011_031_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمان فاقہ مست و ژندہ پوش است | ز کارش جبرئیل اندر خروش است'
+  - 'lang': 'en'
+    'text': 'A Muslim gloats in hunger and patches, | To Gabriel his deeds are sheer scratches.'
+- 'id': '011_031_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا نقش دگر ملت بریزیم | کہ این ملت جہان را بار دوش است'
+  - 'lang': 'en'
+    'text': 'Come, fashion and form a new nation’s norm, | This nation is a burden on world’s arm.'

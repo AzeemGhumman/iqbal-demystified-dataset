@@ -1,0 +1,24 @@
+---
+'id': '007_058'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چو تاب از خود بگیرد قطرۂ آب'
+- 'lang': 'en'
+  'text': '(58)'
+'description': []
+'sher':
+- 'id': '007_058_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو تاب از خود بگیرد قطرۂ آب | میان صد گہر یک دانہ گردد'
+  - 'lang': 'en'
+    'text': 'A water-drop, with native lustre, can | Outshine a hundred pearls. In company'
+- 'id': '007_058_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ بزم ہمنوایان آنچنان زی | کہ گلشن بر تو خلوت خانہ گردد'
+  - 'lang': 'en'
+    'text': 'Be like the bird who proudly sings apart, | Choosing the garden for its privacy.'

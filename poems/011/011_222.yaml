@@ -1,0 +1,28 @@
+---
+'id': '011_222'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFسحرگاہان کہ روشن شد در و دشت"
+- 'lang': 'en'
+  'text': 'O SON OF THE DESERT | Chapter 8'
+'description': []
+'sher':
+- 'id': '011_222_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سحرگاہان کہ روشن شد در و دشت | صدا زد مرغی از شاخ نخیلی'
+  - 'lang': 'en'
+    'text': 'When all the desert sides were bright from dawn, | From tree a bird tuned to a youth in lawn.'
+- 'id': '011_222_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فروھل خیمہ ای فرزند صحرا | کہ نتوان زیست بی ذوق رحیلی'
+  - 'lang': 'en'
+    'text': 'O desert’s son! leave thy tent with haste, | You lead a dull life which lacks journey taste.'
+    'notes':
+    - 'phrase': 'taste.'
+      'meaning': '        In the above three quatrains (twin couplets) the poet has addressed an immaculate son of the desert, a young Muslim, free from the impure taints of city life.'
+      'occurrence': !!int '1'

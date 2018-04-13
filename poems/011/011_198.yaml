@@ -1,0 +1,28 @@
+---
+'id': '011_198'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFخیالش با مہ و انجم نشیند"
+- 'lang': 'en'
+  'text': 'V-VII'
+'description': []
+'sher':
+- 'id': '011_198_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خیالش با مہ و انجم نشیند | نگاہش  ن سوی پروین ببیند'
+  - 'lang': 'en'
+    'text': 'His thought thus flies with stars and moon rays, | His eye thus views beyond milky ways.'
+- 'id': '011_198_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل بیتاب خود را پیش او نہ | دم او رعشہ از سیماب چیند'
+  - 'lang': 'en'
+    'text': 'Lay thy restive heart at his fluid tune, | From his quick silver get a quick calm soon.'
+    'notes':
+    - 'phrase': 'soon.'
+      'meaning': '        When you shake the thermometer the mercury settles down. It was difficult to translate the last line of this twin couplet.'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '011_183'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبجام نو کہن می از سبو ریز"
+- 'lang': 'en'
+  'text': 'III-VII'
+'description': []
+'sher':
+- 'id': '011_183_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بجام نو کہن می از سبو ریز | فروغ خویش را بر کاخ و کو ریز'
+  - 'lang': 'en'
+    'text': 'Fill the old wine in the New Age bowl. | Cast the self’s light on hills and lands whole.'
+- 'id': '011_183_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر خواہی ثمر از شاخ منصور | بہ دل ’’لا غالب الا اللہ‘‘ فرو ریز'
+  - 'lang': 'en'
+    'text': 'If you wish to eat fruits from Mansoor’s bowl, | Say none save Allah can rule the world whole.'
+    'notes':
+    - 'phrase': 'whole.'
+      'meaning': '        Basic thought: [Take the world''s order in you own hand, Throw other Gods from your heart''s land.] Hussain bin Mansoor Hallaj, a famous saint who was hanged on gibbot in 309 Hijri for saying ''Anal Haq'' I am the Truth; I am the God) His real name was Hussain, but known as Mansoor Hallaj on his father''s name. He was not a Hallaj (a cotton carder) by profession. Once he stayed at the house of a friend (who was a cotton carder) in his absence. On his own hint (or gesture) the carding bow started carding automatically. From that day be was named Hallaj.'
+      'occurrence': !!int '1'

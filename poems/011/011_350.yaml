@@ -1,0 +1,38 @@
+---
+'id': '011_350'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبیا از من بگیر  ن دیر سالہ"
+- 'lang': 'en'
+  'text': 'I-V'
+'description': []
+'sher':
+- 'id': '011_350_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا از من بگیر  ن دیر سالہ | کہ بخشد روح با خاک پیالہ'
+  - 'lang': 'en'
+    'text': 'Come and take from me that old wine’s bowl.$3 | Which gives the dust of bowl quite a new soul,'
+    'notes':
+    - 'phrase': 'Come'
+      'meaning': '        Come=to join his path.'
+      'occurrence': !!int '1'
+    - 'phrase': 'from'
+      'meaning': '        Take from me learn.'
+      'occurrence': !!int '1'
+    - 'phrase': 'bowl'
+      'meaning': '        Dust of bowl; a hint or allusion to the lover''s heart.'
+      'occurrence': !!int '1'
+- 'id': '011_350_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر  بش دہی از شیشۂ من | قد  دم بروید شاخ لالہ'
+  - 'lang': 'en'
+    'text': 'If you water this poppy from my can, | A branch will grow to the size of a man.'
+    'notes':
+    - 'phrase': 'branch'
+      'meaning': '        A branch; or poppy''s branch = the whole nation, the Ummah, or one man.'
+      'occurrence': !!int '1'

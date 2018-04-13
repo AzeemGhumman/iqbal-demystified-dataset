@@ -1,0 +1,28 @@
+---
+'id': '011_299'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدو گیتی را بخود باید کشیدن"
+- 'lang': 'en'
+  'text': 'V-V'
+'description': []
+'sher':
+- 'id': '011_299_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دو گیتی را بخود باید کشیدن | نباید از حضور خود رمیدن'
+  - 'lang': 'en'
+    'text': 'To both the worlds win with efforts and zeal, | From thee never run for thy own self’s weal.'
+- 'id': '011_299_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ نور دوش بین امروز خود را | ز دوش امروز را نتوان ربودن'
+  - 'lang': 'en'
+    'text': 'From light of past see the light of to day, | To day you cant cut off from the last day.'
+    'notes':
+    - 'phrase': 'day.'
+      'meaning': '        Line 4 (Literal): From last day you cannot pounce on today.'
+      'occurrence': !!int '1'

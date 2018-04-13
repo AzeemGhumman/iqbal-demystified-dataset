@@ -1,0 +1,24 @@
+---
+'id': '007_027'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہل افسانۂ آن پا چراغی'
+- 'lang': 'en'
+  'text': '(27)'
+'description': []
+'sher':
+- 'id': '007_027_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہل افسانۂ آن پا چراغی | حدیث سوز او آزار گوش است'
+  - 'lang': 'en'
+    'text': 'Do not tell me about that silly moth | Who met an easy, suicidal death.'
+- 'id': '007_027_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من آن پروانہ را پروانہ دانم | کہ جانش سخت کوش و شعلہ نوش است'
+  - 'lang': 'en'
+    'text': 'It is the hardy moth that I admire, | The one who bravely fights with his last breath.'

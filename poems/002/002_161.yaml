@@ -1,0 +1,37 @@
+---
+'id': '002_161'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-43.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'فقر'
+- 'lang': 'en'
+  'text': 'FAQR'
+'description': []
+'sher':
+- 'id': '002_161_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک فقر سکھاتا ہے صےاد کو نخچيري | اک فقر سے کھلتے ہيں اسرار جہاں گيري'
+  - 'lang': 'en'
+    'text': 'There is a faqr that teaches the hunter to be a prey; | There is another that opens the secrets of mastery over the world.'
+  - 'lang': 'ro'
+    'text': 'Ek Faqr Sikhata Hai Sayyad Ko Nakhcheeri | Ek Faqr Se Khulte Hain Asrar-e-Jahangeeri'
+- 'id': '002_161_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک فقر سے قوموں ميں مسکيني و دلگيري | اک فقر سے مٹي ميں خاصيت اکسيري'
+  - 'lang': 'en'
+    'text': 'There is a faqr that is the root of needfulness and misery among nations; | There is another that turns mere dust into elixir.'
+  - 'lang': 'ro'
+    'text': 'Ek Faqr Se Qoumon Mein Maskeeni-o-Dilgeeri | Ek Faqr Se Mitti Mein Khasiyat-e-Ikseeri'
+- 'id': '002_161_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک فقر ہے شبےري ، اس فقر ميں ہے ميري | !ميراث مسلماني ، سرمايہء شبيري'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+  - 'lang': 'ro'
+    'text': 'Ek Faqr Hai Shabiri, Is Faqr Se Hai Meeri | Meeras-e-Musalmani, Sarmaya-e-Shabiri!'

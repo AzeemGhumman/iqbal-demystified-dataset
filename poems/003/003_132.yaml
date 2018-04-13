@@ -1,0 +1,46 @@
+---
+'id': '003_132'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-28.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مصور'
+- 'lang': 'en'
+  'text': 'THE PAINTER'
+'description': []
+'sher':
+- 'id': '003_132_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کس درجہ يہاں عام ہوئي مرگ تخيل | !ہندي بھي فرنگي کا مقلد ، عجمي بھي'
+  - 'lang': 'en'
+    'text': 'The death of fancy is so widely spread | That men of Pers and Ind by Franks are led.'
+  - 'lang': 'ro'
+    'text': 'Kis Darja Yahan Aam Huwi Marg-e-Takhiyyul | Hindi Bhi Farangi Ka Maqallad, Ajmi Bhi!'
+- 'id': '003_132_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجھ کو تو يہي غم ہے کہ اس دور کے بہزاد | کھو بيٹھے ہيں مشرق کا سرور ازلي بھي'
+  - 'lang': 'en'
+    'text': 'I feel sad that Behzads of modern time | Have lost Eastʹs rapture sweet and joy sublime.'
+  - 'lang': 'ro'
+    'text': 'Mujhe Ko To Yehi Gham Hai Ke Iss Dour Ke Behzad | Hko Baithe Hain Mashriq Ka Suroor-e-Azali Bhi'
+- 'id': '003_132_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'معلوم ہيں اے مرد ہنر تيرے کمالات | صنعت تجھے آتي ہے پراني بھي ، نئي بھي'
+  - 'lang': 'en'
+    'text': 'O artist, of your talents I can tell, | You know the ancient crafts and new so well.'
+  - 'lang': 'ro'
+    'text': 'Maloom Hain Ae Mard-Ehunar Tere Kamal | San’at Tujhe Ati Hai Purani Bhi, Nayi Bhi'
+- 'id': '003_132_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت کو دکھايا بھي ہے ، ديکھا بھي ہے تو نے | !آئينہ فطرت ميں دکھا اپني خودي بھي'
+  - 'lang': 'en'
+    'text': 'You have portrayed many a natural sight, | Display your self in Natureʹs mirror bright.'
+  - 'lang': 'ro'
+    'text': 'Fitrat Ko Dikhaya Bhi Hai, Dekha Bhi Hai Tu Ne | Aaeena-e-Fitrat Mein Dikha Apni Khudi Bhi!'

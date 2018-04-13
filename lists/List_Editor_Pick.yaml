@@ -1,0 +1,325 @@
+---
+name:
+- lang: ur
+  text: انتخاب
+- lang: en
+  text: Editor's Pick
+sections:
+- sectionName:
+  - lang: ur
+    text: بچوں کے لیے
+  - lang: en
+    text: FOR CHILDREN
+- poems:
+  - id: '001_006'
+    poemName:
+    - lang: ur
+      text: ايک مکڑا اور مکھي
+    - lang: en
+      text: A SPIDER AND A FLY
+  - id: '001_007'
+    poemName:
+    - lang: ur
+      text: ايک پہا ڑ اور گلہري
+    - lang: en
+      text: A MOUNTAIN AND A SQUIRREL
+  - id: 001_008
+    poemName:
+    - lang: ur
+      text: ايک گائے اور بکري
+    - lang: en
+      text: A COW AND A GOAT
+  - id: 001_009
+    poemName:
+    - lang: ur
+      text: بچے کي د عا
+    - lang: en
+      text: THE CHILD'S INVOCATION
+  - id: '001_010'
+    poemName:
+    - lang: ur
+      text: ہمد ر د ي
+    - lang: en
+      text: SYMPATHY
+  - id: '001_011'
+    poemName:
+    - lang: ur
+      text: ماں کا خواب
+    - lang: en
+      text: A MOTHER'S DREAM
+  - id: '001_012'
+    poemName:
+    - lang: ur
+      text: پر ندے کي فر ياد
+    - lang: en
+      text: THE BIRD'S COMPLAINT
+  - id: '001_014'
+    poemName:
+    - lang: ur
+      text: شمع و پروانہ
+    - lang: en
+      text: THE CANDLE AND THE MOTH
+- sectionName:
+  - lang: ur
+    text: ضیاء محی الدین
+  - lang: en
+    text: Recitations by Zia Mohiuddin
+- poems:
+  - id: '001_106'
+    poemName:
+    - lang: ur
+      text: شکوہ
+    - lang: en
+      text: THE  COMPLAINT
+  - id: '001_127'
+    poemName:
+    - lang: ur
+      text: دعا
+    - lang: en
+      text: THE  SUPPLICATION
+  - id: '002_120'
+    poemName:
+    - lang: ur
+      text: مسجد قرطبہ
+    - lang: en
+      text: THE MOSQUE OF CORDOVA
+  - id: 001_093
+    poemName:
+    - lang: ur
+      text: زمانہ آيا ہے بے حجابي کا ، عام ديدار يار ہو گا
+    - lang: en
+      text: TIME HAS COME FOR OPENNESS, BELOVED'S SIGHT WILL BE COMMON
+  - id: 001_158
+    poemName:
+    - lang: ur
+      text: ميں اورتو
+    - lang: en
+      text: I  AND YOU
+  - id: '001_063'
+    poemName:
+    - lang: ur
+      text: محبت
+    - lang: en
+      text: LOVE
+  - id: '002_002'
+    poemName:
+    - lang: ur
+      text: اگر کج رو ہيں انجم ، آسماں تيرا ہے يا ميرا
+    - lang: en
+      text: IF THE STARS ARE ASTRAY
+  - id: '002_136'
+    poemName:
+    - lang: ur
+      text: لالہ صحرا
+    - lang: en
+      text: THE WILD FLOWER
+  - id: '001_015'
+    poemName:
+    - lang: ur
+      text: عقل و دل
+    - lang: en
+      text: THE INTELLECT AND THE HEART
+  - id: 002_019
+    poemName:
+    - lang: ur
+      text: وہ حرف راز کہ مجھ کو سکھا گيا ہے جنوں
+    - lang: en
+      text: THE SECRET DIVINE MY ECSTASY HAS TAUGHT
+- sectionName:
+  - lang: ur
+    text: جنید جمشید
+  - lang: en
+    text: Recitations by Junaid Jamshed
+- poems:
+  - id: '003_075'
+    poemName:
+    - lang: ur
+      text: سلطان ٹيپو کي وصيت
+    - lang: en
+      text: THE TESTAMENT OF TIPU SULTAN
+- sectionName:
+  - lang: ur
+    text: با نگ درا
+  - lang: en
+    text: Call Of The Marching Bell
+- poems:
+  - id: '001_050'
+    poemName:
+    - lang: ur
+      text: گلزار ہست و بود نہ بيگانہ وار ديکھ
+    - lang: en
+      text: DO NOT LOOK AT THE GARDEN OF EXISTENCE LIKE A STRANGER
+  - id: '001_056'
+    poemName:
+    - lang: ur
+      text: ظاہر کي آنکھ سے نہ تماشا کرے کوئي
+    - lang: en
+      text: ONE SHOULD NOT SEE THE SPECTACLE WITH THE MATERIAL EYE
+  - id: 001_059
+    poemName:
+    - lang: ur
+      text: ترے عشق کي انتہا چاہتا ہوں
+    - lang: en
+      text: COMPLETION OF YOUR LOVE IS WHAT I DESIRE
+  - id: '001_102'
+    poemName:
+    - lang: ur
+      text: ترانہ ملي
+    - lang: en
+      text: THE  MUSLIM  NATIONAL  ANTHEM
+  - id: '001_106'
+    poemName:
+    - lang: ur
+      text: شکوہ
+    - lang: en
+      text: THE  COMPLAINT
+  - id: '001_121'
+    poemName:
+    - lang: ur
+      text: جواب شکوہ
+    - lang: en
+      text: THE RESPONSE TO THE COMPLAINT
+  - id: '001_122'
+    poemName:
+    - lang: ur
+      text: ساقي
+    - lang: en
+      text: THE  CUP-BEARER
+  - id: '001_154'
+    poemName:
+    - lang: ur
+      text: پيوستہ رہ شجر سے ، اميد بہار رکھ!
+    - lang: en
+      text: REMAIN  ATTACHED  TO  THE  TREE  KEEP SPRING’S  EXPECTATION
+  - id: 001_169
+    poemName:
+    - lang: ur
+      text: کبھي اے حقيقت منتظر نظر لباس مجاز ميں
+    - lang: en
+      text: O THE MUCH SOUGHT AFTER REALITY! SOME TIME  APPEAR IN MATERIAL FORM
+- sectionName:
+  - lang: ur
+    text: با ل جبر یل
+  - lang: en
+    text: Baal-i-Jibreel
+- poems:
+  - id: '002_002'
+    poemName:
+    - lang: ur
+      text: اگر کج رو ہيں انجم ، آسماں تيرا ہے يا ميرا
+    - lang: en
+      text: IF THE STARS ARE ASTRAY
+  - id: 002_008
+    poemName:
+    - lang: ur
+      text: لا پھر اک بار وہي بادہ و جام اے ساقي
+    - lang: en
+      text: O CUP - BEARER! GIVE ME AGAIN THAT WINE OF LOVE FOR THEE
+  - id: '002_026'
+    poemName:
+    - lang: ur
+      text: دل سوز سے خالي ہے ، نگہ پاک نہيں ہے
+    - lang: en
+      text: WITH A HEART UNKNOWN TO A FLAME
+  - id: '002_045'
+    poemName:
+    - lang: ur
+      text: افلاک سے آتا ہے نالوں کا جواب آخر
+    - lang: en
+      text: MY PLAINT AT LAST EVOKED
+  - id: '002_056'
+    poemName:
+    - lang: ur
+      text: ستاروں سے آگے جہاں اور بھي ہيں
+    - lang: en
+      text: BEYOND THE STARS THERE ARE OTHER WORLDS OF LIGHT
+  - id: 002_078
+    poemName:
+    - lang: ur
+      text: انداز بياں گرچہ بہت شوخ نہيں ہے
+    - lang: en
+      text: THE STYLE MAY NOT BE VIVID AND LIVELY, STILL
+  - id: 002_090
+    poemName:
+    - lang: ur
+      text: خودي کي جلوتوں ميں مصطفائي
+    - lang: en
+      text: SELFHOOD IN THE WORLD OF MEN IS PROPHETHOOD
+  - id: '002_120'
+    poemName:
+    - lang: ur
+      text: مسجد قرطبہ
+    - lang: en
+      text: THE MOSQUE OF CORDOVA
+  - id: '002_137'
+    poemName:
+    - lang: ur
+      text: ساقي نامہ
+    - lang: en
+      text: TO THE ‘SAQI’
+  - id: '002_146'
+    poemName:
+    - lang: ur
+      text: جاويد  کے نام
+    - lang: en
+      text: TO JAVID
+- sectionName:
+  - lang: ur
+    text: ضر ب کلیم
+  - lang: en
+    text: The Rod of the Moses
+- poems:
+  - id: '003_002'
+    poemName:
+    - lang: ur
+      text: لا الہ الا اللہ
+    - lang: en
+      text: NO GOD BUT HE (UNITY OF GOD)
+  - id: '003_074'
+    poemName:
+    - lang: ur
+      text: اسرار پيدا
+    - lang: en
+      text: OPEN SECRETS
+  - id: '003_075'
+    poemName:
+    - lang: ur
+      text: سلطان ٹيپو کي وصيت
+    - lang: en
+      text: THE TESTAMENT OF TIPU SULTAN
+  - id: '003_100'
+    poemName:
+    - lang: ur
+      text: عورت
+    - lang: en
+      text: WOMAN
+  - id: 003_185
+    poemName:
+    - lang: ur
+      text: تري دعا سے قضا تو بدل نہيں سکتي
+    - lang: en
+      text: YOUR PRAYERS CAN'T AVERT DECREES OF FATE AT ALL
+- sectionName:
+  - lang: ur
+    text: ارمغان حجاز
+  - lang: en
+    text: ARMAGHAN-I-HIJAZ
+- poems:
+  - id: '004_001'
+    poemName:
+    - lang: ur
+      text: ابليس کي مجلس شوري
+    - lang: en
+      text: THE SATAN’S ADVISORY COUNCIL
+  - id: '004_002'
+    poemName:
+    - lang: ur
+      text: بڈھے بلوچ کي نصيحت بيٹے کو
+    - lang: en
+      text: AN ADVICE OF OLD BALUCH TO HIS SON
+  - id: '004_024'
+    poemName:
+    - lang: ur
+      text: آج وہ کشمير ہے محکوم و مجبور و فقير
+    - lang: en
+      text: BEING SLAVE, WEAK AND POOR, HARK' THE KASHMIR CALLS

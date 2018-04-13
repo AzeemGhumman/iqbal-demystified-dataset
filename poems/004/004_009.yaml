@@ -1,0 +1,28 @@
+---
+'id': '004_009'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-01.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مري شاخ امل کا ہے ثمر کيا'
+- 'lang': 'en'
+  'text': 'What fruit will the bough of my hope bear'
+'description': []
+'sher':
+- 'id': '004_009_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مري شاخ امل کا ہے ثمر کيا | تري تقدير کي مجھ کو خبر کيا'
+  - 'lang': 'en'
+    'text': 'What fruit will the bough of my hope bear– | What do I know of your destiny?'
+  - 'lang': 'ro'
+    'text': 'Meri Shakh-E-Amal Ka Hai Samar Kya | Teri Taqdeer Ki Mujh Ko Khabar Kya'
+- 'id': '004_009_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کلي گل کي ہے محتاج کشود آج | !نسيم صبح فردا پر نظر کيا'
+  - 'lang': 'en'
+    'text': 'The rose‐bud needs to open today– | Why wait for tomorrow’s morning breeze?'
+  - 'lang': 'ro'
+    'text': 'Kali Gul Ki Hai Mohtaj-E-Kushood Aaj | Naseem-E-Subah-E-Farada Par Nazar Kya !'

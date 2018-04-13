@@ -1,0 +1,19 @@
+---
+'id': '004_038'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/03-17.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خود آگاہي نے سکھلا دي ہے جس کو تن فراموشي'
+- 'lang': 'en'
+  'text': 'Self‐awareness has made the mujahid forget his body'
+'description': []
+'sher':
+- 'id': '004_038_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خود آگاہي نے سکھلا دي ہے جس کو تن فراموشي | حرام آئي ہے اس مرد مجاہد پر زرہ پوشي'
+  - 'lang': 'en'
+    'text': 'Self‐awareness has made the mujahid forget his body, | to whom bearing of coat‐of‐mail is forbidden.'
+  - 'lang': 'ro'
+    'text': 'Khud Agahi Ne Sikhla Di Hai Jis Ko Tan-Faramoshi | Haram Ayi Hai Uss Mard-E-Mujahid Par Zarah Poshi'

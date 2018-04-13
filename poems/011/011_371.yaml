@@ -1,0 +1,28 @@
+---
+'id': '011_371'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFسجودی  وری دارا و جم را"
+- 'lang': 'en'
+  'text': 'III-I'
+'description': []
+'sher':
+- 'id': '011_371_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سجودی  وری دارا و جم را | مکن ای بیخبر رسوا حرم را'
+  - 'lang': 'en'
+    'text': 'You are bowing head to ‘Dara’ and ‘Jam’ , | O fool tarnish not the honour of ‘harm’.'
+    'notes':
+    - 'phrase': '‘Jam’'
+      'meaning': '        Dara=Darius. Jam; A title of old Kings of Persia. Jam''s throne; when used with throne it means T-Iazrat ''Solomon''. Jam-i-Jam; (Jam''s cup); Now it means Jam or Jamshed the King of Persia.'
+      'occurrence': !!int '1'
+- 'id': '011_371_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مبر پیش فرنگی حاجت خویش | ز طاق دل فرو ریز این صنم را'
+  - 'lang': 'en'
+    'text': 'Take not thy needs to anglian’s door, | Drop these idols from heart’s inner core.'

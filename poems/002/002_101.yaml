@@ -1,0 +1,28 @@
+---
+'id': '002_101'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-25.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'جوانوں کو مري آہ سحر دے'
+- 'lang': 'en'
+  'text': 'Give the young, O Lord, my passionate love for Thee'
+'description': []
+'sher':
+- 'id': '002_101_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جوانوں کو مري آہ سحر دے | پھر ان شاہيں بچوں کو بال و پر دے'
+  - 'lang': 'en'
+    'text': 'Give the young, O Lord, my passionate love for Thee, | And give them an eagle''s force to fly and to see;'
+  - 'lang': 'ro'
+    'text': 'Jawanon Ko Meri Aah-e-Sehar De | Phir In Shaheen Bachon Ko Baal-o-Par De'
+- 'id': '002_101_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدايا! آرزو ميري يہي ہے | مرا نور بصيرت عام کر دے'
+  - 'lang': 'en'
+    'text': 'O Lord, I pray that Thou vouchsafe to them | The power of vision that Thou hast given me.'
+  - 'lang': 'ro'
+    'text': 'Khudaya! Arzoo Meri Yehi Hai | Mera Noor-e-Baseerat Aam Kar De'

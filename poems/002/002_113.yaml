@@ -1,0 +1,28 @@
+---
+'id': '002_113'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-37.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'رگوں ميں وہ لہو باقي نہيں ہے'
+- 'lang': 'en'
+  'text': 'That blood of pristine vigour is no more'
+'description': []
+'sher':
+- 'id': '002_113_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رگوں ميں وہ لہو باقي نہيں ہے | وہ دل ، وہ آرزو باقي نہيں ہے'
+  - 'lang': 'en'
+    'text': 'That blood of pristine vigour is no more; | That yearning heart''s power is no more;'
+  - 'lang': 'ro'
+    'text': 'Ragon Mein Woh Lahoo Baqi Nahin Hai | Woh Dil, Woh Arzoo Baqi Nahin Hai'
+- 'id': '002_113_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نماز و روزہ و قرباني و حج | يہ سب باقي ہيں ، تو باقي نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Prayer, fasting, haj, sacrifice survive, | But in thee nature''s old dower is no more.'
+  - 'lang': 'ro'
+    'text': 'Namaz-o-Roza-o-Qurbani-o-Hajj | Ye Sub Baqi Hain, Tu Baqi Nahin Hai'

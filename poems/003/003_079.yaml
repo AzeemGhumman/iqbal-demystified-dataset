@@ -1,0 +1,28 @@
+---
+'id': '003_079'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-12.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'آزادي فکر'
+- 'lang': 'en'
+  'text': 'FREEDOM OF THOUGHT'
+'description': []
+'sher':
+- 'id': '003_079_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آزادي افکار سے ہے ان کي تباہي | رکھتے نہيں جو فکر و تدبر کا سليقہ'
+  - 'lang': 'en'
+    'text': 'Free thinking can bring ʹbout the ruin, Of those whose thoughts are low and mean: | They donʹt possess the mode and style, Of though that may be chaste and clean.'
+  - 'lang': 'ro'
+    'text': 'Azadi-e-Afkar Se Hai Un Ki Tabahi | Rakhte Nahin Jo Fikr-o-Tadabbur Ka Saliqa'
+- 'id': '003_079_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہو فکر اگر خام تو آزادي افکار | !انسان کو حيوان بنانے کا طريقہ'
+  - 'lang': 'en'
+    'text': 'If thoughts are raw and immature, No good accrues to man in least: | The utmost that such thoughts can do, Is change of wan to state of beast.'
+  - 'lang': 'ro'
+    'text': 'Ho Fikr Agar Khaam To Azadi-e-Afkar | Insan Ko Hewaan Banane Ka Tareeqa !'

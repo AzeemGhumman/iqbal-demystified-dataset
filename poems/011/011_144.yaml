@@ -1,0 +1,28 @@
+---
+'id': '011_144'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFکہ گفت او را کہ آید بوی یاری؟"
+- 'lang': 'en'
+  'text': 'XI-LXVI'
+'description': []
+'sher':
+- 'id': '011_144_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہ گفت او را کہ آید بوی یاری؟ | کہ داد او را امید نوبہاری؟'
+  - 'lang': 'en'
+    'text': 'Who told him I smell thee ‘under the rose’, | To give him good news of a spring tide close.'
+- 'id': '011_144_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون آن سوز کہن رفت از دم او | کہ زد بر نیستان او شراری؟'
+  - 'lang': 'en'
+    'text': 'When I saw not in him thy old flame’s blaze, | With a new spark I set his caneswood ablaze.'
+    'notes':
+    - 'phrase': 'ablaze.'
+      'meaning': 'Iqbal is addressing the Holy Prophet, "I have given them (my nation) a new hope to receive the Prophet''s flame of love inspite of the fact that She is passing though a process of decline, I have told them not to be disappointed."'
+      'occurrence': !!int '1'

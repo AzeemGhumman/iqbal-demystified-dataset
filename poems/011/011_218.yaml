@@ -1,0 +1,31 @@
+---
+'id': '011_218'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFکسی کو فاش دید اسرار جانرا"
+- 'lang': 'en'
+  'text': 'VII-VIII'
+'description': []
+'sher':
+- 'id': '011_218_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کسی کو فاش دید اسرار جانرا | نبیند جز بہ چشم خود جہان را'
+  - 'lang': 'en'
+    'text': 'On whom were opened the secrets of soul, | With his own eyes he sees the cosmos whole.'
+    'notes':
+    - 'phrase': 'soul,'
+      'meaning': '        Soul; here it means self.'
+      'occurrence': !!int '1'
+    - 'phrase': 'eyes'
+      'meaning': '        viz, not through others point of view.'
+      'occurrence': !!int '1'
+- 'id': '011_218_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نوائی  فرین در سینہ خویش | بہاری میتوان کردن خزان را'
+  - 'lang': 'en'
+    'text': 'Make in thy heart his love’s cosy room, | And turn the autumn to vernal bloom.'

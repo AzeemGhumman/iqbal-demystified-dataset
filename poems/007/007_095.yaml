@@ -1,0 +1,24 @@
+---
+'id': '007_095'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو میگوئی کہ آدم خاکزاد است'
+- 'lang': 'en'
+  'text': '(95)'
+'description': []
+'sher':
+- 'id': '007_095_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو میگوئی کہ آدم خاکزاد است | اسیر عالم کون و فساد است'
+  - 'lang': 'en'
+    'text': 'You say that man is made of humble clay, | Bound to this world of being and decay.'
+- 'id': '007_095_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولی فطرت ز اعجازی کہ دارد | بنای بحر بر جویش نہاد است'
+  - 'lang': 'en'
+    'text': 'But Nature in her universal scheme | Has laid her sea’s foundation on his stream.'

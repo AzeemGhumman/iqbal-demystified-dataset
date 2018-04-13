@@ -1,0 +1,24 @@
+---
+'id': '011_133'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بیا ساقی بگردان جام می را'
+- 'lang': 'en'
+  'text': 'XI-LV'
+'description': []
+'sher':
+- 'id': '011_133_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا ساقی بگردان جام می را | ز می سوزندہ تر کن سوز نے را'
+  - 'lang': 'en'
+    'text': 'Move around O bearer! the wine cup’s course, | From wine give the flute further burning force.'
+- 'id': '011_133_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگر آن دل بنہ در سینۂ من | کہ پیچم پنجۂ کاؤس و کی را'
+  - 'lang': 'en'
+    'text': 'Bid me a heart in the bosom of mine, | Who can take tussels with the Kaisers line.'

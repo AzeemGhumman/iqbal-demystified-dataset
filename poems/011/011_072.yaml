@@ -1,0 +1,28 @@
+---
+'id': '011_072'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبروی او در دل ناگشاد"
+- 'lang': 'en'
+  'text': 'IX-IX'
+'description': []
+'sher':
+- 'id': '011_072_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بروی او در دل ناگشاد | خودی اندر کف خاکش نزادہ'
+  - 'lang': 'en'
+    'text': 'To him the heart’s door is not open yet, | No ego in his palm has born as yet.'
+    'notes':
+    - 'phrase': 'palm'
+      'meaning': '        Palm or dusty palm is not used in English. It is better to use ''heart'' in this place.'
+      'occurrence': !!int '1'
+- 'id': '011_072_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ضمیر او تہی از بانگ تکبیر | حریم ذکر او از پا فتادہ'
+  - 'lang': 'en'
+    'text': 'His conscience is empty from ‘Great God’ calls, | To ground have fallen his prayer’s four walls.'

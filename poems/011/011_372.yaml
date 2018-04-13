@@ -1,0 +1,28 @@
+---
+'id': '011_372'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFشیندم بیتکی از مرد پیری"
+- 'lang': 'en'
+  'text': 'III-II'
+'description': []
+'sher':
+- 'id': '011_372_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شیندم بیتکی از مرد پیری | کہن فرزانۂ روشن ضمیری'
+  - 'lang': 'en'
+    'text': 'I heard a nice verse from a man old, | A wise man great with conscience of gold.'
+    'notes':
+    - 'phrase': 'gold.'
+      'meaning': '        A conscience of gold; (fig ) having brilliant qualities of head and heart.'
+      'occurrence': !!int '1'
+- 'id': '011_372_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر خود را بناداری نگہ داشت | دو گیتی را بگیرد  ن فقیری'
+  - 'lang': 'en'
+    'text': 'If he guards the self in want and need, | That darvesh can win both worlds in deed.'

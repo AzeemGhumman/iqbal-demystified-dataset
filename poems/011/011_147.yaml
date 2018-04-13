@@ -1,0 +1,28 @@
+---
+'id': '011_147'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہرحالی کہ بودم خوش سرودم"
+- 'lang': 'en'
+  'text': 'XI-LXIX'
+'description': []
+'sher':
+- 'id': '011_147_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہرحالی کہ بودم خوش سرودم | نقاب از روی ھر معنی گشودم'
+  - 'lang': 'en'
+    'text': 'I kept beaming face in this or that case, | I raised the old veils from the meaning face.'
+- 'id': '011_147_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مپرس از اضطراب من کہ با دوست | دمی بودم دمے دیگر نبودم'
+  - 'lang': 'en'
+    'text': 'At such a high pitch to craves I brought, | That one breath I had the other had not.'
+    'notes':
+    - 'phrase': 'not.'
+      'meaning': '        Here craves means verve; excitement.'
+      'occurrence': !!int '1'

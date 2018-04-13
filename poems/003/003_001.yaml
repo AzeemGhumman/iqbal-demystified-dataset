@@ -1,0 +1,28 @@
+---
+'id': '003_001'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-01.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'صبح'
+- 'lang': 'en'
+  'text': 'DAWN'
+'description': []
+'sher':
+- 'id': '003_001_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہ سحر جو کبھي فردا ہے کبھي ہے امروز | نہيں معلوم کہ ہوتي ہے کہاں سے پيدا'
+  - 'lang': 'en'
+    'text': 'The morn that shifts so soon tomorrow new, | Whence it comes is only known to few:'
+  - 'lang': 'ro'
+    'text': 'Ye Sehar Jo Kabhi Farda Hai Kabhi Hai Amroz | Nahin Maloom Ke Hoti Hai Kahan Se Paida'
+- 'id': '003_001_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ سحر جس سے لرزتا ہے شبستان وجود | ہوتي ہے بندہ مومن کي اذاں سے پيدا'
+  - 'lang': 'en'
+    'text': 'The dark abode of being is shook by morn, | Which by Muslimʹs call to prayer is born.'
+  - 'lang': 'ro'
+    'text': 'Woh Sehar Jis Se Larazta Hai Shabistan-e-Wujood | Hoti Hai Banda-e-Momin Ki Azan Se Paida'

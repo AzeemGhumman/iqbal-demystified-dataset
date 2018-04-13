@@ -1,0 +1,24 @@
+---
+'id': '011_037'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز محکومی مسلمان خود فروش است'
+- 'lang': 'en'
+  'text': 'IX-II'
+'description': []
+'sher':
+- 'id': '011_037_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز محکومی مسلمان خود فروش است | گرفتار طلسم چشم و گوش است'
+  - 'lang': 'en'
+    'text': 'From bondage a Moslem is a self sold guy, | A captive of charms of ear and eye.'
+- 'id': '011_037_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز محکومی رگان در تن چنان سست | کہ ما را شرع و آئین بار دوش است'
+  - 'lang': 'en'
+    'text': 'How weak and sluggish in bondage are veins, | To God made Laws, we are seeing with pains.'

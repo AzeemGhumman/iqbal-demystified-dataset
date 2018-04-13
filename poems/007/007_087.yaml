@@ -1,0 +1,24 @@
+---
+'id': '007_087'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'کسی کو درد پنھانی ندارد'
+- 'lang': 'en'
+  'text': '(87)'
+'description': []
+'sher':
+- 'id': '007_087_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کسی کو درد پنھانی ندارد | تنی دارد ولی جانی ندارد'
+  - 'lang': 'en'
+    'text': 'One who has been blessed with no secret grief | May have a body, but has not a soul.'
+- 'id': '007_087_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر جانی ہوس داری طلب کن | تب و تابی کہ پایانے ندارد'
+  - 'lang': 'en'
+    'text': 'If you desire to have a soul, then seek | A fever of the heart that will not cool.'

@@ -1,0 +1,24 @@
+---
+'id': '011_014'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'غلامم جز رضای تو نجویم'
+- 'lang': 'en'
+  'text': 'II-IX'
+'description': []
+'sher':
+- 'id': '011_014_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غلامم جز رضای تو نجویم | جز آن راہی کہ فرمودی نپویم'
+  - 'lang': 'en'
+    'text': 'Thy slave I’m and seek thy pleasure alone, | I tread not a path not guided and shown.'
+- 'id': '011_014_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولیکن گر بہ این نادان بگوئی | خری را اسب تازی گو نگویم'
+  - 'lang': 'en'
+    'text': 'If thou e’er bids this silly slave to say, | An ass a Berber horse I would not say.'

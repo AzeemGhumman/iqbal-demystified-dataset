@@ -1,0 +1,46 @@
+---
+'id': '003_154'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-07.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'نفسيات غلامي'
+- 'lang': 'en'
+  'text': 'THE PSYCHOLOGY OF SLAVES'
+'description': []
+'sher':
+- 'id': '003_154_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شاعر بھي ہيں پيدا ، علما بھي ، حکما بھي | خالي نہيں قوموں کي غلامي کا زمانہ'
+  - 'lang': 'en'
+    'text': 'There are poets, there are scholars, and there are sages— | A nation’s days of slavery are not uneventful!'
+  - 'lang': 'ro'
+    'text': 'Shayar Bhi Hain Paida, Ulma Bhi, Hukma Bhi | Khali Nahin Qoumon Ki Ghulami Ka Zamana'
+- 'id': '003_154_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقصد ہے ان اللہ کے بندوں کا مگر ايک | ہر ايک ہے گو شرح معاني ميں يگانہ'
+  - 'lang': 'en'
+    'text': 'But every one of them—poor creatures!—has a single goal, | Though each is unique in the ideas he expounds:'
+  - 'lang': 'ro'
+    'text': 'Maqsad Hai In Allah Ke Bandon Ka Magar Aik | Har Aik Hai Go Sharah-e-Maani Mein Yagana'
+- 'id': '003_154_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہتر ہے کہ شيروں کو سکھا ديں رم آہو | ،باقي نہ رہے شير کي شيري کا فسانہ'
+  - 'lang': 'en'
+    'text': '‘Better teach the lion to take flight like a deer, | So that the legend of the lion’s courage is forgotten!’'
+  - 'lang': 'ro'
+    'text': '''Behtar Hai Ke Sheron Ko Sikha Dain Ram-e-Aahu | Baqi Na Rahe Sher Ki Sheri Ka Fasana'''
+- 'id': '003_154_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کرتے ہيں غلاموں کو غلامي پہ رضامند | تاويل مسائل کو بناتے ہيں بہانہ'
+  - 'lang': 'en'
+    'text': 'They seek to make the slaves feel at ease with their slavery, | Pretending to ‘expound and reason things out’.'
+  - 'lang': 'ro'
+    'text': 'Karte Hain Ghulamon Ko Ghulami Pe Razamand | Taveel-e-Masael Ko Banate Hain Bahana'

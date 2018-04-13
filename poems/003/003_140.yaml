@@ -1,0 +1,37 @@
+---
+'id': '003_140'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-36.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عالم نو'
+- 'lang': 'en'
+  'text': 'NEW WORLD'
+'description': []
+'sher':
+- 'id': '003_140_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندہ دل سے نہيں پوشيدہ ضمير تقدير | خواب ميں ديکھتا ہے عالم نو کي تصوير'
+  - 'lang': 'en'
+    'text': 'Decrees of Fate are not concealed, From man whose heart throbbing seems: | He sees the image of new World, In slumberous state, during dreams.'
+  - 'lang': 'ro'
+    'text': 'Zinda Dil Se Nahin Poshida Zameer-e-Taqdeer | Khawab Mein Dekhta Hai Alam-e-Nau Ki Tasveer'
+- 'id': '003_140_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اور جب بانگ اذاں کرتي ہے بيدار اسے | کرتا ہے خواب ميں ديکھي ہوئي دنيا تعمير'
+  - 'lang': 'en'
+    'text': 'When prayer call at early morn, Transports him to Morpheusʹ domain, | He tries to build the world beheld, With utmost might and utmost main.'
+  - 'lang': 'ro'
+    'text': 'Aur Jab Bang-e-Zan Karti Hai Baidar Usse | Karta Hai Khawab Mein Dekhi Huwi Dunya Tameer'
+- 'id': '003_140_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدن اس تازہ جہاں کا ہے اسي کي کف خاک | روح اس تازہ جہاں کي ہے اسي کي تکبير'
+  - 'lang': 'en'
+    'text': 'The body of the dreamt of world, Is made from his handful clay: | ʹʹGod is Great!ʺ his slogan shrill that can, The role of soul for new world play.'
+  - 'lang': 'ro'
+    'text': 'Badan Uss Taza Jahan Ka Hai Ussi Ki Kaf-e-Khak | Rooh Iss Taza Jahan Ki Hai Ussi Ki Takbeer'

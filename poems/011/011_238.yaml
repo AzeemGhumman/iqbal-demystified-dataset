@@ -1,0 +1,24 @@
+---
+'id': '011_238'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ہنوز اندر جہان  دم غلام است'
+- 'lang': 'en'
+  'text': 'X-IV'
+'description': []
+'sher':
+- 'id': '011_238_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنوز اندر جہان  دم غلام است | نظامش خام و کارش ناتمام است'
+  - 'lang': 'en'
+    'text': 'The Adam is slave in this world yet, | Yet his order raw, weak and poor set.'
+- 'id': '011_238_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غلام فقر  ن گیتی پناہم | کہ در دینش ملوکیت حرام است'
+  - 'lang': 'en'
+    'text': 'I am his page, who sheltered each Age, | Who banned in my faith to keep a page.'

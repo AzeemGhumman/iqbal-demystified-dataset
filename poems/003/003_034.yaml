@@ -1,0 +1,37 @@
+---
+'id': '003_034'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-34.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مستي کردار'
+- 'lang': 'en'
+  'text': 'FERVOUR FOR ACTION'
+'description': []
+'sher':
+- 'id': '003_034_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صوفي کي طريقت ميں فقط مستي احوال | ملا کي شريعت ميں فقط مستي گفتار'
+  - 'lang': 'en'
+    'text': 'The mystic mode has naught except, The inner changes of the heart; | The talk of Mullah on his creed, Is merely piece of fiery art.'
+  - 'lang': 'ro'
+    'text': 'Sufi Ki Tariqat Mein Faqt Mast-e-Ahwal | Mullah Ki Shariat Mein Faqt Mast-e-Guftar'
+- 'id': '003_034_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شاعر کي نوا مردہ و افسردہ و بے ذوق | افکار ميں سرمست، نہ خوابيدہ نہ بيدار'
+  - 'lang': 'en'
+    'text': 'The poetʹs song of zeal bereft, Is dead and struck with frost! | To outward eyes he seems awake, Though in thoughts completely lost!'
+  - 'lang': 'ro'
+    'text': 'Shayar Ki Nawa Murda-o-Afsurda-o-Be-Zauq | Afkar Mein Sar-Mast, Na Khawabida Na Baidar'
+- 'id': '003_034_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ مرد مجاہد نظر آتا نہيں مجھ کو | ہو جس کے رگ و پے ميں فقط مستي کردار'
+  - 'lang': 'en'
+    'text': 'Alas! my eyes do not behold, The holy knight whose fervour high | May cause his blood to seethe and boil, In veins that lend such might to thigh.'
+  - 'lang': 'ro'
+    'text': 'Woh Mard-e-Mujahid Nazar Ata Nahin Mujh Ko | Ho Jis Ke Rag-e-Pay Mein Faqt Masti-e-Kirdar'

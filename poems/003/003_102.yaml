@@ -1,0 +1,37 @@
+---
+'id': '003_102'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/03-07.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'عورت کي حفاظت'
+- 'lang': 'en'
+  'text': 'PROTECTION OF THE WEAKER VESSEL'
+'description': []
+'sher':
+- 'id': '003_102_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اک زندہ حقيقت مرے سينے ميں ہے مستور | کيا سمجھے گا وہ جس کي رگوں ميں ہے لہو سرد'
+  - 'lang': 'en'
+    'text': 'A fact alive is in my breast concealed, | He can behold whose blood is not congealed.'
+  - 'lang': 'ro'
+    'text': 'Ek Zinda Haqiqat Mere Seene Mein Hai Mastoor | Kya Samjhe Ga Woh Jis Ki Ragon Mein Hai Lahoo Sard'
+- 'id': '003_102_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نے پردہ ، نہ تعليم ، نئي ہو کہ پراني | نسوانيت زن کا نگہباں ہے فقط مرد'
+  - 'lang': 'en'
+    'text': 'To wear a veil and learn new lore or old, | Canʹt guard fair sex except a person bold.'
+  - 'lang': 'ro'
+    'text': 'Ne Parda, Na Taleem, Nayi Ho Ke Purani | Niswaniyat-e-Zan Ka Nigheban Hai Faqt Mard'
+- 'id': '003_102_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جس قوم نے اس زندہ حقيقت کو نہ پايا | اس قوم کا خورشيد بہت جلد ہوا زرد'
+  - 'lang': 'en'
+    'text': 'A nation which canʹt see this truth divine, | Pale grows its son and soon begins decline.'
+  - 'lang': 'ro'
+    'text': 'Jis Qoum Ne Iss Zinda Haqiqat Ko Na Paya | Uss Qoum Ka Khursheed Bohat Jald Huwa Zard'

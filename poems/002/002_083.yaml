@@ -1,0 +1,28 @@
+---
+'id': '002_083'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-07.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'پريشاں کاروبار آشنائي'
+- 'lang': 'en'
+  'text': 'Confused is the nature of my love for Thee'
+'description': []
+'sher':
+- 'id': '002_083_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پريشاں کاروبار آشنائي | !پريشاں تر مري رنگيں نوائي'
+  - 'lang': 'en'
+    'text': 'Confused is the nature of my love for Thee, | And more confused is my song in Thy praise;'
+  - 'lang': 'ro'
+    'text': 'Preshan Karobar-e-Ashnai | Preshan Tar Meri Rangeen Nawai!'
+- 'id': '002_083_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کبھي ميں ڈھونڈتا ہوں لذت وصل | !خوش آتا ہے کبھي سوز جدائي'
+  - 'lang': 'en'
+    'text': 'For I sometimes do relish fulfilment, | At other times, a yearning in my heart.'
+  - 'lang': 'ro'
+    'text': 'Kabhi Main Dhoondta Hun Lazzat-e-Wasal | Khush Ata Hai Kabhi Souz-e-Juddai!'

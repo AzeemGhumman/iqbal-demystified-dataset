@@ -1,0 +1,66 @@
+---
+'id': '009_038'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنوای حلاج"
+- 'lang': 'en'
+  'text': 'THE SONG OF HALLAJ'
+'description': []
+'sher':
+- 'id': '009_038_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز خاک خویش طلب آتشی کہ پیدا نیست | تجلی دگرے در خور تقاضا نیست'
+  - 'lang': 'en'
+    'text': 'Seek from your own earth a fire as yet unseen, | another’s apparition is unworthy of your demand.'
+- 'id': '009_038_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نظر بخویش چنان بستہ ام کہ جلوہ دوست | جہان گرفت و مرا فرصت تماشا نیست'
+  - 'lang': 'en'
+    'text': 'I have so fastened on myself my gaze, that though the beauty of the Beloved | fills all the world, I am left no time to contemplate.'
+- 'id': '009_038_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ملک جم ندہم مصرع نظیری را | ’’کسی کہ کشتہ نشد از قبیلۂ ما نیست‘‘'
+  - 'lang': 'en'
+    'text': 'I would not give for Jamshid’s realm that verse of Naziri: | ‘He who is yet unslain belongs not to our tribe.’'
+- 'id': '009_038_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگرچہ عقل فسون پیشہ لشکری انگیخت | تو دل گرفتہ نباشے کہ عشق تنہا نیست'
+  - 'lang': 'en'
+    'text': 'Though reason whose trade is wizardry mustered an army, | your heart will not be dismayed, for Love is not alone.'
+- 'id': '009_038_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو رہ شناس نئی وز مقام بیخبری | چہ نغمہ ایست کہ در بربط سلیمی نیست'
+  - 'lang': 'en'
+    'text': 'You know not the way and are uninformed of the stage; | what melody is there that is not in Sulaima’s lute?'
+- 'id': '009_038_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز قید و صید نہنگان حکایتی آور | مگو کہ زورق ما روشناس دریا نیست'
+  - 'lang': 'en'
+    'text': 'Tell a tale of the hunting and fettering of sharks: | do not say, ‘Our skiff knows not the face of the sea.’'
+- 'id': '009_038_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرید ہمت آن رہروم کہ پا نگذاشت | بہ جادہ ئی کہ در و کوہ و دشت و دریا نیست'
+  - 'lang': 'en'
+    'text': 'I am disciple of the zeal of that wayfarer who never set foot | on any high-road that ran over mountains, deserts and seas.'
+- 'id': '009_038_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شریک حلقۂ رندان بادہ پیما باش | حذر ز بیعت پیری کہ مرد غوغا نیست'
+  - 'lang': 'en'
+    'text': 'Be partner with the ring of wine-bibbing dissolutes; | beware of allegiance to a Master who is not a man of tumult.'

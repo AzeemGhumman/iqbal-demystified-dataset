@@ -1,0 +1,28 @@
+---
+'id': '003_147'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-43.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'رقص'
+- 'lang': 'en'
+  'text': 'DANCING'
+'description': []
+'sher':
+- 'id': '003_147_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چھوڑ يورپ کے ليے رقص بدن کے خم و پيچ | !روح کے رقص ميں ہے ضرب کليم اللہي'
+  - 'lang': 'en'
+    'text': 'To Europe leave the dance of serpent limb: | The prophet’s power is born of the spirit’s dance.'
+  - 'lang': 'ro'
+    'text': 'Choro Yourap Ke Liye Raqs-e-Badan Ke Kham-o-Paich | Rooh Ke Raqs Mein Hai Zarb-e-Kaleem-Ul-Lahi !'
+- 'id': '003_147_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صلہ اس رقص کا ہے تشنگي کام و دہن | صلہ اس رقص کا درويشي و شاہنشاہي'
+  - 'lang': 'en'
+    'text': 'That breeds the craving flesh, the sweating palm, | This breed the race of pilgrim and prince.'
+  - 'lang': 'ro'
+    'text': 'Sila Uss Raqs Ka Hai Tashnagi-e-Kaam-o-Dahan | Sila Iss Raqs Ka Darveshi-o-Shehanshahi!'

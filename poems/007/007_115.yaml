@@ -1,0 +1,24 @@
+---
+'id': '007_115'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جہان یک نغمہ زار آرزوئی'
+- 'lang': 'en'
+  'text': '(115)'
+'description': []
+'sher':
+- 'id': '007_115_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان یک نغمہ زار آرزوئی | بم و زیرش ز تار آرزوئی'
+  - 'lang': 'en'
+    'text': 'The world is filled with one song of desire. | Desire’s strings make the cosmic harmony.'
+- 'id': '007_115_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ چشمم ہر چہ ہست و بود و باشد | دمے از روزگار آرزوئی'
+  - 'lang': 'en'
+    'text': 'In my eyes what is, has been or may be | Is but one moment of that symphony,'

@@ -1,0 +1,24 @@
+---
+'id': '011_082'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مپرس از من کہ احوالش چسان است'
+- 'lang': 'en'
+  'text': 'XI-IV'
+'description': []
+'sher':
+- 'id': '011_082_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مپرس از من کہ احوالش چسان است | زمینش بدگہر چون آسمان است'
+  - 'lang': 'en'
+    'text': 'Ask me not of his present day lot, | As if, earth and sky have made a plot,'
+- 'id': '011_082_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر آن مرغی کہ پروردی بہ انجیر | تلاش دانہ در صحرا گران است'
+  - 'lang': 'en'
+    'text': 'To bird who was reared on fruits of fig, | The grains’ search in deserts a problem big.'

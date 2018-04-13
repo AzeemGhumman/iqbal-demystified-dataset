@@ -1,0 +1,28 @@
+---
+'id': '011_002'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFسخن ہا رفت از بود و نبودم"
+- 'lang': 'en'
+  'text': 'I-II'
+'description': []
+'sher':
+- 'id': '011_002_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخن ہا رفت از بود و نبودم | من از خجلت لب خود کم گشودم'
+  - 'lang': 'en'
+    'text': 'My being and non-being were topics on tips, | Under feelings of shame I sealed my lips.'
+    'notes':
+    - 'phrase': 'non-being'
+      'meaning': 'non-Being non-existence.'
+      'occurrence': !!int '1'
+- 'id': '011_002_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سجود زندہ مردان می شناسی | عیار کار من گیر از سجودم'
+  - 'lang': 'en'
+    'text': 'Thy great men’s kowtows are in thy know, | Please rub off the dross from my kowtows.'

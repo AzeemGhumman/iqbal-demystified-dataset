@@ -1,0 +1,46 @@
+---
+'id': '003_061'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-61.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'آزادي'
+- 'lang': 'en'
+  'text': 'FREEDOM'
+'description': []
+'sher':
+- 'id': '003_061_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے کس کي يہ جرات کہ مسلمان کو ٹوکے | حريت افکار کي نعمت ہے خدا داد'
+  - 'lang': 'en'
+    'text': 'The right of thinking free, a Muslim owns, | Is gift or God which canʹt be checked by frowns.'
+  - 'lang': 'ro'
+    'text': 'Hai Kis Ki Ye Juraat Ke Musalman Ko Toke | Hurriyat-e-Afkar Ki Naimat Hai Khudadad'
+- 'id': '003_061_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چاہے تو کرے کعبے کو آتش کدہ پارس | چاہے تو کرے اس ميں فرنگي صنم آباد'
+  - 'lang': 'en'
+    'text': 'He can transform the Shrine to Magian fane, | Can deck the Shrine with Frankish idols vain.'
+  - 'lang': 'ro'
+    'text': 'Chahe To Kare Kaabe Ko Aatish Kuda-e-Paaras | Chahe To Kare Iss Mein Farangi Sanam Abad'
+- 'id': '003_061_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قرآن کو بازيچہ تاويل بنا کر | چاہے تو خود اک تازہ شريعت کرے ايجاد'
+  - 'lang': 'en'
+    'text': 'Can make the Holy Book the sport of boys, | And can with ease devise new faiths like toys.'
+  - 'lang': 'ro'
+    'text': 'Quran Ko Bazeecha-e-Taveel Bana Kar | Chahe To Khud Ek Taza Shariat Kare Ijad'
+- 'id': '003_061_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے مملکت ہند ميں اک طرفہ تماشا | اسلام ہے محبوس ، مسلمان ہے آزاد'
+  - 'lang': 'en'
+    'text': 'In India queer and odd the farce you see, | The Faith is captive, but the Muslims free.'
+  - 'lang': 'ro'
+    'text': 'Hai Mamlikat-e-Hind Mein Ek Tarfa Tamasha | Islam Hai Mehboos, Musalman Hai Azad!'

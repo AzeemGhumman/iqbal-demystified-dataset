@@ -1,0 +1,24 @@
+---
+'id': '007_047'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بگو جبریل را از من پیامی'
+- 'lang': 'en'
+  'text': '(47)'
+'description': []
+'sher':
+- 'id': '007_047_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگو جبریل را از من پیامی | مرا آن پیکر نوری ندادند'
+  - 'lang': 'en'
+    'text': 'Go and tell this to Gabriel from me: | Though not all light like him, I yet aspire'
+- 'id': '007_047_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولی تاب و تب ما خاکیان بین | بہ نوری ذوق مہجوری ندادند'
+  - 'lang': 'en'
+    'text': 'To God. This keeps my dust alight; but it | Does not keep cold creatures of light afire.'

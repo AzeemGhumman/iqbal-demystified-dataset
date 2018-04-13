@@ -1,0 +1,28 @@
+---
+'id': '003_181'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-34.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مشرق و مغرب'
+- 'lang': 'en'
+  'text': 'THE EAST AND THE WEST'
+'description': []
+'sher':
+- 'id': '003_181_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يہاں مرض کا سبب ہے غلامي و تقليد | وہاں مرض کا سبب ہے نظام جمہوري'
+  - 'lang': 'en'
+    'text': 'Slavery, slavishness, the root of our Disease; | Of theirs, that Demon holds all power;'
+  - 'lang': 'ro'
+    'text': 'Yahan Marz Ka Sabab Hai Ghulami-o-Taqleed | Wahan Marz Ka Sabab Hai Nizam-e-Jumhoori'
+- 'id': '003_181_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ مشرق اس سے بري ہے ، نہ مغرب اس سے بري | جہاں ميں عام ہے قلب و نظر کي رنجوري'
+  - 'lang': 'en'
+    'text': 'Heart‐malady or brain‐malady has oppressed | Man’s whole world, sparing neither East nor West.'
+  - 'lang': 'ro'
+    'text': 'Na Mashriq Iss Se Bari Hai, Na Maghrib Iss Se Bari | Jahan Mein Aam Hai Qalb-o-Nazar Ki Ranjoori'

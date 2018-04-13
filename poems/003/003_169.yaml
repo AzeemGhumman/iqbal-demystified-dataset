@@ -1,0 +1,46 @@
+---
+'id': '003_169'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-22.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'گلہ'
+- 'lang': 'en'
+  'text': 'COMPLAINT'
+'description': []
+'sher':
+- 'id': '003_169_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'معلوم کسے ہند کي تقدير کہ اب تک | بيچارہ کسي تاج کا تابندہ نگيں ہے'
+  - 'lang': 'en'
+    'text': 'What is poor India’s fate ‐who knows? ‐ for up till now | It has been a glittering jewel in some crown!'
+  - 'lang': 'ro'
+    'text': 'Maloom Kise Hind Ki Taqdeer Ke Ab Tak | Bechara Kisi Taaj Ka Tabinda Nageen Hai'
+- 'id': '003_169_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دہقاں ہے کسي قبر کا اگلا ہوا مردہ | بوسيدہ کفن جس کا ابھي زير زميں ہے'
+  - 'lang': 'en'
+    'text': 'Its peasant is a corpse that some grave has disgorged – | The corpse’s tattered shroud is still inside the ground;'
+  - 'lang': 'ro'
+    'text': 'Dehqan Hai Kisi Qabar Ka Ugla Huwa Murda | Bosida Kafan Jis Ka Abhi Zair-e-Zameen Hai'
+- 'id': '003_169_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جاں بھي گرو غير ، بدن بھي گرو غير | افسوس کہ باقي نہ مکاں ہے نہ مکيں ہے'
+  - 'lang': 'en'
+    'text': 'His soul and his body are in pawn: | Alas, neither the residence nor the resident survives!'
+  - 'lang': 'ro'
+    'text': 'Jaan Bhi Girwi-e-Ghair, Badan Bhi Girwi-e-Ghair | Afsos Ke Baqi Na Makan Hai Na Makeen Hai'
+- 'id': '003_169_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'يورپ کي غلامي پہ رضا مند ہوا تو | مجھ کو تو گلہ تجھ سے ہے ، يورپ سے نہيں ہے'
+  - 'lang': 'en'
+    'text': 'It is you who became the willing slave of Europe: | My complaint is against you, it is not against Europe!'
+  - 'lang': 'ro'
+    'text': 'Yourap Ki Ghulami Pe Razamand Huwa Tu | Mujh Ko To Gila Tujh Se Hai, Yourap Se Nahin Hai!'

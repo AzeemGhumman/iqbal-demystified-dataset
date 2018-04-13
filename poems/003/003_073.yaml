@@ -1,0 +1,28 @@
+---
+'id': '003_073'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-06.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'مغربي تہذيب'
+- 'lang': 'en'
+  'text': 'WESTERN CULTURE'
+'description': []
+'sher':
+- 'id': '003_073_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فساد قلب و نظر ہے فرنگ کي تہذيب | کہ روح اس مدنيت کي رہ سکي نہ عفيف'
+  - 'lang': 'en'
+    'text': 'The Western culture depraves both heart and vision, | Because the soul of that culture is no longer chaste.'
+  - 'lang': 'ro'
+    'text': 'Fasad-e-Qalb-o-Nazar Hai Farang Ki Tehzeeb | Ke Rooh Iss Madniyat Ki Reh Saki Na Ufeef'
+- 'id': '003_073_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رہے نہ روح ميں پاکيزگي تو ہے ناپيد | ضمير پاک و خيال بلند و ذوق لطيف'
+  - 'lang': 'en'
+    'text': 'With a corrupted soul one cannot expect | To have a clean conscience, high thinking and refined tastes.'
+  - 'lang': 'ro'
+    'text': 'Rahe Na Rooh Mein Pakeezgi To Hai Na-Paid | Zameer-e-Pak-o-Khayal-e-Buland-o-Zauq-e-Lateef'

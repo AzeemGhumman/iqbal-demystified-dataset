@@ -1,0 +1,24 @@
+---
+'id': '011_013'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جہانی تیرہ تر با آفتابی'
+- 'lang': 'en'
+  'text': 'II-VIII'
+'description': []
+'sher':
+- 'id': '011_013_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہانی تیرہ تر با آفتابی | صواب او سراپا نا صوابی'
+  - 'lang': 'en'
+    'text': 'A gloom still lurking in broad day light, | His right is ne’er right but the ‘might’ is right.'
+- 'id': '011_013_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندانم تا کجا ویرانہ ئے را | دہی از خون آدم رنگ و آبی'
+  - 'lang': 'en'
+    'text': 'I know not how far he stoops to his gloom, | From the Adam’s blood get a glow and bloom.'

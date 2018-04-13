@@ -1,0 +1,24 @@
+---
+'id': '007_151'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'میان لالہ و گل آشیان گیر'
+- 'lang': 'en'
+  'text': '(151)'
+'description': []
+'sher':
+- 'id': '007_151_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'میان لالہ و گل آشیان گیر | ز مرغ نغمہ خوان درس فغان گیر'
+  - 'lang': 'en'
+    'text': 'A bud sprang up in the narcissus bed, | And dew washed sleep out of its eyes.'
+- 'id': '007_151_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر از ناتوانی گشتہ ئی پیر | نصیبی از شباب این جہان گیر'
+  - 'lang': 'en'
+    'text': 'Thus out of Selflessness did Self arise: | The world at last found what it had long sought.'

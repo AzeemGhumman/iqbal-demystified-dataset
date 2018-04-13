@@ -1,0 +1,28 @@
+---
+'id': '011_111'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدر آن دریا کہ او را ساحلی نیست"
+- 'lang': 'en'
+  'text': 'XI-XXXIII'
+'description': []
+'sher':
+- 'id': '011_111_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در آن دریا کہ او را ساحلی نیست | دلیل عاشقان غیر از دلی نیست'
+  - 'lang': 'en'
+    'text': 'I’am in a sea which has no coast side, | This heart is the lover’s path and guide.'
+    'notes':
+    - 'phrase': 'path'
+      'meaning': '        Dalil: path and guide.'
+      'occurrence': !!int '1'
+- 'id': '011_111_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو فرمودی رہ بطحا گرفتیم | وگرنہ جز تو ما را منزلی نیست'
+  - 'lang': 'en'
+    'text': 'For thy sake at Mecca a halt I make, | If not my journey was for thy sake.'

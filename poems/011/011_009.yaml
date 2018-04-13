@@ -1,0 +1,24 @@
+---
+'id': '011_009'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'روم راہی کہ او را منزلی نیست'
+- 'lang': 'en'
+  'text': 'II-IV'
+'description': []
+'sher':
+- 'id': '011_009_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'روم راہی کہ او را منزلی نیست | از آن تخمی کہ ریزم حاصلی نیست'
+  - 'lang': 'en'
+    'text': 'I tread a path there which leads no where, | From seeds I sow now no fruits would bear.'
+- 'id': '011_009_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من از غمہا نمی ترسم ولیکن | مدہ آن غم کہ شایان دلی نیست'
+  - 'lang': 'en'
+    'text': 'I fear not the griefs but a point please see, | I wish not the griefs not worthy of me.'

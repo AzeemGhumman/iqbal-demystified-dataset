@@ -1,0 +1,24 @@
+---
+'id': '007_117'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دوام ما ز سوز ناتمام است'
+- 'lang': 'en'
+  'text': '(117)'
+'description': []
+'sher':
+- 'id': '007_117_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دوام ما ز سوز ناتمام است | چو ماہی جز تپش بر ما حرام است'
+  - 'lang': 'en'
+    'text': 'Unceasing restlessness is life for us. | Like a fish we must always remain mobile'
+- 'id': '007_117_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مجو ساحل کہ در آغوش ساحل | تپید یک دم و مرگ دوام است'
+  - 'lang': 'en'
+    'text': 'And shun the shore; for it is dangerous | One vibrant moment. and then quietus.'

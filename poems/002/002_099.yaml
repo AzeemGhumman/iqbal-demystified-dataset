@@ -1,0 +1,28 @@
+---
+'id': '002_099'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-23.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'چمن ميں رخت گل شبنم سے تر ہے'
+- 'lang': 'en'
+  'text': 'Dew—drops glisten on flowers that bloom in the spring'
+'description': []
+'sher':
+- 'id': '002_099_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چمن ميں رخت گل شبنم سے تر ہے | سمن ہے ، سبزہ ہے ، باد سحر ہے'
+  - 'lang': 'en'
+    'text': 'Dew—drops glisten on flowers that bloom in the spring; | The breeze, the jasmine, and the rose have failed'
+  - 'lang': 'ro'
+    'text': 'Chaman Mein Rakht-e-Gul Se Tar Hai | Saman Hai, Sabza Hai, Bad-e-Sehar Hai'
+- 'id': '002_099_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مگر ہنگامہ ہو سکتا نہيں گرم | يہاں کا لالہ بے سوز جگر ہے'
+  - 'lang': 'en'
+    'text': 'To raise the tumult of joy and liveliness, | For flowers here lack the spark and fire of life.'
+  - 'lang': 'ro'
+    'text': 'Magar Hangama Ho Sakta Nahin Garam | Yahan Ka Lala Be-Souz-e-Jigar Hai'

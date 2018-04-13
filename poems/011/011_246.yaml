@@ -1,0 +1,28 @@
+---
+'id': '011_246'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFجہان را محکمی از امہات است"
+- 'lang': 'en'
+  'text': 'XII-IV'
+'description': []
+'sher':
+- 'id': '011_246_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان را محکمی از امہات است | نہادشان امین ممکنات است'
+  - 'lang': 'en'
+    'text': 'The world is stable from the mother’s grace, | Her kind nature guards the whole human race.'
+- 'id': '011_246_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر این نکتہ را قومی نداند | نظام کار و بارش بی ثبات است'
+  - 'lang': 'en'
+    'text': 'To this point if the nations didn’t get, | The whole world order would soon up set.'
+    'notes':
+    - 'phrase': 'set.'
+      'meaning': '        Here a ''mumknat'' means the mankind, all possible (created things). It also means possibilities but it does not apply here.'
+      'occurrence': !!int '1'

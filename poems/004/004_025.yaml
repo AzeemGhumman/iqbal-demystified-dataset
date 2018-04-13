@@ -1,0 +1,46 @@
+---
+'id': '004_025'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/03-04.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'گرم ہو جاتا ہے جب محکوم قوموں کا لہو'
+- 'lang': 'en'
+  'text': 'When the enslaved people’s rage boils'
+'description': []
+'sher':
+- 'id': '004_025_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرم ہو جاتا ہے جب محکوم قوموں کا لہو | تھرتھراتا ہے جہان چار سوے و رنگ و بو'
+  - 'lang': 'en'
+    'text': 'When the enslaved people’s rage boils and they rise in revolt against the master, | this world of near and far, of colour and smell, becomes the scene of tremors and convulsions.'
+  - 'lang': 'ro'
+    'text': 'Garam Ho Jata Hai Jab Mehkoom Qoumon Ka Lahoo | Thartharata Hai Jahan-E-Chaar Suay-O-Rang-O-Boo'
+- 'id': '004_025_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پاک ہوتا ہے ظن و تخميں سے انساں کا ضمير | کرتا ہے ہر راہ کو روشن چراغ آرزو'
+  - 'lang': 'en'
+    'text': 'It purifies man’s conscience—eschewing all doubts and misgivings— | When the lamp of high ideals is lit, brightening all paths leading to the goal.'
+  - 'lang': 'ro'
+    'text': 'Pak Hota Hai Zan-O-Takhmeen Se Insan Ka Zameer | Karta Hai Har Rah Ko Roshan Charagh-E-Arzoo'
+- 'id': '004_025_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ پرانے چاک جن کو عقل سي سکتي نہيں | عشق سيتا ہے انھيں بے سوزن و تار رفو'
+  - 'lang': 'en'
+    'text': 'There are old maladies and ancients scars the people suffer from, that intellect fails to cure and heal, | but love shows its skill and without the help of physician’s talents removes all scars and cures all woes.'
+  - 'lang': 'ro'
+    'text': 'Vo Purane Chaak Jin Ko Aqal Si Sakti Nahin | Ishq Sita Hai Unhain Be-Sozan-O-Taar-E-Rafoo'
+- 'id': '004_025_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ضربت پيہم سے ہو جاتا ہے آخر پاش پاش | حاکميت کا بت سنگيں دل و آئينہ رو'
+  - 'lang': 'en'
+    'text': 'The master’s sturdy body—with a heart of stone and face of a mirror— | gets soon smashed up and beaten down at the repeated blows of the weak slave.'
+  - 'lang': 'ro'
+    'text': 'Zarbat-E-Peham Se Ho Jata Hai Akhir Pash Pash | Hakmiat Ka But-E-Sangeen Dil-O-Aaeena Roo'

@@ -1,0 +1,28 @@
+---
+'id': '003_167'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-20.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'يورپ اور سوريا'
+- 'lang': 'en'
+  'text': 'EUROPE AND SYRIA'
+'description': []
+'sher':
+- 'id': '003_167_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرنگيوں کو عطا خاک سوريا نے کيا | نبي عفت و غم خواري و کم آزاري'
+  - 'lang': 'en'
+    'text': 'This land of Syria gave the West a Prophet | Of purity and pity and innocence;'
+  - 'lang': 'ro'
+    'text': 'Farangiyon Ko Atta Khak-e-Suriya Ne Kiya | Nabi Iffat-o-Gham Khwari-o-Kam Azari'
+- 'id': '003_167_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صلہ فرنگ سے آيا ہے سوريا کے ليے | مے و قمار و ہجوم زنان بازاري'
+  - 'lang': 'en'
+    'text': 'And Syria from the West as recompense | Gets dice and drink and troops of prostitutes.'
+  - 'lang': 'ro'
+    'text': 'Sila Farang Se Aya Hai Suriya Ke Liye | Mai-o-Qimar-o-Hujoom-e-Zanan-e-Bazari !'

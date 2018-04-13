@@ -1,0 +1,24 @@
+---
+'id': '007_082'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو ای کودک منش خود را ادب کن'
+- 'lang': 'en'
+  'text': '(82)'
+'description': []
+'sher':
+- 'id': '007_082_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ای کودک منش خود را ادب کن | مسلمان زادہ ئی ترک نسب کن'
+  - 'lang': 'en'
+    'text': 'Learn to respect yourself, O childish one. | Are you a Muslim? Then abandon pride'
+- 'id': '007_082_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برنگ احمر و خون و رگ و پوست | عرب نازد اگر ، ترک عرب کن'
+  - 'lang': 'en'
+    'text': 'Of birth. If Arabs preen themselves on skin | And bleed, say goodbye to them there and then.'

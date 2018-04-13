@@ -1,0 +1,24 @@
+---
+'id': '007_116'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دل من بی قرار آرزوئی'
+- 'lang': 'en'
+  'text': '(116)'
+'description': []
+'sher':
+- 'id': '007_116_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل من بی قرار آرزوئی | درون سینۂ من ہای و ہوئی'
+  - 'lang': 'en'
+    'text': 'My heart is all afire with one desire. | There is a tumult raging in my breast.'
+- 'id': '007_116_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخن ای ہمنشین از من چہ خواہی | کہ من با خویش دارم گفتگوئی'
+  - 'lang': 'en'
+    'text': 'What discourse, my friend, do you ask of me? | My only discourse is soliloquy.'

@@ -1,0 +1,24 @@
+---
+'id': '011_161'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'حضورملت'
+- 'lang': 'en'
+  'text': 'HAZOOR-I-MILLAT'
+'description': []
+'sher':
+- 'id': '011_161_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '# persian missing | # persian missing'
+  - 'lang': 'en'
+    'text': 'The gnostic’s verses seek not of me, | I hold the nature of beaux like thee.'
+- 'id': '011_161_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '# persian missing | # persian missing'
+  - 'lang': 'en'
+    'text': 'I shed in this garden my red tears rain, | Like pearls of dew drops, falling grain by grain.'

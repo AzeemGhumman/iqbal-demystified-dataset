@@ -1,0 +1,24 @@
+---
+'id': '007_075'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز انجم تا بہ انجم صد جہان بود'
+- 'lang': 'en'
+  'text': '(75)'
+'description': []
+'sher':
+- 'id': '007_075_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز انجم تا بہ انجم صد جہان بود | خرد ہر جا کہ پر زد آسمان بود'
+  - 'lang': 'en'
+    'text': 'There are a hundred worlds from star to star, | And sky on sky, as far as mind can soar.'
+- 'id': '007_075_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولیکن چون بخود نگریستم من | کران بیکران در من نہان بود'
+  - 'lang': 'en'
+    'text': 'But when I look into my self, I see | In it horizons of infinity.'

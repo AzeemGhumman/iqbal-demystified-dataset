@@ -1,0 +1,24 @@
+---
+'id': '011_062'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'شہید ناز او بزم وجود است'
+- 'lang': 'en'
+  'text': 'VIII-III'
+'description': []
+'sher':
+- 'id': '011_062_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شہید ناز او بزم وجود است | نیاز اندر نہاد ہست و بود است'
+  - 'lang': 'en'
+    'text': 'The world with four sides I have in arm-pit, | I have wrapped in this head the heavens’ wit.'
+- 'id': '011_062_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمی بینی کہ از مہر فلک تاب | بہ سیمای سحر داغ سجود است'
+  - 'lang': 'en'
+    'text': 'Then I had to leave that topmost height, | Like dust my wing’s lost that higher flight.'

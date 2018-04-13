@@ -1,0 +1,28 @@
+---
+'id': '011_353'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFفقیرم ساز و سامانم نگاہی است"
+- 'lang': 'en'
+  'text': 'I-VIII'
+'description': []
+'sher':
+- 'id': '011_353_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فقیرم ساز و سامانم نگاہی است | بہ چشمم کوہ یاران برگ کاہی است'
+  - 'lang': 'en'
+    'text': 'A poor I am whose asset is glance, | A mountain to friends, to me a grass hence.'
+- 'id': '011_353_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز من گیر این کہ زاغ دخمہ بہتر | از  ن بازی کہ دست  موز شاہیست'
+  - 'lang': 'en'
+    'text': 'Listen this point that a vulture to me, | Is better than a hawk tied on king’s knee.'
+    'notes':
+    - 'phrase': 'knee.'
+      'meaning': '        A mountain to friends means viz, to whom my friends consider mountain due to his wealth and worldly pomp and show.'
+      'occurrence': !!int '1'

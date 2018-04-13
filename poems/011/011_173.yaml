@@ -1,0 +1,28 @@
+---
+'id': '011_173'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFز رازی حکمت قرآن بیاموز"
+- 'lang': 'en'
+  'text': 'I-XII'
+'description': []
+'sher':
+- 'id': '011_173_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز رازی حکمت قرآن بیاموز | چراغی از چراغ او بر افروز'
+  - 'lang': 'en'
+    'text': 'From Razi thus learn the Quran’s insight, | From his lamp he lit up his own lamp’s light.'
+- 'id': '011_173_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولی این نکتہ را از من فرا گیر | کہ نتوان زیستن بی مستی و سوز'
+  - 'lang': 'en'
+    'text': 'But a point from me you must learn hence, | That can’t be life, lacking flame and trance.'
+    'notes':
+    - 'phrase': 'trance.'
+      'meaning': '        Viz. No life is life without the Prophet''s flame of love burning in his heart.'
+      'occurrence': !!int '1'

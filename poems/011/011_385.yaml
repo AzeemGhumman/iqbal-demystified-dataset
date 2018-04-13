@@ -1,0 +1,35 @@
+---
+'id': '011_385'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنہ ہرکس خود گردھم خود گد از است"
+- 'lang': 'en'
+  'text': 'IV-VII'
+'description': []
+'sher':
+- 'id': '011_385_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ ہرکس خود گردھم خود گد از است | نہ ہرکس مست ناز اندر نیاز است'
+  - 'lang': 'en'
+    'text': 'A self maker and melter each cant be, | Nor each Beau dives in the Beauty’s sea.'
+    'notes':
+    - 'phrase': 'Beau'
+      'meaning': '        Naz; blandishment (of femms),'
+      'occurrence': !!int '1'
+    - 'phrase': 'Beauty’s'
+      'meaning': '        Niaz; expression of love''s desire by man.'
+      'occurrence': !!int '1'
+- 'id': '011_385_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قبای لا الہ خونین قبانی است | کہ بربالای نامردان درا راست'
+  - 'lang': 'en'
+    'text': 'The Lailah’s gown is stained with blood, | Which fits not ever on a coward dud.'
+    'notes':
+    - 'phrase': 'dud.'
+      'meaning': '        Dud (a thing or person) of no use. You may also rhyme line 3 and 4 Lialah''s gown: cowered clown, by reversing the 3rd line.'
+      'occurrence': !!int '1'

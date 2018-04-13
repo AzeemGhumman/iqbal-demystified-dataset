@@ -1,0 +1,24 @@
+---
+'id': '011_263'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز من گیر این کہ مردی کور چشمی'
+- 'lang': 'en'
+  'text': 'XV-IV'
+'description': []
+'sher':
+- 'id': '011_263_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز من گیر این کہ مردی کور چشمی | ز بینای غلط بینی نکو تر'
+  - 'lang': 'en'
+    'text': 'A blind eye is better from eyes crook, | Which sees a virtue from evil look.'
+- 'id': '011_263_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز من گیر این کہ نادانی نکو کیش | ز دانشمند بی دینی نکو تر'
+  - 'lang': 'en'
+    'text': 'An ignorant man and a simple guy, | Is better than a wise but faithless sly?'

@@ -1,0 +1,52 @@
+---
+'id': '001_159'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bang/audio/03-66.MP3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اسيري'
+- 'lang': 'en'
+  'text': 'IMPRISONMENT'
+'description':
+- 'lang': 'en'
+  'text': 'The message of this short poem is that for a person of sterling worth even imprisonment is not an occasion for desperation and sorrow, but is an opportunity for perfection of his qualities. Perseverance is the highest virtue in this respect.'
+'sher':
+- 'id': '001_159_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے اسيري اعتبار افزا جو ہو فطرت بلند | قطرئہ نيساں ہے زندان صدف سے ارجمند'
+  - 'lang': 'en'
+    'text': 'Imprisonment enhances confidence if the nature is elegant | The spring drop becomes blessed inside the shell’s prison'
+    'notes':
+    - 'phrase': 'prison'
+      'meaning': 'Allusion to the formation of pearl by a rain drop which gets imprisoned in the shell according to the popular beleif in the olden days.'
+      'occurrence': !!int '1'
+  - 'lang': 'ro'
+    'text': 'Hai Aseeri Atebar Afza Jo Ho Fitrat Buland | Qatra-e-Neesan Hai Zindan-e-Sadaf Se Arjumand'
+- 'id': '001_159_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مشک اذفر چيز کيا ہے ، اک لہو کي بوند ہے | مشک بن جاتي ہے ہو کر نافہ آہو ميں بند'
+  - 'lang': 'en'
+    'text': 'The excellent musk is nothing but a drop of blood | Which becomes musk when it is enclosed in the deer’s navel'
+  - 'lang': 'ro'
+    'text': 'Mushk-e-Azfar Cheez Kya Hai, Ek Lahoo Ki Boondhai | Mushk Ban Jati Hai Ho Kar Nafa-e-Ahu Mein Band'
+- 'id': '001_159_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر کسي کي تربيت کرتي نہيں قدرت، مگر | کم ہيں وہ طائر کہ ہيں دام وقفس سے بہرہ مند'
+  - 'lang': 'en'
+    'text': 'However, not everyone gets trained by nature | Only an odd bird is prosperous in imprisonment'
+  - 'lang': 'ro'
+    'text': 'Har Kisi Ki Tarbiat Karti Nahin Qudrat, Magar | Kam Hain Woh Taeer Ke Hain Daam-o-Qafas Se Behramand'
+- 'id': '001_159_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شہپر زاغ و زغن در بند قيد و صيد نيست '''' | ''''ايں سعادت قسمت شہباز و شاہيں کردہ اند'
+  - 'lang': 'en'
+    'text': '“Strength of crow’s and kite’s wing is not in cage and prey | This grace is reserved for the falcon and the eagle”'
+  - 'lang': 'ro'
+    'text': '“Sehpar-e-Zaagh-o-Zaghan Dar Band-e-Qaid-o-Said Needs | Aen Saadat Qismat-e-Shahbaz-o-Shaheen Kardah And”'

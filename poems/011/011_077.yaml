@@ -1,0 +1,24 @@
+---
+'id': '011_077'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ چشم او نہ نور و نی سرور است'
+- 'lang': 'en'
+  'text': 'X-V'
+'description': []
+'sher':
+- 'id': '011_077_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ چشم او نہ نور و نی سرور است | نہ دل در سینۂ او ناصبور است'
+  - 'lang': 'en'
+    'text': 'His eyes are void of a glamour and glee, | No restive heart in his bosom I see.'
+- 'id': '011_077_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا آن امتے را یار بادا | کہ مرگ او ز جان بی حضور است'
+  - 'lang': 'en'
+    'text': 'God be a friend of the unlucky race, | Who vanished from scene being out of His grace.'

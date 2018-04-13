@@ -1,0 +1,28 @@
+---
+'id': '011_298'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل دریا سکون بیگانہ از تست"
+- 'lang': 'en'
+  'text': 'V-IV'
+'description': []
+'sher':
+- 'id': '011_298_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل دریا سکون بیگانہ از تست | بہ جیبش گوھر یکدانہ از تست'
+  - 'lang': 'en'
+    'text': 'O heart’s sea! no peace yet known to thee, | The gloss of gems here, due to my glee.'
+- 'id': '011_298_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ای موج اضطراب خود نگہدار | کہ دریا را متاع خانہ از تست'
+  - 'lang': 'en'
+    'text': 'O wave! thus guard thy own restive thrill, | The noise of storms thus, due to thy will.'
+    'notes':
+    - 'phrase': 'will.'
+      'meaning': '        The underlying thought is given below For heart the whole noise in world I see, Who gave the world beauty for thy sole glee.'
+      'occurrence': !!int '1'

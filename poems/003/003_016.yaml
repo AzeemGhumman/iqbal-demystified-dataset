@@ -1,0 +1,41 @@
+---
+'id': '003_016'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-16.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'ہندي مسلمان'
+- 'lang': 'en'
+  'text': 'INDIAN MUSLIM'
+'description': []
+'sher':
+- 'id': '003_016_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غدار وطن اس کو بتاتے ہيں برہمن | انگريز سمجھتا ہے مسلماں کو گداگر'
+  - 'lang': 'en'
+    'text': 'Brahmans dub him as foe to native land, | The English call him beggar on the other hand.'
+  - 'lang': 'ro'
+    'text': 'Gaddar-e-Watan Iss Ko Batate Hain Barhaman | Angraiz Samjahta Hai Musalman Ko Gadagar'
+- 'id': '003_016_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پنجاب کے ارباب نبوت کي شريعت | کہتي ہے کہ يہ مومن پارينہ ہے کافر'
+  - 'lang': 'en'
+    'text': 'The code of prophet born in Punjab says, | ʺThis ancient Muslim owns many pagan ways.”'
+  - 'lang': 'ro'
+    'text': 'Punjab-e-Arbab-e-Nabuwwat Ki Shariat | Kehti Hai Ke Ye Momin-e-Parina Hai Kafir'
+- 'id': '003_016_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آوازہ حق اٹھتا ہے کب اور کدھر سے | !''مسکيں ولکم ماندہ دريں کشمکش اندر'''
+  - 'lang': 'en'
+    'text': 'When and whence the call to truth shall rise, | “My humble heart is feeling much surprise?”'
+    'notes':
+    - 'phrase': 'surprise?”'
+      'meaning': 'The quotation is from a Persian source.'
+      'occurrence': !!int '1'
+  - 'lang': 'ro'
+    'text': 'Awazah-e-Haq Uthta Hai Kab Aur Kidhar Se | ‘Makeen Dilkam Manda Daren Kashmakas Andar !’'

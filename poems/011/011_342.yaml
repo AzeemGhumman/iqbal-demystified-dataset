@@ -1,0 +1,24 @@
+---
+'id': '011_342'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مشو نخچیر ابلیسان این عصر'
+- 'lang': 'en'
+  'text': 'XIII-VI'
+'description': []
+'sher':
+- 'id': '011_342_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مشو نخچیر ابلیسان این عصر | خسان را غمزۂ شان سازگار است'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+- 'id': '011_342_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اصیلان را ہمان ابلیس خوشتر | کہ یزدان دیدہ و کامل عیار است'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'

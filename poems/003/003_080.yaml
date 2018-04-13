@@ -1,0 +1,37 @@
+---
+'id': '003_080'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-13.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خودي کي زندگي'
+- 'lang': 'en'
+  'text': 'THE LIFE OF SELFHOOD'
+'description': []
+'sher':
+- 'id': '003_080_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودي ہو زندہ تو ہے فقر بھي شہنشاہي | نہيں ہے سنجر و طغرل سے کم شکوہ فقير'
+  - 'lang': 'en'
+    'text': 'If the self is alive, even poverty is kingship: | The prestige of the penniless is not inferior to that of Sanjar and Tughral.'
+  - 'lang': 'ro'
+    'text': 'Khudi Ho Zinda To Hai Faqr Bhi Shehanshahi | Nahin Hai Sanjar-o-Tughral Se Kam Shikoh-e-Faqeer'
+- 'id': '003_080_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودي ہو زندہ تو دريائے بے کراں پاياب | خودي ہو زندہ تو کہسار پر نيان و حرير'
+  - 'lang': 'en'
+    'text': 'If the self is alive, the endless ocean is fordable; | To a live self the stones of a mountain are soft like silken cloth.'
+  - 'lang': 'ro'
+    'text': 'Khudi Ho Zinda To Darya-e-Be Karan Payaab | Khudi Ho Zinda To Kuhsar Parniyan-o-Hareer'
+- 'id': '003_080_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہنگ زندہ ہے اپنے محيط ميں آزاد | !نہنگ مردہ کو موج سراب بھي زنجير'
+  - 'lang': 'en'
+    'text': 'A live crocodile is free when encircled by water, | While a lifeless crocodile is enchained even by the wave in a mirage.'
+  - 'lang': 'ro'
+    'text': 'Nahnang-e-Zinda Hai Apne Muheet Mein Azad | Nahnang-e-Murda Ko Mouj-e-Sirab Bhi Zanjeer!'

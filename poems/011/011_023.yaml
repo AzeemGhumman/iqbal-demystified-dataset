@@ -1,0 +1,24 @@
+---
+'id': '011_023'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'اگر می آید آن دانای رازی'
+- 'lang': 'en'
+  'text': 'IV-IV'
+'description': []
+'sher':
+- 'id': '011_023_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر می آید آن دانای رازی | بدہ او را نواے دل گدازی'
+  - 'lang': 'en'
+    'text': 'If so e’er comes that gifted mystic sage, | To him then convey a burning message,'
+- 'id': '011_023_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ضمیر امتان را می کند پاک | کلیمی یا حکیمی نی نوازی'
+  - 'lang': 'en'
+    'text': 'To purify conscience of nations soon, | With sceptre of Moses and David’s tune.'

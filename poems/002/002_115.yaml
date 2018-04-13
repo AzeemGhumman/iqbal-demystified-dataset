@@ -1,0 +1,28 @@
+---
+'id': '002_115'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-39.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'زمانے کي يہ گردش جاودانہ'
+- 'lang': 'en'
+  'text': 'The movement of days and nights is eternal'
+'description': []
+'sher':
+- 'id': '002_115_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زمانے کي يہ گردش جاودانہ | حقيقت ايک تو ، باقي فسانہ'
+  - 'lang': 'en'
+    'text': 'The movement of days and nights is eternal, fast; | No one has seen the future or the past;'
+  - 'lang': 'ro'
+    'text': 'Zamane Ki Ye Gardish Javidana | Haqiqat Aik Tu, Baqi Fasana'
+- 'id': '002_115_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کسي نے دوش ديکھا ہے نہ فردا | فقط امروز ہے تيرا زمانہ'
+  - 'lang': 'en'
+    'text': 'Thou art the only fact, the rest is fiction; | The present is the only time thou hast.'
+  - 'lang': 'ro'
+    'text': 'Kisi Ne Dosh Dekha Hai Na Farda | Faqt Amroz Hai Tera Zamana'

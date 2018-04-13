@@ -1,0 +1,24 @@
+---
+'id': '007_100'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چو در جنت خرامیدم پس از مرگ'
+- 'lang': 'en'
+  'text': '(100)'
+'description': []
+'sher':
+- 'id': '007_100_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو در جنت خرامیدم پس از مرگ | بہ چشمم این زمین و آسمان بود'
+  - 'lang': 'en'
+    'text': 'When after death I walked in Paradise | And found before my eyes this earth, these skies,'
+- 'id': '007_100_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شکی با جان حیرانم در آویخت | جہان بود آن کہ تصویر جہان بود'
+  - 'lang': 'en'
+    'text': 'A doubt arose in my mind: was it fact | Or fantasy, this world before my eyes?'

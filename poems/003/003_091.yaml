@@ -1,0 +1,37 @@
+---
+'id': '003_091'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-24.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'حکيم نطشہ'
+- 'lang': 'en'
+  'text': 'NIETZSCHE'
+'description': []
+'sher':
+- 'id': '003_091_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حريف نکتہ توحيد ہو سکا نہ حکيم | نگاہ چاہيے اسرار ''لا الہ'' کے ليے'
+  - 'lang': 'en'
+    'text': 'The subtle point that God is one, The German sage could not perceive: | Clear sight and mind are both a must, So that this point one may conceive.'
+  - 'lang': 'ro'
+    'text': 'Hareef-e-Nukta-e-Touheed Ho Saka Na Hakeem | Nigah Chahiye Asrar-e-‘ LA ILAHA ’ Ke Liye'
+- 'id': '003_091_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدنگ سينہ گردوں ہے اس کا فکر بلند | کمند اس کا تخيل ہے مہرو مہ کے ليے'
+  - 'lang': 'en'
+    'text': 'The flights of fancy, like a dart, Can hit the dome of azure sky: | He casts his noose on moon and sun, That seem so far above and high.'
+  - 'lang': 'ro'
+    'text': 'Khadang-e-Seena-e-Gardoon Hai Uss Ka Fikr-e-Buland | Kumand Uss Ka Takhiyul Hai Mehr-o-Mah Ke Liye'
+- 'id': '003_091_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگرچہ پاک ہے طينت ميں راہبي اس کي | ترس رہي ہے مگر لذت گنہ کے ليے'
+  - 'lang': 'en'
+    'text': 'Although his natural bent of mind, From stains and blemish is quite free; | His soul this dormant fact betrays, He yearns for life replete with spree.'
+  - 'lang': 'ro'
+    'text': 'Agarcha Pak Hai Tiniat Mein Rahbi Uss Ki | Taras Rahi Hai Magar Lazzat-e-Gunah Ke Liye'

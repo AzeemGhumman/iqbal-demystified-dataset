@@ -1,0 +1,44 @@
+---
+'id': '011_365'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFقماش و نقرہ و لعل و گہر چیست؟"
+- 'lang': 'en'
+  'text': 'I-XX'
+'description': []
+'sher':
+- 'id': '011_365_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قماش و نقرہ و لعل و گہر چیست؟ | غلام خوشگل و زرین کمر چیست؟'
+  - 'lang': 'en'
+    'text': 'What are the clothes, gold jewels and gems? | Rows of slaves handsome, and gold waist femme?'
+    'notes':
+    - 'phrase': 'clothes,'
+      'meaning': '        Qumash, the clothing.'
+      'occurrence': !!int '1'
+    - 'phrase': 'gold'
+      'meaning': '        Nuqra, Silver (I used gold for poetic need).'
+      'occurrence': !!int '1'
+    - 'phrase': 'jewels'
+      'meaning': '        La''l; a ruby, red jewel'
+      'occurrence': !!int '1'
+    - 'phrase': 'gems?'
+      'meaning': '        Guhr; gems.'
+      'occurrence': !!int '1'
+- 'id': '011_365_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو یزدان از دو گیتی بی نیازند | دگر سرمایۂ اہل ہنر چیست؟'
+  - 'lang': 'en'
+    'text': 'Like God they ‘are free’ from both worlds needs, | Is this not wealth which a skill’d man heeds.'
+    'notes':
+    - 'phrase': 'free’'
+      'meaning': '        Are free; Sans souci, unconcerned.'
+      'occurrence': !!int '1'
+    - 'phrase': 'man'
+      'meaning': '        Here skilled man means a godly man, virtuous.'
+      'occurrence': !!int '1'

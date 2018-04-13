@@ -1,0 +1,32 @@
+---
+'id': '011_114'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمی از میخانۂ مغرب چشیدم"
+- 'lang': 'en'
+  'text': 'XI-XXXVI'
+'description': []
+'sher':
+- 'id': '011_114_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می از میخانۂ مغرب چشیدم | بجان من کہ درد سر خریدم'
+  - 'lang': 'en'
+    'text': 'From Western taverns the wines I take, | I buy for my head a great headache.'
+    'notes':
+    - 'phrase': 'wines'
+      'meaning': '        The wines In Iqbal''s own terminology it means the culture and civilization of a nation.'
+      'occurrence': !!int '1'
+- 'id': '011_114_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نشستم با نکویان فرنگے | از آن بے سوز تر روزی ندیدم'
+  - 'lang': 'en'
+    'text': 'With the nobles of West I sat for days, | For me the worst days of my flameless stays.'
+    'notes':
+    - 'phrase': 'flameless'
+      'meaning': '        Flameless (be soz) which means without flame of love and taste. Its synonym could be emotionless (though not used in English language. Unsparing nonchalant (without warmth), cool un-enthusiastic, insipid (lifeless) do not convey the sense of flameless (be soz).'
+      'occurrence': !!int '1'

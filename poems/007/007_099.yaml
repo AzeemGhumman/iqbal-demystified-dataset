@@ -1,0 +1,24 @@
+---
+'id': '007_099'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چسان زاید تمنا در دل ما'
+- 'lang': 'en'
+  'text': '(99)'
+'description': []
+'sher':
+- 'id': '007_099_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چسان زاید تمنا در دل ما | چسان سوزد چراغ منزل ما'
+  - 'lang': 'en'
+    'text': 'How is desire born in our hearts? How does | This lamp which lights our dwelling burn? Who sees'
+- 'id': '007_099_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بچشم ما کہ می بیند چہ بیند | چسان گنجید دل اندر گل ما'
+  - 'lang': 'en'
+    'text': 'With our eyes and what does he see? How is | The heart accommodated in our mire?'

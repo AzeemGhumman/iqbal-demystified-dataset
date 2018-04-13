@@ -1,0 +1,24 @@
+---
+'id': '007_031'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز مرغان چمن نا آشنایم'
+- 'lang': 'en'
+  'text': '(31)'
+'description': []
+'sher':
+- 'id': '007_031_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز مرغان چمن نا آشنایم | بہ شاخ آشیان تنہا سرایم'
+  - 'lang': 'en'
+    'text': 'The garden songsters’ chorus I, for one, | Do not join. but sing on my branch alone.'
+- 'id': '007_031_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر نازک دلی از من کران گیر | کہ خونم مے تراود از نوایم'
+  - 'lang': 'en'
+    'text': 'If you are weak, do not come near me; for | In my song you will see my heart’s blood drawn.'

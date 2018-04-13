@@ -1,0 +1,28 @@
+---
+'id': '011_142'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFگلستانی ز خاک من بر انگیز"
+- 'lang': 'en'
+  'text': 'XI-LXIV'
+'description': []
+'sher':
+- 'id': '011_142_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گلستانی ز خاک من بر انگیز | نم چشمم بخون لالہ آمیز'
+  - 'lang': 'en'
+    'text': 'Raise a garden new from dust of mine, | Mix a poppy’s blood to my tears shine.'
+- 'id': '011_142_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر شایان نیم تیغ علی را | نگاہی دو چو شمشیر علی تیز'
+  - 'lang': 'en'
+    'text': 'If I’m not fit for Hyder’s sword and lance, | As sharp as his lance give me a glance.'
+    'notes':
+    - 'phrase': 'glance.'
+      'meaning': '        Hyder lion, as obriquet or nickname) of Hazrat Ali, the 4th Caliph after the Prophet.'
+      'occurrence': !!int '1'

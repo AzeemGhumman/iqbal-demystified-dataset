@@ -1,0 +1,39 @@
+---
+'id': '001_029'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bang/audio/01-29.MP3'
+'heading':
+- 'lang': 'ur'
+  'text': 'شاعر'
+- 'lang': 'en'
+  'text': 'THE POET'
+'description':
+- 'lang': 'en'
+  'text': 'This very short poem is an eloquent commentary on the role of poets in the affairs of a nation. They perform the same most important function in a nation''s affairs as the eye does in the body. However, not all poets qualify for this honor. Only those do so who measure up to the standards laid down in the last three lines of this poem'
+'sher':
+- 'id': '001_029_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوم گويا جسم ہے ، افراد ہيں اعضائے قوم | منزل صنعت کے رہ پيما ہيں دست و پائے قوم'
+  - 'lang': 'en'
+    'text': 'A nation is the body, people are its organs | Artisans are the nation''s hands and feet'
+  - 'lang': 'ro'
+    'text': 'Qoum Goya Jism Hai, Afrad Hain Azaaye Qoum | Manzil-e-Sanaat Ke Rah Pema Hain Dast-O-Paye Qoum'
+- 'id': '001_029_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'محفل نظم حکومت ، چہرہء زيبائے قوم | شاعر رنگيں نوا ہے ديدہ بينائے قوم'
+  - 'lang': 'en'
+    'text': 'The State administration is the nation''s beautiful face | The elegant-styled poet is the nation''s clear-sighted eye'
+  - 'lang': 'ro'
+    'text': 'Mehfil-e-Nazam-e-Hukumat, Chehra-e-Zaibaye Qoum | Shayar-e-Rangee Nawa Hai Dida-e-Beenaye Qoum'
+- 'id': '001_029_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مبتلائے درد کوئي عضو ہو روتي ہے آنکھ | کس قدر ہمدرد سارے جسم کي ہوتي ہے آنکھ'
+  - 'lang': 'en'
+    'text': 'When any organ is afflicted with pain, the eye weeps | How sympathetic to the world body is the eye'
+  - 'lang': 'ro'
+    'text': 'Mubtalaye Dard Koi Uzoo Ho, Roti Hai Ankh | Kis Qadar Hamdard Sare Jism Ki Hoti Hai Ankh'

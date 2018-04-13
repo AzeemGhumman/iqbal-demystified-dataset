@@ -1,0 +1,24 @@
+---
+'id': '011_015'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دلی در سینہ دارم بی سروری'
+- 'lang': 'en'
+  'text': 'III-I'
+'description': []
+'sher':
+- 'id': '011_015_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلی در سینہ دارم بی سروری | نہ سوزی در کف خاکم نہ نوری'
+  - 'lang': 'en'
+    'text': 'My heart knows not the bliss of His flame, | No pangs nor light in my earthen frame.'
+- 'id': '011_015_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگیر از من کہ بر من بار دوش است | ثواب این نماز بی حضوری'
+  - 'lang': 'en'
+    'text': 'So take off this burden as oft I brood, | A prize for prayers in absence of mood.'

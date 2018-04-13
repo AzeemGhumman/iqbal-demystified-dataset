@@ -1,0 +1,28 @@
+---
+'id': '011_186'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ بند صوفی و ملا اسیری"
+- 'lang': 'en'
+  'text': 'IV-III'
+'description': []
+'sher':
+- 'id': '011_186_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ بند صوفی و ملا اسیری | حیات از حکمت قر ن نگیری'
+  - 'lang': 'en'
+    'text': 'To Mullah and Sufi thou art a slave, | From insight of Quran no life you crave.'
+- 'id': '011_186_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ  یاتش ترا کاری جز این نیست | کہ از ’’یسن‘‘ او  سان بمیری'
+  - 'lang': 'en'
+    'text': 'You need verses only at time of grief, | That ‘Yasin’ would give death paugs a relief.'
+    'notes':
+    - 'phrase': 'relief.'
+      'meaning': '        The above mentioned twin couplet of Iqbal reminds another verse about the Mullah. He is bet in himself, how can he lead.'
+      'occurrence': !!int '1'

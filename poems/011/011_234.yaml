@@ -1,0 +1,24 @@
+---
+'id': '011_234'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدل اندر سینہ گوید دلبری ہست"
+- 'lang': 'en'
+  'text': 'IX-IX'
+'description': []
+'sher':
+- 'id': '011_234_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل اندر سینہ گوید دلبری ہست | متاعی  فرین غارتگری ہست'
+  - 'lang': 'en'
+    'text': 'To that holy mother I greet with pride, | From whom will be born the caravan’s guide.'
+- 'id': '011_234_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگوشم  مد از گردون دم مرگ | ’’شگوفہ چون فرو ریزد بری ہست‘‘'
+  - 'lang': 'en'
+    'text': 'On the lap of, ‘that’ fortunate dame, | The paradise nymphs would feel a shame.'

@@ -1,0 +1,28 @@
+---
+'id': '011_259'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبرہمن گفت برخیز از در غیر"
+- 'lang': 'en'
+  'text': 'XIX-IV'
+'description': []
+'sher':
+- 'id': '011_259_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برہمن گفت برخیز از در غیر | ز یاران وطن ناید بجز خیر'
+  - 'lang': 'en'
+    'text': 'The Brahmen said leave this white man’s door, | From Hindies think not, save good any more.'
+- 'id': '011_259_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیک مسجد دو ملا می نگنجد | ز افسون بتان گنجد بیک دیر'
+  - 'lang': 'en'
+    'text': 'In one mosque two Mullahs may ne’er contain, | With magic of gods can live in a fane.'
+    'notes':
+    - 'phrase': 'fane.'
+      'meaning': '        Line 2:- As the Brehmin tried to impress the Muslim that "Thy country men love thee from heart''s core."'
+      'occurrence': !!int '1'

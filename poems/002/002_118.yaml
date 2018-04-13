@@ -1,0 +1,28 @@
+---
+'id': '002_118'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'اقبال نے کل اہل خياباں کو سنايا'
+- 'lang': 'en'
+  'text': 'Iqbal recited once in a garden in spring'
+'description': []
+'sher':
+- 'id': '002_118_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اقبال نے کل اہل خياباں کو سنايا | يہ شعر نشاط آور و پر سوز طرب ناک'
+  - 'lang': 'en'
+    'text': 'Iqbal recited once in a garden in spring | A couplet cheerful and bright in tone and spirit:'
+  - 'lang': 'ro'
+    'text': 'Iqbal Ne Kal Ahl-e-Khayaban Ko Sunaya | Ye Shair-e-Nishat Awar-o-Pursouz-o-Tarabnak'
+- 'id': '002_118_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ميں صورت گل دست صبا کا نہيں محتاج | کرتا ہے مرا جوش جنوں ميري قبا چاک'
+  - 'lang': 'en'
+    'text': 'Unlike the rose, I need no breeze to blossom., | My soul doth blossom with my ecstasy.'
+  - 'lang': 'ro'
+    'text': 'Main Soorat-e-Gul Dast-e-Saba Ka Nahin Mouhtaj | Karta Hai Mera Josh-e-Junoon Meri Qaba Chaak'

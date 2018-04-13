@@ -1,0 +1,28 @@
+---
+'id': '011_112'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمران از در کہ مشتاق حضوریم"
+- 'lang': 'en'
+  'text': 'XI-XXXIV'
+'description': []
+'sher':
+- 'id': '011_112_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مران از در کہ مشتاق حضوریم | از آن دردی کہ دادی نا صبوریم'
+  - 'lang': 'en'
+    'text': 'Drive not from door who are longing for thee, | We are getting restive from thy flame’s glee.'
+    'notes':
+    - 'phrase': 'glee.'
+      'meaning': 'The literal version of line 2 is given below: [''We can''t calm the pathos you gave with glee.'']'
+      'occurrence': !!int '1'
+- 'id': '011_112_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بفرما ہر چہ میخواہی بجز صبر | کہ ما از وی دو صد فرسنگ دوریم'
+  - 'lang': 'en'
+    'text': 'So bid what ye wish, for patience ask, not, | Two hundred miles from it, the heart has brought.'

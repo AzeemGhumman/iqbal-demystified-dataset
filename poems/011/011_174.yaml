@@ -1,0 +1,28 @@
+---
+'id': '011_174'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFکسی کو بر خودے زد ’’لاالہ‘‘ را"
+- 'lang': 'en'
+  'text': 'EGO | Chapter 2'
+'description': []
+'sher':
+- 'id': '011_174_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کسی کو بر خودے زد ’’لاالہ‘‘ را | ز خاک مردہ رویاند نگہ را'
+  - 'lang': 'en'
+    'text': 'Who makes Ego firm by ‘Lailah’s tie, | From lifeless sands can make a seeing eye.'
+- 'id': '011_174_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدہ از دست دامان چنین مرد | کہ دیدم در کمندش مہر و مہ را'
+  - 'lang': 'en'
+    'text': 'Lose not ever that man’s greatest boon, | In whose reach I see the Sun and Moon.'
+    'notes':
+    - 'phrase': 'Moon.'
+      'meaning': '        Bisic thought Iqbal has been looking for a fit man always and here he pinpoints the qualities of that great man'
+      'occurrence': !!int '1'

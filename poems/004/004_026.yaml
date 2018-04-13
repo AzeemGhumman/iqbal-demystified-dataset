@@ -1,0 +1,37 @@
+---
+'id': '004_026'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/03-05.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'دراج کي پرواز ميں ہے شوکت شاہيں'
+- 'lang': 'en'
+  'text': 'The partridge flies with the majesty of the falcons'
+'description': []
+'sher':
+- 'id': '004_026_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دراج کي پرواز ميں ہے شوکت شاہيں | !حيرت ميں ہے صياد، يہ شاہيں ہے کہ دراج'
+  - 'lang': 'en'
+    'text': 'The partridge flies with the majesty of the falcons; | the hunter is nonplussed: is it a partridge or a falcon?'
+  - 'lang': 'ro'
+    'text': 'Durraj Ki Parwaz Mein Hai Shaukat-E-Shaheen | Hairat Mein Hai Sayyadm Ye Shaheen Hai Kh Durraj !'
+- 'id': '004_026_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر قوم کے افکار ميں پيدا ہے تلاطم | مشرق ميں ہے فردائے قيامت کي نمود آج'
+  - 'lang': 'en'
+    'text': 'Every nation is astir, her thoughts in a constant flux; | today we see in the East the signs of tomorrow’s resurrection.'
+  - 'lang': 'ro'
+    'text': 'Har Qoum Ke Afkar Mein Paida Hai Talatum | Mashriq Mein Hai Farda’ay Qayamat Ki Namood Aaj'
+- 'id': '004_026_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت کے تقاضوں سے ہوا حشر پہ مجبور | وہ مردہ کہ تھا بانگ سرافيل کا محتاج'
+  - 'lang': 'en'
+    'text': 'The deadbody, awaiting Israfil’s Call, has all of a sudden risen to life: | Nature’s pitiless laws work wonders.'
+  - 'lang': 'ro'
+    'text': 'Fitrat Ke Taqazon Se Huwa Hashar Pe Majboor | Woh Murda Kh Tha Bang-E-Sarafeel Ka Mohtaj'

@@ -1,0 +1,28 @@
+---
+'id': '011_243'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہل ای دخترک این دلبری ہا"
+- 'lang': 'en'
+  'text': 'TO DAUGHTERS OF THE NATION | Chapter 12'
+'description': []
+'sher':
+- 'id': '011_243_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہل ای دخترک این دلبری ہا | مسلمان را نزیبد کافری ہا'
+  - 'lang': 'en'
+    'text': 'Learn O’ daughterling this loveliness trend, | To Muslim suits not the heathen’s blend.'
+- 'id': '011_243_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'منہ دل بر جمال غازہ پرورد | بیاموز از نگہ غارتگری ہا'
+  - 'lang': 'en'
+    'text': 'You need not a beauty of rouge and scent, | With the chaste eyes teach thy charming bent.'
+    'notes':
+    - 'phrase': 'bent.'
+      'meaning': '        Iqbal has used ''Gharat Gari'' again in line 4 which means ''robbery''. In amatory language of this sub-continent and Persia, it means loveliness.'
+      'occurrence': !!int '1'

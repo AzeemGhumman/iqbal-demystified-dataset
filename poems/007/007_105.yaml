@@ -1,0 +1,24 @@
+---
+'id': '007_105'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بیا با شاہد فطرت نظر باز'
+- 'lang': 'en'
+  'text': '(105)'
+'description': []
+'sher':
+- 'id': '007_105_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیا با شاہد فطرت نظر باز | چرا در گوشۂ خلوت گزینی'
+  - 'lang': 'en'
+    'text': 'Come drink in Nature’s beauty with your eyes. | Why muse like a recluse? O exercise'
+- 'id': '007_105_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا حق داد چشم پاک بینی | کہ از نورش نگاہی آفرینی'
+  - 'lang': 'en'
+    'text': 'The gift that God his given you of eight. | O look, the world is beautiful and bright.'

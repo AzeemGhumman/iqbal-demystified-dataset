@@ -1,0 +1,31 @@
+---
+'id': '011_355'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدرین گلشن ندارم  ب و جاہی"
+- 'lang': 'en'
+  'text': 'I-X'
+'description': []
+'sher':
+- 'id': '011_355_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین گلشن ندارم  ب و جاہی | نصیبم نی قبائی نی کلاہی'
+  - 'lang': 'en'
+    'text': 'No pomp and show I have in this globe. | Nor destined to me a crest or robe.'
+- 'id': '011_355_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا گلچین بد  موز چمن خواند | کہ دادم چشم نرگس را نگاہی'
+  - 'lang': 'en'
+    'text': 'As the garden’s foe the florist dubbed me, | Since I gave to ‘nargis’ an eye to see.'
+    'notes':
+    - 'phrase': 'florist'
+      'meaning': '        The florist or gardener is an allusion to his country men or the Mullah, who dubbed the poet as an enemy of the nation because they were too loyal to the British in his opinion.'
+      'occurrence': !!int '1'
+    - 'phrase': '‘nargis’'
+      'meaning': '        Nargis (Per:) Narcissus, nirjis (Arb: ), perhaps a daffodil too is also of the same group.'
+      'occurrence': !!int '1'

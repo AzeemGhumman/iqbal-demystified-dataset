@@ -1,0 +1,28 @@
+---
+'id': '011_050'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFمہار ای ساربان او را نشاید"
+- 'lang': 'en'
+  'text': 'III-II'
+'description': []
+'sher':
+- 'id': '011_050_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مہار ای ساربان او را نشاید | کہ جان او چو جان ما بصیر است'
+  - 'lang': 'en'
+    'text': 'She needs no reins O I teamster hence! | Like my own wits she has the same sense.'
+- 'id': '011_050_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من از موج خرامش می شناسم | چو من اندر طلسم دل اسیر است'
+  - 'lang': 'en'
+    'text': 'From its wavelike trot a plea I would form, | Like me she is captive of heart’s own charm.'
+    'notes':
+    - 'phrase': 'charm.'
+      'meaning': '        viz, she likes to reach quick to the Prophet''s place.'
+      'occurrence': !!int '1'

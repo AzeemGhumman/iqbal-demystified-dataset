@@ -1,0 +1,24 @@
+---
+'id': '007_024'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'رہی در سینۂ انجم گشائی'
+- 'lang': 'en'
+  'text': '(24)'
+'description': []
+'sher':
+- 'id': '007_024_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رہی در سینۂ انجم گشائی | ولی از خویشتن ناآشنائی'
+  - 'lang': 'en'
+    'text': 'A stranger to your own identity, | You seek new paths to the stars in the sky.'
+- 'id': '007_024_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یکی بر خود گشا چون دانہ چشمی | کہ از زیر زمین نخلی بر آئی'
+  - 'lang': 'en'
+    'text': 'Open your eyes to yourself like a seed | So that you come out of the earth a tree.'

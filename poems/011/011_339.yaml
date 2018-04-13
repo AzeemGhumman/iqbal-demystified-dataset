@@ -1,0 +1,24 @@
+---
+'id': '011_339'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چہ شیطانی خرامش واژگونی'
+- 'lang': 'en'
+  'text': 'XIII-III'
+'description': []
+'sher':
+- 'id': '011_339_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ شیطانی خرامش واژگونی | کند چشم ترا کور از فسونے'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'
+- 'id': '011_339_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من او را مردہ شیطانی شمارم | کہ گیرد چون تو نخچیر زبونی'
+  - 'lang': 'en'
+    'text': '# translation missing | # translation missing'

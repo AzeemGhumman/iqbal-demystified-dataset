@@ -1,0 +1,35 @@
+---
+'id': '011_058'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFگہی شعر عراقی را بخوانم"
+- 'lang': 'en'
+  'text': 'VII-I'
+'description': []
+'sher':
+- 'id': '011_058_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گہی شعر عراقی را بخوانم | گہی جامی زند آتش بجانم'
+  - 'lang': 'en'
+    'text': 'A page of Iraqi sometimes I turn, | From Jami’s fire so often I burn.'
+    'notes':
+    - 'phrase': 'Iraqi'
+      'meaning': '        Imam Fakhr-ud-Din known as Iraqi (of Iraq), a mystic poet.'
+      'occurrence': !!int '1'
+    - 'phrase': 'Jami’s'
+      'meaning': '        Jami Maulana Abdul Rehman Of Kharjrohmin, a town in Jam province of Persia, born in Sha''ban 817 H, died in 808 H in Muharram, wrote 54-books on various topics, some were text books in scholastic school Teamster; a driver of camels.'
+      'occurrence': !!int '1'
+- 'id': '011_058_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندانم گرچہ آہنگ عرب را | شریک نغمہ ہای ساربانم'
+  - 'lang': 'en'
+    'text': 'I know not though the Arabs’ tune, | I share with joy the teamaster’s tune.'
+    'notes':
+    - 'phrase': 'teamaster’s'
+      'meaning': '        Jami Maulana Abdul Rehman Of Kharjrohmin, a town in Jam province of Persia, born in Sha''ban 817 H, died in 808 H in Muharram, wrote 54-books on various topics, some were text books in scholastic school Teamster; a driver of camels.'
+      'occurrence': !!int '1'

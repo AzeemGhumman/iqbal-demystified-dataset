@@ -1,0 +1,24 @@
+---
+'id': '011_324'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFخودی را از وجود حق وجودے"
+- 'lang': 'en'
+  'text': 'IX-III'
+'description': []
+'sher':
+- 'id': '011_324_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودی را از وجود حق وجودے | خودی را از نمود حق نمودے'
+  - 'lang': 'en'
+    'text': 'From God’s own being, the ‘self’ got a ‘being’ so | From God’s own show, to ‘self’ He gave a show.'
+- 'id': '011_324_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمی دانم کہ این تابندہ گوہر | کجا بودی اگر دریا نبودے'
+  - 'lang': 'en'
+    'text': 'About this shining pearl I know not where, | It could be then without a river there.'

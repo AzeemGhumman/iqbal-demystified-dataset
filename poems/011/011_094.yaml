@@ -1,0 +1,24 @@
+---
+'id': '011_094'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ آن بالی کہ بخشیدی ، پریدم'
+- 'lang': 'en'
+  'text': 'XI-XVI'
+'description': []
+'sher':
+- 'id': '011_094_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ آن بالی کہ بخشیدی ، پریدم | بہ سوز نغمہ ہای خود تپیدم'
+  - 'lang': 'en'
+    'text': 'With wings you gave I judge and fly, | In heat of songs I burn and cry.'
+- 'id': '011_094_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانے کہ مرگ از وی بلرزد | جہان گردیدم و او را ندیدم'
+  - 'lang': 'en'
+    'text': 'A Muslim from whom shivers the death, | I found him not on whole earth’s breadth.'

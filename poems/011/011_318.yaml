@@ -1,0 +1,32 @@
+---
+'id': '011_318'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFگہی جویندۂ حسن غریبے"
+- 'lang': 'en'
+  'text': 'VIII-VIII'
+'description': []
+'sher':
+- 'id': '011_318_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گہی جویندۂ حسن غریبے | خطیبی منبر او از صلیبی'
+  - 'lang': 'en'
+    'text': 'To that rare beauty my heart seeks again, | To speaker whose pulpit was ‘cross’ and slain.'
+    'notes':
+    - 'phrase': 'speaker'
+      'meaning': '        Viz. Mansoor Hallaj (cotton carder), though Mansoor Hallaj was never a cotton carder by profession.'
+      'occurrence': !!int '1'
+- 'id': '011_318_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گہی سلطان با خیل و سپاہی | ولی از دولت خود بی نصیبی'
+  - 'lang': 'en'
+    'text': 'To the King often with lancers and force, | To wealth who never touched at any course.'
+    'notes':
+    - 'phrase': 'King'
+      'meaning': '        Viz. Sultan Noor-ud-Din Zangi. In this quatrain Iqbal has used a most laconic language as he had explained tales of two great heroes.'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '011_067'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچہ گویم زان فقیری دردمندی"
+- 'lang': 'en'
+  'text': 'IX-IV'
+'description': []
+'sher':
+- 'id': '011_067_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ گویم زان فقیری دردمندی | مسلمانی بہ گوھر ارجمندی'
+  - 'lang': 'en'
+    'text': 'As such I say to a. soft hearted soul, | A Muslim is honoured on virtues role.'
+    'notes':
+    - 'phrase': 'soul,'
+      'meaning': '        Iqbal says, "As such I say to a poor (meek) ruthful man among the mystics-A Faqir is not actually poor but a voluntary-poor, leads a life like a poor fellow, who actually likes to help the poor to remove their poverty". Where Iqbal says ''A poor man'' he means the same. There is no equivalent word to convey this sense in English language as I understand. His ''Faqir'' is not a beggar nor a mendicant, but a man who hikes to distribute every penny to the poor.'
+      'occurrence': !!int '1'
+- 'id': '011_067_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا این سخت جان را یار بادا | کہ افتاد است از بام بلندی'
+  - 'lang': 'en'
+    'text': 'O God, help the man who leads a life hard, | Who fell from a summit, God be his ward.'

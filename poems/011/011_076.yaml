@@ -1,0 +1,24 @@
+---
+'id': '011_076'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عروس زندگی در خلوتش غیر'
+- 'lang': 'en'
+  'text': 'X-IV'
+'description': []
+'sher':
+- 'id': '011_076_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عروس زندگی در خلوتش غیر | کہ دارد در مقام نیستی سیر'
+  - 'lang': 'en'
+    'text': 'The bride of life, in him is not his own, | She comes out then from limbe’s lover line.'
+- 'id': '011_076_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گنہکاریست پیش از مرگ در قبر | نکیرش از کلیسا ، منکر از دیر'
+  - 'lang': 'en'
+    'text': 'Entombed before death like sinner in chain, | Torn among the angels of church and fane.'

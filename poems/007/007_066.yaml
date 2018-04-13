@@ -1,0 +1,24 @@
+---
+'id': '007_066'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مشو ای غنچۂ نورستہ دلگیر'
+- 'lang': 'en'
+  'text': '(66)'
+'description': []
+'sher':
+- 'id': '007_066_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مشو ای غنچۂ نورستہ دلگیر | ازین بستان سرا دیگر چہ خواہی'
+  - 'lang': 'en'
+    'text': 'Do not be broken-hearted, new-born bud. | In this fair garden what more can you want'
+- 'id': '007_066_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لب جو، بزم گل، مرغ چمن سیر | صبا ، شبنم ، نوای صبحگاہی'
+  - 'lang': 'en'
+    'text': 'Than a stream’s brink, flowers’ company, birds, dew, | Cool breezes, morning songsters’ chant?'

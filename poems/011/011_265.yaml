@@ -1,0 +1,24 @@
+---
+'id': '011_265'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFادب پیرایہ نادان و داناست"
+- 'lang': 'en'
+  'text': 'XV-VI'
+'description': []
+'sher':
+- 'id': '011_265_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ادب پیرایہ نادان و داناست | خوش  نکو از ادب خود را بیاراست'
+  - 'lang': 'en'
+    'text': 'Respect is the dress of a sage or fool, | A lucky man likes to make it a rule.'
+- 'id': '011_265_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندارم  ن مسلمان زادہ را دوست | کہ در دانش فزو دود رادب کاست'
+  - 'lang': 'en'
+    'text': 'With that Muslim child I keep no love ehains, | In wisdom who gains in respect who wanes.'

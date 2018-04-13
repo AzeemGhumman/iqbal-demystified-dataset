@@ -1,0 +1,28 @@
+---
+'id': '011_202'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFتو ای باد بیابان از عرب خیز"
+- 'lang': 'en'
+  'text': 'THE MESSAGE OF FAROOQ | (Hazrat Omar) | Chapter 6'
+'description': []
+'sher':
+- 'id': '011_202_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ای باد بیابان از عرب خیز | ز نیل مصریان موجی برانگیز'
+  - 'lang': 'en'
+    'text': 'O desert’s breeze rise from ‘Arab’s sky, | From Egypt’s Nile raise a new wave high.'
+- 'id': '011_202_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگو فاروق را پیغام فاروق | کہ خود در فقر و سلطانی بیامیز'
+  - 'lang': 'en'
+    'text': 'Give Farooq’s message to King Farooq’s race, | How content is mixed with the kingship’s face.'
+    'notes':
+    - 'phrase': 'face.'
+      'meaning': '        viz. Omar Farooq, the 2nd Caliph.'
+      'occurrence': !!int '1'

@@ -1,0 +1,28 @@
+---
+'id': '011_131'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFدرین عالم بہشت خرمی ہست"
+- 'lang': 'en'
+  'text': 'XI-LIII'
+'description': []
+'sher':
+- 'id': '011_131_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین عالم بہشت خرمی ہست | بشاخ او ز اشک من نمی ہست'
+  - 'lang': 'en'
+    'text': 'The world has charms like paradise true; | My tears give a moist to the shoots too.'
+- 'id': '011_131_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نصیب او ہنوز آن ہای و ہو نیست | کہ او در انتظار آدمی ہست'
+  - 'lang': 'en'
+    'text': 'She lacks to her part that cry and hue, | She’s looking for a man for guidance true.'
+    'notes':
+    - 'phrase': 'true.'
+      'meaning': '        Basic thought: The nation is not in a position to cause a revolution in this world. She is too weak for any important activity (for a cataclysmic change).'
+      'occurrence': !!int '1'

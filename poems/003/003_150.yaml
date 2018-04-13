@@ -1,0 +1,28 @@
+---
+'id': '003_150'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-03.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'انقلاب'
+- 'lang': 'en'
+  'text': 'REVOLUTION'
+'description': []
+'sher':
+- 'id': '003_150_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ ايشيا ميں نہ يورپ ميں سوز و ساز حيات | خودي کي موت ہے يہ ، اور وہ ضمير کي موت'
+  - 'lang': 'en'
+    'text': 'Death to man’s soul is Europe, death is Asia | To man’s will; neither feels the vital current.'
+  - 'lang': 'ro'
+    'text': 'Na Asia Mein Na Yorap Mein Souz-o-Saaz-e-Hayat | Khudi Ki Mout Hai Ye, Aur Woh Zameer Ki Mout'
+- 'id': '003_150_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلوں ميں ولولہ انقلاب ہے پيدا | !قريب آگئي شايد جہان پير کي موت'
+  - 'lang': 'en'
+    'text': 'In men’s hearts stir a revolution’s torrent; | Maybe our old world is nearing death.'
+  - 'lang': 'ro'
+    'text': 'Dilon Mein Walwala-e-Inqilab Hai Paida | Qareeb Aa Gyi Shaid Jahan-e-Peer Ki Mout!'

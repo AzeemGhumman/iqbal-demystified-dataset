@@ -1,0 +1,28 @@
+---
+'id': '011_369'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچو رخت خویش بر بستم ازین خاک"
+- 'lang': 'en'
+  'text': 'I-XXIV'
+'description': []
+'sher':
+- 'id': '011_369_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو رخت خویش بر بستم ازین خاک | ہمہ گفتند با ما  شنا بود'
+  - 'lang': 'en'
+    'text': 'When I packed my self from this dusty fuss, | All were saying he was so close to us.'
+- 'id': '011_369_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ولیکن کس ندانست این مسافر | چہ گفت و با کہ گفت و از کجا بود'
+  - 'lang': 'en'
+    'text': 'But no one ever knew this seeker’s aim, | I said to them what? from where I came.'
+    'notes':
+    - 'phrase': 'came.'
+      'meaning': '        The above quatrain (twin couplet) was written by Iqbal a few months before his death.'
+      'occurrence': !!int '1'

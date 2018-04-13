@@ -1,0 +1,37 @@
+---
+'id': '003_176'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/05-29.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'شام و فلسطين'
+- 'lang': 'en'
+  'text': 'SYRIA AND PALESTINE'
+'description': []
+'sher':
+- 'id': '003_176_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رندان فرانسيس کا ميخانہ سلامت | پر ہے م ے گلرنگ سے ہر شيشہ حلب کا'
+  - 'lang': 'en'
+    'text': 'Heaven’s blessing on those brazen Frenchmen shine! | Aleppo’s rare glass brims with their red wine.'
+  - 'lang': 'ro'
+    'text': 'Rindan-e-Faransis Ka Maikhana Salamat | Pur Hai Mai-e-Gulrang Se Har Sheesha Halab Ka'
+- 'id': '003_176_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہے خاک فلسطيں پہ يہودي کا اگر حق | ہسپانيہ پر حق نہيں کيوں اہل عرب کا'
+  - 'lang': 'en'
+    'text': '—If the Jew claims the soil of Palestine, | Why not the Arab Spain? Some new design'
+  - 'lang': 'ro'
+    'text': 'Hai Khak-e-Falasteen Pe Yahoodi Ka Agar Haq | Haspania Pe Haq Nahin Kyun Ahl-e-Arab Ka'
+- 'id': '003_176_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقصد ہے ملوکيت انگليس کا کچھ اور | قصہ نہيں نارنج کا يا شہد و رطب کا'
+  - 'lang': 'en'
+    'text': 'Must have inflamed our English potentates; | This is no story of oranges, honey or dates.'
+  - 'lang': 'ro'
+    'text': 'Maqsad Hai Mulookiat-e-Englees Ka Kuch Aur | Qissa Nahin Naranj Ka Ya Shehad-o-Rutab Ka'

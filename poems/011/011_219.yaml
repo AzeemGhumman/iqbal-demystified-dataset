@@ -1,0 +1,24 @@
+---
+'id': '011_219'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نگہدار  نچہ در  ب و گل تست'
+- 'lang': 'en'
+  'text': 'VII-IX'
+'description': []
+'sher':
+- 'id': '011_219_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگہدار  نچہ در  ب و گل تست | سرور و سوز و مستی حاصل تست'
+  - 'lang': 'en'
+    'text': 'So guard the nature of thy mud and dust, | A bliss, trance and burning for thee is must.'
+- 'id': '011_219_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تہی دیدم سبوی این و  ن را | می باقی بہ مینای دل تست'
+  - 'lang': 'en'
+    'text': 'I see empty bowls of the nation’s whole, | A lasting wine lasts in thy heart’s own bowl.'

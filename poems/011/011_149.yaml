@@ -1,0 +1,24 @@
+---
+'id': '011_149'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ہنوز این خاک دارای شرر ہست'
+- 'lang': 'en'
+  'text': 'XI-LXXI'
+'description': []
+'sher':
+- 'id': '011_149_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنوز این خاک دارای شرر ہست | ہنوز این سینہ را آہ سحر ہست'
+  - 'lang': 'en'
+    'text': 'With thy light alone I lit up my glance, | I make a peep through the sun and moon hence.'
+- 'id': '011_149_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تجلی ریز بر چشمم کہ بینی | باین پیری مرا تاب نظر ہست'
+  - 'lang': 'en'
+    'text': 'Saying I’m Muslim I shudder with shame, | I know the hard task of Lailah’s name.'

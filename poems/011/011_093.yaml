@@ -1,0 +1,24 @@
+---
+'id': '011_093'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمانم غریب ہر دیارم'
+- 'lang': 'en'
+  'text': 'XI-XV'
+'description': []
+'sher':
+- 'id': '011_093_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانم غریب ہر دیارم | کہ با این خاکدان کاری ندارم'
+  - 'lang': 'en'
+    'text': 'The Muslims are foreigns on every land, | Are looked on this earth like a useless band.'
+- 'id': '011_093_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ این بی طاقتی در پیچ و تابم | کہ من دیگر بہ غیر اللہ دچارم'
+  - 'lang': 'en'
+    'text': 'Though powerless still I twist and twine, | I face the godless in every line.'

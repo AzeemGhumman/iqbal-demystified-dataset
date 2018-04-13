@@ -1,0 +1,28 @@
+---
+'id': '002_169'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-51.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'فلسفي'
+- 'lang': 'en'
+  'text': 'THE PHILOSOPHER'
+'description': []
+'sher':
+- 'id': '002_169_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بلند بال تھا ، ليکن نہ تھا جسور و غيور | حکيم سر محبت سے بے نصيب رہا'
+  - 'lang': 'en'
+    'text': 'He could fly high but he wasn’t daring and passionate, | The sage remained a stranger to the secret of Love.'
+  - 'lang': 'ro'
+    'text': 'Buland Baal Tha,Lekin Na Tha Jasoor-o-Ghayyur | Hakeem Sirr-e-Mohabbat Se Be-Naseeb Raha'
+- 'id': '002_169_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پھرا فضاؤں ميں کرگس اگرچہ شاہيں وار | شکار زندہ کي لذت سے بے نصيب رہا'
+  - 'lang': 'en'
+    'text': 'The vulture roamed around the air like an eagle, | But could not get acquainted with the taste of a fresh prey.'
+  - 'lang': 'ro'
+    'text': 'Phira Fazaon Mein Kargas Agarche Shaheen-War | Shakar-e-Zinda Ki Lazzat Se Be-Naseeb Raha'

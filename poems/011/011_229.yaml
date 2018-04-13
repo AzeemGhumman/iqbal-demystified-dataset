@@ -1,0 +1,24 @@
+---
+'id': '011_229'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خوش ن قومی پریشان روزگاری'
+- 'lang': 'en'
+  'text': 'IX-V'
+'description': []
+'sher':
+- 'id': '011_229_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوش  ن قومی پریشان روزگاری | کہ زاید از ضمیرش پختہ کاری'
+  - 'lang': 'en'
+    'text': 'How lucky a nation whom wheel of fate, | Had caused a wonder through a leader great.'
+- 'id': '011_229_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمودش سری از اسرار غیب است | ز ھر گردی برون ناید سواری'
+  - 'lang': 'en'
+    'text': 'His birth a secret of a secret hand, | Who would change her fate in a manner grand.'

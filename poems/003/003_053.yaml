@@ -1,0 +1,39 @@
+---
+'id': '003_053'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-53.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFلاہور و کراچي"
+- 'lang': 'en'
+  'text': 'Lahore and Karachi'
+'description':
+- 'lang': 'en'
+  'text': 'It is said that Allama wrote this poem after meeting Gazi Ilm Deen Shaheed who was the killer of Mal''oon Rajpaal. The case was going to be led by Muhammad Ali Jinnah. When Iqbal met him,  he concluded that Ilm Deen is a true Ashiq e Rasool and want to get martyred. He wrote this poem and conveyed his mesaage that do not appeal to the British rule for his case and let him take the rank of Shahadat. He gave name of the poem as the incident took place in Lahore and all the Muslims had one opinion about him from Lahore to all the places of the world but for some sake, he gave it Lahore o Karachi. | {Contributed by user: Muhammad Bilal}'
+'sher':
+- 'id': '003_053_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نظر اللہ پہ رکھتا ہے مسلمان غيور | موت کيا شے ہے، فقط عالم معني کا سفر'
+  - 'lang': 'en'
+    'text': 'For Muslim true, death has no dread | To realm of souls, he straight is led.'
+  - 'lang': 'ro'
+    'text': 'Nazar Allah Pe Rakhta Hai Musalman-e-Ghayoor | Mout Kya Shay Hai,Faqt Alam-e-Maani Ka Safar'
+- 'id': '003_053_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ان شہيدوں کي ديت اہل کليسا سے نہ مانگ | قدر و قيمت ميں ہے خوں جن کا حرم سے بڑھ کر'
+  - 'lang': 'en'
+    'text': 'Donʹt ask the rulers of this land, To grant blood price for martyred band. | Their blood is precious and divine, Like precincts of the Holy Shrine.'
+  - 'lang': 'ro'
+    'text': 'Un Shaheedon Ki Diyat Ahle-e-Kalisa Se Na Mang | Qadar-o-Qeemat Mein Hai Khoon Jin Ka Haram Se Barh Kar'
+- 'id': '003_053_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آہ! اے مرد مسلماں تجھے کيا ياد نہيں | ''حرف ''لا تدع مع اللہ الھاً آخر'
+  - 'lang': 'en'
+    'text': 'Alas! the Muslim has forgot, The lesson that to him was taught. | He was ordained to cry to none, Save to God Unique and One.'
+  - 'lang': 'ro'
+    'text': 'Aah, Ae Mard-e-Musakman Tujhe Kya Yaad Nahin | Harf-e- ‘La Tad-Au Maa Allahi Ilahan Aakhar’'

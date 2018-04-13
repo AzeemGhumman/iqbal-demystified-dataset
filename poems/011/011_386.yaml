@@ -1,0 +1,24 @@
+---
+'id': '011_386'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بسوزد مومن از سوز و جودش'
+- 'lang': 'en'
+  'text': 'IV-VIII'
+'description': []
+'sher':
+- 'id': '011_386_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بسوزد مومن از سوز و جودش | گشود ہرچہ بستند از گٹودش'
+  - 'lang': 'en'
+    'text': 'A Momin burns thus in his being’s own heat, | All ties ope quick if he so wished to treat.'
+- 'id': '011_386_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جلال کبریائی در قیاش | جمال بندگی اندر سجودش'
+  - 'lang': 'en'
+    'text': 'His stay is an air of grandeur and grace, | A beauty of service at his bow’s place.'

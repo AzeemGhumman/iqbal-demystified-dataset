@@ -1,0 +1,24 @@
+---
+'id': '011_172'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خدا آن ملتی را سروری داد'
+- 'lang': 'en'
+  'text': 'I-XI'
+'description': []
+'sher':
+- 'id': '011_172_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا آن ملتی را سروری داد | کہ تقدیرش بدست خویش بنوشت'
+  - 'lang': 'en'
+    'text': 'God gave that nation a sway o’er lands, | Who shaped her fortunes with her hands.'
+- 'id': '011_172_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ آن ملت سروکاری ندارد | کہ دہقانش برای دیگران کشت'
+  - 'lang': 'en'
+    'text': 'With that nation he keeps no links. | Whose farmer tills for other’s drinks'

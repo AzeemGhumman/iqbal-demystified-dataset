@@ -1,0 +1,24 @@
+---
+'id': '011_033'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دگر قومی کہ ذکر لاالہش'
+- 'lang': 'en'
+  'text': 'VII-III'
+'description': []
+'sher':
+- 'id': '011_033_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگر قومی کہ ذکر لاالہش | برآرد از دل شب صبحگاہش'
+  - 'lang': 'en'
+    'text': 'A nation again whose hearts would adorn, | La Ilah’s jewels from midnight to morn.'
+- 'id': '011_033_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شناسد منزلش را آفتابی | کہ ریگ کہکشان روبد ز راہش'
+  - 'lang': 'en'
+    'text': 'Her place the sun knows on skies and lands, | And sweeps for her the milky way sands.'

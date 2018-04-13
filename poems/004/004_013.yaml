@@ -1,0 +1,28 @@
+---
+'id': '004_013'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/armaghan/audio/02-05.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خرد کي تنگ داماني سے فرياد'
+- 'lang': 'en'
+  'text': 'Rescue me please from wisdom’s narrowness'
+'description': []
+'sher':
+- 'id': '004_013_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد کي تنگ داماني سے فرياد | تجلي کي فراواني سے فرياد'
+  - 'lang': 'en'
+    'text': 'Rescue me please from wisdom’s narrowness | And from excessive light, its plentifulness.'
+  - 'lang': 'ro'
+    'text': 'Khirad Ki Tang Damaani Se Faryad | Tajali Ki Farawani Se Faryad'
+- 'id': '004_013_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گوارا ہے اسے نظارئہ غير | نگہ کي نا مسلماني سے فرياد'
+  - 'lang': 'en'
+    'text': 'It deigns to cast looks at others, that is, | The eye of Muslims’ shamelessness!'
+  - 'lang': 'ro'
+    'text': 'Gawara Hai Isse Nazara’ay Ghair | Nigah Ki Na-Musalmani Se Faryad !'

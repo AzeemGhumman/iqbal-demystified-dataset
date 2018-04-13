@@ -1,0 +1,24 @@
+---
+'id': '007_025'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'سحر در شاخسار بوستانے'
+- 'lang': 'en'
+  'text': '(25)'
+'description': []
+'sher':
+- 'id': '007_025_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سحر در شاخسار بوستانے | چہ خوش میگفت مرغ نغمہ خوانے'
+  - 'lang': 'en'
+    'text': 'One morning in a garden, passing by, | I heard a bird perched on a high branch cry:'
+- 'id': '007_025_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر آور ہر چہ اندر سینہ داری | سرودی ، نالہ ئی ، آہی فغانی'
+  - 'lang': 'en'
+    'text': '"Out with whatever you have inside you — | A song, a plaint, a dirge, a cry, a sigh."'

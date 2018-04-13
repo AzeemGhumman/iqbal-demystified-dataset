@@ -1,0 +1,35 @@
+---
+'id': '011_358'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنپنداری کہ مرغ صبح خوانم"
+- 'lang': 'en'
+  'text': 'I-XIII'
+'description': []
+'sher':
+- 'id': '011_358_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نپنداری کہ مرغ صبح خوانم | بجز  ہ و فغان چیزی ندانم'
+  - 'lang': 'en'
+    'text': 'I boast not to be a song bird of dawn, | I know not any thing save wails long drawn.'
+    'notes':
+    - 'phrase': 'bird'
+      'meaning': '        Song bird; (here it means) a poet.'
+      'occurrence': !!int '1'
+- 'id': '011_358_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدہ از دست دامانم کہ یابی | کلید باغ را در  شیانم'
+  - 'lang': 'en'
+    'text': 'Leave not as such what I gave to thee, | From my cottage take the Garden’s Key.'
+    'notes':
+    - 'phrase': 'cottage'
+      'meaning': '        Cottage; viz, nest.'
+      'occurrence': !!int '1'
+    - 'phrase': 'Key.'
+      'meaning': '        Garden''s Key; is an Iqbal''s symbol for an inspired communication.'
+      'occurrence': !!int '1'

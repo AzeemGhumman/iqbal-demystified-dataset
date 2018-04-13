@@ -1,0 +1,24 @@
+---
+'id': '011_170'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFبہ ترکان بستہ درہا را گشادند"
+- 'lang': 'en'
+  'text': 'I-IX'
+'description': []
+'sher':
+- 'id': '011_170_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ترکان بستہ درہا را گشادند | بنای مصریان محکم نھادند'
+  - 'lang': 'en'
+    'text': 'Now all the shut doors for Turks are ope. | The Egypt’s base would be firm I hope.'
+- 'id': '011_170_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ہم دستی بدامان خودی زن | کہ بی او ملک و دین کس را ندادند'
+  - 'lang': 'en'
+    'text': 'You give a rap too at the Ego’s door, | None knew without it his faith and land’s lore'

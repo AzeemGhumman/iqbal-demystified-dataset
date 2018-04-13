@@ -1,0 +1,24 @@
+---
+'id': '011_057'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ راغان لالہ رست از نو بہاران'
+- 'lang': 'en'
+  'text': 'VI-II'
+'description': []
+'sher':
+- 'id': '011_057_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ راغان لالہ رست از نو بہاران | بہ صحرا خیمہ گستردند یاران'
+  - 'lang': 'en'
+    'text': 'In pits grow poppies from vernal tide, | Then the friends pitch tents on desert’s side.'
+- 'id': '011_057_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا تنہا نشستن خوشتر آید | کنار آب جوی کوہساران'
+  - 'lang': 'en'
+    'text': 'It looks me nice to sit all alone, | When fountains flow in a mountain zone.'

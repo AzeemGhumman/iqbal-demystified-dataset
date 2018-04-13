@@ -1,0 +1,28 @@
+---
+'id': '002_164'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/05-46.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خانقاہ'
+- 'lang': 'en'
+  'text': 'MONASTERY'
+'description': []
+'sher':
+- 'id': '002_164_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رمز و ايما اس زمانے کے ليے موزوں نہيں | اور آتا بھي نہيں مجھ کو سخن سازي کا فن'
+  - 'lang': 'en'
+    'text': 'Talking in signs and symbol is not for this age, | And I know not the art of artful sniggers;'
+  - 'lang': 'ro'
+    'text': 'Ramz-o-Aema Iss Zamane Ke Liye Mouzun Nahin | Aur Ata Bhi Nahin Mujh Ko Sukhan Sazi Ka Fann'
+- 'id': '002_164_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '''قم باذن اللہ'' کہہ سکتے تھے جو ، رخصت ہوئے | !خانقاہوں ميں مجاور رہ گئے يا گورکن'
+  - 'lang': 'en'
+    'text': 'No more are those who said: Rise, in God’s name! | The ones alive are sweepers and grave‐diggers.'
+  - 'lang': 'ro'
+    'text': '‘Qum Bi-Iznillah’ Keh Sakte The Jo, Rukhsat Huwe | Khanqahon Mein Majawar Reh Gye Ya Gorkan!'

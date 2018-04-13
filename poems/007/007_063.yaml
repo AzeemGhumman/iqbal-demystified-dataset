@@ -1,0 +1,24 @@
+---
+'id': '007_063'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'اگر کردی نگہ بر پارۂ سنگ'
+- 'lang': 'en'
+  'text': '(63)'
+'description': []
+'sher':
+- 'id': '007_063_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر کردی نگہ بر پارۂ سنگ | ز فیض آرزوی تو گہر شد'
+  - 'lang': 'en'
+    'text': 'Because you cast a wistful eye on it, | A piece of stone became a jewel. Why,'
+- 'id': '007_063_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ زر خود را مسنج ای بندۂ زر | کہ زر از گوشۂ چشم تو زر شد'
+  - 'lang': 'en'
+    'text': 'O slave of gold, weigh yourself by mere gold? | For gold derives its value from your eye.'

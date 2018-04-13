@@ -1,0 +1,28 @@
+---
+'id': '002_097'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/bal/audio/04-21.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'محبت کا جنوں باقي نہيں ہے'
+- 'lang': 'en'
+  'text': 'Muslims have lost the passion of love they had'
+'description': []
+'sher':
+- 'id': '002_097_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'محبت کا جنوں باقي نہيں ہے | مسلمانوں ميں خوں باقي نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Muslims have lost the passion of love they had; | They are lily—livered, timid, and weak;'
+  - 'lang': 'ro'
+    'text': 'Mohabbat Ka Junoon Baqi Nahin Hai | Musalman Mein Khoon Baqi Nahin Hai'
+- 'id': '002_097_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صفيں کج ، دل پريشاں ، سجدہ بے ذوق | کہ جذب اندروں باقي نہيں ہے'
+  - 'lang': 'en'
+    'text': 'Their prayers are cold, unfelt, distracted rites; | They lack the inward fire of a burning faith.'
+  - 'lang': 'ro'
+    'text': 'Safeen Kaj, Dil Preshan, Sajda Be-Zauq | Ke Jazb-e-Androon Baqi Nahin Hai'

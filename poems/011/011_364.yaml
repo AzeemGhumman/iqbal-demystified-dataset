@@ -1,0 +1,24 @@
+---
+'id': '011_364'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFخرد بیگانہء ذوق یقین است"
+- 'lang': 'en'
+  'text': 'I-XIX'
+'description': []
+'sher':
+- 'id': '011_364_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد بیگانہء ذوق یقین است | قمار علم و حکمت بد نشین است'
+  - 'lang': 'en'
+    'text': 'The wisdom knows not the certitude eyes, | Its gamble of knowledge on vice path lies.'
+- 'id': '011_364_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دو صد بوحامد و رازی نیزرد | بنادانی کہ چشمش راہ بین است'
+  - 'lang': 'en'
+    'text': 'Hundred Razis, Ghazalis wont equalize, | To worth of a fool who holds seeing eye.'

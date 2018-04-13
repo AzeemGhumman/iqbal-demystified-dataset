@@ -1,0 +1,28 @@
+---
+'id': '011_141'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFچو رومی در حرم دادم اذان من"
+- 'lang': 'en'
+  'text': 'XI-LXIII'
+'description': []
+'sher':
+- 'id': '011_141_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو رومی در حرم دادم اذان من | ازو آموختم اسرار جان من'
+  - 'lang': 'en'
+    'text': 'Like Rumi I raised His call in Harem whole, | From whom I learnt secret knowledge of soul.'
+- 'id': '011_141_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ دور فتنۂ عصر کہن ، او | بہ دور فتنۂ عصر روان من'
+  - 'lang': 'en'
+    'text': 'He passed through the crises of his time, | I am going too through crisis and crime.'
+    'notes':
+    - 'phrase': 'crime.'
+      'meaning': '        The simple and literal translation of line 3 and 4 is given below: [An old time of crisis he had seen, Through this age of crisis I have been]'
+      'occurrence': !!int '1'

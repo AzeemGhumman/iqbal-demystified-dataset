@@ -1,0 +1,37 @@
+---
+'id': '003_134'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/04-30.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'سرود حرام'
+- 'lang': 'en'
+  'text': 'UNLAWFUL MUSIC'
+'description': []
+'sher':
+- 'id': '003_134_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ ميرے ذکر ميں ہے صوفيوں کا سوز و سرور | نہ ميرا فکر ہے پيمانہ ثواب و عذاب'
+  - 'lang': 'en'
+    'text': 'My remembrance lacks the warmth, And zeal that mystics oft attain: | My thought is not a scale at all, For deeds deserving need or pain.'
+  - 'lang': 'ro'
+    'text': 'Na Mere Zikr Mein Sufiyon Ka Souz-o-Suroor | Na Mera Fikr Hai Pemana-e-Sawab-o-Azab'
+- 'id': '003_134_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا کرے کہ اسے اتفاق ہو مجھ سے | فقيہ شہر کہ ہے محرم حديث و کتاب'
+  - 'lang': 'en'
+    'text': 'I wish that jurist of the town, Who knows the rules that Prophet taught | And is adept at Book revealed, To my own point of view be brought.'
+  - 'lang': 'ro'
+    'text': 'Khuda Kare Ke Usse Ittefaq Ho Mujh Se | Faqeeh-e-Shehr Ke Hai Mehram-e-Hadees-o-Kitab'
+- 'id': '003_134_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر نوا ميں ہے پوشيدہ موت کا پيغام | !حرام ميري نگاہوں ميں ناے و چنگ و رباب'
+  - 'lang': 'en'
+    'text': 'If in the music or its strains, The message of decease is hid | Such music of harp, reed and lute, In view of mine is quite forbid.'
+  - 'lang': 'ro'
+    'text': 'Agar Nawa Mein Hai Poshida Mout Ka Pegham | Haraam Meri Nigahon Mein Naye-o-Chang-o-Rubab!'

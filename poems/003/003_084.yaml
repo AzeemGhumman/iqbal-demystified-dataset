@@ -1,0 +1,37 @@
+---
+'id': '003_084'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/02-17.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'خوب و زشت'
+- 'lang': 'en'
+  'text': 'FOUL AND FAIR'
+'description': []
+'sher':
+- 'id': '003_084_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ستارگان فضاہائے نيلگوں کي طرح | تخيلات بھي ہيں تابع طلوع و غروب'
+  - 'lang': 'en'
+    'text': 'Just like the stars that shine in azure sky, | Thoughts have short span of life and soon they die.'
+  - 'lang': 'ro'
+    'text': 'Sitargan-e-Faza Haye Neelgoon Ki Tarah | Takhiyyulat Bhi Hain Taba-e-Tulu-o-Ghuroob'
+- 'id': '003_084_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہاں خودي کا بھي ہے صاحب فراز و نشيب | يہاں بھي معرکہ آرا ہے خوب سے ناخوب'
+  - 'lang': 'en'
+    'text': 'The realm of self has its ups and downs, | Even here, the Fair and Foul exchange their frowns.'
+  - 'lang': 'ro'
+    'text': 'Jahan Khudi Ka Bhi Hai Sahib-e-Faraz-o-Nashaib | Yahan Bhi Maarka Aara Hai Khoob Se Na-Khoob'
+- 'id': '003_084_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمود جس کي فراز خودي سے ہو ، وہ جميل | !جو ہو نشيب ميں پيدا ، قبيح و نامحبوب'
+  - 'lang': 'en'
+    'text': 'If self has reached the height, its acts are fine, | Debased, its deeds as good one canʹt define.'
+  - 'lang': 'ro'
+    'text': 'Namood Jis Faraz-e-Khudi Se Ho, Woh Jameel | Jo Ho Nashaib Mein Paida, Qabeeh-o-Na-Mehboob'

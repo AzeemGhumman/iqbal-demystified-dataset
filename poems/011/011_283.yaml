@@ -1,0 +1,28 @@
+---
+'id': '011_283'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFزمانہ فتنہ ہا  ورد و بگذشت"
+- 'lang': 'en'
+  'text': 'II-I'
+'description': []
+'sher':
+- 'id': '011_283_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زمانہ فتنہ ہا  ورد و بگذشت | خسان را در بغل پرورد و بگذشت'
+  - 'lang': 'en'
+    'text': 'With times came unrest which passed so quick, | It reared great satans and passed so quick.'
+- 'id': '011_283_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دو صد بغداد را چنگیزی او | چو گور تیرہ بختان کرد و بگذشت'
+  - 'lang': 'en'
+    'text': 'Many Baghdads were raped by tyrants greal, | It levelled their graves and passed like spate.'
+    'notes':
+    - 'phrase': 'spate.'
+      'meaning': '         By Ghenhis (gez) Khan,the Mangol conquerer of land from Black Sea to Pacific (1162 to 1227), pronounced in Persian (Changaiz Khan).'
+      'occurrence': !!int '1'

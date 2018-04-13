@@ -1,0 +1,32 @@
+---
+'id': '011_090'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFجبین را پیش غیر اللہ سودیم"
+- 'lang': 'en'
+  'text': 'XI-XII'
+'description': []
+'sher':
+- 'id': '011_090_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جبین را پیش غیر اللہ سودیم | چو گبران در حضور او سرودیم'
+  - 'lang': 'en'
+    'text': 'To others than God we touch our brows, | And sing like Guibers in round about rows.'
+    'notes':
+    - 'phrase': 'Guibers'
+      'meaning': '        Guibers; a fire worshipper, followers of Zoroaster, who was also a Prophet, most probably'
+      'occurrence': !!int '1'
+- 'id': '011_090_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ننالم از کسی می نالم از خویش | کہ ما شایان شان تو نبودیم'
+  - 'lang': 'en'
+    'text': 'I weep not on else, I weep on me, | We are not fit for honours of thee.'
+    'notes':
+    - 'phrase': 'me,'
+      'meaning': '        on myself.'
+      'occurrence': !!int '1'

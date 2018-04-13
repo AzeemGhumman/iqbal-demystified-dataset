@@ -1,0 +1,28 @@
+---
+'id': '011_189'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFز دوزخ واعظ کافر گری گفت"
+- 'lang': 'en'
+  'text': 'IV-VI'
+'description': []
+'sher':
+- 'id': '011_189_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز دوزخ واعظ کافر گری گفت | حدیثی خوشتر از وی کافری گفت'
+  - 'lang': 'en'
+    'text': 'On hell kafir-maker Mullah spoke, | On which a kafir in a nice way broke.'
+- 'id': '011_189_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’نداند  ن غلام احوال خود را | کہ دوزخ را مقام دیگری گفت‘‘'
+  - 'lang': 'en'
+    'text': 'That slave knows not where he would go? | Who is sending the rest in heirs long row.'
+    'notes':
+    - 'phrase': 'row.'
+      'meaning': '        As we say he broke out into curses, (on which a Kafir gave him a poke), is the vulgar sense of it.'
+      'occurrence': !!int '1'

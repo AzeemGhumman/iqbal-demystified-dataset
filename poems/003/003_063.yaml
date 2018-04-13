@@ -1,0 +1,37 @@
+---
+'id': '003_063'
+'audioUrl': 'http://www.allamaiqbal.com/works/poetry/urdu/zarb/audio/01-63.mp3'
+'heading':
+- 'lang': 'ur'
+  'text': 'لاوالا'
+- 'lang': 'en'
+  'text': 'NEGATION AND AFFIRMATION'
+'description': []
+'sher':
+- 'id': '003_063_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فضائے نور ميں کرتا نہ شاخ و برگ و بر پيدا | سفر خاکي شبستاں سے نہ کر سکتا اگر دانہ'
+  - 'lang': 'en'
+    'text': 'It could have never borne fruit and foliage in the space lit up with light, | If from the dark recesses the seed had not moved on:'
+  - 'lang': 'ro'
+    'text': 'Fazaye Noor Mein Karta Na Shakh-o-Barg-o-Bar Paida | Safar Khaki Shabistan Se Na Kar Sakta Agar Dana'
+- 'id': '003_063_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '''نہاد زندگي ميں ابتدا ''لا'' ، انتہا ''الا | پيام موت ہے جب ''لا ہوا الا'' سے بيگانہ'
+  - 'lang': 'en'
+    'text': 'In life we begin with no and end with yes; | When no is divorced from yes it becomes destructive.'
+  - 'lang': 'ro'
+    'text': 'Nihad-e-Zindagi Mein Ibtida ‘LA’ , Intiha ‘ILLA’ | Payam-e-Mout Hai Jab ‘LA’ Huwa ‘ILLA’ Se Begana'
+- 'id': '003_063_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وہ ملت روح جس کي ''لا ''سے آگے بڑھ نہيں سکتي | يقيں جانو، ہوا لبريز اس ملت کا پيمانہ'
+  - 'lang': 'en'
+    'text': 'A nation which does not pass from no to yes | Is undoubtedly on the brink of death.'
+  - 'lang': 'ro'
+    'text': 'Woh Millat Rooh Jis Ki ‘LA’ Se Agay Barh Nahin Sakti | Yaqeen Jano, Huwa Labraiz  Uss Millat Ka Pemana'

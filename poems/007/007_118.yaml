@@ -1,0 +1,24 @@
+---
+'id': '007_118'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مرنج از برہمن ای واعظ شہر'
+- 'lang': 'en'
+  'text': '(118)'
+'description': []
+'sher':
+- 'id': '007_118_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرنج از برہمن ای واعظ شہر | گر از ما سجدہ ئی پیش بتان خواست'
+  - 'lang': 'en'
+    'text': 'O preacher if the Brahmin asks that we | Bow down to idols, then why Should you be'
+- 'id': '007_118_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدای ما کہ خود صورتگری کرد | بتی را سجدہ ئی از قدسیان خواست'
+  - 'lang': 'en'
+    'text': 'Displeased? The greatest idol-maker, God. | Bade angels how down to His idol, man.'

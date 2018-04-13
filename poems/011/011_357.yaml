@@ -1,0 +1,24 @@
+---
+'id': '011_357'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ندانم نکتہ ہای علم و فن را'
+- 'lang': 'en'
+  'text': 'I-XII'
+'description': []
+'sher':
+- 'id': '011_357_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندانم نکتہ ہای علم و فن را | مقامی دیگرے دادم سخن را'
+  - 'lang': 'en'
+    'text': 'The science or art points I claim not to wield, | I gave a new style to poesy’s field.'
+- 'id': '011_357_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'میان کاروان سوز و سرورم | سبک پی کرد پیران کہن را'
+  - 'lang': 'en'
+    'text': 'In caravans see, my flame and sweet pace, | I gave the old riders a taste for a race.'

@@ -1,0 +1,24 @@
+---
+'id': '011_070'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نماند آن تاب و تب در خون نابش'
+- 'lang': 'en'
+  'text': 'IX-VII'
+'description': []
+'sher':
+- 'id': '011_070_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نماند آن تاب و تب در خون نابش | نروید لالہ از کشت خرابش'
+  - 'lang': 'en'
+    'text': 'In his pure blood shines not that vigour and heat, | In his ruined land grows no poppies sweet.'
+- 'id': '011_070_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نیام او تہی چون کیسئہ او | بہ طاق خانہ ویران کتابش'
+  - 'lang': 'en'
+    'text': 'He emptied his pocket and sheath likewise, | In a ruined arch thus his Book still lies.'

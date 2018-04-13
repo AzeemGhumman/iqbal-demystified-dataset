@@ -1,0 +1,24 @@
+---
+'id': '007_158'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'رگ مسلم ز سوز من تپید است'
+- 'lang': 'en'
+  'text': '(158)'
+'description': []
+'sher':
+- 'id': '007_158_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رگ مسلم ز سوز من تپید است | ز چشمش اشک بیتابم چکید است'
+  - 'lang': 'en'
+    'text': 'My fervour has warmed up the Muslim’s blood. | His eyes have shed my tears by empathy.'
+- 'id': '007_158_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنوز از محشر جانم نداند | جہان را با نگاہ من ندید است'
+  - 'lang': 'en'
+    'text': 'But my soul’s tumult he still does not know: | He does not see the world yet with my eye.'

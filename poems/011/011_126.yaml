@@ -1,0 +1,34 @@
+---
+'id': '011_126'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': "\uFEFFنگیرد لالہ و گل رنگ و بویم"
+- 'lang': 'en'
+  'text': 'XI-XLVIII'
+'description': []
+'sher':
+- 'id': '011_126_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگیرد لالہ و گل رنگ و بویم | درون سینہ ام مرد آرزویم'
+  - 'lang': 'en'
+    'text': 'The ‘rose and poppy’ lack my ‘scent and shade. | All yearnings have died in a bosom fade.'
+    'notes':
+    - 'phrase': 'poppy’'
+      'meaning': '         The ''rose'' and ''poppy'' (Gul-o-Lala) is an allusion, to members of his race.'
+      'occurrence': !!int '1'
+    - 'phrase': 'shade.'
+      'meaning': '        ''Scent and shade'', here it means my message. In his last days this thought was always pinching his heart that his nation treats him only as a poet. As such she is paying no attention to his message. As a last resort this lover of the Prophet is making this appeal to the Holy Prophet, which no doubt is the Qibla and Kaa''ba of each Muslim, against a background of the Political affairs between 1927-37.'
+      'occurrence': !!int '1'
+    - 'phrase': 'fade.'
+      'meaning': '        viz, faded'
+      'occurrence': !!int '1'
+- 'id': '011_126_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غم پنہان بحرف اندر نگجند | اگر گنجد چہ گویم با کہ گویم'
+  - 'lang': 'en'
+    'text': 'In words, the grief hidden cannot contain, | If so, what to say, to whom to explain?'

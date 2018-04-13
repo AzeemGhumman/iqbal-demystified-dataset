@@ -1,0 +1,24 @@
+---
+'id': '011_089'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مسلمانان بہ خویشان در ستیزند'
+- 'lang': 'en'
+  'text': 'XI-XI'
+'description': []
+'sher':
+- 'id': '011_089_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمانان بہ خویشان در ستیزند | بجز نقش دوئے بر دل نریزند'
+  - 'lang': 'en'
+    'text': 'The Moslems are fighting with brothers own, | Save seeds of rupture nothing they have sown.'
+- 'id': '011_089_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بنالند از کسی خشتی بگیرد | از آن مسجد کہ خود از وی گریزند'
+  - 'lang': 'en'
+    'text': 'If you take a brick they raise cry and hue, | A mosque from which they are fleeing all through.'
