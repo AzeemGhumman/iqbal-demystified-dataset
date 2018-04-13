@@ -22,7 +22,7 @@ This repository contains the following books by [Dr. Allama Iqbal](https://en.wi
 ## Source
 Major source of the data is [Iqbal Academy Pakistan](http://iap.gov.pk/) website.
 
-Other than that, hundreds of _Iqbal Demystified Android App Users_ have reported typos in the text.
+Other than that, hundreds of _Iqbal Demystified Android App Users_ have helped us by reporting typos that we fixed in the dataset.
 
 A lot of poem introductions are also contributed by our App users.
 
