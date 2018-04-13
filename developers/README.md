@@ -178,4 +178,4 @@ First arg: Input folder
 Second arg: Output folder
 
 The script will fetch all text files in the input folder.
-After that, it will parse the text contents, generate a YAML object and save that object in the output folder. As the script name suggesets, **convert-list-text-to-yaml.py** converts the lists to YAML and **convert-poem-text-to-yaml.py** converts the poems to YAML.
+After that, it will parse the text contents, generate a YAML object and save that object in the output folder. As the script name suggests, **convert-list-text-to-yaml.py** converts the lists to YAML and **convert-poem-text-to-yaml.py** converts the poems to YAML.
