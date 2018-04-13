@@ -162,7 +162,7 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 | meaning | string |
 | occurrence | integer |
 
-# Text Structure (Deprecated)
+# Text Files (Deprecated)
 
 When I started collecting data, I used a custom format to store the contents in text file. After some time, I realized that an approach like this can work for simple projects, but if I want to move data around, I have to implement special parsers for every platform that needs to extract the contents of these files. We have ported all files to **YAML**. Almost every language has a YAML parser implemented which we can use to extract the contents.
 
