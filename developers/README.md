@@ -10,7 +10,7 @@ There are 3 types of YAML files
 
 
 ###  List Of Lists
-This YAML file contains the lists of all the lists present in the database. There is an ID associated with each List. To get the contents of a specific lists, the user can query the server using the List ID
+This YAML file contains the lists of all the lists present in the dataset. There is an ID associated with each List. To get the contents of a specific list, the user can query from the dataset using the List ID.
 
 | Field Name | Type | Description
 | ------ | ------ | ------ |
@@ -35,7 +35,8 @@ lists:
 ```
 
 ### List
-This YAML file contains the contents of a list. A list is further divided into sections. Each section has one or more poems. Each poem has a Poem ID associated with it. To get the contents of aq specific poem, the user can query the server using the Poem ID
+This YAML file contains the contents of a list. A list is further divided into sections. Each section has one or more poems. Each poem has a Poem ID associated with it. To get the contents of aq specific poem, the user can query from the dataset using the Poem ID.
+
 | Field Name | Type | Description
 | ------ | ------ | ------ |
 | name | List<[ListNameObject](#listnameobject)> |
@@ -72,6 +73,7 @@ sections:
 
 ### Poem
 This YAML file contains the contents of a poem. A poem is divided into shers.
+
 | Field Name | Type | Description
 | ------ | ------ | ------ |
 | id | string |
