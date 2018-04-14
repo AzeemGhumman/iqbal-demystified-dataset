@@ -76,7 +76,7 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 | Field Name | Type | Description
 | ------ | ------ | ------ |
 | id | string | Poem ID
-| audioUrl | string | Audio URL when the mp3 file is hosted. Currently, we support only one audio per poem 
+| audioUrl | string | Audio URL where the mp3 file is hosted. Currently, we support only one audio per poem 
 | heading | List<[HeadingObject](#headingobject)> |
 | description | List<[DescriptionObject](#descriptionobject)> |
 | sher | List<[SherObject](#sherobject)> |
