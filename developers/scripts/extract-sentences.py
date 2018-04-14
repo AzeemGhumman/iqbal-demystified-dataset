@@ -19,9 +19,10 @@ print (str(len(listInputFiles)) + " input files found..")
 
 urduOutputContents = []
 romanOutputContents = []
+englishOutputContents = []
 
 
-for inputFilename in listInputFiles[0:2]:
+for inputFilename in listInputFiles:
     with open(inputFilename, 'r') as inputFile:
       fileContents = inputFile.read()
 
@@ -36,12 +37,20 @@ for inputFilename in listInputFiles[0:2]:
           romanSher = [i['text'] for i in sher['sherContent'] if i['lang'] == 'ro'][0]
           romanLines = [line.strip() for line in romanSher.split("|")]
 
+          englishSher = [i['text'] for i in sher['sherContent'] if i['lang'] == 'en'][0]
+          englishLines = [line.strip() for line in englishSher.split("|")]
+
           if len(urduLines) is not len(romanLines):
-            print ("Error: lines mismatch")
+            print ("Error: Roman Lines mismatch")
+
+          if len(urduLines) is not len(englishLines):
+            print ("Error: English lines mismatch")
+
 
           for index in range(len(urduLines)):
             urduOutputContents.append(urduLines[index])
             romanOutputContents.append(romanLines[index])
+            englishOutputContents.append(englishLines[index])
 
 # Create output folder if it does not exist
 absOutputFolderPath = os.path.join(os.path.join(os.getcwd(), outputFolder))
@@ -52,9 +61,13 @@ if not os.path.exists(absOutputFolderPath):
 
 urduOutputFilePath = os.path.join(absOutputFolderPath, "complete-urdu-books.ur")
 romanOutputFilePath = os.path.join(absOutputFolderPath, "complete-urdu-books.ro")
+englishOutputFilePath = os.path.join(absOutputFolderPath, "complete-urdu-books.en")
 
 with open(urduOutputFilePath, 'w') as outputFile:
     outputFile.write("\n".join(urduOutputContents))
 
 with open(romanOutputFilePath, 'w') as outputFile:
     outputFile.write("\n".join(romanOutputContents))
+
+with open(englishOutputFilePath, 'w') as outputFile:
+    outputFile.write("\n".join(englishOutputContents))
