@@ -4,4 +4,208 @@ name:
   text: رموزِ بیخودی
 - lang: en
   text: Rumuz-e-Bekhudi
-sections: []
+sections:
+- sectionName:
+  - lang: ur
+    text: پیشکش بحضور ملت اسلامیہ
+  - lang: en
+    text: DEDICATION TO THE MUSLIM COMMUNITY
+- poems:
+  - id: '006_001'
+    poemName:
+    - lang: ur
+      text: پیشکش بحضور ملت اسلامیہ
+    - lang: en
+      text: Dedication to the Muslim Community
+  - id: '006_002'
+    poemName:
+    - lang: ur
+      text: تمہید- در معنی ربط فرد و ملت
+    - lang: en
+      text: 'Prelude: Of the bond between individual and community'
+  - id: '006_003'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ ملت از اختلاط افراد پیدا میشود و تکمیل تربیت او از نبوت است
+    - lang: en
+      text: That the community is made up of the mingling of individuals, and owes the perfecting of its education to prophethood
+- sectionName:
+  - lang: ur
+    text: ارکان اساسی ملیہ اسلامیہ
+  - lang: en
+    text: THE PILLARS OF ISLAM
+- poems:
+  - id: '006_004'
+    poemName:
+    - lang: ur
+      text: 'رکن اول: توحید'
+    - lang: en
+      text: 'First pillar: the Unity of God'
+  - id: '006_005'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ یأس و حزن و خوف ام الخبائث است و قاطع حیات و توحید ازالۂ این امراض خبیثہ می کند
+    - lang: en
+      text: That despair, grief and fear are the mother of abominations, destroying life; and that belief in the Unity of God puts an end to those foul diseases
+  - id: '006_006'
+    poemName:
+    - lang: ur
+      text: محاورۂ تیر و شمشیر
+    - lang: en
+      text: Conversation of the arrow and the sword
+  - id: '006_007'
+    poemName:
+    - lang: ur
+      text: حکایت شیر و شہنشاہ عالمگیررحمة اﷲ علیہ
+    - lang: en
+      text: Emperor Alamgir and the tiger
+  - id: 006_008
+    poemName:
+    - lang: ur
+      text: 'رکن دوم: رسالت'
+    - lang: en
+      text: 'Second pillar: Apostleship'
+  - id: 006_009
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ مقصود رسالت محمدیہ تشکیل و تأسیس حریت و مساوات و اخوت بنی نوع آدم است
+    - lang: en
+      text: That the purpose of Muhammad’s mission was to found Freedom, Equality and Brotherhood among all mankind
+  - id: '006_010'
+    poemName:
+    - lang: ur
+      text: حکایت بوعبید و جابان در معنی اخوت اسلامیہ
+    - lang: en
+      text: The Story of Bu Ubaid and Jaban, in illustration of Muslim Brotherhood
+  - id: '006_011'
+    poemName:
+    - lang: ur
+      text: حکایت سلطان مراد و معمار در معنی مساوات اسلامیہ
+    - lang: en
+      text: The story of Sultan Murad and the architect, in illustration of Muslim Equality
+  - id: '006_012'
+    poemName:
+    - lang: ur
+      text: در معنی حریت اسلامیہ و سر حادثۂ کربلا
+    - lang: en
+      text: Concerning Muslim Freedom, and the secret of the Tragedy of Kerbala
+  - id: '006_013'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ چون ملت محمدیہ مؤسس بر توحید و رسالت است پس نہایت مکانی ندارد
+    - lang: en
+      text: That since the Muhammadan Community is founded upon belief in one god and apostleship, therefore it is not bounded by space
+  - id: '006_014'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ وطن اساس ملت نیست
+    - lang: en
+      text: That the country is not the foundation of the community
+  - id: '006_015'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ ملت محمدیہ نہایت زمانی ہم ندارد، کہ دوام این ملت شریفہ موعود است
+    - lang: en
+      text: That the Muhammadan Community is also unbounded in time, since the survival of this noble community has been divinely promised
+  - id: '006_016'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ نظام ملت غیر از آئین صورت نبندد و آئین ملت محمدیہ قرآن است
+    - lang: en
+      text: That the organization of the community is only possible though law, and that the law of the Muhammadan Community is the Quran
+  - id: '006_017'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ در زمانہ انحطاط تقلید از اجتہاد اولی تر است
+    - lang: en
+      text: That in times of decadence strict conformity is better than free speculation
+  - id: 006_018
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ پختگی سیرت ملیہ از اتباع آئین الہیہ است
+    - lang: en
+      text: That maturity of communal life derives from following the divine law
+  - id: 006_019
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ حسن سیرت ملیہ از تأدب بہ آداب محمدیہ است
+    - lang: en
+      text: That a good communal character derives from discipline according to the manners of the Prophet
+  - id: '006_020'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ حیات ملیہ مرکز محسوس میخواہد و مرکز ملت اسلامیہ بیت الحرام است
+    - lang: en
+      text: That the life of the community requires a visible focus, and that the focus of the Islamic community is Makkah’s sacred house
+  - id: '006_021'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ جمعیت حقیقی از محکم گرفتن نصب العین ملیہ است و نصب العین امت محمدیہ حفظ و نشر توحید است
+    - lang: en
+      text: That true solidarity consists in adopting a fixed communal objective, and that the objective of the Muhammadan community is the preservation and propagation of Unitarianism
+  - id: '006_022'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ توسیع حیات ملیہ از تسخیر قوای نظام عالم است
+    - lang: en
+      text: That the expansion of communal life depends upon controlling the forces of world order
+  - id: '006_023'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ کمال حیات ملیہ این است کہ ملت مثل فرد احساس خودی پیدا کند و تولید و تکمیل این احساس از ضبط روایات ملیہ ممکن گردد
+    - lang: en
+      text: That the perfection of communal life is attained when the community, like the individual, discovers the sensation of self; and that the propagation and perfecting of this sensation can be realized through guarding the communal traditions
+  - id: '006_024'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ بقای نوع از امومت است و حفظ و احترام امومت اسلام است
+    - lang: en
+      text: That the continuance of the species derives from motherhood, and that the preservation and honouring of motherhood is the foundation of Islam
+  - id: '006_025'
+    poemName:
+    - lang: ur
+      text: در معنی اینکہ سیدة النساء فاطمة الزہراء اسوہ کاملہ ایست برای نساء اسلام
+    - lang: en
+      text: That the Lady Fatima is the perfect pattern of Muslim womanhood
+  - id: '006_026'
+    poemName:
+    - lang: ur
+      text: خطاب بہ مخدرات اسلام
+    - lang: en
+      text: Address to the veiled ladies of Islam
+- sectionName:
+  - lang: ur
+    text: خلاصۂ مطالب مثنوی در تفسیر سورۂ اخلاص
+  - lang: en
+    text: SUMMARY OF THE PURPORT OF THE POEM
+- poems:
+  - id: '006_027'
+    poemName:
+    - lang: ur
+      text: قل ہواللہ احد
+    - lang: en
+      text: '“Say: He is God, the One”'
+  - id: 006_028
+    poemName:
+    - lang: ur
+      text: اﷲالصمد
+    - lang: en
+      text: '"God, the Absolute."'
+  - id: 006_029
+    poemName:
+    - lang: ur
+      text: لم یلد ولم یولد
+    - lang: en
+      text: '"He begets not, nor was He begotten."'
+  - id: '006_030'
+    poemName:
+    - lang: ur
+      text: ولم یکن لہ‘ کفواً احد
+    - lang: en
+      text: '"And there is nothing comparable to Him."'
+  - id: '006_031'
+    poemName:
+    - lang: ur
+      text: عرض حال مصنف بحضور رحمة للعالمین
+    - lang: en
+      text: The author’s memorial to him who is a mercy to all living beings
