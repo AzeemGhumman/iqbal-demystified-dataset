@@ -1,0 +1,165 @@
+---
+'id': '006_005'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در معنی اینکہ یأس و حزن و خوف ام الخبائث است و قاطع حیات و توحید ازالۂ این امراض خبیثہ می کند'
+- 'lang': 'en'
+  'text': 'That despair, grief and fear are the mother of abominations, destroying life; and that belief in the Unity of God puts an end to those foul diseases'
+'description': []
+'sher':
+- 'id': '006_005_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرگ را سامان ز قطع آرزوست | زندگانی محکم از لاتقنطوا ست'
+- 'id': '006_005_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا امید از آرزوی پیہم است | نا امیدی زندگانی را سم است'
+- 'id': '006_005_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نا امیدی ہمچو گور افشاردت | گرچہ الوندی ز پا می آردت'
+- 'id': '006_005_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ناتوانی بندہ ی احسان او | نامرادی بستہ ی دامان او'
+- 'id': '006_005_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندگی را یأس خواب آور بود | این دلیل سستی عنصر بود'
+- 'id': '006_005_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چشم جانرا سرمہ اش اعمی کند | روز روشن را شب یلدا کند'
+- 'id': '006_005_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از دمش میرد قوای زندگی | خشک گردد چشمہ ہای زندگی'
+- 'id': '006_005_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خفتہ با غم در تہ یک چادر است | غم رگ جان را مثال نشتر است'
+- 'id': '006_005_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای کہ در زندان غم باشی اسیر | از نبی تعلیم لاتحزن بگیر'
+- 'id': '006_005_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این سبق صدیق را صدیق کرد | سر خوش از پیمانہ ی تحقیق کرد'
+- 'id': '006_005_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از رضا مسلم مثال کوکب است | در رہ ہستی تبسم بر لب است'
+- 'id': '006_005_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گر خدا داری ز غم آزاد شو | از خیال بیش و کم آزاد شو'
+- 'id': '006_005_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوت ایمان حیات افزایدت | ورد ’’لا خوف علیہم‘‘ بایدت'
+- 'id': '006_005_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون کلیمی سوی فرعونی رود | قلب او از لاتخف محکم شود'
+- 'id': '006_005_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیم غیر اللہ عمل را دشمن است | کاروان زندگی را رہزن است'
+- 'id': '006_005_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عزم محکم ممکنات اندیش ازو | ھمت عالی تأمل کیش ازو'
+- 'id': '006_005_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خم او چون در گلت خود را نشاند | زندگی از خود نمائی باز ماند'
+- 'id': '006_005_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت او تنگ تاب و سازگار | با دل لرزان و دست رعشہ دار'
+- 'id': '006_005_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دزدد از پا طاقت رفتار را | می رباید از دماغ افکار را'
+- 'id': '006_005_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دشمنت ترسان اگر بیند ترا | از خیابانت چو گل چیند ترا'
+- 'id': '006_005_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ضرب تیغ او قوی تر می فتد | ہم نگاہش مثل خنجر می فتد'
+- 'id': '006_005_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیم چون بند است اندر پای ما | ورنہ صد سیل است در دریای ما'
+- 'id': '006_005_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر نمے آید اگر آہنگ تو | نرم از بیم است تار چنگ تو'
+- 'id': '006_005_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گوشتابش دہ کہ گردد نغمہ خیز | بر فلک از نالہ آرد رستخیز'
+- 'id': '006_005_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیم ، جاسوسی است از اقلیم مرگ | اندرونش تیرہ مثل میم مرگ'
+- 'id': '006_005_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چشم او برھمزن کار حیات | گوش او بزگیر اخبار حیات'
+- 'id': '006_005_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر شر پنہان کہ اندر قلب تست | اصل او بیم است اگر بینی درست'
+- 'id': '006_005_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لابہ و مکاری و کین و دروغ | این ہمہ از خوف می گیرد فروغ'
+- 'id': '006_005_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پردہ ی زور و ریا پیراہنش | فتنہ را آغوش مادر دامنش'
+- 'id': '006_005_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زانکہ از ھمت نباشد استوار | می شود خوشنود با ناسازگار'
+- 'id': '006_005_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر کہ رمز مصطفی فہمیدہ است | شرک را در خوف مضمر دیدہ است'

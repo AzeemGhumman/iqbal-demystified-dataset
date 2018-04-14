@@ -1,0 +1,265 @@
+---
+'id': '006_021'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در معنی اینکہ جمعیت حقیقی از محکم گرفتن نصب العین ملیہ است و نصب العین امت محمدیہ حفظ و نشر توحید است'
+- 'lang': 'en'
+  'text': 'That true solidarity consists in adopting a fixed communal objective, and that the objective of the Muhammadan community is the preservation and propagation of Unitarianism'
+'description': []
+'sher':
+- 'id': '006_021_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'با تو آموزم زبان کائنات | حرف و الفاظ است اعمال حیات'
+- 'id': '006_021_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون ز ربط مدعائی بستہ شد | زندگانی مطلع برجستہ شد'
+- 'id': '006_021_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدعا گردد اگر مہمیز ما | ہمچو صرصر می رود شبدیز ما'
+- 'id': '006_021_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدعا راز بقای زندگی | جمع سیماب قوای زندگی'
+- 'id': '006_021_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون حیات از مقصدی محرم شود | ضابط اسباب این عالم شود'
+- 'id': '006_021_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خویشتن را تابع مقصد کند | بہر او چیند گزیند رد کند'
+- 'id': '006_021_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نا خدا را یم روی از ساحل است | اختیار جادہ ہا از منزل است'
+- 'id': '006_021_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر دل پروانہ داغ از ذوق سوز | طوف او گرد چراغ از ذوق سوز'
+- 'id': '006_021_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قیس اگر آوارہ در صحراستی | مدعایش محمل لیلاستی'
+- 'id': '006_021_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا بود شہر آشنا لیلای ما | بر نمی خیزد بہ صحرا پای ما'
+- 'id': '006_021_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمچو جان مقصود پنہان در عمل | کیف و کم از وی پذیرد ہر عمل'
+- 'id': '006_021_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گردش خونی کہ در رگہای ماست | تیز از سعی حصول مدعاست'
+- 'id': '006_021_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از تف او خویش را سوزد حیات | آتشی چون لالہ اندوزد حیات'
+- 'id': '006_021_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدعا مضراب ساز ہمت است | مرکزی کو جاذب ہر قوت است'
+- 'id': '006_021_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دست و پای قوم را جنباند او | یک نظر صد چشم را گرداند او'
+- 'id': '006_021_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شاہد مقصود را دیوانہ شو | طائف این شمع چون پروانہ شو'
+- 'id': '006_021_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوش نوائی نغمہ ساز قم زد است | زخمۂ معنی بر ابریشم زد است'
+- 'id': '006_021_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا کشد خار از کف پا رہ سپر | می شود پوشیدہ محمل از نظر'
+- 'id': '006_021_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گر بقدر یک نفس غافل شدی | دور صد فرسنگ از منزل شدی'
+- 'id': '006_021_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این کہن پیکر کہ عالم نام اوست | ز امتزاج امہات اندام اوست'
+- 'id': '006_021_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صد نیستان کاشت تا یک نالہ رست | صد چمن خون کرد تا یک لالہ رست'
+- 'id': '006_021_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نقشہا آورد و افکند و شکست | تا بہ لوح زندگی نقش تو بست'
+- 'id': '006_021_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نالہ ہا در کشت جان کاریدہ است | تا نوای یک اذان بالیدہ است'
+- 'id': '006_021_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مدتی پیکار با احرار داشت | با خداوندان باطل کار داشت'
+- 'id': '006_021_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تخم ایمان آخر اندر گل نشاند | با زبانت کلمۂ توحید خواند'
+- 'id': '006_021_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نقطۂ ادوار عالم لاالہ | انتھای کار عالم لاالہ'
+- 'id': '006_021_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چرخ را از زور او گردندگی | مہر را پایندگی رخشندگی'
+- 'id': '006_021_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بحر گوھر آفرید از تاب او | موج در دریا تپید از تاب او'
+- 'id': '006_021_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خاک از موج نسیمش گل شود | مشت پر از سوز او بلبل شود'
+- 'id': '006_021_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شعلہ در رگہای تاک از سوز او | خاک مینا تابناک از سوز او'
+- 'id': '006_021_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نغمہ ہایش خفتہ در ساز وجود | جویدت ای زخمہ ور ساز وجود'
+- 'id': '006_021_032'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صد نوا داری چو خون در تن روان | خیز و مضرابی بتار او رسان'
+- 'id': '006_021_033'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زانکہ در تکبیر راز بود تست | حفظ و نشر لاالہ مقصود تست'
+- 'id': '006_021_034'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا نخیزد بانگ حق از عالمی | گر مسلمانی نیاسائی دمی'
+- 'id': '006_021_035'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می ندانی آیہ ام الکتاب | امت عادل ترا آمد خطاب'
+- 'id': '006_021_036'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آب و تاب چہرہ ایام تو | در جہان شاہد علی الاقوام تو'
+- 'id': '006_021_037'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نکتہ سنجان را صلای عام دہ | از علوم امئی پیغام دہ'
+- 'id': '006_021_038'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'امیی پاک از ہوی گفتار او | شرح رمز ماغوی گفتار او'
+- 'id': '006_021_039'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا بدست آورد نبض کائنات | وانمود اسرار تقویم حیات'
+- 'id': '006_021_040'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از قبای لالہ ہای این چمن | پاک شست آلودگیہای کہن'
+- 'id': '006_021_041'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در جہان وابستۂ دینش حیات | نیست ممکن جز بہ آئینش حیات'
+- 'id': '006_021_042'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای کہ میداری کتابش در بغل | تیز تر نہ پا بہ میدان عمل'
+- 'id': '006_021_043'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فکر انسان بت پرستی بت گری | ھر زمان در جستجوی پیکری'
+- 'id': '006_021_044'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'باز طرح آزری انداخت است | تازہ تر پروردگاری ساخت است'
+- 'id': '006_021_045'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کاید از خون ریختن اندر طرب | نام او رنگ است و ہم ملک و نسب'
+- 'id': '006_021_046'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آدمیت کشتہ شد چون گوسفند | پیش پای این بت ناارجمند'
+- 'id': '006_021_047'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای کہ خوردستی ز مینای خلیل | گرمی خونت ز صہبای خلیل'
+- 'id': '006_021_048'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برسر این باطل حق پیرہن | تیغ ’’لا موجود الا ہو‘‘ بزن'
+- 'id': '006_021_049'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جلوہ در تاریکی ایام کن | آنچہ بر تو کامل آمد عام کن'
+- 'id': '006_021_050'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لرزم از شرم تو چون روز شمار | پرسدت آن آبروی روزگار'
+- 'id': '006_021_051'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حرف حق از حضرت ما بردہ ئی | پس چرا با دیگران نسپردہ ئی'

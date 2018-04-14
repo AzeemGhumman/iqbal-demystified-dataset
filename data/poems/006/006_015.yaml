@@ -1,0 +1,235 @@
+---
+'id': '006_015'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در معنی اینکہ ملت محمدیہ نہایت زمانی ہم ندارد، کہ دوام این ملت شریفہ موعود است'
+- 'lang': 'en'
+  'text': 'That the Muhammadan Community is also unbounded in time, since the survival of this noble community has been divinely promised'
+'description': []
+'sher':
+- 'id': '006_015_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در بہاران جوش بلبل دیدہ ئی | رستخیز غنچہ و گل دیدہ ئی'
+- 'id': '006_015_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون عروسان غنچہ ہا آراستہ | از زمین یک شہر انجم خاستہ'
+- 'id': '006_015_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سبزہ از اشک سحر شوئیدہ ئی | از سرود آب جو خوابیدہ ئی'
+- 'id': '006_015_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غنچہ ئی بر می دمد از شاخسار | گیردش باد نسیم اندر کنار'
+- 'id': '006_015_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غنچہ ئی از دست گلچین خون شود | از چمن مانند بو بیرون رود'
+- 'id': '006_015_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بست قمری آشیان بلبل پرید | قطرہ ی شبنم رسید و بو رمید'
+- 'id': '006_015_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رخصت صد لالہ ی ناپایدار | کم نسازد رونق فصل بہار'
+- 'id': '006_015_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از زیان گنج فراوانش ہمان | محفل گلہای خندانش ہمان'
+- 'id': '006_015_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فصل گل از نسترن باقی تر است | از گل و سرو و سمن باقی تر است'
+- 'id': '006_015_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کان گوھر پروری گوہر گری | کم نگردد از شکست گوہری'
+- 'id': '006_015_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صبح از مشرق ز مغرب شام رفت | جام صد روز از خم ایام رفت'
+- 'id': '006_015_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بادہ ہا خوردند و صہبا باقی است | دوشہا خون گشت و فردا باقی است'
+- 'id': '006_015_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمچنان از فردہای پی سپر | ہست تقویم امم پایندہ تر'
+- 'id': '006_015_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در سفر یار است و صحبت قائم است | فرد رہ گیر است و ملت قائم است'
+- 'id': '006_015_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ذات او دیگر صفاتش دیگر است | سنت مرگ و حیاتش دیگر است'
+- 'id': '006_015_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرد بر می خیزد از مشت گلی | قوم زاید از دل صاحب دلی'
+- 'id': '006_015_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرد پور شصت و ہفتاد است و بس | قوم را صد سال مثل یک نفس'
+- 'id': '006_015_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندہ فرد از ارتباط جان و تن | زندہ قوم از حفظ ناموس کہن'
+- 'id': '006_015_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرگ فرد از خشکی رود حیات | مرگ قوم از ترک مقصود حیات'
+- 'id': '006_015_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرچہ ملت ہم بمیرد مثل فرد | از اجل فرمان پذیرد مثل فرد'
+- 'id': '006_015_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'امت مسلم ز آیات خداست | اصلش از ہنگامہ ی ’’قالوا بلی‘‘ ست'
+- 'id': '006_015_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از اجل این قوم بی پرواستی | استوار از ’’نحن نزلنا‘‘ستی'
+- 'id': '006_015_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ذکر قائم از قیام ذاکر است | از دوام او دوام ذاکر است'
+- 'id': '006_015_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا خدا ’’ان یطفئوا‘‘ فرمودہ است | از فسردن این چراغ آسودہ است'
+- 'id': '006_015_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'امتی در حق پرستی کاملی | امتی محبوب ہر صاحبدلی'
+- 'id': '006_015_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حق برون آورد این تیغ اصیل | از نیام آرزوہای خلیل'
+- 'id': '006_015_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا صداقت زندہ گردد از دمش | غیر حق سوزد ز برق پیہمش'
+- 'id': '006_015_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ما کہ توحید خدارا حجتیم | حافظ رمز کتاب و حکمتیم'
+- 'id': '006_015_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آسمان با ما سر پیکار داشت | در بغل یک فتنہ ی تاتار داشت'
+- 'id': '006_015_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بندہا از پا گشود آن فتنہ را | بر سر ما آزمود آن فتنہ را'
+- 'id': '006_015_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فتنہ ئی پامال راہش محشری | کشتہ ی تیغ نگاہش محشری'
+- 'id': '006_015_032'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خفتہ صد آشوب در آغوش او | صبح امروزی نزاید دوش او'
+- 'id': '006_015_033'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سطوت مسلم بخاک و خون تپید | دید بغداد آنچہ روما ہم ندید'
+- 'id': '006_015_034'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو مگر از چرخ کج رفتار پرس | زان نو آئین کہن پندار پرس'
+- 'id': '006_015_035'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آتش تاتاریان گلزار کیست؟ | شعلہ ہای او گل دستار کیست؟'
+- 'id': '006_015_036'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زانکہ ما را فطرت ابراہیمی است | ہم بہ مولا نسبت ابراہیمی است'
+- 'id': '006_015_037'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از تہ آتش بر اندازیم گل | نار ھر نمرود را سازیم گل'
+- 'id': '006_015_038'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شعلہ ہای انقلاب روزگار | چون بباغ ما رسد گردد بہار'
+- 'id': '006_015_039'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رومیان را گرم بازاری نماند | آن جہانگیری ، جہانداری نماند'
+- 'id': '006_015_040'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شیشہ ی ساسانیان در خون نشست | رونق خمخانہ یونان شکست'
+- 'id': '006_015_041'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مصر ھم در امتحان ناکام ماند | استخوان او تہ اھرام ماند'
+- 'id': '006_015_042'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در جہان بانگ اذان بودست و ہست | ملت اسلامیان بودست و ہست'
+- 'id': '006_015_043'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق آئین حیات عالم است | امتزاج سالمات عالم است'
+- 'id': '006_015_044'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق از سوز دل ما زندہ است | از شرار لاالہ تابندہ است'
+- 'id': '006_015_045'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرچہ مثل غنچہ دلگیریم ما | گلستان میرد اگر میریم ما'

@@ -1,0 +1,170 @@
+---
+'id': '006_024'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در معنی اینکہ بقای نوع از امومت است و حفظ و احترام امومت اسلام است'
+- 'lang': 'en'
+  'text': 'That the continuance of the species derives from motherhood, and that the preservation and honouring of motherhood is the foundation of Islam'
+'description': []
+'sher':
+- 'id': '006_024_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نغمہ خیز از زخمۂ زن ساز مرد | از نیاز او دو بالا ناز مرد'
+- 'id': '006_024_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پوشش عریانی مردان زن است | حسن دلجو عشق را پیراہن است'
+- 'id': '006_024_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق حق پروردۂ آغوش او | این نوا از زخمۂ خاموش او'
+- 'id': '006_024_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آنکہ نازد بر وجودش کائنات | ذکر او فرمود با طیب و صلوة'
+- 'id': '006_024_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مسلمی کو را پرستاری شمرد | بہرہ ئی از حکمت قرآن نبرد'
+- 'id': '006_024_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نیک اگر بینی امومت رحمت است | زانکہ او را با نبوت نسبت است'
+- 'id': '006_024_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شفقت او شفقت پیغمبر است | سیرت اقوام را صورتگر است'
+- 'id': '006_024_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از امومت پختہ تر تعمیر ما | در خط سیمای او تقدیر ما'
+- 'id': '006_024_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہست اگر فرہنگ تو معنی رسی | حرف امت نکتہ ہا دارد بسی'
+- 'id': '006_024_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گفت آن مقصود حرف ’’کن فکان‘‘ | زیر پای امہات آمد جنان'
+- 'id': '006_024_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ملت از تکریم ارحام است و بس | ورنہ کار زندگی خام است و بس'
+- 'id': '006_024_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از امومت گرم رفتار حیات | از امومت کشف اسرار حیات'
+- 'id': '006_024_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از امومت پیچ و تاب جوی ما | موج و گرداب و حباب جوی ما'
+- 'id': '006_024_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن دخ رستاق زادی جاہلی | پست بالای سطبری بد گلی'
+- 'id': '006_024_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نا تراشی پرورش نادادہ ئی | کم نگاہی کم زبانی سادہ ئی'
+- 'id': '006_024_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل ز آلام امومت کردہ خون | گرد چشمش حلقہ ہای نیلگون'
+- 'id': '006_024_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ملت ار گیرد ز آغوشش بدست | یک مسلمان غیور و حق پرست'
+- 'id': '006_024_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہستی ما محکم از آلام اوست | صبح ما عالم فروز از شام اوست'
+- 'id': '006_024_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وان تہی آغوش نازک پیکری | خانہ پرورد نگاہش محشری'
+- 'id': '006_024_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فکر او از تاب مغرب روشن است | ظاہرش زن باطن او نازن است'
+- 'id': '006_024_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بندہای ملت بیضا گسیخت | تا ز چشمش عشوہ ہا حل کردہ ریخت'
+- 'id': '006_024_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شوخ چشم و فتنہ زا آزادیش | از حیا نا آشنا آزادیش'
+- 'id': '006_024_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'علم او بار امومت بر نتافت | بر سر شامش یکی اختر نتافت'
+- 'id': '006_024_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این گل از بستان ما نارستہ بہ | داغش از دامان ملت شستہ بہ'
+- 'id': '006_024_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لاالہ گویان چو انجم بی شمار | بستہ چشم اندر ظلام روزگار'
+- 'id': '006_024_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پا نبردہ از عدم بیرون ہنوز | از سواد کیف و کم بیرون ہنوز'
+- 'id': '006_024_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مضمر اندر ظلمت موجود ما | آن تجلی ہای نامشہود ما'
+- 'id': '006_024_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شبنمی بر برگ گل ننشستہ ئی | غنچہ ہائی از صبا نا خستہ ئی'
+- 'id': '006_024_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر دمد این لالہ زار ممکنات | از خیابان ریاض امہات'
+- 'id': '006_024_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوم را سرمایہ ای صاحب نظر | نیست از نقد و قماش و سیم و زر'
+- 'id': '006_024_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مال او فرزند ہای تندرست | تر دماغ و سخت کوش و چاق و چست'
+- 'id': '006_024_032'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حافظ رمز اخوت مادران | قوت قرآن و ملت مادران'

@@ -1,0 +1,180 @@
+---
+'id': '006_016'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در معنی اینکہ نظام ملت غیر از آئین صورت نبندد و آئین ملت محمدیہ قرآن است'
+- 'lang': 'en'
+  'text': 'That the organization of the community is only possible though law, and that the law of the Muhammadan Community is the Quran'
+'description': []
+'sher':
+- 'id': '006_016_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ملتی را رفت چون آئین ز دست | مثل خاک اجزای او از ہم شکست'
+- 'id': '006_016_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہستی مسلم ز آئین است و بس | باطن دین نبی این است و بس'
+- 'id': '006_016_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برگ گل شد چون ز آئین بستہ شد | گل ز آئین بستہ شد گلدستہ شد'
+- 'id': '006_016_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نغمہ از ضبط صدا پیداستی | ضبط چون رفت از صدا غوغاستی'
+- 'id': '006_016_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در گلوی ما نفس موج ہواست | چون ہوا پابند نی گردد ، نواست'
+- 'id': '006_016_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ہمی دانی کہ آئین تو چیست؟ | زیر گردون سر تمکین تو چیست؟'
+- 'id': '006_016_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن کتاب زندہ قرآن حکیم | حکمت او لایزال است و قدیم'
+- 'id': '006_016_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نسخہ ی اسرار تکوین حیات | بی ثبات از قوتش گیرد ثبات'
+- 'id': '006_016_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حرف او را ریب نی تبدیل نی | آیہ اش شرمندہ ی تأویل نی'
+- 'id': '006_016_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پختہ تر سودای خام از زور او | در فتد با سنگ ، جام از زور او'
+- 'id': '006_016_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می برد پابند و آزاد آورد | صید بندان را بفریاد آورد'
+- 'id': '006_016_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نوع انسان را پیام آخرین | حامل او رحمة للعالمین'
+- 'id': '006_016_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ارج می گیرد ازو ناارجمند | بندہ را از سجدہ سازد سر بلند'
+- 'id': '006_016_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رہزنان از حفظ او رہبر شدند | از کتابی صاحب دفتر شدند'
+- 'id': '006_016_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دشت پیمایان ز تاب یک چراغ | صد تجلی از علوم اندر دماغ'
+- 'id': '006_016_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آنکہ دوش کوہ بارش بر نتافت | سطوت او زہرہ ی گردون شکافت'
+- 'id': '006_016_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بنگر آن سرمایہ ی آمال ما | گنجد اندر سینہ ی اطفال ما'
+- 'id': '006_016_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن جگر تاب بیابان کم آب | چشم او احمر ز سوز آفتاب'
+- 'id': '006_016_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوشتر از آہو رم جمازہ اش | گرم چون آتش دم جمازہ اش'
+- 'id': '006_016_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رخت خواب افکندہ در زیر نخیل | صبحدم بیدار از بانگ رحیل'
+- 'id': '006_016_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دشت سیر از بام و در ناآشنا | ہرزہ گردد از حضر ناآشنا'
+- 'id': '006_016_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا دلش از گرمی قرآن تپید | موج بیتابش چو گوہر آرمید'
+- 'id': '006_016_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خواند ز آیات مبین او سبق | بندہ آمد ‘ خواجہ رفت از پیش حق'
+- 'id': '006_016_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از جہانبانی نوازد ساز او | مسند جم گشت پا انداز او'
+- 'id': '006_016_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شہر ہا از گرد پایش ریختند | صد چمن از یک گلش انگیختند'
+- 'id': '006_016_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای گرفتار رسوم ایمان تو | شیوہ ہای کافری زندان تو'
+- 'id': '006_016_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قطع کردی امر خود را در زبر | جادہ پیمای الی ’’شئی نکر‘‘'
+- 'id': '006_016_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گر تو میخواہی مسلمان زیستن | نیست ممکن جز بقرآن زیستن'
+- 'id': '006_016_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صوفی پشمینہ پوش حال مست | از شراب نغمہ ی قوال مست'
+- 'id': '006_016_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آتش از شعر عراقی در دلش | در نمی سازد بقرآن محفلش'
+- 'id': '006_016_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از کلاہ و بوریا تاج و سریر | فقر او از خانقاہان باج گیر'
+- 'id': '006_016_032'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'واعظ دستان زن افسانہ بند | معنی او پست و حرف او بلند'
+- 'id': '006_016_033'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از خطیب و دیلمی گفتار او | با ضعیف و شاذ و مرسل کار او'
+- 'id': '006_016_034'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از تلاوت بر تو حق دارد کتاب | تو ازو کامی کہ میخواہی بیاب'

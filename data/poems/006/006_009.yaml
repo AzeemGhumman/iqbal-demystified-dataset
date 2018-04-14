@@ -1,0 +1,130 @@
+---
+'id': '006_009'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در معنی اینکہ مقصود رسالت محمدیہ تشکیل و تأسیس حریت و مساوات و اخوت بنی نوع آدم است'
+- 'lang': 'en'
+  'text': 'That the purpose of Muhammad’s mission was to found Freedom, Equality and Brotherhood among all mankind'
+'description': []
+'sher':
+- 'id': '006_009_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بود انسان در جہان انسان پرست | ناکس و نابود مند و زیر دست'
+- 'id': '006_009_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سطوت کسری و قیصر رہزنش | بند ہا در دست و پا و گردنش'
+- 'id': '006_009_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کاہن و پاپا و سلطان و امیر | بہر یک نخچیر صد نخچیر گیر'
+- 'id': '006_009_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'صاحب اورنگ و ہم پیر کنشت | باج بر کشت خراب او نوشت'
+- 'id': '006_009_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در کلیسا اسقف رضوان فروش | بہر این صید زبون دامی بدوش'
+- 'id': '006_009_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برہمن گل از خیابانش ببرد | خرمنش مغ زادہ با آتش سپرد'
+- 'id': '006_009_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از غلامی فطرت او دون شدہ | نغمہ ہا اندر نی او خون شدہ'
+- 'id': '006_009_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا امینی حق بحقداران سپرد | بندگان را مسند خاقان سپرد'
+- 'id': '006_009_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شعلہ ہا از مردہ خاکستر گشاد | کوھکن را پایہ ی پرویز داد'
+- 'id': '006_009_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اعتبار کار بندان را فزود | خواجگی از کار فرمایان ربود'
+- 'id': '006_009_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوت او ہر کہن پیکر شکست | نوع انسان را حصار تازہ بست'
+- 'id': '006_009_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تازہ جان اندر تن آدم دمید | بندہ را باز از خداوندان خرید'
+- 'id': '006_009_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زادن او مرگ دنیای کہن | مرگ آتشخانہ و دیر و شمن'
+- 'id': '006_009_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حریت زاد از ضمیر پاک او | این می نوشین چکید از تاک او'
+- 'id': '006_009_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عصر نو کاین صد چراغ آوردہ است | چشم در آغوش او وا کردہ است'
+- 'id': '006_009_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نقش نو بر صفحہ ہستی کشید | امتی گیتی گشائی آفرید'
+- 'id': '006_009_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'امتی از ما سوا بیگانہ ئی | بر چراغ مصطفی پروانہ ئی'
+- 'id': '006_009_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'امتی از گرمی حق سینہ تاب | ذرہ اش شمع حریم آفتاب'
+- 'id': '006_009_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کائنات از کیف او رنگین شدہ | کعبہ ہا بتخانہ ہای چین شدہ'
+- 'id': '006_009_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرسلان و انبیا آبای او | اکرم او نزد حق اتقای او'
+- 'id': '006_009_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’کل مؤمن اخوة‘‘ اندر دلش | حریت سرمایہ آب و گلش'
+- 'id': '006_009_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نا شکیب امتیازات آمدہ | در نھاد او مساوات آمدہ'
+- 'id': '006_009_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمچو سرو آزاد فرزندان او | پختہ از ’’قالوا بلی‘‘ پیمان او'
+- 'id': '006_009_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سجدہ ی حق گل بسیمایش زدہ | ماہ و انجم بوسہ بر پایش زدہ'

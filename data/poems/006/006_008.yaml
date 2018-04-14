@@ -1,0 +1,175 @@
+---
+'id': '006_008'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'رکن دوم: رسالت'
+- 'lang': 'en'
+  'text': 'Second pillar: Apostleship'
+'description': []
+'sher':
+- 'id': '006_008_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تارک آفل براھیم خلیل | انبیا را نقش پای او دلیل'
+- 'id': '006_008_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن خدای لم یزل را آیتی | داشت در دل آرزوی ملتی'
+- 'id': '006_008_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جوی اشک از چشم بیخوابش چکید | تا پیام ’’طہرابیتی‘‘ شنید'
+- 'id': '006_008_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہر ما ویرانہ ئے آباد کرد | طائفان را خانہ ئی بنیاد کرد'
+- 'id': '006_008_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا نہال ’’تب علینا‘‘ غنچہ بست | صورت کار بہار ما نشست'
+- 'id': '006_008_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حق تعالی پیکر ما آفرید | وز رسالت در تن ما جان دمید'
+- 'id': '006_008_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حرف بی صوت اندرین عالم بدیم | از رسالت مصرع موزون شدیم'
+- 'id': '006_008_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از رسالت در جہان تکوین ما | از رسالت دین ما آئین ما'
+- 'id': '006_008_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از رسالت صد ہزار ما یک است | جزو ما از جزو ’’مالاینفک‘‘ است'
+- 'id': '006_008_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن کہ شان اوست ’’یہدی من یرید‘‘ | از رسالت حلقہ گرد ما کشید'
+- 'id': '006_008_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حلقہ ی ملت محیط افزاستی | مرکز او وادی بطحا ستی'
+- 'id': '006_008_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ما ز حکم نسبت او ملتیم | اھل عالم را پیام رحمتیم'
+- 'id': '006_008_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از میان بحر او خیزیم ما | مثل موج از ھم نمیریزیم ما'
+- 'id': '006_008_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'امتش در حرز دیوار حرم | نعرہ زن مانند شیران در اجم'
+- 'id': '006_008_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'معنی حرفم کنی تحقیق اگر | بنگری با دیدہ ی صدیق اگر'
+- 'id': '006_008_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوت قلب و جگر گردد نبے | از خدا محبوب تر گردد نبی'
+- 'id': '006_008_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قلب مؤمن را کتابش قوت است | حکمتش حبل الورید ملت است'
+- 'id': '006_008_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دامنش از دست دادن ، مردن است | چون گل از باد خزان افسردن است'
+- 'id': '006_008_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندگی قوم از دم او یافت است | این سحر از آفتابش تافت است'
+- 'id': '006_008_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرد از حق ، ملت از وی زندہ است | از شعاع مہر او تابندہ است'
+- 'id': '006_008_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از رسالت ہم نوا گشتیم ما | ہم نفس ھم مدعا گشتیم ما'
+- 'id': '006_008_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کثرت ہم مدعا وحدت شود | پختہ چون وحدت شود ملت شود'
+- 'id': '006_008_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندہ ہر کثرت ز بند وحدت است | وحدت مسلم زدین فطرت است'
+- 'id': '006_008_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دین فطرت از نبی آموختیم | در رہ حق مشعلی افروختیم'
+- 'id': '006_008_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این گہر از بحر بی پایان اوست | ما کہ یک جانیم از احسان اوست'
+- 'id': '006_008_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا نہ این وحدت ز دست ما رود | ہستی ما با ابد ھمدم شود'
+- 'id': '006_008_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پس خدا بر ما شریعت ختم کرد | بر رسول ما رسالت ختم کرد'
+- 'id': '006_008_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رونق از ما محفل ایام را | او رسل را ختم و ما اقوام را'
+- 'id': '006_008_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدمت ساقی گری با ما گذاشت | داد ما را آخرین جامی کہ داشت'
+- 'id': '006_008_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’لا نبی بعدی‘‘ ز احسان خداست | پردہ ی ناموس دین مصطفی است'
+- 'id': '006_008_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قوم را سرمایہ ی قوت ازو | حفظ سر وحدت ملت ازو'
+- 'id': '006_008_032'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حق تعالی نقش ہر دعوی شکست | تا ابد اسلام را شیرازہ بست'
+- 'id': '006_008_033'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل ز غیر اللہ مسلمان بر کند | نعرہ ی لا قوم بعدی می زند'

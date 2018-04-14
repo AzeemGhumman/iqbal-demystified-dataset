@@ -1,0 +1,220 @@
+---
+'id': '006_001'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'پیشکش بحضور ملت اسلامیہ'
+- 'lang': 'en'
+  'text': 'Dedication to the Muslim Community'
+'description': []
+'sher':
+- 'id': '006_001_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'منکر نتوان گشت اگر دم زنم از عشق | این نشہ بمن نیست اگر با دگری ہست'
+- 'id': '006_001_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای ترا حق خاتم اقوام کرد | بر تو ہر آغاز را انجام کرد'
+- 'id': '006_001_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای مثال انبیا پاکان تو | ہمگر دلھا جگر چاکان تو'
+- 'id': '006_001_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای نظر بر حسن ترسازادہ ئی | ای ز راہ کعبہ دور افتادہ ئی'
+- 'id': '006_001_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای فلک مشت غبار کوی تو | ’’ای تماشا گاہ عالم روی تو‘‘'
+- 'id': '006_001_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمچو موج ، آتش تہ پا میروی | ’’تو کجا بہر تماشا میروی‘‘'
+- 'id': '006_001_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رمز سوز آموز از پروانہ ئے | در شرر تعمیر کن کاشانہ ئی'
+- 'id': '006_001_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'طرح عشق انداز اندر جان خویش | تازہ کن با مصطفی پیمان خویش'
+- 'id': '006_001_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خاطرم از صحبت ترسا گرفت | تا نقاب روی تو بالا گرفت'
+- 'id': '006_001_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہم نوا از جلوہ ی اغیار گفت | داستان گیسو و رخسار گفت'
+- 'id': '006_001_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر در ساقی جبین فرسود او | قصہ ی مغ زادگان پیمود او'
+- 'id': '006_001_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من شہید تیغ ابروے تو ام | خاکم و آسودہ ے کوی تو ام'
+- 'id': '006_001_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از ستایش گستری بالاترم | پیش ہر دیوان فرو ناید سرم'
+- 'id': '006_001_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از سخن آئینہ سازم کردہ اند | وز سکندر بی نیازم کردہ اند'
+- 'id': '006_001_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بار احسان بر نتابد گردنم | در گلستان غنچہ گردد دامنم'
+- 'id': '006_001_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخت کوشم مثل خنجر در جہان | آب خود می گیرم از سنگ گران'
+- 'id': '006_001_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرچہ بحرم موج من بیتاب نیست | بر کف من کاسہ ی گرداب نیست'
+- 'id': '006_001_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پردہ ی رنگم شمیمی نیستم | صید ھر موج نسیمی نیستم'
+- 'id': '006_001_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در شرار آباد ہستی اخگرم | خلعتی بخشد مرا خاکسترم'
+- 'id': '006_001_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر درت جانم نیاز آوردہ است | ہدیہ ی سوز و گداز آوردہ است'
+- 'id': '006_001_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز آسمان آبگون یم می چکد | بر دل گرمم دمادم می چکد'
+- 'id': '006_001_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من ز جو باریکتر می سازمش | تا بہ صحن گلشنت اندازمش'
+- 'id': '006_001_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زانکہ تو محبوب یار ماستی | ہمچو دل اندر کنار ماستی'
+- 'id': '006_001_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق تا طرح فغان در سینہ ریخت | آتش او از دلم آئینہ ریخت'
+- 'id': '006_001_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مثل گل از ہم شکافم سینہ را | پیش تو آویزم این آئینہ را'
+- 'id': '006_001_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا نگاہی افکنی بر روی خویش | می شوی زنجیری گیسوی خویش'
+- 'id': '006_001_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'باز خوانم قصہ ی پارینہ ات | تازہ سازم داغہای سینہ ات'
+- 'id': '006_001_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از پی قوم ز خود نامحرمی | خواستم از حق حیات محکمی'
+- 'id': '006_001_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در سکوت نیم شب نالان بدم | عالم اندر خواب و من گریان بدم'
+- 'id': '006_001_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جانم از صبر و سکون محروم بود | ورد من یاحی و یاقیوم بود'
+- 'id': '006_001_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آرزوئی داشتم خون کردمش | تا ز راہ  دیدہ بیرون کردمش'
+- 'id': '006_001_032'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سوختن چون لالہ پیہم تا کجا | از سحر دریوز شبنم تا کجا؟'
+- 'id': '006_001_033'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اشک خود بر خویش می ریزم چو شمع | با شب یلدا در آویزم چو شمع'
+- 'id': '006_001_034'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جلوہ را افزودم و خود کاستم | دیگران را محفلی آراستم'
+- 'id': '006_001_035'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یک نفس فرصت ز سوز سینہ نیست | ہفتہ ام شرمندہ ی آدینہ نیست'
+- 'id': '006_001_036'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جانم اندر پیکر فرسودہ ئی | جلوہ ی آہی است گرد آلودہ ئی'
+- 'id': '006_001_037'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون مرا صبح ازل حق آفرید | نالہ در ابریشم عودم تپید'
+- 'id': '006_001_038'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نالہ ئی افشا گر اسرار عشق | خونبہای حسرت  گفتار عشق'
+- 'id': '006_001_039'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فطرت آتش دہد خاشاک را | شوخی پروانہ بخشد خاک را'
+- 'id': '006_001_040'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق را داغی مثال لالہ بس | در گریبانش گل یک نالہ بس'
+- 'id': '006_001_041'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من ہمین یک گل بدستارت زنم | محشری بر خواب سرشارت زنم'
+- 'id': '006_001_042'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا ز خاکت لالہ زار آید پدید | از دمت باد بھار آید پدید'
