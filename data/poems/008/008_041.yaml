@@ -1,0 +1,31 @@
+---
+'id': '008_041'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بجہان دردمندان تو بگو چہ کار داری'
+- 'lang': 'en'
+  'text': 'Tell me this: what is thy share'
+'description': []
+'sher':
+- 'id': '008_041_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بجہان دردمندان تو بگو چہ کار داری | تب و تاب ما شناسی دل بی قرار داری'
+  - 'lang': 'en'
+    'text': 'Tell me this: what is thy share. In this world of pain and care? | Knowest thou the spirit’s smart? Hast thou an uncaseful heart?'
+- 'id': '008_041_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ خبر ترا ز اشکی کہ فرو چکد ز چشمی | تو ببرگ گل ز شبنم در شاہوار داری'
+  - 'lang': 'en'
+    'text': 'Of such bitter tears that well. From the eve, what canst thou tell? | See, thy rose’s petals hold. Dewy pearls of price untold'
+- 'id': '008_041_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ بگویمت ز جانی کہ نفس نفس شمارد | دم مستعار داری غم روزگار داری'
+  - 'lang': 'en'
+    'text': 'Or the soul, that numbereth. Life departing at each breath, | Borrowed spirit, grief of time– Shall I speak thee in rhyme?'

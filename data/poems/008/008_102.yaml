@@ -1,0 +1,24 @@
+---
+'id': '008_102'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عشق اندر جستجو افتاد آدم حاصل است'
+- 'lang': 'en'
+  'text': 'Love want searching thro’ the earth'
+'description': []
+'sher':
+- 'id': '008_102_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق اندر جستجو افتاد آدم حاصل است | جلوۂ او آشکار از پردۂ آب و گل است'
+  - 'lang': 'en'
+    'text': 'Love want searching thro’ the earth. Until Adam came to birth; | Out of water, out of clay. Manifested his display.'
+- 'id': '008_102_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آفتاب و ماہ و انجم میتوان دادن ز دست | در بہای آن کف خاکی کہ دارای دل است'
+  - 'lang': 'en'
+    'text': 'Sun, and moon, and stars on high, These were little to set by | So to purchase in life’s mart. Adam’s dust, that owned a herat.'

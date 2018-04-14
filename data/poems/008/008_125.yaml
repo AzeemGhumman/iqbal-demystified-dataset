@@ -1,0 +1,24 @@
+---
+'id': '008_125'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'از داغ فراق او در دل چمنی دارم'
+- 'lang': 'en'
+  'text': 'This brand of grief, His love apart'
+'description': []
+'sher':
+- 'id': '008_125_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از داغ فراق او در دل چمنی دارم | ای لالۂ صحرائی با تو سخنی دارم'
+  - 'lang': 'en'
+    'text': 'This brand of grief, His love apart, Hath sown a garden in my heart; | O desert-flame anemone, I have a word to say to thee!'
+- 'id': '008_125_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این آہ جگر سوزی در خلوت صحرا بہ | لیکن چکنم کاری با انجمنی دارم'
+  - 'lang': 'en'
+    'text': 'Best in the wilderness, alone, To breathe the soul-consuming groan; | Yet what can I, condemned for good. To wrestle with the multitude?'

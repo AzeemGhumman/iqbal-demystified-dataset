@@ -1,0 +1,45 @@
+---
+'id': '008_120'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'گذر از آنکہ ندیدست و جز خبر ندہد'
+- 'lang': 'en'
+  'text': 'Leave him who never won to sight'
+'description': []
+'sher':
+- 'id': '008_120_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گذر از آنکہ ندیدست و جز خبر ندہد | سخن دراز کند لذت نظر ندہد'
+  - 'lang': 'en'
+    'text': 'Leave him who never won to sight, And bears report alone; | Who makes long speech, but the delight, Of vision gives to none.'
+- 'id': '008_120_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شنیدہ ام سخن شاعر و فقیہ و حکیم | اگرچہ نخل بلند است برگ و بر ندہد'
+  - 'lang': 'en'
+    'text': 'To bard and scholar listened I, Philosopher to boot; | Although their palm is proud and high, It yields nor leaf nor fruit.'
+- 'id': '008_120_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تجلئی کہ برو پیر دیر می نازد | ہزار شب دہد و تاب یک سحر ندہد'
+  - 'lang': 'en'
+    'text': 'The gleam that hoary acolyte. So prides himself upon | Reveals a thousand shades of night, But never glow of dawn.'
+- 'id': '008_120_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہم از خدا گلہ دارم کہ بر زبان نرسد | متاع دل برد و یوسفی بہ بر ندہد'
+  - 'lang': 'en'
+    'text': 'I have a charge ‘gainst God to lay. That still I keep concealed; | He takes my precious heart away, And Joseph does not yield.'
+- 'id': '008_120_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ در حرم نہ بہ بتخانہ یابم آن ساقی | کہ شعلہ شعلہ ببخشد شرر شرر ندہد'
+  - 'lang': 'en'
+    'text': 'Neither in idol-house nor shrine. That Saqi I can find | To grant, no ember’s fitful shine, But splendour unconfined.'

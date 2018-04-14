@@ -1,0 +1,24 @@
+---
+'id': '008_043'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نور تو وانمود سپید و سیاہ را'
+- 'lang': 'en'
+  'text': 'Thy light defineth all things one by one'
+'description': []
+'sher':
+- 'id': '008_043_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نور تو وانمود سپید و سیاہ را | دریا و کوہ و دشت و در و مہر و ماہ را'
+  - 'lang': 'en'
+    'text': 'Thy light defineth all things one by one: | Black, white, sea, mountain, valley, moon and sun;'
+- 'id': '008_043_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو در ہوای آنکہ نگہ آشنای اوست | من در تلاش آنکہ نتابد نگاہ را'
+  - 'lang': 'en'
+    'text': 'Thou seekest one familiar with the light, | My quest is he who cannot bear the sight.'

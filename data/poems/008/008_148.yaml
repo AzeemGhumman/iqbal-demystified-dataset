@@ -1,0 +1,52 @@
+---
+'id': '008_148'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خاتمہ'
+- 'lang': 'en'
+  'text': 'Epilogue'
+'description': []
+'sher':
+- 'id': '008_148_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو شمشیری ز کام خود برون آ | برون آ ، از نیام خود برون آ'
+  - 'lang': 'en'
+    'text': 'You are a sword, come out of your cover, | Come out of your sheath.'
+- 'id': '008_148_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نقاب از ممکنات خویش برگیر | مہ و خورشید و انجم را بہ برگیر'
+  - 'lang': 'en'
+    'text': 'Remove the veil from your potentialities, | Take hold of the moon, the sun and the stars.'
+- 'id': '008_148_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شب خود روشن از نور یقین کن | ید بیضا برون از آستین کن'
+  - 'lang': 'en'
+    'text': 'Illumine your night by-the light of faith, | Take your white hand out of the armpit.'
+- 'id': '008_148_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کسی کو دیدہ را بر دل گشود است | شراری کشت و پروینی درود است'
+  - 'lang': 'en'
+    'text': 'He who has opened his eyes on the heart | Has sown a spark and reaped a fire.'
+- 'id': '008_148_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شراری جستہ ئی گیر از درونم | کہ من مانند رومی گرم خونم'
+  - 'lang': 'en'
+    'text': 'Have a spark from my innermost heart, | For my heart is as fiery as Rumi''s.'
+- 'id': '008_148_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وگرنہ آتش از تہذیب نوگیر | برون خود بیفروز ، اندرون میر'
+  - 'lang': 'en'
+    'text': 'Otherwise get fire from the new Culture of the West, | Adorn your exterior and bring spiritual death on you.'

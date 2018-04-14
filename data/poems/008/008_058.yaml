@@ -1,0 +1,45 @@
+---
+'id': '008_058'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ما کہ افتندہ تر از پرتو ماہ آمدہ ایم'
+- 'lang': 'en'
+  'text': 'Tremulous as the moon-light'
+'description': []
+'sher':
+- 'id': '008_058_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ما کہ افتندہ تر از پرتو ماہ آمدہ ایم | کس چہ داند کہ چسان اینہمہ راہ آمدہ ایم'
+  - 'lang': 'en'
+    'text': 'Tremulous as the moon-light. To our far abode | We came; and no man knoweth. How we trod this road.'
+- 'id': '008_058_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'با رقیبان سخن از درد دل ما گفتی | شرمسار از اثر نالہ و آہ آمدہ ایم'
+  - 'lang': 'en'
+    'text': 'Of our heart’s grief thou spakest. To the watchful spies; | We came with lamentation. Shameful of our sighs.'
+- 'id': '008_058_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پردہ از چہرہ بر افکن کہ چو خورشید سحر | بہر دیدار تو لبریز نگاہ آمدہ ایم'
+  - 'lang': 'en'
+    'text': 'Unveil thy bidden beauty! As the dawning sun | All eyes to gaze upon thee. Early we run.'
+- 'id': '008_058_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عزم ما را بہ یقین پختہ ترک ساز کہ ما | اندرین معرکہ بی خیل و سپاہ آمدہ ایم'
+  - 'lang': 'en'
+    'text': 'Confirm our resolution. With a stronger faith: | We come unhorsed, unarmoured, To this field of death.'
+- 'id': '008_058_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ندانی کہ نگاہی سر راہی چہ کند | در حضور تو دعا گفتہ براہ آمدہ ایم'
+  - 'lang': 'en'
+    'text': 'What a far gaze may fashion. Art thou not aware? | So fared we in thy presence, On our lips a prayer.'

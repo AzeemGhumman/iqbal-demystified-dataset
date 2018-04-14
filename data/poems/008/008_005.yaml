@@ -1,0 +1,31 @@
+---
+'id': '008_005'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'درون سینۂ ما سوز آرزو ز کجاست؟'
+- 'lang': 'en'
+  'text': 'Whence sprang the flaming fire'
+'description': []
+'sher':
+- 'id': '008_005_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درون سینۂ ما سوز آرزو ز کجاست؟ | سبو ز ماست ولی بادہ در سبو ز کجاست؟'
+  - 'lang': 'en'
+    'text': 'Whence sprang the flaming fire. That is my soul’s desire? | The cup indeed is mine— How came therein the wine?'
+- 'id': '008_005_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرفتم اینکہ جہان خاک و ما کف خاکیم | بہ ذرہ ذرہ ما درد جستجو ز کجاست؟'
+  - 'lang': 'en'
+    'text': 'This world I know is earth, And dust am I from birth; | Why is my all possessed. By this tormenting quest?'
+- 'id': '008_005_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگاہ ما بہ گریبان کہکشان افتد | جنون ما ز کجا شور ہای و ہو ز کجاست؟'
+  - 'lang': 'en'
+    'text': 'The Milky Way mine eye. Doth grapple in the sky: | This wild insanity, When was it born in me?'

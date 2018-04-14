@@ -1,0 +1,59 @@
+---
+'id': '008_015'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'این جہان چیست صنم خانۂ پندار من است'
+- 'lang': 'en'
+  'text': 'What is the world? The temple of my thought'
+'description': []
+'sher':
+- 'id': '008_015_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این جہان چیست صنم خانۂ پندار من است | جلوۂ او گرو دیدۂ بیدار من است'
+  - 'lang': 'en'
+    'text': 'What is the world? The temple of my thought, | The seen projection of my wakeful eye;'
+- 'id': '008_015_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمہ آفاق کہ گیرم بہ نگاہی او را | حلقہ ئی ہست کہ از گردش پرگار من است'
+  - 'lang': 'en'
+    'text': 'Its far horizons, instant to espy, | A circle by my spinning compass wrought.'
+- 'id': '008_015_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہستی و نیستی از دیدن و نا دیدن من | چہ زمان و چہ مکان شوخی افکار من است'
+  - 'lang': 'en'
+    'text': 'As I behold, or not, is aught, or naught; | Time, space, within my mind audacious lie,'
+- 'id': '008_015_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از فسون کاری دل سیر و سکون غیب و حضور | اینکہ غماز و گشایندہ اسرار من است'
+  - 'lang': 'en'
+    'text': 'Movement, repose, are my heart’s wizardry | Whereby are secrets known, and mysteries taught.'
+- 'id': '008_015_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن جہانی کہ درو کاشتہ را می دروند | نور و نارش ھمہ از سبحہ و زنار من است'
+  - 'lang': 'en'
+    'text': 'That other world, where reaped is all our sown, | Its light and fire are of my rosary made;'
+- 'id': '008_015_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ساز تقدیرم و صد نغمۂ پنہان دارم | ہر کجا زخمۂ اندیشہ رسد تار من است'
+  - 'lang': 'en'
+    'text': 'I am fate’s instrument, whose antiphon | Responds to every string thought ever played,'
+- 'id': '008_015_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای من از فیض تو پایندہ نشان تو کجاست | این دو گیتی اثر ماست جہان تو کجاست'
+  - 'lang': 'en'
+    'text': 'Where is thy sign? In thee my life is stayed; | Where is thy world? These twain are mine alone.'

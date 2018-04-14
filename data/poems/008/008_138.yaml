@@ -1,0 +1,165 @@
+---
+'id': '008_138'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تمہید'
+- 'lang': 'en'
+  'text': 'Introduction'
+'description': []
+'sher':
+- 'id': '008_138_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز جان خاور آن سوز کہن رفت | دمش واماند و جان او ز تن رفت'
+- 'id': '008_138_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو تصویری کہ بی تار نفس زیست | نمی داند کہ ذوق زندگی چیست'
+- 'id': '008_138_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلش از مدعا بیگانہ گردید | نی او از نوا بیگانہ گردید'
+- 'id': '008_138_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ طرز دیگر از مقصود گفتم | جواب نامۂ محمود گفتم'
+- 'id': '008_138_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز عہد شیخ تا این روزگاری | نزد مردی بجان ما شراری'
+- 'id': '008_138_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کفن در بر بخاکی آرمیدیم | ولی یک فتنۂ محشر ندیدیم'
+- 'id': '008_138_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گذشت از پیش آن دانای تبریز | قیامتہا کہ رست از کشت چنگیز'
+- 'id': '008_138_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگاہم انقلابی دیگری دید | طلوع آفتابی دیگری دید'
+- 'id': '008_138_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گشودم از رخ معنی نقابی | بدست ذرہ دادم آفتابی'
+- 'id': '008_138_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نپنداری کہ من بی بادہ مستم | مثال شاعران افسانہ بستم'
+- 'id': '008_138_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نبینی خیر از آن مرد فرو دست | کہ بر من تہمت شعر و سخن بست'
+- 'id': '008_138_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بکوی دلبران کاری ندارم | دل زاری غم یاری ندارم'
+- 'id': '008_138_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ خاک من غبار رہگذاری | نہ در خاکم دل بی اختیاری'
+- 'id': '008_138_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ جبریل امین ھمداستانم | رقیب و قاصد و دربان ندانم'
+- 'id': '008_138_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا با فقر سامان کلیم است | فر شاہنشہی زیر گلیم است'
+- 'id': '008_138_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر خاکم بہ صحرائی نگنجم | اگر آبم بہ دریائے نگنجم'
+- 'id': '008_138_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل سنگ از زجاج من بلرزد | یم افکار من ساحل نورزد'
+- 'id': '008_138_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نھان تقدیر ہا در پردۂ من | قیامت ہا بغل پروردۂ من'
+- 'id': '008_138_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دمی در خویشتن خلوت گزیدم | جہانی لازوالی آفریدم'
+- 'id': '008_138_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’مرا زین شاعری خود عار ناید | کہ در صد قرن یک عطار ناید‘‘'
+- 'id': '008_138_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بجانم رزم مرگ و زندگانی است | نگاہم بر حیات جاودانی است'
+- 'id': '008_138_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز جان خاک ترا بیگانہ دیدم | بہ اندام تو جان خود دمیدم'
+- 'id': '008_138_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از آن ناری کہ دارم داغ داغم | شب خود را بیفروز از چراغم'
+- 'id': '008_138_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بخاک من دلی چون دانہ کشتند | بہ لوح من خط دیگر نوشتند'
+- 'id': '008_138_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا ذوق خودی چون انگبین است | چہ گویم واردات من ہمین است'
+- 'id': '008_138_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نخستین کیف او را آزمودم | دگر بر خاوران قسمت نمودم'
+- 'id': '008_138_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر این نامہ را جبریل خواند | چو گرد آن نور ناب از خود فشاند'
+- 'id': '008_138_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بنالد از مقام و منزل خویش | بہ یزدان گوید از حال دل خویش'
+- 'id': '008_138_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تجلی را چنان عریان نخواہم | نخواھم جز غم پنہان نخواہم'
+- 'id': '008_138_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گذشم از وصال جاودانی | کہ بینم لذت آہ و فغانی'
+- 'id': '008_138_031'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا ناز و نیاز آدمی دہ | بہ جان من گداز آدمی دہ'

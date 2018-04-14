@@ -1,0 +1,45 @@
+---
+'id': '008_110'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'من ہیچ نمی ترسم از حادثۂ شب ہا'
+- 'lang': 'en'
+  'text': 'In the accidents of night'
+'description': []
+'sher':
+- 'id': '008_110_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من ہیچ نمی ترسم از حادثۂ شب ہا | شبہا کہ سحر گردد از گردش کوکب ہا'
+  - 'lang': 'en'
+    'text': 'In the accidents of night. There is naught can me affright, | Seeing that the night is borne. By the wheeling stars to morn.'
+- 'id': '008_110_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نشناخت مقام خویش افتاد بدام خویش | عشقی کہ نمودی خواست از شورش یارب ہا'
+  - 'lang': 'en'
+    'text': 'Of its station unaware, It has fallen in its own snare, | This thy love, that did arise. From thy supplicating cries.'
+- 'id': '008_110_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آہی کہ ز دل خیزد از بہر جگر سوزی است | در سینہ شکن او را آلودہ مکن لب ہا'
+  - 'lang': 'en'
+    'text': 'When the heart gives forth a sigh, ‘Tis of burning inwardly; | Let it not thy lips defile; Break it in thy breast, and smile!'
+- 'id': '008_110_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در میکدہ باقی نیست از ساقی فطرت خواہ | آن می کہ نمی گنجد در شیشۂ مشرب ہا'
+  - 'lang': 'en'
+    'text': 'None remains in tavern now; Beg of Nature’s Saqi thou | The rich wine that cannot pass. In the drinkers’ narrow glass.'
+- 'id': '008_110_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آسودہ نمی گردد آندل کہ گسست از دوست | با قرأت مسجد ہا با دانش مکتب ہا'
+  - 'lang': 'en'
+    'text': 'Not with mosque and chanted verse, Not with learning schools rehearse | To repose returns the heart. When its Darling doth depart.'

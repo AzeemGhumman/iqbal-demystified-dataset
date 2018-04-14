@@ -1,0 +1,45 @@
+---
+'id': '008_006'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'غزل سرای و نواہای رفتہ باز آور'
+- 'lang': 'en'
+  'text': 'O bring me back the singing.'
+'description': []
+'sher':
+- 'id': '008_006_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غزل سرای و نواہای رفتہ باز آور | بہ این فسردہ دلان حرف دل نواز آور'
+  - 'lang': 'en'
+    'text': 'O bring me back the singing. The airs of long ago; | Bring back the sweet, sad music. To set cold hearts aglow.'
+- 'id': '008_006_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کنشت و کعبہ و بتخانہ و کلیسا را | ہزار فتنہ از آن چشم نیم باز آور'
+  - 'lang': 'en'
+    'text': 'Too hushed is mosque and temple, Too silent church and shrine; | Stir up a thousand tumults. With that dark glance of thine.'
+- 'id': '008_006_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز بادہ ئی کہ بخاک من آتشی آمیخت | پیالہ ئی بجوانان نو نیاز آور'
+  - 'lang': 'en'
+    'text': 'Fill me the fiery goblet. That made my dust to flame: | Youth thirsts anew, desirous, And youth shall quaff the same.'
+- 'id': '008_006_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نئی کہ دل ز نوایش بسینہ می رقصد | مئی کہ شیشۂ جان را دہد گداز آور'
+  - 'lang': 'en'
+    'text': 'The pipe that sets a-dancing. The heart within the breast, | The wine that moves the spirit. And melts and soul oppressed—'
+- 'id': '008_006_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ نیستان عجم باد صبحدم تیز است | شرارہ ئی کہ فرو می چکد ز ساز آور'
+  - 'lang': 'en'
+    'text': 'Soft amid Persia’s rushes. The breeze of morning sings: | Bring me the spark that trickles. From those melodious strings.'

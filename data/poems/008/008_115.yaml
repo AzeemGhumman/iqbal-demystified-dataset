@@ -1,0 +1,45 @@
+---
+'id': '008_115'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دو دستہ تیغم و گردون برہنہ ساخت مرا'
+- 'lang': 'en'
+  'text': 'A double-handled sword am I'
+'description': []
+'sher':
+- 'id': '008_115_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دو دستہ تیغم و گردون برہنہ ساخت مرا | فسان کشیدہ بروی زمانہ آخت مرا'
+  - 'lang': 'en'
+    'text': 'A double-handled sword am I. Laid naked by the circling sky; | Fortune bath sharpened me in Space, And whetted me upon Time’s face.'
+- 'id': '008_115_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من آن جہان خیالم کہ فطرت ازلی | جہان بلبل و گل را شکست و ساخت مرا'
+  - 'lang': 'en'
+    'text': 'I am the world of fantasy; The Genius of eternity | The world of nightingale and rose. Hath shattered, fashioning me for those.'
+- 'id': '008_115_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می جوان کہ بہ پیمانہ تو می ریزم | ز راوقی است کہ جام و سبو گداخت مرا'
+  - 'lang': 'en'
+    'text': 'The youthful wine to cheer the soul. That I am pouring in the bowl | Is from the vat, whereby my jar. And glass decanter molten are.'
+- 'id': '008_115_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نفس بہ سینہ گدازم کہ طایر حرمم | توان ز گرمی آواز من شناخت مرا'
+  - 'lang': 'en'
+    'text': 'The breath is burning in my breast; The sanctuary is my nest, | And men may recognize my throat. By the great ardour of my note.'
+- 'id': '008_115_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شکست کشتی ادراک مرشدان کہن | خوشا کسی کہ بہ دریا سفینہ ساخت مرا'
+  - 'lang': 'en'
+    'text': 'Wrecked is the barque the ancient guide. Built out of sense, therein to ride; | Blest is the one who fashioned me. To be his vessel on the sea.'

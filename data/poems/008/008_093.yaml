@@ -1,0 +1,38 @@
+---
+'id': '008_093'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'گشادہ رو ز خوش و ناخوش زمانہ گذر'
+- 'lang': 'en'
+  'text': 'Whether the world be foul or fair'
+'description': []
+'sher':
+- 'id': '008_093_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گشادہ رو ز خوش و ناخوش زمانہ گذر | ز گلشن و قفس و دام و آشیانہ گذر'
+  - 'lang': 'en'
+    'text': 'Whether the world be foul or fair, With a smile fare on; | Forth from the nest, the cage, the snare, The bower, be gone!'
+- 'id': '008_093_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرفتم اینکہ غریبی و رہ شناس نئی | بکوی دوست بانداز محرمانہ گذر'
+  - 'lang': 'en'
+    'text': 'Though stranger thou art, and dost not know. How the way doth wend, | In a bold, familiar manner go, In the lane of the Friend.'
+- 'id': '008_093_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہر نفس کہ بر آری جہان دگرگون کن | درین رباط کہن صورت زمانہ گذر'
+  - 'lang': 'en'
+    'text': 'Each breath that thou drawest, differently. The world adorn; | Within this ancient hostelry. Swift as Time be borne.'
+- 'id': '008_093_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر عنان تو جبریل و حور می گیرند | کرشمہ بر دلشان ریز و دلبرانہ گذر'
+  - 'lang': 'en'
+    'text': 'If Gabriel lay his hand on thy rein, And the Houris, too, | With a loving glance pass on again. As fair charmers do.'

@@ -1,0 +1,52 @@
+---
+'id': '008_087'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'سخن تازہ زدم کس بسخن وا نرسید'
+- 'lang': 'en'
+  'text': 'I uttered a new word'
+'description': []
+'sher':
+- 'id': '008_087_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخن تازہ زدم کس بسخن وا نرسید | جلوہ خون گشت و نگاہی بتماشا نرسید'
+  - 'lang': 'en'
+    'text': 'I uttered a new word, But there was none that heard; | Vision to rapture grew, But glance was none to view.'
+- 'id': '008_087_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سنگ می باش و درین کارگہ شیشہ گذر | وای سنگی کہ صنم گشت و بہ مینا نرسید'
+  - 'lang': 'en'
+    'text': 'Be thou a stone, and pass. Within these works of glass; | Woe, stone to idol wrought. That goblet shattered not!'
+- 'id': '008_087_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہنہ را در شکن و باز بہ تعمیر خرام | ہر کہ در ورطۂ ’’لا‘‘ ماند بہ ’’الا‘ نرسید'
+  - 'lang': 'en'
+    'text': 'Break down the old, and then, Rebuild the world again; | Who in "No God" remained. Has ne’er "Except" attained.'
+- 'id': '008_087_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ایخوش آن جوی تنک مایہ کہ از ذوق خودی | در دل خاک فرو رفت و بدریا نرسید'
+  - 'lang': 'en'
+    'text': 'O happy rivulet, In selfhood passionate, | Who to earth’s heart dost flee, And flowest not so sea!'
+- 'id': '008_087_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از کلیمی سبق آموز کہ دانای فرنگ | جگر بحر شکافید و بہ سینا نرسید'
+  - 'lang': 'en'
+    'text': 'To Moses’ lesson list. For Europe’s scientist | Though ocean’s depth he measure, Could ne’er to Sinai come.'
+- 'id': '008_087_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق انداز تپیدن ز دل ما آموخت | شرر ماست کہ برجست و بہ پروانہ رسید'
+  - 'lang': 'en'
+    'text': 'Love’s self learnt quivering’s art. From this our trembling heart | Our spark it was that spired. Until the moth expired.'

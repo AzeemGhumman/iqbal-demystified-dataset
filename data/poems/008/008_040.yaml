@@ -1,0 +1,31 @@
+---
+'id': '008_040'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'درین میخانہ ای ساقی ندارم محرمی دیگر'
+- 'lang': 'en'
+  'text': 'None other in this tavern is'
+'description': []
+'sher':
+- 'id': '008_040_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین میخانہ ای ساقی ندارم محرمی دیگر | کہ من شاید نخستین آدمم از عالمی دیگر'
+  - 'lang': 'en'
+    'text': 'None other in this tavern is, Saqi, to share my mysteries; | Am I the first (O who can tell). Conceived in heaven, on earth to dwell?'
+- 'id': '008_040_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دمی این پیکر فرسودہ را سازی کف خاکی | فشانی آب و از خاک آتش انگیزی دمی دیگر'
+  - 'lang': 'en'
+    'text': 'Awhile this spent and weary frame. Thou makest dust; and on the same | Scattcrest water; lo I see. Fire in the ashes presently'
+- 'id': '008_040_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیار آن دولت بیدار و آن جام جہان بین را | عجم را دادہ ئی ہنگامۂ بزم جمی دیگر'
+  - 'lang': 'en'
+    'text': 'Bring me that fortune ever new, The cup where lies the world to view, | For, in the palace of the East, Another Jamshid sits to feast.'

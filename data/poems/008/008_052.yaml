@@ -1,0 +1,59 @@
+---
+'id': '008_052'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جانم در آویخت با روزگاران'
+- 'lang': 'en'
+  'text': 'My soul, embattled. With fortune ever,'
+'description': []
+'sher':
+- 'id': '008_052_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جانم در آویخت با روزگاران | جوی است نالان در کوہساران'
+  - 'lang': 'en'
+    'text': 'My soul, embattled. With fortune ever, | Weeps like a river. Among the mountains.'
+- 'id': '008_052_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پیدا ستیزد پنہان ستیزد | ناپایدارے با پایداران'
+  - 'lang': 'en'
+    'text': 'Open and secret. Fate is assailing, | To the unfailing. Fickle and faithless.'
+- 'id': '008_052_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این کوہ و صحرا این دشت و دریا | نی راز داران نی غمگساران'
+  - 'lang': 'en'
+    'text': 'Mountain and desert, Ocean and prairie | Secret unwary. Unsympathising.'
+- 'id': '008_052_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیگانۂ شوق بیگانۂ شوق | این جویباران این آبشاران'
+  - 'lang': 'en'
+    'text': 'Stranger to passion, Stranger to yearning | Rivulet’s turning, Spray of the fountains.'
+- 'id': '008_052_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فریاد بے سوز فریاد بی سوز | بانگ ہزاران در شاخساران'
+  - 'lang': 'en'
+    'text': 'Pale lamentation’s. Flameless outpouring | Nightingales soaring. Song in the thicket.'
+- 'id': '008_052_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'داغی کہ سوزد در سینۂ من | آن داغ کم سوخت در لالہ زاران'
+  - 'lang': 'en'
+    'text': 'Burns in my bosom. The brand of passion; | In such a fashion. Burns not the tulip.'
+- 'id': '008_052_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'محفل ندارد ساقی ندارد | تلخی کہ سازد با بیقراران'
+  - 'lang': 'en'
+    'text': 'No wine of Saqi, No spirits’ riot; | The soul unquiet. Bitterly suffers.'

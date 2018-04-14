@@ -1,0 +1,45 @@
+---
+'id': '008_133'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ای لالہ ای چراغ کہستان و باغ و راغ'
+- 'lang': 'en'
+  'text': 'Tulip in the mountains blowing'
+'description': []
+'sher':
+- 'id': '008_133_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای لالہ ای چراغ کہستان و باغ و راغ | در من نگر کہ میدھم از زندگی سراغ'
+  - 'lang': 'en'
+    'text': 'Tulip in the mountains blowing, Lamp in mead and garden glowing, | Gaze on me, for I will give. Guidance on the way to live.'
+- 'id': '008_133_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ما رنگ شوخ و بوی پریشیدہ نیستیم | مائیم آنچہ می رود اندر دل و دماغ'
+  - 'lang': 'en'
+    'text': 'We are not the pigment charming, Nor the scattered scent disarming, | We are that which moves confined. In the heart, and in the mind.'
+- 'id': '008_133_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مستی ز بادہ میرسد و از ایاغ نیست | ہر چند بادہ را نتوان خورد بے ایاغ'
+  - 'lang': 'en'
+    'text': 'Drunkenness is wine-engendered, Springeth not of goblet tendered, | Though it needs the goblet, too, To consume the wine, ‘tis true.'
+- 'id': '008_133_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'داغی بہ سینہ سوز کہ اندر شب وجود | خود را شناختن نتوان جز بہ این چراغ'
+  - 'lang': 'en'
+    'text': 'Let thy breast be flame-conceiving, For within this night of living | Self may never come to sight. Save discovered by this light.'
+- 'id': '008_133_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای موج شعلہ سینہ بباد صبا گشای | شبنم مجو کہ میدہد از سوختن فراغ'
+  - 'lang': 'en'
+    'text': 'Wave of flame, O bare thy bosom. To the morning-breeze; O blossom, | Do not seek the dew, to quell. Thy heart’s fiery crucible!'

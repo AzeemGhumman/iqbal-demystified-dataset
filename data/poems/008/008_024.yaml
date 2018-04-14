@@ -1,0 +1,45 @@
+---
+'id': '008_024'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'سوز و گداز زندگی لذت جستجوی تو'
+- 'lang': 'en'
+  'text': 'All that in life I love the best'
+'description': []
+'sher':
+- 'id': '008_024_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سوز و گداز زندگی لذت جستجوی تو | راہ چو مار مے گزد گر نروم بسوی تو'
+  - 'lang': 'en'
+    'text': 'All that in life I love the best. Is the sweet fever of thy quest; | The way is like an adder’s sting, Be not to thee my wayfaring.'
+- 'id': '008_024_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سینہ گشادہ جبرئیل از بر عاشقان گذشت | تا شرری بہ او فتد ز آتش آرزوی تو'
+  - 'lang': 'en'
+    'text': 'Lo, Gabriel with naked heart. Out of love’s bosom doth depart, | Hopeful to catch a spark of fire. From the vast flame of thy desire.'
+- 'id': '008_024_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہم بہوای جلوہ ئی پارہ کنم حجاب را | ہم بہ نگاہ نارسا پردہ کشم بروی تو'
+  - 'lang': 'en'
+    'text': 'Anon I rend my veil in twain, Yearning the vision to attain; | Anon with unavailing sight. I veil myself before thy light.'
+- 'id': '008_024_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من بتلاش تو روم یا بہ تلاش خود روم | عقل و دل نظر ھمہ گم شدگان کوی تو'
+  - 'lang': 'en'
+    'text': 'Whether in quest of thee I go, Or at the last myself to know, | Intellect, heart, sight—all astray. Blindly the wander on thy way.'
+- 'id': '008_024_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از چمن تو رستہ ام قطرۂ شبنمی ببخش | خاطر غنچہ وا شود کم نشود ز جوی تو'
+  - 'lang': 'en'
+    'text': 'I was a seedling of thy mead; Sprinkle thy dew upon my head; | The blossom’s heart will quicken, yet, No drop hall lack the rivulet.'

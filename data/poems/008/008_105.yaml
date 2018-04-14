@@ -1,0 +1,45 @@
+---
+'id': '008_105'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بر دل بیتاب من ساقی می نابی زند'
+- 'lang': 'en'
+  'text': 'The Saqi, pouring his pure wine'
+'description': []
+'sher':
+- 'id': '008_105_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر دل بیتاب من ساقی می نابی زند | کیمیا ساز است و اکسیری بسیمابی زند'
+  - 'lang': 'en'
+    'text': 'The Saqi, pouring his pure wine. Upon my restless heart | Converts this quicksilver of mine. To gold, by magic art.'
+- 'id': '008_105_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من ندانم نور یا نار است اندر سینہ ام | این قدر دانم بیاض او بہ مہتابی زند'
+  - 'lang': 'en'
+    'text': 'I do not know if it be light. Within my breast, or flame; | I only know its radiance white. Shines with a moonlike gleam.'
+- 'id': '008_105_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر دل من فطرت خاموش می آرد ہجوم | ساز از ذوق نوا خود را بہ مضرابی زند'
+  - 'lang': 'en'
+    'text': 'Nature, all hushed, doth suddenly. My quiet heart assail; | The instrument in ecstasy. Playeth its own sweet scale.'
+- 'id': '008_105_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غم مخور نادان کہ گردون در بیابان کم آب | چشمہ ہا دارد کہ شبخونی بہ سیلابی زند'
+  - 'lang': 'en'
+    'text': 'Grieve not, thou fool; the starry skies. Within this desert waste | Have many founts, that secret rise. And to the torrent haste.'
+- 'id': '008_105_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ایکہ نوشم خوردہ ئی از تیزی نیشم مرنج | نیش ھم باید کہ آدم را رگ خوابی زند'
+  - 'lang': 'en'
+    'text': 'O thou who didst my sweet wine take, Grieve not at my sharp sting; | It needs my sting, that I may wake. Man from his slumbering.'

@@ -1,0 +1,38 @@
+---
+'id': '008_072'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چو موج مست خودی باش و سر بطوفان کش'
+- 'lang': 'en'
+  'text': 'Drunk with self hood like a wave'
+'description': []
+'sher':
+- 'id': '008_072_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو موج مست خودی باش و سر بطوفان کش | ترا کہ گفت کہ بنشین و پا بدامان کش'
+  - 'lang': 'en'
+    'text': 'Drunk with self hood like a wave. Plunge into the stormy lave; | Who commanded thee to sit. With thy skirts about thy feet?'
+- 'id': '008_072_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بقصد صید پلنگ از چمن سرا برخیز | بکوہ رخت گشا خیمہ در بیابان کش'
+  - 'lang': 'en'
+    'text': 'Let the tiger be thy prey; Leave the mead and flowers gay, | Out toward the mountain press, Tent thee in the wilderness.'
+- 'id': '008_072_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ مہر و ماہ کمند گلو فشار انداز | ستارہ ر از فلک گیر و در گریبان کش'
+  - 'lang': 'en'
+    'text': 'Cast thy strangling rope on high, Circle sun and moon in sky, | Seize a star from heaven’s sphere, Stitch it on thy sleeve to wear.'
+- 'id': '008_072_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرفتم اینکہ شراب خودی بسی تلخ است | بدرد خویش نگر زہر ما بدرمان کش'
+  - 'lang': 'en'
+    'text': 'Selfhood’s wine, as I have guessed, Tart and bitter is to taste, | Yet regard thy pain within– Drain our desperate medicine'

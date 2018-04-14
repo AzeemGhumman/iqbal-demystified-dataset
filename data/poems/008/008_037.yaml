@@ -1,0 +1,59 @@
+---
+'id': '008_037'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ہوای خانہ و منزل ندارم'
+- 'lang': 'en'
+  'text': 'At home to loiter never did me please'
+'description': []
+'sher':
+- 'id': '008_037_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہوای خانہ و منزل ندارم | سر راہم غریب ہر دیارم'
+  - 'lang': 'en'
+    'text': 'At home to loiter never did me please, | A rover I, stranger in every land.'
+- 'id': '008_037_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سحر می گفت خاکستر صبا را | ’’فسرد از باد این صحرا شرارم'
+  - 'lang': 'en'
+    'text': 'At dawn, the ashes thus addressed the breeze: | ‘This desert’s air put out my flaming brand;'
+- 'id': '008_037_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گذر نرمک ، پریشانم مگردان | ز سوز کاروانے یادگارم‘‘'
+  - 'lang': 'en'
+    'text': 'Pass gently; scatter me not with thy hand; | I yet recall the caravans s unease.’'
+- 'id': '008_037_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز چشمم اشک چون شبنم فرو ریخت | کہ من ھم خاکم و در رہگذارم'
+  - 'lang': 'en'
+    'text': 'My tears, like dew, trickled upon the sand, | I, too, being dust on the world’s passages.'
+- 'id': '008_037_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگوش من رسید از دل سرودی | کہ جوی روزگار از چشمہ سارم'
+  - 'lang': 'en'
+    'text': 'Then in my heart I heard a soft voice sing: | The stream of time did from my fountain spring.'
+- 'id': '008_037_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ازل تاب و تب پیشنیۂ من | ابد از ذوق و شوق انتظارم'
+  - 'lang': 'en'
+    'text': 'The past is all my fever and fire of yore, | The future all that I am yearning for:'
+- 'id': '008_037_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'میندیش از کف خاکی میندیش | بجان تو کہ من پایان ندارم'
+  - 'lang': 'en'
+    'text': 'Think not upon thy dust, O think no more— | Lo, by the life, I know no perishing!'

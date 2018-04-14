@@ -1,0 +1,45 @@
+---
+'id': '008_130'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'باز این عالم دیرینہ جوان می بایست'
+- 'lang': 'en'
+  'text': 'This ancient universe'
+'description': []
+'sher':
+- 'id': '008_130_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'باز این عالم دیرینہ جوان می بایست | برگ کاہش صفت کوہ گران می بایست'
+  - 'lang': 'en'
+    'text': 'This ancient universe. New youth must now rehearse, | Its trembling blade of grass. Huge mountains should surpass.'
+- 'id': '008_130_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کف خاکی کہ نگاہ ہمہ بین پیدا کرد | در ضمیرش جگر آلودہ فغان می بایست'
+  - 'lang': 'en'
+    'text': 'The handful of poor clay. That did a glance display | All-viewing, in the brain. Must shape a cry of pain.'
+- 'id': '008_130_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این مہ و مھر کہن راہ بجائی نبرند | انجم تازہ بہ تعمیر جہان می بایست'
+  - 'lang': 'en'
+    'text': 'Our aged moon and sun. The course have never run; | Fresh stars we must pursue. To build the world anew.'
+- 'id': '008_130_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر نگاری کہ مرا پیش نظر می آید | خوش نگاریست ولی خوشتر از آن می بایست'
+  - 'lang': 'en'
+    'text': 'Each image of delight. That dawns upon my sight | Is fair; yet fairer still. The image that I will.'
+- 'id': '008_130_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گفت یزدان کہ چنین است و دگر ہیچ مگو | گفت آدم کہ چنین است چنان می بایست'
+  - 'lang': 'en'
+    'text': 'God said, "The world so lies, And say not otherwise"; | Said Adam, "So I see; But thus it ought to be!"'

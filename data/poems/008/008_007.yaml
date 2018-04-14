@@ -1,0 +1,45 @@
+---
+'id': '008_007'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ایکہ ز من فزدوہ ئی گرمی آہ و نالہ را'
+- 'lang': 'en'
+  'text': 'Thou who didst make more ardent'
+'description': []
+'sher':
+- 'id': '008_007_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ایکہ ز من فزدوہ ئی گرمی آہ و نالہ را | زندہ کن از صدای من خاک ہزار سالہ را'
+  - 'lang': 'en'
+    'text': 'Thou who didst make more ardent. My sighing and my tears, | O let my anthem quicken. Dust of a thousand years.'
+- 'id': '008_007_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'با دل ما چہا کنی تو کہ ببادۂ حیات | مستی شوق می دہی آب و گل پیالہ را'
+  - 'lang': 'en'
+    'text': 'What wilt thou of my heart, then, Who with the wine of life | Excitest in the goblet. This passion and this strife?'
+- 'id': '008_007_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غنچۂ دل گرفتہ را از نفسم گرہ گشای | تازہ کن از نسیم من داغ درون لالہ را'
+  - 'lang': 'en'
+    'text': 'And when my breath caressing. Shall softly, sweetly blow, | The withered heart will blossom, The tulip newly glow.'
+- 'id': '008_007_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می گذرد خیال من از مہ و مہر و مشتری | تو بکمین چہ خفتہ ای صید کن این غزالہ را'
+  - 'lang': 'en'
+    'text': 'My fantasy is soaring. Beyond the stars and sun; | Why lurkest thou in hiding, When hunting’s to be done?'
+- 'id': '008_007_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خواجۂ من نگاہ دار آبروی گدای خویش | آنکہ ز جوی دیگران پر نکند پیالہ را'
+  - 'lang': 'en'
+    'text': 'O Master, guard the honour. Of him who begs of thee; | He’ll let no wine of others. Within his goblet be.'

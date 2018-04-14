@@ -1,0 +1,45 @@
+---
+'id': '008_131'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'لالہ این گلستان داغ تمنائی نداشت'
+- 'lang': 'en'
+  'text': 'In the mead a tulip blows'
+'description': []
+'sher':
+- 'id': '008_131_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لالہ این گلستان داغ تمنائی نداشت | نرگس طناز او چشم تماشائی نداشت'
+  - 'lang': 'en'
+    'text': 'In the mead a tulip blows. In whose breast no yearning glows, | A narcissus, languid too, Yet it lacked the eye to view.'
+- 'id': '008_131_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خاک را موج نفس بود و دلی پیدا نبود | زندگانی کاروانی بود و کالائی نداشت'
+  - 'lang': 'en'
+    'text': 'Billowing breath was in the clay, But no heart did it display; | Caravan upon the road– Such was life, yet where the load?'
+- 'id': '008_131_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'روزگار از ہای و ہوی میکشان بیگانہ ئی | بادہ در میناش بود و بادہ پیمائی نداشت'
+  - 'lang': 'en'
+    'text': 'Time itself was void and free. Of the topers’ song of glee, | Wine was in the glass aflame. Yet was none to quaff the same.'
+- 'id': '008_131_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برق سینا شکوہ سنج از بی زبانیہای شوق | ہیچکس در وادی ایمن تقاضائی نداشت'
+  - 'lang': 'en'
+    'text': 'Sinai’s lightning made complaint. That desire was dumb and faint; | In the peaceful valley there. Silent was the voice of prayer.'
+- 'id': '008_131_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق از فریاد ما ہنگامہ ہا تعمیر کرد | ورنہ این بزم خموشان ہیچ غوغائی نداشت'
+  - 'lang': 'en'
+    'text': 'Love upon our woe expressed. Builds anew the great unrest, | Else no murmur ever stirs. From these silent banqueters.'

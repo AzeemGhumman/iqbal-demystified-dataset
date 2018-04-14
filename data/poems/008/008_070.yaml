@@ -1,0 +1,52 @@
+---
+'id': '008_070'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'لالہ این چمن آلودۂ رنگ است ہنوز'
+- 'lang': 'en'
+  'text': 'The tulip of this meadowland'
+'description': []
+'sher':
+- 'id': '008_070_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لالہ این چمن آلودۂ رنگ است ہنوز | سپر از دست مینداز کہ جنگ است ہنوز'
+  - 'lang': 'en'
+    'text': 'The tulip of this meadowland. Is yet all flecked with hue; | Cast not the shield out of thy hand, For battle flares anew.'
+- 'id': '008_070_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فتنہ ئی را کہ دو صد فتنہ با آغوشش بود | دختری ہست کہ در مہد فرنگ است ہنوز'
+  - 'lang': 'en'
+    'text': 'A tumult, in whose swelling breast. Two hundred tumults wait | That maiden is, who dwells caressed. In Europe’s cradle yet,'
+- 'id': '008_070_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای کہ آسودہ نشینی لب ساحل بر خیز | کہ ترا کار بگرداب و نہنگ است ہنوز'
+  - 'lang': 'en'
+    'text': 'O thou who sittest at thy ease. Beside the shore, arise! | The whirlpool roars across the seas, The shark in menace lies.'
+- 'id': '008_070_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از سر تیشہ گذشتن ز خردمندی نیست | ای بسا لعل کہ اندر دل سنگ است ہنوز'
+  - 'lang': 'en'
+    'text': 'No part of wisdom ‘tis, I trow, The trusty axe to shun | Within the rock’s heart, even now, Are rubies to be won.'
+- 'id': '008_070_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'باش تا پردہ گشایم ز مقام دگری | چہ دہم شرح نواہا کہ بچنگ است ہنوز'
+  - 'lang': 'en'
+    'text': 'Await! and I will raise the veil, That other songs may thrill; | What should I of such music tell. The lute concealeth still?'
+- 'id': '008_070_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نقش پرداز جھان چون بجنونم نگریست | گفت ویرانہ بسودای تو تنگ است ہنوز'
+  - 'lang': 'en'
+    'text': 'When the world’s wondrous Artist viewed. The madness in my brain, | He cried, "Too mighty swells thy mood, This ruin to contain!"'

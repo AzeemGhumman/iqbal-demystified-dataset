@@ -1,0 +1,59 @@
+---
+'id': '008_019'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو باین گمان کہ شاید سر آستانہ دارم'
+- 'lang': 'en'
+  'text': 'Thinkest thou that to the threshold'
+'description': []
+'sher':
+- 'id': '008_019_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو باین گمان کہ شاید سر آستانہ دارم | بہ طواف خانہ کاری بخدای خانہ دارم'
+  - 'lang': 'en'
+    'text': 'Thinkest thou that to the threshold. I have made this pilgrimage? | With the master of the household. I have business to engage.'
+- 'id': '008_019_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شرر پریدہ رنگم مگذر ز جلوۂ من | کہ بتاب یک دو آنی تب جاودانہ دارم'
+  - 'lang': 'en'
+    'text': 'O deny me not thy presence, For a wan, pale spark am I | That to win a moment’s lustre. In eternal fever lie.'
+- 'id': '008_019_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نکنم دگر نگاہی بہ رہی کہ طی نمودم | بہ سراغ صبح فردا روش زمانہ دارم'
+  - 'lang': 'en'
+    'text': 'Never more will I look backward. On the road that I have traced; | ‘Tis to gain the far to-morrow. That, like Time, I forward haste.'
+- 'id': '008_019_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یم عشق کشتی من یم عشق ساحل من | نہ غم سفینہ دارم نہ سر کرانہ دارم'
+  - 'lang': 'en'
+    'text': 'Lo, love’s ocean is my vessel, And love’s ocean is my strand; | For no other ship I hanker, Nor desire another land.'
+- 'id': '008_019_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شرری فشان ولیکن شرری کہ وا نسوزد | کہ ہنوز نو نیازم غم آشیانہ دارم'
+  - 'lang': 'en'
+    'text': 'Scatter now a spark, but gently, Such a spark as will not burn; | I am newly fledged to needing, To the nest I would return.'
+- 'id': '008_019_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’’بہ امید اینکہ روزی بہ شکار خواہی آمد‘‘ | ز کمند شھریاران رم آہوانہ دارم'
+  - 'lang': 'en'
+    'text': 'In the far, fond hope that, haply, Thou wilt hunt for me one day, | From the spinning noose of princes. Like a fawn I leapt away.'
+- 'id': '008_019_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو اگر کرم نمائی بمعاشران ببخشم | دو سہ جام دلفروزی ز می شبانہ دارم'
+  - 'lang': 'en'
+    'text': 'And if thou wilt be so gracious, I will give these friends of mine | A bright glass or two delightful. Of my night-consoling wine.'

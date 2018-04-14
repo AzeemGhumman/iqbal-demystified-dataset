@@ -1,0 +1,66 @@
+---
+'id': '008_050'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خاور کہ آسمان بکمند خیال اوست'
+- 'lang': 'en'
+  'text': 'The East, that holds the heavens fast'
+'description': []
+'sher':
+- 'id': '008_050_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خاور کہ آسمان بکمند خیال اوست | از خویشتن گسستہ و بی سوز آرزوست'
+  - 'lang': 'en'
+    'text': 'The East, that holds the heavens fast. Within the noose its fancy cast, | Its spirit’s bonds are all united, The flames’ of its desire have died.'
+- 'id': '008_050_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در تیرہ خاک او تب و تاب حیات نیست | جولان موج را نگران از کنار جوست'
+  - 'lang': 'en'
+    'text': 'The burning glow of living birth. Pulses no more in its dark earth; | It stands upon the river side. And gazes at the surging tide.'
+- 'id': '008_050_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بتخانہ و حرم ھمہ افسردہ آتشی | پیر مغان شراب ہوا خوردہ در سبوست'
+  - 'lang': 'en'
+    'text': 'Faint, faint the fires of worship be. In temple and in sanctuary; | The Magian still his cup would pass, But stale the wine is in his glass.'
+- 'id': '008_050_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فکر فرنگ پیش مجاز آورد سجود | بینای کور و مست تماشای رنگ و بوست'
+  - 'lang': 'en'
+    'text': 'The vision of the West is blind, Illusion fills the Western mind; | Drunken with magic scent and hue, It bows before the great untrue.'
+- 'id': '008_050_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گردندہ تر ز چرخ و ربایندہ تر ز مرگ | از دست او بہ دامن ما چاک بی رفوست'
+  - 'lang': 'en'
+    'text': 'Swifter it spins than heaven’s sphere; Death is a gentler ravisher; | Its fingers have so torn my soul, Never again can it be whole.'
+- 'id': '008_050_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خاکی نھاد و خو ز سپہر کہن گرفت | عیار و بی مدار و کلان کار و تو بتوست'
+  - 'lang': 'en'
+    'text': 'Of the earth earthy, it would try. To emulate the ancient sky; | A rogue, a cheat, of works immense, With pivot none, and little sense.'
+- 'id': '008_050_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مشرق خراب و مغرب از آن بیشتر خراب | عالم تمام مردہ و بی ذوق جستجوست'
+  - 'lang': 'en'
+    'text': 'The East is waste and desolate, The West is more bewildered yet | The ardent quest inspires no more, Death reigns supreme the whole world o’er.'
+- 'id': '008_050_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ساقی بیار بادہ و بزم شبانہ ساز | ما را خراب یک نگہ محرمانہ ساز'
+  - 'lang': 'en'
+    'text': 'Bring me the wine of heart’s delight, And spread the banquest of the night; | Give me the bold, adventurous eye, And in love’s transport let me die.'

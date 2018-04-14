@@ -1,0 +1,38 @@
+---
+'id': '008_044'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بدہ آندل کہ مستی ہای او از بادۂ خویش است'
+- 'lang': 'en'
+  'text': 'Give me the heart whose rapture fine'
+'description': []
+'sher':
+- 'id': '008_044_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدہ آندل کہ مستی ہای او از بادۂ خویش است | بگیر آندل کہ از خود رفتہ و بیگانہ اندیش است'
+  - 'lang': 'en'
+    'text': 'Give me the heart whose rapture fine. Flames from a draught of its own wine, | And take the heart that, self-effaced, By alien fancy is embraced.'
+- 'id': '008_044_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بدہ آندل بدہ آن دل کہ گیتی را فراگیرد | بگیر این دل بگیر این دل کہ در بند کم و بیش است'
+  - 'lang': 'en'
+    'text': 'Give me the heart, give me the heart. That of the world will have no part; | I yield the heart right gladly o’er. That is a slave to less and more.'
+- 'id': '008_044_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا ای صید گیر از ترکش تقدیر بیرون کش | جگر دوزی چہ می آید از آن تیری کہ در کیش است'
+  - 'lang': 'en'
+    'text': 'O draw me forth, thou huntsman bold, Out of fate’s quiver thou dost hold; | Except the shaft be put to bow, How shall it lay the quarry low?'
+- 'id': '008_044_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگردد زندگانی خستہ از کار جہان گیری | جہانی در گرہ بستم جہانی دیگری پیش است'
+  - 'lang': 'en'
+    'text': 'This life is ne’er a weary thing. While there be worlds for conquerring: | Behold, one world lies bound and tied— Into another world I ride.'

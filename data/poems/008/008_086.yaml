@@ -1,0 +1,52 @@
+---
+'id': '008_086'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'لالہ صحرایم از طرف خیابانم برید'
+- 'lang': 'en'
+  'text': 'I am a blossom of the plain'
+'description': []
+'sher':
+- 'id': '008_086_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'لالہ صحرایم از طرف خیابانم برید | در ہوای دشت و کہسار و بیابانم برید'
+  - 'lang': 'en'
+    'text': 'I am a blossom of the plain; Carry me back from the avenue | To mountain and wilderness again. Where air’s to breathe, and the vast to view.'
+- 'id': '008_086_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'روبہی آموختم از خویش دور افتادہ ام | چارہ پردازن بہ آغوش نیستانم برید'
+  - 'lang': 'en'
+    'text': 'Far from self I have gone astray, Learnt me the foxy and furtive wont; | Carry me, helpers of the way, Back to the reeds, my ancient haunt.'
+- 'id': '008_086_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در میان سینہ حرفی داشتم گم کردہ ام | گرچہ پیرم پیش ملای دبستانم برید'
+  - 'lang': 'en'
+    'text': 'Once I had a word in my heart; Now it has vanished from my breast; | Though I am old, let me depart. Back to the school that taught me best.'
+- 'id': '008_086_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ساز خاموشم نوای دیگری دارم ہنوز | آنکہ بازم پردہ گرداند پے آنم برید'
+  - 'lang': 'en'
+    'text': 'I am a hushed and silent lute; Now in my head is a new, sweet air; | O let my strings be no longer mute, Take me to him whom will repair.'
+- 'id': '008_086_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در شب من آفتاب آن کہن داغی بس است | این چراغ زیر فانوس از شبستانم برید'
+  - 'lang': 'en'
+    'text': 'In this night that enshroudeth me. Sufficient sun is my ancient brand; | Take away from my dormitory. The shuttered lamp that is in thy hand.'
+- 'id': '008_086_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من کہ رمز شہریاری با غلامان گفتہ ام | بندۂ تقصیر وارم پیش سلطانم برید'
+  - 'lang': 'en'
+    'text': 'Lo, to the slaves I have declareed. True kingship’s innermost mystery; | I am a slave who greatly erred; To the king for judgement O carry me!'

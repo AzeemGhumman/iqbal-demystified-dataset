@@ -1,0 +1,59 @@
+---
+'id': '008_118'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'چون چراغ لالہ سوزم در خیابان شما'
+- 'lang': 'en'
+  'text': 'Like a tulip’s flame I burn'
+'description': []
+'sher':
+- 'id': '008_118_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون چراغ لالہ سوزم در خیابان شما | ای جوانان عجم جان من و جان شما'
+  - 'lang': 'en'
+    'text': 'Like a tulip’s flame I burn. In your presence as I turn; | By my life, and yours, I swear. Youth of Persia ever fair!'
+- 'id': '008_118_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'غوطہ ہا زد در ضمیر زندگی اندیشہ ام | تا بدست آوردہ ام افکار پنہان شما'
+  - 'lang': 'en'
+    'text': 'I have dived, and dived again. With my thoughts into life’s brain | Until I prevailed to find. Every secret of your mind.'
+- 'id': '008_118_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مہر و مہ دیدم نگاہم برتر از پروین گذشت | ریختم طرح حرم در کافرستان شما'
+  - 'lang': 'en'
+    'text': 'Sun and moon–I gazed on these. Far beyond the Pleiades, | And rebuilt a sanctuary. In your infidelity.'
+- 'id': '008_118_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا سنانش تیز تر گردد فرو پیچیدمش | شعلہ ئی آشفتہ بود اندر بیابان شما'
+  - 'lang': 'en'
+    'text': 'I have twisted well the blade. Till its edge was sharper made; | Pale the gleam and lustreless. Wasted in your wilderness.'
+- 'id': '008_118_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فکر رنگینم کند نذر تہی دستان شرق | پارۂ لعلی کہ دارم از بدخشان شما'
+  - 'lang': 'en'
+    'text': 'My thought’s images dispense. To the Orient’s indigence | The bright ruby that I gain. From your mines of Badakhshan.'
+- 'id': '008_118_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'میرسد مردی کہ زنجیر غلامان بشکند | دیدہ ام از روزن دیوار زندان شما'
+  - 'lang': 'en'
+    'text': 'Comes the man, to free at last. Slaves confined in fetters fast; | Through the windows in the wall. Of your prison I see all.'
+- 'id': '008_118_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حلقہ گرد من زنید ای پیکران آب و گل | آتشی در سینہ دارم از نیاکان شما'
+  - 'lang': 'en'
+    'text': 'Make a ring about me now; In my breast a fire’s aglow | That your forebears lit one day, Things of water and of clay;'

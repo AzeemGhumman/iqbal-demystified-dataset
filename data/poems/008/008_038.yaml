@@ -1,0 +1,45 @@
+---
+'id': '008_038'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'از چشم ساقی مست شرابم'
+- 'lang': 'en'
+  'text': 'By the Saqi’s eye'
+'description': []
+'sher':
+- 'id': '008_038_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از چشم ساقی مست شرابم | بی می خرابم بی می خرابم'
+  - 'lang': 'en'
+    'text': 'By the Saqi’s eye. Heart-enflamed I lie; | Drunk without wine– O delight divine!'
+- 'id': '008_038_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شوقم فزون تر از بی حجابی | بینم نہ بینم در پیچ و تابم'
+  - 'lang': 'en'
+    'text': 'All unveiled, desire. Burns a fiercer fire; | Let me see or no, Yet my soul’s aglow.'
+- 'id': '008_038_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون رشتۂ شمع آتش بگیرد | از زخمۂ من تار ربابم'
+  - 'lang': 'en'
+    'text': 'See the rebec’s string. At my fingering | Like a candle’s wick. Flameth bright and quick.'
+- 'id': '008_038_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از من برون نیست منزلگہ من | من بی نصیبم ، راہی نیابم'
+  - 'lang': 'en'
+    'text': 'Save my heart can be. Lodging none for me, | Naught is me assigned, Ne‘er a way I find.'
+- 'id': '008_038_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تا آفتابی خیزد ز خاور | مانند انجم بستند خوابم'
+  - 'lang': 'en'
+    'text': 'Till the sun arise. From the eastern skies | Sleep to me denied. Like the stars I ride.'

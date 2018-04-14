@@ -1,0 +1,66 @@
+---
+'id': '008_127'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'این ہم جہانی آن ھم جہانی'
+- 'lang': 'en'
+  'text': 'This is a world, that like to it'
+'description': []
+'sher':
+- 'id': '008_127_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این ہم جہانی آن ھم جہانی | این بیکرانی آن بیکرانی'
+  - 'lang': 'en'
+    'text': 'This is a world, that like to it, | Each boundless is, and infinite,'
+- 'id': '008_127_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر دو خیالی ہر دو گمانی | از شعلۂ من موج دخانی'
+  - 'lang': 'en'
+    'text': 'An image each, a fantasy, | A smoke-wave from the torch in me.'
+- 'id': '008_127_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این یک دو آنی آن یک دو آنی | من جاودانی من جاودانی'
+  - 'lang': 'en'
+    'text': 'Two moments this and that endure, | I only everlasting, sure;'
+- 'id': '008_127_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این کم عیاری آن کم عیاری | من پاک جانی نقد روانی'
+  - 'lang': 'en'
+    'text': 'That of but little worth, as this, | My self the sole true coin is.'
+- 'id': '008_127_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اینجا مقامی آنجا مقامی | اینجا زمانی آنجا زمانی'
+  - 'lang': 'en'
+    'text': 'Here to abide, and there to dwell, | Both here and there a little spell;'
+- 'id': '008_127_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اینجا چہ کارم آنجا چہ کارم | آہی فغانی آہی فغانی'
+  - 'lang': 'en'
+    'text': 'What is my labour, here and there? | The lamentation of despair!'
+- 'id': '008_127_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این رھزن من آن رہزن من | اینجا زیانی آنجا زیانی'
+  - 'lang': 'en'
+    'text': 'This world and that my path waylay, | In this and that is loss my pay;'
+- 'id': '008_127_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر دو فروزم ہر دو بسوزم | این آشیانی آن آشیانی'
+  - 'lang': 'en'
+    'text': 'Each my brief nest and dwelling-place– | Both let me kindle, and both raze!'

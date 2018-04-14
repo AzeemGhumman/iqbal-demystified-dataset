@@ -1,0 +1,38 @@
+---
+'id': '008_089'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'درین چمن دل مرغان زمان زمان دگر است'
+- 'lang': 'en'
+  'text': 'In the heart of the birds, that range'
+'description': []
+'sher':
+- 'id': '008_089_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درین چمن دل مرغان زمان زمان دگر است | بشاخ گل دگر است و بہ آشیان دگر است'
+  - 'lang': 'en'
+    'text': 'In the heart of the birds, that range. This garden, is ever change; | ‘Tis one with the rose at breast, And other within the nest.'
+- 'id': '008_089_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بخود نگر گلہ ہای جھان چہ میگوئی | اگر نگاہ تو دیگر شود جھان دگر است'
+  - 'lang': 'en'
+    'text': 'Look thou to thyself intent; Of the world what cause to lament? | There’s a different world to see, Be there change of sight in thee.'
+- 'id': '008_089_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ ھر زمانہ اگر چشم تو نکو نگرد | طریق میکدہ و شیوۂ مغان دگر است'
+  - 'lang': 'en'
+    'text': 'Each moment, if but thine eye. Regardeth attentively, | Changeth the tavern road. And the Magian’s wonted mode.'
+- 'id': '008_089_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ میر قافلہ از من دعا رسان و بگوی | اگرچہ راہ ہمان است کاروان دگر است'
+  - 'lang': 'en'
+    'text': 'The caravan’s leader greet. With my blessing, and then repeat: | "Though the way unchanged remain, ‘Tis a different caravan!"'

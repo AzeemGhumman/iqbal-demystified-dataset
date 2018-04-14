@@ -1,0 +1,38 @@
+---
+'id': '008_061'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دو عالم را توان دیدن بمینائی کہ من دارم'
+- 'lang': 'en'
+  'text': 'In the flask that here I hold'
+'description': []
+'sher':
+- 'id': '008_061_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دو عالم را توان دیدن بمینائی کہ من دارم | کجا چشمی کہ بیند آن تماشائی کہ من دارم'
+  - 'lang': 'en'
+    'text': 'In the flask that here I hold. Both the worlds one may behold; | Where’s the vision, to divine. The wide vista that is mine?'
+- 'id': '008_061_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دگر دیوانہ ئی آید کہ در شھر افکند ہوئی | دو صد ہنگامۂ خیزد ز سودائی کہ من دارم'
+  - 'lang': 'en'
+    'text': 'Madman comes again to town. Crying clamour up and down: | See, a hundred riots start. From the passion of my heart.'
+- 'id': '008_061_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مخور نادان غم از تاریکی شبہا کہ میآید | کہ چون انجم درخشد داغ سیمائی کہ من دارم'
+  - 'lang': 'en'
+    'text': 'Grieve not foolishly, my friend, Lest the dark of night descend; | Lo, the brand upon my brow. Gleams in starry splendour now.'
+- 'id': '008_061_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندیم خویش میسازی مرا لیکن از آن ترسم | نداری تاب آن آشوب و غوغائی کہ من دارم'
+  - 'lang': 'en'
+    'text': 'Take me for thy comrade true; Yet I fear, if so thou do, | Thou hast not the strength to bear. The vast tumult I prepare'

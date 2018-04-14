@@ -1,0 +1,45 @@
+---
+'id': '008_065'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'اگر بہ بحر محبت کرانہ می خواہی'
+- 'lang': 'en'
+  'text': 'If it be thy will to gain'
+'description': []
+'sher':
+- 'id': '008_065_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر بہ بحر محبت کرانہ می خواہی | ہزار شعلہ دہی یک زبانہ میخواہی'
+  - 'lang': 'en'
+    'text': 'If it be thy will to gain. The safe shore of Passion’s main, | With a thousand brands of fire. One faint flame is thy desire.'
+- 'id': '008_065_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مرا ز لذت پرواز آشنا کردند | تو در فضای چمن آشیانہ میخواہی'
+  - 'lang': 'en'
+    'text': 'God has taught me how to spring. Joyously upon the wing; | Thou aspirest but to rest. Cowering in thy meadow’s nest.'
+- 'id': '008_065_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یکے بہ دامن مردان آشنا آویز | ز یار اگر نگہ محرمانہ می خواہی'
+  - 'lang': 'en'
+    'text': 'Seekest thou to win perchance. The Beloved’s secret glance? | First awhile be clutching then. So the skirts of conscient men.'
+- 'id': '008_065_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جنون نداری و ہوئی فکندہ ئی در شہر | سبو شکستی و بزم شبانہ می خواہی'
+  - 'lang': 'en'
+    'text': 'With no madness in thy breast. Through the town thou clamourest; | Pitcher shattered from thy grip, Thou wouldst yet the revel keep.'
+- 'id': '008_065_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو ہم بہ عشوہ گری کوش و دلبری آموز | اگر ز ما غزل عاشقانہ می خواہی'
+  - 'lang': 'en'
+    'text': 'Practice too the amorous art, Learn to captivate the heart, | If thou dost desire of me. Love’s immortal minstrelsy.'

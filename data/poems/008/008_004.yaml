@@ -1,0 +1,17 @@
+---
+'id': '008_004'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عشق شور انگیز را ہر جادہ در کوی تو برد'
+- 'lang': 'en'
+  'text': 'Tumultuous Love where’er it rove'
+'description': []
+'sher':
+- 'id': '008_004_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': '’عشق شور انگیز را ہر جادہ در کوی تو برد‘‘ | ’’بر تلاش خود چہ مینا زد کہ رہ سوی تو برد‘‘'
+  - 'lang': 'en'
+    'text': 'Tumultuous Love where’er it rove. Unto thy street is brought; | What boasteth he who findeth thee. That for himself he sought?'

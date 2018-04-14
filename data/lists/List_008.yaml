@@ -4,4 +4,946 @@ name:
   text: زبورِعجم
 - lang: en
   text: Zabur-e-Ajam
-sections: []
+sections:
+- sectionName:
+  - lang: ur
+    text: حصہ اول
+  - lang: en
+    text: Part 1
+- poems:
+  - id: 008_001
+    poemName:
+    - lang: ur
+      text: بہ خوانندۂ کتاب زبور
+    - lang: en
+      text: To the Readers
+  - id: 008_002
+    poemName:
+    - lang: ur
+      text: حصہ اول
+    - lang: en
+      text: Part I
+  - id: 008_003
+    poemName:
+    - lang: ur
+      text: دعا
+    - lang: en
+      text: Invocation
+  - id: 008_004
+    poemName:
+    - lang: ur
+      text: عشق شور انگیز را ہر جادہ در کوی تو برد
+    - lang: en
+      text: Tumultuous Love where’er it rove
+  - id: 008_005
+    poemName:
+    - lang: ur
+      text: درون سینۂ ما سوز آرزو ز کجاست؟
+    - lang: en
+      text: Whence sprang the flaming fire
+  - id: 008_006
+    poemName:
+    - lang: ur
+      text: غزل سرای و نواہای رفتہ باز آور
+    - lang: en
+      text: O bring me back the singing.
+  - id: 008_007
+    poemName:
+    - lang: ur
+      text: ایکہ ز من فزدوہ ئی گرمی آہ و نالہ را
+    - lang: en
+      text: Thou who didst make more ardent
+  - id: 008_008
+    poemName:
+    - lang: ur
+      text: از مشت غبار ما صد نالہ برانگیزی
+    - lang: en
+      text: Out of our dust thou stirrest
+  - id: 008_009
+    poemName:
+    - lang: ur
+      text: من اگرچہ تیرہ خاکم دلکیست برگ و سازم
+    - lang: en
+      text: Though dust, and dark as dust, am I
+  - id: 008_010
+    poemName:
+    - lang: ur
+      text: بصدای درمندی بنوای دلپذیری
+    - lang: en
+      text: With a song of agony
+  - id: 008_011
+    poemName:
+    - lang: ur
+      text: بر سر کفر و دین فشان رحمت عام خویش را
+    - lang: en
+      text: On faith and infidelity
+  - id: 008_012
+    poemName:
+    - lang: ur
+      text: نوای من از آن پر سوز و بیباک و غم انگیزست
+    - lang: en
+      text: A flame is in my minstrelsy
+  - id: 008_013
+    poemName:
+    - lang: ur
+      text: دل دیدہ ئی کہ دارم ہمہ لذت نظارہ
+    - lang: en
+      text: All the dear delight to see
+  - id: 008_014
+    poemName:
+    - lang: ur
+      text: گرچہ شاہین خرد بر سر پروازی ہست
+    - lang: en
+      text: Though the falcon of the brain
+  - id: 008_015
+    poemName:
+    - lang: ur
+      text: این جہان چیست صنم خانۂ پندار من است
+    - lang: en
+      text: What is the world? The temple of my thought
+  - id: 008_016
+    poemName:
+    - lang: ur
+      text: فصل بہار این چنین بانگ ہزار این چنین
+    - lang: en
+      text: It is the season of the spring
+  - id: 008_017
+    poemName:
+    - lang: ur
+      text: برون کشید ز پیچاک ہست و بود مرا
+    - lang: en
+      text: From life and being’s twisted skein
+  - id: 008_018
+    poemName:
+    - lang: ur
+      text: خیز و بخاک تشنہ ئی بادۂ زندگی فشان
+    - lang: en
+      text: Rise! and upon the thirsty land
+  - id: 008_019
+    poemName:
+    - lang: ur
+      text: تو باین گمان کہ شاید سر آستانہ دارم
+    - lang: en
+      text: Thinkest thou that to the threshold
+  - id: 008_020
+    poemName:
+    - lang: ur
+      text: نظر بہ راہ نشینان سوارہ می گذرد
+    - lang: en
+      text: With a glance at us who sit by the way
+  - id: 008_021
+    poemName:
+    - lang: ur
+      text: بر عقل فلک پیما ترکانہ شبیخون بہ
+    - lang: en
+      text: Better is the robbers’ train
+  - id: 008_022
+    poemName:
+    - lang: ur
+      text: یا مسلمان را مدہ فرمان کہ جان بر کف بنہ
+    - lang: en
+      text: Or no more command the Muslim
+  - id: 008_023
+    poemName:
+    - lang: ur
+      text: عقل ہم عشق است و از ذوق نگہ بیگانہ نیست
+    - lang: en
+      text: Intellect is passion too
+  - id: 008_024
+    poemName:
+    - lang: ur
+      text: سوز و گداز زندگی لذت جستجوی تو
+    - lang: en
+      text: All that in life I love the best
+  - id: 008_025
+    poemName:
+    - lang: ur
+      text: درین محفل کہ کار او گذشت از بادہ و ساقی
+    - lang: en
+      text: The night grows late, the route is up
+  - id: 008_026
+    poemName:
+    - lang: ur
+      text: ساقیا بر جگرم شعلۂ نمناک انداز
+    - lang: en
+      text: Saqi, on my heart bestow
+  - id: 008_027
+    poemName:
+    - lang: ur
+      text: از آن آبی کہ در من لالہ کارد ساتگینی دہ
+    - lang: en
+      text: The juice that maketh tulips spring
+  - id: 008_028
+    poemName:
+    - lang: ur
+      text: ز ہر نقشی کہ دل از دیدہ گیرد پاک میآیم
+    - lang: en
+      text: Of every image that the heart
+  - id: 008_029
+    poemName:
+    - lang: ur
+      text: دل بی قید من با نور ایمان کافری کردہ
+    - lang: en
+      text: Against the light, an infidel
+  - id: 008_030
+    poemName:
+    - lang: ur
+      text: ز شاعر نالہ مستانہ در محشر چہ می خواہی
+    - lang: en
+      text: Why in the concourse dost thou seek
+  - id: 008_031
+    poemName:
+    - lang: ur
+      text: نہ در اندیشۂ من کار زار کفر و ایمانی
+    - lang: en
+      text: Faith and infidelity
+  - id: 008_032
+    poemName:
+    - lang: ur
+      text: مرغ خوش لہجہ و شاہین شکاری از تست
+    - lang: en
+      text: Thine is the hawk upon the wing
+  - id: 008_033
+    poemName:
+    - lang: ur
+      text: خوشتر ز ہزار پارسائی
+    - lang: en
+      text: One step on friendship’s road
+  - id: 008_034
+    poemName:
+    - lang: ur
+      text: بر جھان دل من تاختنش را نگرید
+    - lang: en
+      text: In my heart’s empire, see
+  - id: 008_035
+    poemName:
+    - lang: ur
+      text: مرا براہ طلب بار در گل است ہنوز
+    - lang: en
+      text: Upon the road of high desire
+  - id: 008_036
+    poemName:
+    - lang: ur
+      text: زمستان را سرآمد روزگاران
+    - lang: en
+      text: The days are ended
+  - id: 008_037
+    poemName:
+    - lang: ur
+      text: ہوای خانہ و منزل ندارم
+    - lang: en
+      text: At home to loiter never did me please
+  - id: 008_038
+    poemName:
+    - lang: ur
+      text: از چشم ساقی مست شرابم
+    - lang: en
+      text: By the Saqi’s eye
+  - id: 008_039
+    poemName:
+    - lang: ur
+      text: شب من سحر نمودی کہ بہ طلعت آفتابی
+    - lang: en
+      text: Thou didst turn my night to dawning
+  - id: 008_040
+    poemName:
+    - lang: ur
+      text: درین میخانہ ای ساقی ندارم محرمی دیگر
+    - lang: en
+      text: None other in this tavern is
+  - id: 008_041
+    poemName:
+    - lang: ur
+      text: بجہان دردمندان تو بگو چہ کار داری
+    - lang: en
+      text: 'Tell me this: what is thy share'
+  - id: 008_042
+    poemName:
+    - lang: ur
+      text: اگر نظارہ از خود رفتگی آرد حجاب اولی
+    - lang: en
+      text: If vision self-effacement bring
+  - id: 008_043
+    poemName:
+    - lang: ur
+      text: نور تو وانمود سپید و سیاہ را
+    - lang: en
+      text: Thy light defineth all things one by one
+  - id: 008_044
+    poemName:
+    - lang: ur
+      text: بدہ آندل کہ مستی ہای او از بادۂ خویش است
+    - lang: en
+      text: Give me the heart whose rapture fine
+  - id: 008_045
+    poemName:
+    - lang: ur
+      text: کف خاکی برگ و سازم برہی فشانم او را
+    - lang: en
+      text: A hand of dust is all I own
+  - id: 008_046
+    poemName:
+    - lang: ur
+      text: این دل کہ مرا دادی لبریز یقین بادا
+    - lang: en
+      text: Let this heart thou gayest me
+  - id: 008_047
+    poemName:
+    - lang: ur
+      text: رمز عشق تو بہ ارباب ہوس نتوان گفت
+    - lang: en
+      text: To passion’s slaves let no man e’er
+  - id: 008_048
+    poemName:
+    - lang: ur
+      text: یاد ایامی کہ خوردم بادہ ہا با چنگ و نی
+    - lang: en
+      text: Ah, the wine, the lute, the piping
+  - id: 008_049
+    poemName:
+    - lang: ur
+      text: انجم بگریبان ریخت این دیدۂ تر ما را
+    - lang: en
+      text: Stars on my bosom shine
+  - id: 008_050
+    poemName:
+    - lang: ur
+      text: خاور کہ آسمان بکمند خیال اوست
+    - lang: en
+      text: The East, that holds the heavens fast
+  - id: 008_051
+    poemName:
+    - lang: ur
+      text: فرصت کشمکش مدہ این دل بی قرار را
+    - lang: en
+      text: Leave no quarter to resist
+  - id: 008_052
+    poemName:
+    - lang: ur
+      text: جانم در آویخت با روزگاران
+    - lang: en
+      text: My soul, embattled. With fortune ever,
+  - id: 008_053
+    poemName:
+    - lang: ur
+      text: بہ تسلئی کہ دادی نگذاشت کار خود را
+    - lang: en
+      text: In thy hands I now deliver
+  - id: 008_054
+    poemName:
+    - lang: ur
+      text: بحرفی می توان گفتن تمنای جہانی را
+    - lang: en
+      text: A single word sufficeth well
+  - id: 008_055
+    poemName:
+    - lang: ur
+      text: چند بروی خودکشی پردۂ صبح و شام را
+    - lang: en
+      text: How long the veil of eve and dawn
+  - id: 008_056
+    poemName:
+    - lang: ur
+      text: نفس شمار بہ پیچاک روزگار خودیم
+    - lang: en
+      text: One by one we count our breath
+  - id: 008_057
+    poemName:
+    - lang: ur
+      text: بہ فغان نہ لب گشودم کہ فغان اثر ندارد
+    - lang: en
+      text: No lament, no sigh I uttered
+  - id: 008_058
+    poemName:
+    - lang: ur
+      text: ما کہ افتندہ تر از پرتو ماہ آمدہ ایم
+    - lang: en
+      text: Tremulous as the moon-light
+  - id: 008_059
+    poemName:
+    - lang: ur
+      text: ای خدای مہر و مہ خاک پریشانی نگر
+    - lang: en
+      text: Lord, who didst bring the stars to birth
+  - id: 008_060
+    poemName:
+    - lang: ur
+      text: ’شاخ نھال سدرہ ئی خار و خس چمن مشو‘‘
+    - lang: en
+      text: Branch of the Sidra tree thou art
+- sectionName:
+  - lang: ur
+    text: حصہ دوم
+  - lang: en
+    text: Part 2
+- poems:
+  - id: 008_061
+    poemName:
+    - lang: ur
+      text: دو عالم را توان دیدن بمینائی کہ من دارم
+    - lang: en
+      text: In the flask that here I hold
+  - id: 008_062
+    poemName:
+    - lang: ur
+      text: بر خیز کہ آدم را ہنگام نمود آمد
+    - lang: en
+      text: Rise up! The hour is here
+  - id: 008_063
+    poemName:
+    - lang: ur
+      text: مہ و ستارہ کہ در راہ شوق ہم سفرند
+    - lang: en
+      text: On the roadway of desire
+  - id: 008_064
+    poemName:
+    - lang: ur
+      text: درون لالہ گذر چون صبا توانی کرد
+    - lang: en
+      text: Thou canst pass, like morning’s breeze
+  - id: 008_065
+    poemName:
+    - lang: ur
+      text: اگر بہ بحر محبت کرانہ می خواہی
+    - lang: en
+      text: If it be thy will to gain
+  - id: 008_066
+    poemName:
+    - lang: ur
+      text: زمانہ قاصد طیار آن دلآرام است
+    - lang: en
+      text: Time is the winged messenger
+  - id: 008_067
+    poemName:
+    - lang: ur
+      text: دگر ز سادہ دلیہای یار نتوان گفت
+    - lang: en
+      text: Of the Friend’s ingenuous wit
+  - id: 008_068
+    poemName:
+    - lang: ur
+      text: خرد از ذوق نگہ گرم تماشا بود است
+    - lang: en
+      text: Mind, that is ever questing
+  - id: 008_069
+    poemName:
+    - lang: ur
+      text: غلام زندہ دلانم کہ عاشق سرہ اند
+    - lang: en
+      text: I am the slave of each living heart
+  - id: 008_070
+    poemName:
+    - lang: ur
+      text: لالہ این چمن آلودۂ رنگ است ہنوز
+    - lang: en
+      text: The tulip of this meadowland
+  - id: 008_071
+    poemName:
+    - lang: ur
+      text: تکیہ بر حجت و اعجاز و بیان نیز کنند
+    - lang: en
+      text: Faith depends on arguments
+  - id: 008_072
+    poemName:
+    - lang: ur
+      text: چو موج مست خودی باش و سر بطوفان کش
+    - lang: en
+      text: Drunk with self hood like a wave
+  - id: 008_073
+    poemName:
+    - lang: ur
+      text: خضر وقت از خلوت دشت حجاز آید برون
+    - lang: en
+      text: Out of Hejaz and the lonely plain
+  - id: 008_074
+    poemName:
+    - lang: ur
+      text: ز سلطان کنم آرزوی نگاہی
+    - lang: en
+      text: Of the Sultan I would take
+  - id: 008_075
+    poemName:
+    - lang: ur
+      text: با نشئہ درویشی در ساز و دمادم زن
+    - lang: en
+      text: Like the dervish drunken be
+  - id: 008_076
+    poemName:
+    - lang: ur
+      text: ہوس ہنوز تماشا گر جہانداری است
+    - lang: en
+      text: Greed is acting still his play
+  - id: 008_077
+    poemName:
+    - lang: ur
+      text: فرشتہ گرچہ برون از طلسم افلاک است
+    - lang: en
+      text: Although the Angel dwells beyond
+  - id: 008_078
+    poemName:
+    - lang: ur
+      text: عرب کہ باز دہد محفل شبانہ کجاست
+    - lang: en
+      text: Where is the Arab, to revive
+  - id: 008_079
+    poemName:
+    - lang: ur
+      text: مانند صبا خیز و وزیدن دگر آموز
+    - lang: en
+      text: Rise like the morning air
+  - id: 008_080
+    poemName:
+    - lang: ur
+      text: ای غنچہ خوابیدہ چو نرگس نگران خیز
+    - lang: en
+      text: Little flower fast asleep
+  - id: 008_081
+    poemName:
+    - lang: ur
+      text: جہان ما ہمہ خاک است و پی سپر گردد
+    - lang: en
+      text: Our world is dusty clay
+  - id: 008_082
+    poemName:
+    - lang: ur
+      text: باز بر رفتہ و آیندہ نظر باید کرد
+    - lang: en
+      text: Sleeper, rise thou up, and fast
+  - id: 008_083
+    poemName:
+    - lang: ur
+      text: خیال من بہ تماشای آسمان بود است
+    - lang: en
+      text: My mind awhile was gone
+  - id: 008_084
+    poemName:
+    - lang: ur
+      text: از نوا بر من قیامت رفت و کس آگاہ نیست
+    - lang: en
+      text: A melody swept me through and through
+  - id: 008_085
+    poemName:
+    - lang: ur
+      text: شراب میکدۂ من نہ یادگار جم است
+    - lang: en
+      text: No Jamshid’s memory, the wine
+  - id: 008_086
+    poemName:
+    - lang: ur
+      text: لالہ صحرایم از طرف خیابانم برید
+    - lang: en
+      text: I am a blossom of the plain
+  - id: 008_087
+    poemName:
+    - lang: ur
+      text: سخن تازہ زدم کس بسخن وا نرسید
+    - lang: en
+      text: I uttered a new word
+  - id: 008_088
+    poemName:
+    - lang: ur
+      text: عاشق آن نیست کہ لب گرم فغانی دارد
+    - lang: en
+      text: Never lover true is he
+  - id: 008_089
+    poemName:
+    - lang: ur
+      text: درین چمن دل مرغان زمان زمان دگر است
+    - lang: en
+      text: In the heart of the birds, that range
+  - id: 008_090
+    poemName:
+    - lang: ur
+      text: ما از خدای گم شدہ ایم او بجستجوست
+    - lang: en
+      text: We are gone astray from God
+  - id: 008_091
+    poemName:
+    - lang: ur
+      text: خواجہ از خون رگ مزدور سازد لعل ناب
+    - lang: en
+      text: Of the hirelings’s blood outpoured
+  - id: 008_092
+    poemName:
+    - lang: ur
+      text: گرچہ می دانم کہ روزی بی نقاب آید برون
+    - lang: en
+      text: Although the soul, I know
+  - id: 008_093
+    poemName:
+    - lang: ur
+      text: گشادہ رو ز خوش و ناخوش زمانہ گذر
+    - lang: en
+      text: Whether the world be foul or fair
+  - id: 008_094
+    poemName:
+    - lang: ur
+      text: زندگی در صدف خویش گہر ساختن است
+    - lang: en
+      text: What is this life? A pearl
+  - id: 008_095
+    poemName:
+    - lang: ur
+      text: برون زین گنبد در بستہ پیدا کردہ ام راہی
+    - lang: en
+      text: Beyond heaven’s shuttered dome
+  - id: 008_096
+    poemName:
+    - lang: ur
+      text: گنہکار غیورم مزد بی خدمت نمی گیرم
+    - lang: en
+      text: A sinner proud am I; no need
+  - id: 008_097
+    poemName:
+    - lang: ur
+      text: جہان کورست و از آئینۂ دل غافل افتاد است
+    - lang: en
+      text: The world had lost its sight
+  - id: 008_098
+    poemName:
+    - lang: ur
+      text: نیابی در جہان یاری کہ داند دلنوازی را
+    - lang: en
+      text: No friend in the world entire thou wilt find
+  - id: 008_099
+    poemName:
+    - lang: ur
+      text: علمی کہ تو آموزی مشتاق نگاہی نیست
+    - lang: en
+      text: The fine science thou dost learn
+  - id: 008_100
+    poemName:
+    - lang: ur
+      text: چو خورشید سحر پیدا نگاہی می توان کردن
+    - lang: en
+      text: Vision can be won
+  - id: 008_101
+    poemName:
+    - lang: ur
+      text: کشیدی بادہ ہا در صحبت بیگانہ پی در پی
+    - lang: en
+      text: Too oft was thy light
+  - id: 008_102
+    poemName:
+    - lang: ur
+      text: عشق اندر جستجو افتاد آدم حاصل است
+    - lang: en
+      text: Love want searching thro’ the earth
+  - id: 008_103
+    poemName:
+    - lang: ur
+      text: بیا کہ خاوریان نقش تازہ ئی بستند
+    - lang: en
+      text: Come! The Asiatic man
+  - id: 008_104
+    poemName:
+    - lang: ur
+      text: عشق را نازم کہ بودش را غم نابود نی
+    - lang: en
+      text: I boast a love that is not grieved
+  - id: 008_105
+    poemName:
+    - lang: ur
+      text: بر دل بیتاب من ساقی می نابی زند
+    - lang: en
+      text: The Saqi, pouring his pure wine
+  - id: 008_106
+    poemName:
+    - lang: ur
+      text: فروغ خاکیان از نوریان افزون شود روزی
+    - lang: en
+      text: Brighter shall shine men’s clay
+  - id: 008_107
+    poemName:
+    - lang: ur
+      text: ز رسم و راہ شریعت نکردہ ام تحقیق
+    - lang: en
+      text: I have never discovered well
+  - id: 008_108
+    poemName:
+    - lang: ur
+      text: از ہمہ کس کنارہ گیر صحبت آشنا طلب
+    - lang: en
+      text: Far, far from every other go
+  - id: 008_109
+    poemName:
+    - lang: ur
+      text: بینی جہان را خود را نبینی
+    - lang: en
+      text: The world, but not selfhood, thou canst see
+  - id: 008_110
+    poemName:
+    - lang: ur
+      text: من ہیچ نمی ترسم از حادثۂ شب ہا
+    - lang: en
+      text: In the accidents of night
+  - id: 008_111
+    poemName:
+    - lang: ur
+      text: تو کیستی ز کجائی کہ آسمان کبود
+    - lang: en
+      text: What man art thou, and where thy home?
+  - id: 008_112
+    poemName:
+    - lang: ur
+      text: دیار شوق کہ درد آشناست خاک آنجا
+    - lang: en
+      text: In the abode of passion, where
+  - id: 008_113
+    poemName:
+    - lang: ur
+      text: می دیرینہ و معشوق جوان چیزی نیست
+    - lang: en
+      text: The young beloved, the ancient wine
+  - id: 008_114
+    poemName:
+    - lang: ur
+      text: قلندران کہ بہ تسخیر آب و گل کوشند
+    - lang: en
+      text: Qalanders, who to their sway
+  - id: 008_115
+    poemName:
+    - lang: ur
+      text: دو دستہ تیغم و گردون برہنہ ساخت مرا
+    - lang: en
+      text: A double-handled sword am I
+  - id: 008_116
+    poemName:
+    - lang: ur
+      text: مثل شرر ذرہ را تن بہ تپیدن دہم
+    - lang: en
+      text: Each atom’s body like a spark
+  - id: 008_117
+    poemName:
+    - lang: ur
+      text: خودی را مردم آمیزی دلیل نارسائی ہا
+    - lang: en
+      text: Ever to be about with men
+  - id: 008_118
+    poemName:
+    - lang: ur
+      text: چون چراغ لالہ سوزم در خیابان شما
+    - lang: en
+      text: Like a tulip’s flame I burn
+  - id: 008_119
+    poemName:
+    - lang: ur
+      text: دم مرا صفت باد فرودین کردند
+    - lang: en
+      text: Soft my breath doth pass
+  - id: 008_120
+    poemName:
+    - lang: ur
+      text: گذر از آنکہ ندیدست و جز خبر ندہد
+    - lang: en
+      text: Leave him who never won to sight
+  - id: 008_121
+    poemName:
+    - lang: ur
+      text: در این صحرا گذر افتاد شاید کاروانی را
+    - lang: en
+      text: It chanced within the desert nigh
+  - id: 008_122
+    poemName:
+    - lang: ur
+      text: ترا نادان امید غمگساریہا ز افرنگ است
+    - lang: en
+      text: Fool! Is there then such hope in thee
+  - id: 008_123
+    poemName:
+    - lang: ur
+      text: بگذر از خاور و افسونی افرنگ مشو
+    - lang: en
+      text: Eschew the West, and do not be
+  - id: 008_124
+    poemName:
+    - lang: ur
+      text: جہان رنگ و بو پیدا تو میگوئی کہ راز است این
+    - lang: en
+      text: A secret ‘tis, ‘tis evident
+  - id: 008_125
+    poemName:
+    - lang: ur
+      text: از داغ فراق او در دل چمنی دارم
+    - lang: en
+      text: This brand of grief, His love apart
+  - id: 008_126
+    poemName:
+    - lang: ur
+      text: بہ نگاہ آشنائی چو درون لالہ دیدم
+    - lang: en
+      text: When the tulip’s heart I viewed
+  - id: 008_127
+    poemName:
+    - lang: ur
+      text: این ہم جہانی آن ھم جہانی
+    - lang: en
+      text: This is a world, that like to it
+  - id: 008_128
+    poemName:
+    - lang: ur
+      text: بہار آمد نگہ می غلطد اندر آتش لالہ
+    - lang: en
+      text: Spring is come; bright glances dart
+  - id: 008_129
+    poemName:
+    - lang: ur
+      text: صورت گری کہ پیکر روز و شب آفرید
+    - lang: en
+      text: The Artist, Whose vast mind
+  - id: 008_130
+    poemName:
+    - lang: ur
+      text: باز این عالم دیرینہ جوان می بایست
+    - lang: en
+      text: This ancient universe
+  - id: 008_131
+    poemName:
+    - lang: ur
+      text: لالہ این گلستان داغ تمنائی نداشت
+    - lang: en
+      text: In the mead a tulip blows
+  - id: 008_132
+    poemName:
+    - lang: ur
+      text: ہنگامہ را کہ بست درین دیر دیر پای
+    - lang: en
+      text: Whence hath this commotion swirled
+  - id: 008_133
+    poemName:
+    - lang: ur
+      text: ای لالہ ای چراغ کہستان و باغ و راغ
+    - lang: en
+      text: Tulip in the mountains blowing
+  - id: 008_134
+    poemName:
+    - lang: ur
+      text: من بندۂ آزادم عشق است امام من
+    - lang: en
+      text: I am a slave set free
+  - id: 008_135
+    poemName:
+    - lang: ur
+      text: کم سخن غنچہ کہ در پردۂ دل رازی داشت
+    - lang: en
+      text: Silent rosebud in her heart
+  - id: 008_136
+    poemName:
+    - lang: ur
+      text: خود را کنم سجودی ، دیر و حرم نماندہ
+    - lang: en
+      text: To my self alone I bow
+- sectionName:
+  - lang: ur
+    text: حصہ سوم
+  - lang: en
+    text: Part 3
+- poems:
+  - id: 008_137
+    poemName:
+    - lang: ur
+      text: بہ سواد دیدۂ تو نظر آفریدہ ام من
+    - lang: en
+      text: I HAVE imparted insight to the pupil of your eye
+  - id: 008_138
+    poemName:
+    - lang: ur
+      text: تمہید
+    - lang: en
+      text: Introduction
+  - id: 008_139
+    poemName:
+    - lang: ur
+      text: نخست از فکر خویشم در تحیر
+    - lang: en
+      text: Question 1
+  - id: 008_140
+    poemName:
+    - lang: ur
+      text: چہ بحر است این کہ علمش ساحل آمد
+    - lang: en
+      text: Question 2
+  - id: 008_141
+    poemName:
+    - lang: ur
+      text: وصال ممکن و واجب بہم چیست؟
+    - lang: en
+      text: Question 3
+  - id: 008_142
+    poemName:
+    - lang: ur
+      text: قدیم و محدث از ہم چون جدا شد
+    - lang: en
+      text: Question 4
+  - id: 008_143
+    poemName:
+    - lang: ur
+      text: کہ من باشم مرا از من خبر کن
+    - lang: en
+      text: Question 5
+  - id: 008_144
+    poemName:
+    - lang: ur
+      text: چہ جزو است آنکہ او از کل فزون است
+    - lang: en
+      text: Question 6
+  - id: 008_145
+    poemName:
+    - lang: ur
+      text: مسافر چون بود رہرو کدام است
+    - lang: en
+      text: Question 7
+  - id: 008_146
+    poemName:
+    - lang: ur
+      text: کدامی نکتہ را نطق است اناالحق
+    - lang: en
+      text: Question 8
+  - id: 008_147
+    poemName:
+    - lang: ur
+      text: کہ شد بر سر وحدت واقف آخر؟
+    - lang: en
+      text: Question 9
+  - id: 008_148
+    poemName:
+    - lang: ur
+      text: خاتمہ
+    - lang: en
+      text: Epilogue
+- sectionName:
+  - lang: ur
+    text: حصہ چهارم
+  - lang: en
+    text: Part 4
+- poems:
+  - id: 008_149
+    poemName:
+    - lang: ur
+      text: بندگی نامہ
+    - lang: en
+      text: Introduction
+  - id: 008_150
+    poemName:
+    - lang: ur
+      text: موسیقی
+    - lang: en
+      text: Music
+  - id: 008_151
+    poemName:
+    - lang: ur
+      text: مصوری
+    - lang: en
+      text: Painting
+  - id: 008_152
+    poemName:
+    - lang: ur
+      text: مذہب غلامان
+    - lang: en
+      text: Religion of the Slaves
+  - id: 008_153
+    poemName:
+    - lang: ur
+      text: در فن تعمیر مردان آزاد
+    - lang: en
+      text: On the Architecture of Free Men

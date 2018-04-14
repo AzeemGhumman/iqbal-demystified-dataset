@@ -1,0 +1,24 @@
+---
+'id': '008_046'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'این دل کہ مرا دادی لبریز یقین بادا'
+- 'lang': 'en'
+  'text': 'Let this heart thou gayest me'
+'description': []
+'sher':
+- 'id': '008_046_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این دل کہ مرا دادی لبریز یقین بادا | این جام جہان بینم روشن تر ازین بادا'
+  - 'lang': 'en'
+    'text': 'Let this heart thou gayest me. Overflow with certainty, | And my world-beholding glass. All its radiance surpass.'
+- 'id': '008_046_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تلخی کہ فرو ریزد گردون بہ سفال من | در کام کہن رندی آنہم شکرین بادا'
+  - 'lang': 'en'
+    'text': 'Let the bitter potion poured. By the heavens in my gourd | On this toper’s tongue of mine. Taste as sweet as honeyed wine.'

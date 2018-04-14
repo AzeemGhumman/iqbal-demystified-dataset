@@ -1,0 +1,45 @@
+---
+'id': '008_081'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'جہان ما ہمہ خاک است و پی سپر گردد'
+- 'lang': 'en'
+  'text': 'Our world is dusty clay'
+'description': []
+'sher':
+- 'id': '008_081_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان ما ہمہ خاک است و پی سپر گردد | ندانم اینکہ نفسہای رفتہ بر گردد'
+  - 'lang': 'en'
+    'text': 'Our world is dusty clay. Trampled upon the way; | I do not think our breath. Returneth out of death.'
+- 'id': '008_081_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شبی کہ گور غریبان نشیمن است او را | مہ و ستارہ ندارد چسان سحر گردد'
+  - 'lang': 'en'
+    'text': 'This night, whose only home. Is in the strangers’ tomb, | No moon, no stars here burn; To dawn how shall it turn?'
+- 'id': '008_081_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلی کہ تاب و تب لایزال می طلبد | کرا خبر کہ شود برق یا شرر گردد'
+  - 'lang': 'en'
+    'text': 'The heart, whose whole desire. I quenchless flame and fire, | Who knows, if it shall grow. To lightning flash, or glow?'
+- 'id': '008_081_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نگاہ شوق و خیال بلند و ذوق وجود | مترس ازین کہ ہمہ خاک رہگذر گردد'
+  - 'lang': 'en'
+    'text': 'High fancy, passion’s glance, And life’s exuberance, | Fear not, for these all three. Dust of the road shall be.'
+- 'id': '008_081_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چنان بزی کہ اگر مرگ ماست مرگ دوام | خدا ز کردۂ خود شرمسار تر گردد'
+  - 'lang': 'en'
+    'text': 'So live, that if our death. For aye continueth, | God shall be shamed, to know. What things He wrought below.'

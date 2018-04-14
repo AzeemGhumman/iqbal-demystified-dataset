@@ -1,0 +1,52 @@
+---
+'id': '008_123'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بگذر از خاور و افسونی افرنگ مشو'
+- 'lang': 'en'
+  'text': 'Eschew the West, and do not be'
+'description': []
+'sher':
+- 'id': '008_123_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگذر از خاور و افسونی افرنگ مشو | کہ نیرزد بہ جوی اینہمہ دیرینہ و نو'
+  - 'lang': 'en'
+    'text': 'Eschew the West, and do not be. Bewitched by Europe’s wizardry; | Not worth a barley, in my view, Is all her ancient and her new.'
+- 'id': '008_123_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون پرکاہ کہ در رھگذر باد افتاد | رفت اسکندر و دارا و قباد و خسرو'
+  - 'lang': 'en'
+    'text': 'Mighty Darius, Iskandar, Khusrau and Kaikobad–all are | A blade of grass upon the way. Swept by a passing wind, to-day.'
+- 'id': '008_123_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندگی انجمن آرا و نگہدار خود است | ایکہ در قافلہ ئی بی ہمہ شو با ہمہ رو'
+  - 'lang': 'en'
+    'text': 'Life is the Self to beautify, To guard the Self right jealously; | Upon a caravan thou art– Fare on with all, but go apart!'
+- 'id': '008_123_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو فروزندہ تر از مہر منیر آمدہ ئی | آنچنان زی کہ بہر ذرہ رسانی پرتو'
+  - 'lang': 'en'
+    'text': 'Radiant thou camest from the sky, Far brighter than the sun on high; | So live, that every mote may be. Illumined by thy brilliancy.'
+- 'id': '008_123_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن نگینی کہ تو با اہرمنان باختہ ئی | ہم بہ جبریل امینی نتوان کرد گرو'
+  - 'lang': 'en'
+    'text': 'Thou hast not spared thy precious ring. Idly to Ahriman to fling– | To pledge the which it were not well. Even to trusty Gabriel.'
+- 'id': '008_123_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از تنک جامی ما میکدہ رسوا گردید | شیشہ ئی گیر و حکیمانہ بیاشام و برو'
+  - 'lang': 'en'
+    'text': 'The tavern is ashamed, because, So narrow is become our glass; | A beaker take, and prudently. Drink wine–and then be off with thee!'

@@ -1,0 +1,24 @@
+---
+'id': '008_121'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'در این صحرا گذر افتاد شاید کاروانی را'
+- 'lang': 'en'
+  'text': 'It chanced within the desert nigh'
+'description': []
+'sher':
+- 'id': '008_121_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در این صحرا گذر افتاد شاید کاروانی را | پس از مدت شنیدم نغمہ ہای ساربانی را'
+  - 'lang': 'en'
+    'text': 'It chanced within the desert nigh. A caravan was passing by, | And presently there reached my ear. The leader’s carol, loud and clear.'
+- 'id': '008_121_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر یک یوسف از زندان فرعونی برون آید | بغارت میتوان دادن متاع کاروانی را'
+  - 'lang': 'en'
+    'text': '"If from some Pharaoh’s dark redoubt. A Joseph might at last come out, | Open for all to plunder lies. A caravan of merchandise."'

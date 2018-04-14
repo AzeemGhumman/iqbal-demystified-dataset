@@ -1,0 +1,45 @@
+---
+'id': '008_101'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'کشیدی بادہ ہا در صحبت بیگانہ پی در پی'
+- 'lang': 'en'
+  'text': 'Too oft was thy light'
+'description': []
+'sher':
+- 'id': '008_101_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کشیدی بادہ ہا در صحبت بیگانہ پی در پی | بنور دیگران افروختی پیمانہ پی در پی'
+  - 'lang': 'en'
+    'text': 'Too oft was thy light. With strangers to take wine, | To suffer others’ light. Within the bowl to shine.'
+- 'id': '008_101_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز دست ساقی خاور دو جام ارغوان در کش | کہ از خاک تو خیزد نالۂ مستانہ پی در پی'
+  - 'lang': 'en'
+    'text': 'The orient wine-bearer. Hands thee the purple cup; | Drink! Let the drunkard’s air. From thy parched earth mount up!'
+- 'id': '008_101_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلی کو از تب و تاب تمنا آشنا گردد | زند بر شعلہ خود را صورت پروانہ پی در پی'
+  - 'lang': 'en'
+    'text': 'The heart that knoweth well. The fever of desire | Moth-like will hover still. About the candle’s fire.'
+- 'id': '008_101_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز اشک صبحگاہی زندگی را برگ و ساز آور | شود کشت تو ویران تا نریزی دانہ پی در پی'
+  - 'lang': 'en'
+    'text': 'Sprinkle thy morning tears. Upon life’s desert plain; | New harvest scarce appears. Except thou sow thy grain.'
+- 'id': '008_101_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بگردان جام و از ہنگامہ افرنگ کمتر گوی | ہزاران کاروان بگذشت ازین ویرانہ پی در پی'
+  - 'lang': 'en'
+    'text': 'Pass wine! Speak not to me. Of Europe’s tumult vast; | Caravans countlessly. That desolation passed.'

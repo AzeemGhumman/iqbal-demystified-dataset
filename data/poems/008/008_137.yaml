@@ -1,0 +1,24 @@
+---
+'id': '008_137'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ سواد دیدۂ تو نظر آفریدہ ام من'
+- 'lang': 'en'
+  'text': 'I HAVE imparted insight to the pupil of your eye'
+'description': []
+'sher':
+- 'id': '008_137_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ سواد دیدۂ تو نظر آفریدہ ام من | بہ ضمیر تو جھانی دگر آفریدہ ام من'
+  - 'lang': 'en'
+    'text': 'I HAVE imparted insight to the pupil of your eye, | And created a new world in your self;'
+- 'id': '008_137_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمہ خاوران بخوابی کہ نہان ز چشم انجم | بہ سرود زندگانی سحر آفریدہ ام من'
+  - 'lang': 'en'
+    'text': 'All the East is asleep; hidden from the eyes of the stars, | I have created morning by the melody of life.'

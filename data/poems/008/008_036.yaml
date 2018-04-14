@@ -1,0 +1,52 @@
+---
+'id': '008_036'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'زمستان را سرآمد روزگاران'
+- 'lang': 'en'
+  'text': 'The days are ended'
+'description': []
+'sher':
+- 'id': '008_036_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زمستان را سرآمد روزگاران | نواہا زندہ شد در شاخساران'
+  - 'lang': 'en'
+    'text': 'The days are ended. Of winter long; | The branches quiver. With living song.'
+- 'id': '008_036_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گلان را رنگ و نم بخشد ہواہا | کہ می آید ز طرف جویباران'
+  - 'lang': 'en'
+    'text': 'The breeze in beauty. Arrays the rose | As from the river. It gently blows.'
+- 'id': '008_036_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چراغ لالہ اندر دشت و صحرا | شود روشن تر از باد بہاران'
+  - 'lang': 'en'
+    'text': 'The tulip’s lantern. In desert bare | Is fanned to brightness, By the spring air.'
+- 'id': '008_036_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دلم افسردہ تر در صحبت گل | گریزد این غزال از مرغزاران'
+  - 'lang': 'en'
+    'text': 'Sad, mid the roses, My heart doth dwell, | Yea, from the meadow. Flees the gazelle;'
+- 'id': '008_036_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دمی آسودہ با درد و غم خویش | دمی نالان چو جوی کوہساران'
+  - 'lang': 'en'
+    'text': 'A little cases. With grief and pain | Or like a bill-stream. Laments again.'
+- 'id': '008_036_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز بیم اینکہ ذوقش کم نگردد | نگویم حال دل با رازداران'
+  - 'lang': 'en'
+    'text': 'Lest my heart’s passion. May softer grow, | Not to the trusty. I’ll tell my woe.'

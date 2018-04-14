@@ -1,0 +1,52 @@
+---
+'id': '008_114'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'قلندران کہ بہ تسخیر آب و گل کوشند'
+- 'lang': 'en'
+  'text': 'Qalanders, who to their sway'
+'description': []
+'sher':
+- 'id': '008_114_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قلندران کہ بہ تسخیر آب و گل کوشند | ز شاہ باج ستانند و خرقہ می پوشند'
+  - 'lang': 'en'
+    'text': 'Qalanders, who to their sway. Water strive to win and clay, | From the monarch tribute bear. Though the beggar’s robe they wear.'
+- 'id': '008_114_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ جلوت اند و کمندی بہ مہر و مہ پیچند | بہ خلوت اند و زمان و مکان در آغوشند'
+  - 'lang': 'en'
+    'text': 'They appear, and round the sun. And the moon their rope is spun; | They retire, and in their breast. Time and Space repose at rest.'
+- 'id': '008_114_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بروز بزم سراپا چو پرنیان و حریر | بروز رزم خود آگاہ و تن فراموشند'
+  - 'lang': 'en'
+    'text': 'When the revel rules the day. Bright as shimmering silks are they. | Yet when battle is toward. For the sacrifice prepared.'
+- 'id': '008_114_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نظام تازہ بچرخ دو رنگ می بخشند | ستارہ ہای کہن را جنازہ بر دوشند'
+  - 'lang': 'en'
+    'text': 'A new order they devise. For the broad and dappled skies, | Bear the ancient stars and all. On their backs to funeral.'
+- 'id': '008_114_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زمانہ از رخ فردا گشود بند نقاب | معاشران ہمہ سر مست بادۂ دوشند'
+  - 'lang': 'en'
+    'text': 'Time hath from her face untied. Morrow’s veil, to lay aside; | Yet to-day men still delight. In the wine of yesternight.'
+- 'id': '008_114_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بلب رسید مرا آن سخن کہ نتوان گفت | بحیرتم کہ فقیہان شہر خاموشند'
+  - 'lang': 'en'
+    'text': 'Hovers on my lip the word. That must never be declared; | Strange, the learned of the town. Silent are, nor even frown!'

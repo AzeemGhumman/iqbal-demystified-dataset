@@ -1,0 +1,59 @@
+---
+'id': '008_111'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'تو کیستی ز کجائی کہ آسمان کبود'
+- 'lang': 'en'
+  'text': 'What man art thou, and where thy home?'
+'description': []
+'sher':
+- 'id': '008_111_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو کیستی ز کجائی کہ آسمان کبود | ہزار چشم براہ تو از ستارہ گشود'
+  - 'lang': 'en'
+    'text': 'What man art thou, and where thy home? In the blue skies | The stars have opened. A thousand eyes! to see thee come,'
+- 'id': '008_111_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ کویمت کہ چہ بودی چہ کردہ ئی چہ شدی | کہ خون کند جگرم را ایازی محمود'
+  - 'lang': 'en'
+    'text': 'Why shall I tell what thou hast done, What thou now art? | Mahmud is now with Ayaz– This breaks my heart!'
+- 'id': '008_111_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو آن نئی کہ مصلی ز کہکشان میکرد | شراب صوفی و شاعر تر از خویش ربود'
+  - 'lang': 'en'
+    'text': 'No Milky Way thou mountest up At prayer to kneel; | The Sufi’s and the poet’s cup. Thy soul doth steal.'
+- 'id': '008_111_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فرنگ اگرچہ ز افکار تو گرہ بگشاد | بہ جرعہ دگری نشئہ ترا افزود'
+  - 'lang': 'en'
+    'text': 'Though Europe many knots united. That chained thy thought, | Intoxication magnified. Her next draught brought.'
+- 'id': '008_111_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سخن ز نامہ و میزان دراز تر گفتی | بہ حیرتم کہ نبینی قیامت موجود'
+  - 'lang': 'en'
+    'text': 'Much of the Balance and the Scroll. I hear thee say; | Strange, that thou seest not at all. This judgement-day!'
+- 'id': '008_111_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خوشا کسی کہ حرم را درون سینہ شناخت | دمی تپید و گذشت از مقام گفت و شنود'
+  - 'lang': 'en'
+    'text': 'Blessed the man, who in his breast. The shrine hath known, | Fluttered awhile, then from the nest. Of speech was flown.'
+- 'id': '008_111_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از آن بمکتب و میخانہ اعتبارم نیست | کہ سجدہ ئی نبرم بر در جبین فرسود'
+  - 'lang': 'en'
+    'text': 'No more the tavern and the school. I venerate; | I do not reckon worshipful. The brow-swept gate!'

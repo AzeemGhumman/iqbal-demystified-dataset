@@ -1,1 +1,471 @@
-﻿
+#
+حصہ اول
+Part 1
+8_1
+بہ خوانندۂ کتاب زبور
+To the Readers
+8_2
+حصہ اول
+Part I
+8_3
+دعا
+Invocation
+8_4
+عشق شور انگیز را ہر جادہ در کوی تو برد
+Tumultuous Love where’er it rove
+8_5
+درون سینۂ ما سوز آرزو ز کجاست؟
+Whence sprang the flaming fire
+8_6
+غزل سرای و نواہای رفتہ باز آور
+O bring me back the singing.
+8_7
+ایکہ ز من فزدوہ ئی گرمی آہ و نالہ را
+Thou who didst make more ardent
+8_8
+از مشت غبار ما صد نالہ برانگیزی
+Out of our dust thou stirrest
+8_9
+من اگرچہ تیرہ خاکم دلکیست برگ و سازم
+Though dust, and dark as dust, am I
+8_10
+بصدای درمندی بنوای دلپذیری
+With a song of agony
+8_11
+بر سر کفر و دین فشان رحمت عام خویش را
+On faith and infidelity
+8_12
+نوای من از آن پر سوز و بیباک و غم انگیزست
+A flame is in my minstrelsy
+8_13
+دل دیدہ ئی کہ دارم ہمہ لذت نظارہ
+All the dear delight to see
+8_14
+گرچہ شاہین خرد بر سر پروازی ہست
+Though the falcon of the brain
+8_15
+این جہان چیست صنم خانۂ پندار من است
+What is the world? The temple of my thought
+8_16
+فصل بہار این چنین بانگ ہزار این چنین
+It is the season of the spring
+8_17
+برون کشید ز پیچاک ہست و بود مرا
+From life and being’s twisted skein
+8_18
+خیز و بخاک تشنہ ئی بادۂ زندگی فشان
+Rise! and upon the thirsty land
+8_19
+تو باین گمان کہ شاید سر آستانہ دارم
+Thinkest thou that to the threshold
+8_20
+نظر بہ راہ نشینان سوارہ می گذرد
+With a glance at us who sit by the way
+8_21
+بر عقل فلک پیما ترکانہ شبیخون بہ
+Better is the robbers’ train
+8_22
+یا مسلمان را مدہ فرمان کہ جان بر کف بنہ
+Or no more command the Muslim
+8_23
+عقل ہم عشق است و از ذوق نگہ بیگانہ نیست
+Intellect is passion too
+8_24
+سوز و گداز زندگی لذت جستجوی تو
+All that in life I love the best
+8_25
+درین محفل کہ کار او گذشت از بادہ و ساقی
+The night grows late, the route is up
+8_26
+ساقیا بر جگرم شعلۂ نمناک انداز
+Saqi, on my heart bestow
+8_27
+از آن آبی کہ در من لالہ کارد ساتگینی دہ
+The juice that maketh tulips spring
+8_28
+ز ہر نقشی کہ دل از دیدہ گیرد پاک میآیم
+Of every image that the heart
+8_29
+دل بی قید من با نور ایمان کافری کردہ
+Against the light, an infidel
+8_30
+ز شاعر نالہ مستانہ در محشر چہ می خواہی
+Why in the concourse dost thou seek
+8_31
+نہ در اندیشۂ من کار زار کفر و ایمانی
+Faith and infidelity
+8_32
+مرغ خوش لہجہ و شاہین شکاری از تست
+Thine is the hawk upon the wing
+8_33
+خوشتر ز ہزار پارسائی
+One step on friendship’s road
+8_34
+بر جھان دل من تاختنش را نگرید
+In my heart’s empire, see
+8_35
+مرا براہ طلب بار در گل است ہنوز
+Upon the road of high desire
+8_36
+زمستان را سرآمد روزگاران
+The days are ended
+8_37
+ہوای خانہ و منزل ندارم
+At home to loiter never did me please
+8_38
+از چشم ساقی مست شرابم
+By the Saqi’s eye
+8_39
+شب من سحر نمودی کہ بہ طلعت آفتابی
+Thou didst turn my night to dawning
+8_40
+درین میخانہ ای ساقی ندارم محرمی دیگر
+None other in this tavern is
+8_41
+بجہان دردمندان تو بگو چہ کار داری
+Tell me this: what is thy share
+8_42
+اگر نظارہ از خود رفتگی آرد حجاب اولی
+If vision self-effacement bring
+8_43
+نور تو وانمود سپید و سیاہ را
+Thy light defineth all things one by one
+8_44
+بدہ آندل کہ مستی ہای او از بادۂ خویش است
+Give me the heart whose rapture fine
+8_45
+کف خاکی برگ و سازم برہی فشانم او را
+A hand of dust is all I own
+8_46
+این دل کہ مرا دادی لبریز یقین بادا
+Let this heart thou gayest me
+8_47
+رمز عشق تو بہ ارباب ہوس نتوان گفت
+To passion’s slaves let no man e’er
+8_48
+یاد ایامی کہ خوردم بادہ ہا با چنگ و نی
+Ah, the wine, the lute, the piping
+8_49
+انجم بگریبان ریخت این دیدۂ تر ما را
+Stars on my bosom shine
+8_50
+خاور کہ آسمان بکمند خیال اوست
+The East, that holds the heavens fast
+8_51
+فرصت کشمکش مدہ این دل بی قرار را
+Leave no quarter to resist
+8_52
+جانم در آویخت با روزگاران
+My soul, embattled. With fortune ever,
+8_53
+بہ تسلئی کہ دادی نگذاشت کار خود را
+In thy hands I now deliver
+8_54
+بحرفی می توان گفتن تمنای جہانی را
+A single word sufficeth well
+8_55
+چند بروی خودکشی پردۂ صبح و شام را
+How long the veil of eve and dawn
+8_56
+نفس شمار بہ پیچاک روزگار خودیم
+One by one we count our breath
+8_57
+بہ فغان نہ لب گشودم کہ فغان اثر ندارد
+No lament, no sigh I uttered
+8_58
+ما کہ افتندہ تر از پرتو ماہ آمدہ ایم
+Tremulous as the moon-light
+8_59
+ای خدای مہر و مہ خاک پریشانی نگر
+Lord, who didst bring the stars to birth
+8_60
+’شاخ نھال سدرہ ئی خار و خس چمن مشو‘‘
+Branch of the Sidra tree thou art
+#
+حصہ دوم
+Part 2
+8_61
+دو عالم را توان دیدن بمینائی کہ من دارم
+In the flask that here I hold
+8_62
+بر خیز کہ آدم را ہنگام نمود آمد
+Rise up! The hour is here
+8_63
+مہ و ستارہ کہ در راہ شوق ہم سفرند
+On the roadway of desire
+8_64
+درون لالہ گذر چون صبا توانی کرد
+Thou canst pass, like morning’s breeze
+8_65
+اگر بہ بحر محبت کرانہ می خواہی
+If it be thy will to gain
+8_66
+زمانہ قاصد طیار آن دلآرام است
+Time is the winged messenger
+8_67
+دگر ز سادہ دلیہای یار نتوان گفت
+Of the Friend’s ingenuous wit
+8_68
+خرد از ذوق نگہ گرم تماشا بود است
+Mind, that is ever questing
+8_69
+غلام زندہ دلانم کہ عاشق سرہ اند
+I am the slave of each living heart
+8_70
+لالہ این چمن آلودۂ رنگ است ہنوز
+The tulip of this meadowland
+8_71
+تکیہ بر حجت و اعجاز و بیان نیز کنند
+Faith depends on arguments
+8_72
+چو موج مست خودی باش و سر بطوفان کش
+Drunk with self hood like a wave
+8_73
+خضر وقت از خلوت دشت حجاز آید برون
+Out of Hejaz and the lonely plain
+8_74
+ز سلطان کنم آرزوی نگاہی
+Of the Sultan I would take
+8_75
+با نشئہ درویشی در ساز و دمادم زن
+Like the dervish drunken be
+8_76
+ہوس ہنوز تماشا گر جہانداری است
+Greed is acting still his play
+8_77
+فرشتہ گرچہ برون از طلسم افلاک است
+Although the Angel dwells beyond
+8_78
+عرب کہ باز دہد محفل شبانہ کجاست
+Where is the Arab, to revive
+8_79
+مانند صبا خیز و وزیدن دگر آموز
+Rise like the morning air
+8_80
+ای غنچہ خوابیدہ چو نرگس نگران خیز
+Little flower fast asleep
+8_81
+جہان ما ہمہ خاک است و پی سپر گردد
+Our world is dusty clay
+8_82
+باز بر رفتہ و آیندہ نظر باید کرد
+Sleeper, rise thou up, and fast
+8_83
+خیال من بہ تماشای آسمان بود است
+My mind awhile was gone
+8_84
+از نوا بر من قیامت رفت و کس آگاہ نیست
+A melody swept me through and through
+8_85
+شراب میکدۂ من نہ یادگار جم است
+No Jamshid’s memory, the wine
+8_86
+لالہ صحرایم از طرف خیابانم برید
+I am a blossom of the plain
+8_87
+سخن تازہ زدم کس بسخن وا نرسید
+I uttered a new word
+8_88
+عاشق آن نیست کہ لب گرم فغانی دارد
+Never lover true is he
+8_89
+درین چمن دل مرغان زمان زمان دگر است
+In the heart of the birds, that range
+8_90
+ما از خدای گم شدہ ایم او بجستجوست
+We are gone astray from God
+8_91
+خواجہ از خون رگ مزدور سازد لعل ناب
+Of the hirelings’s blood outpoured
+8_92
+گرچہ می دانم کہ روزی بی نقاب آید برون
+Although the soul, I know
+8_93
+گشادہ رو ز خوش و ناخوش زمانہ گذر
+Whether the world be foul or fair
+8_94
+زندگی در صدف خویش گہر ساختن است
+What is this life? A pearl
+8_95
+برون زین گنبد در بستہ پیدا کردہ ام راہی
+Beyond heaven’s shuttered dome
+8_96
+گنہکار غیورم مزد بی خدمت نمی گیرم
+A sinner proud am I; no need
+8_97
+جہان کورست و از آئینۂ دل غافل افتاد است
+The world had lost its sight
+8_98
+نیابی در جہان یاری کہ داند دلنوازی را
+No friend in the world entire thou wilt find
+8_99
+علمی کہ تو آموزی مشتاق نگاہی نیست
+The fine science thou dost learn
+8_100
+چو خورشید سحر پیدا نگاہی می توان کردن
+Vision can be won
+8_101
+کشیدی بادہ ہا در صحبت بیگانہ پی در پی
+Too oft was thy light
+8_102
+عشق اندر جستجو افتاد آدم حاصل است
+Love want searching thro’ the earth
+8_103
+بیا کہ خاوریان نقش تازہ ئی بستند
+Come! The Asiatic man
+8_104
+عشق را نازم کہ بودش را غم نابود نی
+I boast a love that is not grieved
+8_105
+بر دل بیتاب من ساقی می نابی زند
+The Saqi, pouring his pure wine
+8_106
+فروغ خاکیان از نوریان افزون شود روزی
+Brighter shall shine men’s clay
+8_107
+ز رسم و راہ شریعت نکردہ ام تحقیق
+I have never discovered well
+8_108
+از ہمہ کس کنارہ گیر صحبت آشنا طلب
+Far, far from every other go
+8_109
+بینی جہان را خود را نبینی
+The world, but not selfhood, thou canst see
+8_110
+من ہیچ نمی ترسم از حادثۂ شب ہا
+In the accidents of night
+8_111
+تو کیستی ز کجائی کہ آسمان کبود
+What man art thou, and where thy home?
+8_112
+دیار شوق کہ درد آشناست خاک آنجا
+In the abode of passion, where
+8_113
+می دیرینہ و معشوق جوان چیزی نیست
+The young beloved, the ancient wine
+8_114
+قلندران کہ بہ تسخیر آب و گل کوشند
+Qalanders, who to their sway
+8_115
+دو دستہ تیغم و گردون برہنہ ساخت مرا
+A double-handled sword am I
+8_116
+مثل شرر ذرہ را تن بہ تپیدن دہم
+Each atom’s body like a spark
+8_117
+خودی را مردم آمیزی دلیل نارسائی ہا
+Ever to be about with men
+8_118
+چون چراغ لالہ سوزم در خیابان شما
+Like a tulip’s flame I burn
+8_119
+دم مرا صفت باد فرودین کردند
+Soft my breath doth pass
+8_120
+گذر از آنکہ ندیدست و جز خبر ندہد
+Leave him who never won to sight
+8_121
+در این صحرا گذر افتاد شاید کاروانی را
+It chanced within the desert nigh
+8_122
+ترا نادان امید غمگساریہا ز افرنگ است
+Fool! Is there then such hope in thee
+8_123
+بگذر از خاور و افسونی افرنگ مشو
+Eschew the West, and do not be
+8_124
+جہان رنگ و بو پیدا تو میگوئی کہ راز است این
+A secret ‘tis, ‘tis evident
+8_125
+از داغ فراق او در دل چمنی دارم
+This brand of grief, His love apart
+8_126
+بہ نگاہ آشنائی چو درون لالہ دیدم
+When the tulip’s heart I viewed
+8_127
+این ہم جہانی آن ھم جہانی
+This is a world, that like to it
+8_128
+بہار آمد نگہ می غلطد اندر آتش لالہ
+Spring is come; bright glances dart
+8_129
+صورت گری کہ پیکر روز و شب آفرید
+The Artist, Whose vast mind
+8_130
+باز این عالم دیرینہ جوان می بایست
+This ancient universe
+8_131
+لالہ این گلستان داغ تمنائی نداشت
+In the mead a tulip blows
+8_132
+ہنگامہ را کہ بست درین دیر دیر پای
+Whence hath this commotion swirled
+8_133
+ای لالہ ای چراغ کہستان و باغ و راغ
+Tulip in the mountains blowing
+8_134
+من بندۂ آزادم عشق است امام من
+I am a slave set free
+8_135
+کم سخن غنچہ کہ در پردۂ دل رازی داشت
+Silent rosebud in her heart
+8_136
+خود را کنم سجودی ، دیر و حرم نماندہ
+To my self alone I bow
+#
+حصہ سوم
+Part 3
+8_137
+بہ سواد دیدۂ تو نظر آفریدہ ام من
+I HAVE imparted insight to the pupil of your eye
+8_138
+تمہید
+Introduction
+8_139
+نخست از فکر خویشم در تحیر
+Question 1
+8_140
+چہ بحر است این کہ علمش ساحل آمد
+Question 2
+8_141
+وصال ممکن و واجب بہم چیست؟
+Question 3
+8_142
+قدیم و محدث از ہم چون جدا شد
+Question 4
+8_143
+کہ من باشم مرا از من خبر کن
+Question 5
+8_144
+چہ جزو است آنکہ او از کل فزون است
+Question 6
+8_145
+مسافر چون بود رہرو کدام است
+Question 7
+8_146
+کدامی نکتہ را نطق است اناالحق
+Question 8
+8_147
+کہ شد بر سر وحدت واقف آخر؟
+Question 9
+8_148
+خاتمہ
+Epilogue
+#
+حصہ چهارم
+Part 4
+8_149
+بندگی نامہ
+Introduction
+8_150
+موسیقی
+Music
+8_151
+مصوری
+Painting
+8_152
+مذہب غلامان
+Religion of the Slaves
+8_153
+در فن تعمیر مردان آزاد
+On the Architecture of Free Men

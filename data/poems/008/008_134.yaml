@@ -1,0 +1,45 @@
+---
+'id': '008_134'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'من بندۂ آزادم عشق است امام من'
+- 'lang': 'en'
+  'text': 'I am a slave set free'
+'description': []
+'sher':
+- 'id': '008_134_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من بندۂ آزادم عشق است امام من | عشق است امام من عقل است غلام من'
+  - 'lang': 'en'
+    'text': 'I am a slave set free, And Love still leadeth me; | Love is my leader still, Mind bows to do my will.'
+- 'id': '008_134_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنگامۂ این محفل از گردش جام من | این کوکب شام من این ماہ تمام من'
+  - 'lang': 'en'
+    'text': 'The tumult flareth up. Out of my circling cup; | This is my evening star, My full moon, flaming far.'
+- 'id': '008_134_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جان در عدم آسودۂ بی ذوق تمنا بود | مستانہ نوا ہا زد در حلقہ دام من'
+  - 'lang': 'en'
+    'text': 'The spirit slept at rest, Desire stirred not the breast, | Then struck a drunken air. Caught in my circling snare.'
+- 'id': '008_134_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ای عالم رنگ و بو این صحبت ما تا چند | مرگست دوام تو عشق است دوام من'
+  - 'lang': 'en'
+    'text': 'O world of scent and hue, How long shall we so do? | Death thy survival proves. My living all is Love’s.'
+- 'id': '008_134_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پیدا بہ ضمیرم او پنہان بہ ضمیرم او | این است مقام او دریاب مقام من'
+  - 'lang': 'en'
+    'text': 'The One my thought reveals, The One my thought conceals; | Here is His dwelling-place– Behold my lofty grace!'

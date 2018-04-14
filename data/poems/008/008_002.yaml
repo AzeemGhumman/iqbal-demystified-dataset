@@ -1,0 +1,17 @@
+---
+'id': '008_002'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'حصہ اول'
+- 'lang': 'en'
+  'text': 'Part I'
+'description': []
+'sher':
+- 'id': '008_002_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز برون در گذشتم ز درون خانہ گفتم | سخنی نگفتہ ئی را چہ قلندرانہ گفتم'
+  - 'lang': 'en'
+    'text': 'I passed without the door, and, fervent as Qalander, | Spake of the things unspoken within the house that are.'

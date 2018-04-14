@@ -1,0 +1,31 @@
+---
+'id': '008_030'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ز شاعر نالہ مستانہ در محشر چہ می خواہی'
+- 'lang': 'en'
+  'text': 'Why in the concourse dost thou seek'
+'description': []
+'sher':
+- 'id': '008_030_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز شاعر نالہ مستانہ در محشر چہ می خواہی | تو خود ہنگامہ ئی ہنگامۂ دیگر چہ میخواہی'
+  - 'lang': 'en'
+    'text': 'Why in the concourse dost thou seek. The poet’s wild, ecstatic shriek, | Or lookest for another’s riot, Whose heart is troubled and unquiet?'
+- 'id': '008_030_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ بحر نغمہ کردی آشنا طبع روانم را | ز چاک سینہ ام دریا طلب گوہر چہ میخواہی'
+  - 'lang': 'en'
+    'text': 'My affluent muse was taught by thee. To swim the waves of melody; | Why seekest thou the gem? Behold, My pierced heart dotb the sea enfold.'
+- 'id': '008_030_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نماز بی حضور از من نمے آید نمی آید | دلی آوردہ ام دیگر ازین کافر چہ می خواہی'
+  - 'lang': 'en'
+    'text': 'Except within thy presence there. I stand. I cannot breathe my prayer: | My heart before thy feet I fling— What else should unbeliever bring?'

@@ -1,0 +1,45 @@
+---
+'id': '008_116'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'مثل شرر ذرہ را تن بہ تپیدن دہم'
+- 'lang': 'en'
+  'text': 'Each atom’s body like a spark'
+'description': []
+'sher':
+- 'id': '008_116_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مثل شرر ذرہ را تن بہ تپیدن دہم | تن بہ تپیدن دھم بال پریدن دہم'
+  - 'lang': 'en'
+    'text': 'Each atom’s body like a spark. I set a-quivering, | Each atom quivers through the dark. And soars as on a wing.'
+- 'id': '008_116_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سوز نوایم نگر ریزۂ الماس را | قطرۂ شبنم کنم خوی چکیدن دہم'
+  - 'lang': 'en'
+    'text': 'List to my music burning new! Each diamantine grain | I fashion like a drop of dew. To trickle soft as rain.'
+- 'id': '008_116_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چون ز مقام نمود نغمۂ شیرین زنم | نیم شبان صبح را میل دمیدن دہم'
+  - 'lang': 'en'
+    'text': 'From manifesting’s stage when break. My soft, sweet melodies, | Even in the dead of night I make. The dawn desire to rise.'
+- 'id': '008_116_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یوسف گم گشتہ را باز گشودم نقاب | تا بہ تنک مایگان ذوق خریدن دہم'
+  - 'lang': 'en'
+    'text': 'Joseph, concealed from sight so long, I have revealed anew, | That! may fire the needy throng. His beauty to pursue.'
+- 'id': '008_116_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق شکیب آزما خاک ز خود رفتہ را | چشم تری داد و من لذت دیدن دہم'
+  - 'lang': 'en'
+    'text': 'Dear love, that doth man’s patience try, To dust in ecstasy | Hath given eyes to weep, and I, The wondrous joy to see'

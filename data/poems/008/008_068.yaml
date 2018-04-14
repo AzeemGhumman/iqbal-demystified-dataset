@@ -1,0 +1,24 @@
+---
+'id': '008_068'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خرد از ذوق نگہ گرم تماشا بود است'
+- 'lang': 'en'
+  'text': 'Mind, that is ever questing'
+'description': []
+'sher':
+- 'id': '008_068_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خرد از ذوق نگہ گرم تماشا بود است | این کہ جویندہ و یابندۂ ہر موجود است'
+  - 'lang': 'en'
+    'text': 'Mind, that is ever questing, And finding, without resting, | Fired by the joy of viewing. Was vision still pursuing.'
+- 'id': '008_068_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جلوۂ پاک طلب از مہ و خورشید گذر | زانکہ ہر جلوہ درین دیر نگہ آلود است'
+  - 'lang': 'en'
+    'text': 'Seek thou pure revelation. Past sun and moon’s low station, | For all things here reported. By vision are distorted.'

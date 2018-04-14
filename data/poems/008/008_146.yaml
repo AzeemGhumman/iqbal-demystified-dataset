@@ -1,0 +1,160 @@
+---
+'id': '008_146'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'کدامی نکتہ را نطق است اناالحق'
+- 'lang': 'en'
+  'text': 'Question 8'
+'description': []
+'sher':
+- 'id': '008_146_001'
+  'meta': !!bool 'true'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سؤال ہشتم'
+- 'id': '008_146_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کدامی نکتہ را نطق است اناالحق | چہ گوئی ھرزہ بود آن ٓرمز مطلق'
+- 'id': '008_146_003'
+  'meta': !!bool 'true'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جواب'
+- 'id': '008_146_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من از رمز اناالحق باز گویم | و گر با ہند و ایران راز گویم'
+- 'id': '008_146_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مغی در حلقۂ دیر این سخن گفت | ’’حیات از خود فریبی خورد و من ‘‘گفت'
+- 'id': '008_146_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا خفت و وجود ما ز خوابش | وجود ما نمود ما ز خوابش'
+- 'id': '008_146_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مقام تحت وفوق و چار سو خواب | سکون و سیر و شوق و جستجو خواب'
+- 'id': '008_146_008'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دل بیدار و عقل نکتہ بین خواب | گمان و فکر و تصدیق و یقین خواب'
+- 'id': '008_146_009'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ترا این چشم بیداری بخواب است | ترا گفتار و کرداری بخواب است'
+- 'id': '008_146_010'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چو او بیدار گردد دیگری نیست | متاع شوق را سوداگری نیست'
+- 'id': '008_146_011'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فروغ دانش ما از قیاس است | قیاس ما ز تقدیر حواس است'
+- 'id': '008_146_012'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'قیاس ما ز تقدیر حواس است | چو حس دیگر شد این عالم دگر شد'
+- 'id': '008_146_013'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سکون و سیر و کیف و کم دگر شد | توان گفتن جہان رنگ و بو نیست'
+- 'id': '008_146_014'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زمین و آسمان و کاخ و کو نیست | توان گفتن کہ خوابی یا فسونی است'
+- 'id': '008_146_015'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حجاب چہرہ آن بی چگونی است | توان گفتن ہمہ نیرنگ ہوش است'
+- 'id': '008_146_016'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فریب پردہ ہای چشم و گوش است | خودی از کائنات رنگ و بو نیست'
+- 'id': '008_146_017'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حواس ما میان ما و او نیست | نگہ را در حریمش نیست راہی'
+- 'id': '008_146_018'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کنی خود را تماشا بی نگاہی | حساب روزش از دور فلک نیست'
+- 'id': '008_146_019'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بخود بینی ظن و تخمین و شک نیست | اگر کوئی کہ ’’من‘‘ وہم و گمان است'
+- 'id': '008_146_020'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمودش چون نمود این و آن است | بگو با من کہ دارای گمان کیست'
+- 'id': '008_146_021'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یکی در خود نگر آن بی نشان کیست | جہان پیدا و محتاج دلیلی'
+- 'id': '008_146_022'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمیآید بہ فکر جبرئیلی | خودی پنہان ز حجت بی نیاز است'
+- 'id': '008_146_023'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یکی اندیش و دریاب این چہ رازست | خودی را حق بدان باطل مپندار'
+- 'id': '008_146_024'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خودی را کشت بی حاصل مپندار | خودی چون پختہ گردد لازوالست'
+- 'id': '008_146_025'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فراق عاشقان عین وصالست | شرر را تیز بالی میتوان داد'
+- 'id': '008_146_026'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تپید لایزالی میتوان داد | دوام حق جزای کار او نیست'
+- 'id': '008_146_027'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کہ او را این دوام از جستجو نیست | دوام آن بہ کہ جان مستعاری'
+- 'id': '008_146_028'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شود از عشق و مستی پایداری | وجود کوہسار و دشت و در ہیچ'
+- 'id': '008_146_029'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان فانی خودی باقی دگر ہیچ | دگر از شنکر و منصور کم گوی'
+- 'id': '008_146_030'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خدا را ھم براہ خویشتن جوی | بخود گم بہر تحقیق خودی شو'

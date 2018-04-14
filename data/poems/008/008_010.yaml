@@ -1,0 +1,45 @@
+---
+'id': '008_010'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بصدای درمندی بنوای دلپذیری'
+- 'lang': 'en'
+  'text': 'With a song of agony'
+'description': []
+'sher':
+- 'id': '008_010_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بصدای درمندی بنوای دلپذیری | خم زندگی گشادم بجہان تشنہ میری'
+  - 'lang': 'en'
+    'text': 'With a song of agony, With a sweet, soft melody, | To a dying world athirst. Lo: life’s flagon I have burst.'
+- 'id': '008_010_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تو بروی بینوائی در آن جہان گشادی | کہ ہنوز آرزویش ندمیدہ در ضمیری'
+  - 'lang': 'en'
+    'text': 'In the way as beggars are. Thou hast set that world ajar | Ere the ambition to attain. Ever sprang in mortal brain.'
+- 'id': '008_010_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ز نگاہ سرمہ سائی بدل و جگر رسیدی | چہ نگاہ سرمہ سائی دو نشانہ زد بہ تیری'
+  - 'lang': 'en'
+    'text': '‘Twas thy surmah-shaded eye. Heart and soul were ravished by; | O, the archery of it, With one shaft two marks to hit!'
+- 'id': '008_010_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ نگاہ نارسایم چہ بھار جلوہ دادی | کہ بباغ و راغ نالم چو تذرو نو صفیری'
+  - 'lang': 'en'
+    'text': 'What a springtime of delight. Greets my underserving sight! | Hear me in the meadow sing, Like a new thrush caroling.'
+- 'id': '008_010_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چہ عجب اگر دو سلطان بولایتی نگنجند | عجب اینکہ می نگنجد بدو عالمی فقیری'
+  - 'lang': 'en'
+    'text': 'Not so strange, if monarchs, twain. In one kingdom cannot reign, | As that both the worlds are less. Than one dervish to possess.'

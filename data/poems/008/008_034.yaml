@@ -1,0 +1,38 @@
+---
+'id': '008_034'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بر جھان دل من تاختنش را نگرید'
+- 'lang': 'en'
+  'text': 'In my heart’s empire, see'
+'description': []
+'sher':
+- 'id': '008_034_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر جھان دل من تاختنش را نگرید | کشتن و سوختن و ساختنش را نگرید'
+  - 'lang': 'en'
+    'text': 'In my heart’s empire, see. How he rides spitefully, | Rides with imperious will. To ravage, and to kill!'
+- 'id': '008_034_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'روشن از پرتو آن ماہ دلی نیست کہ نیست | با ہزار آینہ پرداختنش را نگرید'
+  - 'lang': 'en'
+    'text': 'No heart is there, but bright. Gleameth in that moon’s light; | A thousand mirrors, see! Reflect his coquetry.'
+- 'id': '008_034_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آنکہ یکدست برد ملک سلیمانی چند | با فقیران دو جہان باختنش را نگرید'
+  - 'lang': 'en'
+    'text': 'To each hand he bath won. Ten realms of Solomon, | Yet gambles with it all. To gain a poor, mean thrall.'
+- 'id': '008_034_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آنکہ شبخون بدل و دیدۂ دانایان ریخت | پیش نادان سپر انداختنش را نگرید'
+  - 'lang': 'en'
+    'text': 'The hearts of sucb as know. Swift be assaults; but lo: | Before the unwise, unskilled, He casteth down his shield.'

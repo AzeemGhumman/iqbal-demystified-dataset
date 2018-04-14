@@ -1,0 +1,38 @@
+---
+'id': '008_023'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'عقل ہم عشق است و از ذوق نگہ بیگانہ نیست'
+- 'lang': 'en'
+  'text': 'Intellect is passion too'
+'description': []
+'sher':
+- 'id': '008_023_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عقل ہم عشق است و از ذوق نگہ بیگانہ نیست | لیکن این بیچارہ را آن جرأت رندانہ نیست'
+  - 'lang': 'en'
+    'text': 'Intellect is passion too, And it knows the joy to view, | But the poor unfortunate. Dares not as the inebriate.'
+- 'id': '008_023_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'گرچہ می دانم خیال منزل ایجاد من است | در سفر از پا نشستن ھمت مردانہ نیست'
+  - 'lang': 'en'
+    'text': 'Though I know the fantasy. Of the stage was shaped by me, | Yet it were a coward’s way. On the journey to delay.'
+- 'id': '008_023_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر زمان یک تازہ جولانگاہ میخواہم ازو | تا جنون فرمای من گوید دگر ویرانہ نیست'
+  - 'lang': 'en'
+    'text': 'Every moment is my prayer. That I may yet further fare, | Till my folly’s governor. Says there is no desert more.'
+- 'id': '008_023_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'با چنین زور جنون پاس گریبان داشتم | در جنون از خود نرفتن کار ہر دیوانہ نیست'
+  - 'lang': 'en'
+    'text': 'In such frenzy of the soul. Still I do not yield control: | Every madman cannot boast. That to self be is not lost!'

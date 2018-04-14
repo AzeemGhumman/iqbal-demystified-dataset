@@ -1,0 +1,59 @@
+---
+'id': '008_132'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'ہنگامہ را کہ بست درین دیر دیر پای'
+- 'lang': 'en'
+  'text': 'Whence hath this commotion swirled'
+'description': []
+'sher':
+- 'id': '008_132_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہنگامہ را کہ بست درین دیر دیر پای | زناریان او ہمہ نالندہ ہمچو نای'
+  - 'lang': 'en'
+    'text': 'Whence hath this commotion swirled. In our old, slow-moving world, | That each girdled infidel. Like a reed of grief doth tell?'
+- 'id': '008_132_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در ’بنگہ فقیر و بہ کاشانۂ امیر | غمہا کہ پشت را بہ جوانی کند دو تای'
+  - 'lang': 'en'
+    'text': 'In the hut of the fakir, In the palace of the ameer | There is pain and there is ruth. Huge to bow the back of youth.'
+- 'id': '008_132_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درمان کجا کہ درد بدرمان فزون شود | دانش تمام حیلہ و نیرنگ و سیمیای'
+  - 'lang': 'en'
+    'text': 'Where is cure? For the disease. With the cure doth yet increase; | Science is all wizardry, Mean deceit, and trickery.'
+- 'id': '008_132_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بی زور سیل کشتی آدم نمی رود | ہر دل ھزار عربدہ دارد بہ ناخدای'
+  - 'lang': 'en'
+    'text': 'Adam’s ship rides not the main. Save the torrent strive and strain; | Every heart a thousand wise. Doth the helmsman agonize.'
+- 'id': '008_132_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از من حکایت سفر زندگی مپرس | در ساختم بدرد و گذشتم غزل سرای'
+  - 'lang': 'en'
+    'text': 'Of life’s story do not seek. Any tale for me to speak; | All its pain I sufferd long, And departed with a song.'
+- 'id': '008_132_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آمیختم نفس بہ نسیم سحر گہی | گشتم درین چمن بہ گلان نانہادہ پای'
+  - 'lang': 'en'
+    'text': 'I have let my breath to ride; With the breeze of morning tide; | I have wandered in this mead. Yet no rose hath known my tread.'
+- 'id': '008_132_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'از کاخ و کو جدا و پریشان بکاخ و کوی | کردم بچشم ماہ تماشای این سرای'
+  - 'lang': 'en'
+    'text': 'Far from cottage and from Street, Yet in both abroad, and fleet, | With the vision of the moon. I have gazed this world upon!'

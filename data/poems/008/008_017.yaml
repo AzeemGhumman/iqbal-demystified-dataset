@@ -1,0 +1,45 @@
+---
+'id': '008_017'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'برون کشید ز پیچاک ہست و بود مرا'
+- 'lang': 'en'
+  'text': 'From life and being’s twisted skein'
+'description': []
+'sher':
+- 'id': '008_017_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'برون کشید ز پیچاک ہست و بود مرا | چہ عقدہ ہا کہ مقام رضا گشود مرا'
+  - 'lang': 'en'
+    'text': 'From life and being’s twisted skein. Let me be free; | In resignation is to gain. True liberty.'
+- 'id': '008_017_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'تپید عشق و درین کشت نا بسامانی | ہزار دانہ فرو کرد تا درود مرا'
+  - 'lang': 'en'
+    'text': 'Love quivered, and within this field. Of barren spring | Sprinkled a thousand seeds, to yield. My harvesting.'
+- 'id': '008_017_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ندانم اینکہ نگاہش چہ دید در خاکم | نفس نفس بہ عیار زمانہ سود مرا'
+  - 'lang': 'en'
+    'text': 'Indeed I know not what his glance. Viewed in my clay | Upon the stone of time and chance. Me to assay.'
+- 'id': '008_017_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہانی از خس و خاشاک در میان انداخت | شرارۂ دلکی داد و آزمود مرا'
+  - 'lang': 'en'
+    'text': 'With stubble and with straw he eame. A world to found, | Then gave to me a heart of flame. To prove me sound.'
+- 'id': '008_017_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'پیالہ گیرز دستم کہ رفت کار از دست | کرشمہ بازی ساقی ز من ربود مرا'
+  - 'lang': 'en'
+    'text': 'O take the goblet from my hand, For hope is past; | The saqi played at glances, and, My heart was lost.'

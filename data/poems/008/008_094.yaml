@@ -1,0 +1,45 @@
+---
+'id': '008_094'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'زندگی در صدف خویش گہر ساختن است'
+- 'lang': 'en'
+  'text': 'What is this life? A pearl'
+'description': []
+'sher':
+- 'id': '008_094_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندگی در صدف خویش گہر ساختن است | در دل شعلہ فرو رفتن و نگداختن است'
+  - 'lang': 'en'
+    'text': 'What is this life? A pearl. In thy own shell to bear, | In the flame’s heart to hurl. Thyself, nor melt to air.'
+- 'id': '008_094_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'عشق ازین گنبد در بستہ برون تاختن است | شیشۂ ماہ ز طاق فلک انداختن است'
+  - 'lang': 'en'
+    'text': 'Love is with speed to pass. Out of this shuttered sphere, | To cast the moon’s bright glass. High over heaven clear.'
+- 'id': '008_094_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سلطنت نقد دل و دین ز کف انداختن است | بہ یکی داد جہان بردن و جان باختن است'
+  - 'lang': 'en'
+    'text': 'Power is from hand to fling. The cash of heart and faith. | To rule the world, a king, And brave the chance of death.'
+- 'id': '008_094_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'حکمت و فلسفہ را ہمت مردی باید | تیغ اندیشہ بروی دو جہان آختن است'
+  - 'lang': 'en'
+    'text': 'Philosophy is taught. By manly zeal alone, | To whet the blade of thought. Upon the world for stone.'
+- 'id': '008_094_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'مذہب زندہ دلان خواب پریشانی نیست | از ہمین خاک جہان دگری ساختن است'
+  - 'lang': 'en'
+    'text': 'The living spirit’s trust. Is no disordered dream, | But of this scattered dust. To build a braver scheme.'

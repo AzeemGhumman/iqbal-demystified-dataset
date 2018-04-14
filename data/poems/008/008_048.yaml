@@ -1,0 +1,52 @@
+---
+'id': '008_048'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'یاد ایامی کہ خوردم بادہ ہا با چنگ و نی'
+- 'lang': 'en'
+  'text': 'Ah, the wine, the lute, the piping'
+'description': []
+'sher':
+- 'id': '008_048_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یاد ایامی کہ خوردم بادہ ہا با چنگ و نی | جام می در دست من مینای می در دست وی'
+  - 'lang': 'en'
+    'text': 'Ah, the wine, the lute, the piping, The dear memories of old, | When I held the brimming beaker. And my friend a bowl of gold'
+- 'id': '008_048_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'درکنار آئی خزان ما زند رنگ بہار | ورنیا ئی فرودین افسردہ تر گردد ز دی'
+  - 'lang': 'en'
+    'text': 'An’ thou comest to my bosom, In my autumn spring shall glow; | An’ thou come not, May lies mourning. Colder than December’s snow.'
+- 'id': '008_048_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بیتو جان من چو آن سازی کہ تارش در گسست | در حضور از سینۂ من نغمہ خیزد پی بہ پی'
+  - 'lang': 'en'
+    'text': 'Mute my soul, when thou art absent, Like a harp with broken strings; | From my breast, when thou art with me, Rise melodious whisperings.'
+- 'id': '008_048_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آنچہ من در بزم شوق آوردہ ام دانی کہ چیست؟ | یک چمن گل یک نیستان نالہ یک خمخانہ می'
+  - 'lang': 'en'
+    'text': 'Well thou knowest what conveying. Unto passion’s feast I went: | Wine in vat, a mead of roses, And a reed-bed of lament.'
+- 'id': '008_048_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'زندہ کن باز آن محبت را کہ از نیروی او | بوریای رہ نشینی در فتد با تخت کی'
+  - 'lang': 'en'
+    'text': 'Now renew love’s old dominion, That by virtue of its sway | Equal shall the vagrant’s mat be. To the royal throne of Kay.'
+- 'id': '008_048_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دوستان خرم کہ بر منزل رسید آوارہ ئی | من پریشان جادہ ہای علم و دانش کردہ طی'
+  - 'lang': 'en'
+    'text': 'Cry the friends with glad rejoicing. That a wanderer is home; | Though I trod the paths of knowledge, In my desert still I roam.'

@@ -1,0 +1,24 @@
+---
+'id': '008_031'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'نہ در اندیشۂ من کار زار کفر و ایمانی'
+- 'lang': 'en'
+  'text': 'Faith and infidelity'
+'description': []
+'sher':
+- 'id': '008_031_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ در اندیشۂ من کار زار کفر و ایمانی | نہ در جان غم اندوزم ہوای باغ رضوانی'
+  - 'lang': 'en'
+    'text': 'Faith and infidelity. Fight not for the mind of me; | No delights of Paradise. Do my stricken soul entice.'
+- 'id': '008_031_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اگر کاوی درونم را خیال خویش را یابے | پریشان جلوہ ئی چون ماہتاب اندر بیابانی'
+  - 'lang': 'en'
+    'text': 'Cleave my heart and lay it bare, Thou shall find thy image there, | Gleam pervasive, shadowless, Moonlight on a wilderness.'

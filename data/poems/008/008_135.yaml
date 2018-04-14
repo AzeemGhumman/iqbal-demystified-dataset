@@ -1,0 +1,24 @@
+---
+'id': '008_135'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'کم سخن غنچہ کہ در پردۂ دل رازی داشت'
+- 'lang': 'en'
+  'text': 'Silent rosebud in her heart'
+'description': []
+'sher':
+- 'id': '008_135_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کم سخن غنچہ کہ در پردۂ دل رازی داشت | در ہجوم گل و ریحان غم دم سازی داشت'
+  - 'lang': 'en'
+    'text': 'Silent rosebud in her heart Had a secret, veiled apart, | Suffered countless aches and woes. Buffeted by thyme and rose.'
+- 'id': '008_135_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'محرمی خواست ز مرغ چمن و باد بہار | تکیہ بر صحبت آن کرد کہ پروازی داشت'
+  - 'lang': 'en'
+    'text': 'So she sought, to keep her word, Breeze of spring and meadow-bird. | Putting faith in these (yet both, Soared on wing) to guard her troth'

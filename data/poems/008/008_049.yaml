@@ -1,0 +1,45 @@
+---
+'id': '008_049'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'انجم بگریبان ریخت این دیدۂ تر ما را'
+- 'lang': 'en'
+  'text': 'Stars on my bosom shine'
+'description': []
+'sher':
+- 'id': '008_049_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'انجم بگریبان ریخت این دیدۂ تر ما را | بیرون ز سپہر انداخت این ذوق نظر ما را'
+  - 'lang': 'en'
+    'text': 'Stars on my bosom shine. Wept from these eyes of mine: | Lo, beyond heaven’s height; Cast me the joy of sight;'
+- 'id': '008_049_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر چند زمین سائیم برتر ز ثریانیم | دانی کہ نمی زیبد عمری چو شرر ما را'
+  - 'lang': 'en'
+    'text': 'Soared, though in dust I lay, High o’er the starry way,— | Life of the ember’s glow. Likes me not, thou dost know.'
+- 'id': '008_049_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شام و سحر عالم از گردش ما خیزد | دانی کہ نمی سازد این شام و سحر ما را'
+  - 'lang': 'en'
+    'text': 'All the world’s eve and morn. Are of my whirling born; | Thou know’st this’morn and eve. My soul can scarce receive.'
+- 'id': '008_049_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این شیشۂ گردون را از بادہ تہی کردیم | کم کاسہ مشو ساقی مینای دگر ما را'
+  - 'lang': 'en'
+    'text': 'Wine brimmed in heaven’s cup; I took and drank it up; | Saqi! not sparing be— Another bowl for me!'
+- 'id': '008_049_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شایان جنون ما پہنای دو گیتی نیست | این راھگذر ما را آن راھگذر ما را'
+  - 'lang': 'en'
+    'text': 'Not both the worlds suffice. My folly’s avarice; | Earth is a passing day, Heaven a passage-way.'

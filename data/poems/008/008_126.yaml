@@ -1,0 +1,31 @@
+---
+'id': '008_126'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ نگاہ آشنائی چو درون لالہ دیدم'
+- 'lang': 'en'
+  'text': 'When the tulip’s heart I viewed'
+'description': []
+'sher':
+- 'id': '008_126_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ نگاہ آشنائی چو درون لالہ دیدم | ہمہ ذوق و شوق دیدم ہمہ آہ و نالہ دیدم'
+  - 'lang': 'en'
+    'text': 'When the tulip’s heart I viewed. With the gaze of certitude, | All I saw was ecstasy, Sighs, and sobbing bitterly.'
+- 'id': '008_126_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہ بلند و پست عالم تپش حیات پیدا | چہ دمن چہ تل چہ صحرا رم این غزالہ دیدم'
+  - 'lang': 'en'
+    'text': 'In the highest and the least. Is life’s quiver manifest; | Over plain and hill and dell. Ever leaps this wild gazelle.'
+- 'id': '008_126_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نہ بہ ماست زندگانی نہ ز ما ست زندگانی | ہمہ جاست زندگانی ز کجا ست زندگانی'
+  - 'lang': 'en'
+    'text': 'Life is not of us alone, Life is not for us to own; | Life is everywhere to see– Ah, and whence came life to be?'

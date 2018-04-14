@@ -1,0 +1,52 @@
+---
+'id': '008_136'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'خود را کنم سجودی ، دیر و حرم نماندہ'
+- 'lang': 'en'
+  'text': 'To my self alone I bow'
+'description': []
+'sher':
+- 'id': '008_136_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خود را کنم سجودی ، دیر و حرم نماندہ | این در عرب نماندہ آن در عجم نماندہ'
+  - 'lang': 'en'
+    'text': 'To my self alone I bow; Temple, shrine are vanished now, | Calls not shrine in Arab land, Nor in Persia temples stand.'
+- 'id': '008_136_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در برگ لالہ و گل آن رنگ و نم نماندہ | در نالہ ہای مرغان آن زیر و بم نماندہ'
+  - 'lang': 'en'
+    'text': 'In the tulip and the rose. Shines not sheen, nor pigment glows: | In the anthem of the bird. Neither high nor low is heard.'
+- 'id': '008_136_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در کارگاہ گیتی نقش نوی نبینم | شاید کہ نقش دیگر اندر عدم نماندہ'
+  - 'lang': 'en'
+    'text': 'In the workshop of the sky. No new plan do I descry; | Haply no new plans remain. Hid in pre-existence’ brain.'
+- 'id': '008_136_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سیارہ ہای گردون بی ذوق انقلابے | شاید کہ روز و شب را توفیق رم نماندہ'
+  - 'lang': 'en'
+    'text': 'Heaven’s stars stand unpossessed. All of revolution’s zest | Night and day, as it may be, Have no more the power to flee.'
+- 'id': '008_136_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بی منزل آرمیدند پا از طلب کشیدند | شاید کہ خاکیان را در سینہ دم نماندہ'
+  - 'lang': 'en'
+    'text': 'In no stage they take repose, And no quest is left to those | Earthy creatures, from whose hearts, Haply every breath departs.'
+- 'id': '008_136_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یا در بیاض امکان یکبرگ سادہ ئی نیست | یا خامۂ قضا را تاب رقم نماندہ'
+  - 'lang': 'en'
+    'text': 'Either in contingency. No fresh leaves unwritten be, | Or Fate’s pen hath not the might. Any more fresh fates to write.'

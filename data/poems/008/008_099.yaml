@@ -1,0 +1,45 @@
+---
+'id': '008_099'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'علمی کہ تو آموزی مشتاق نگاہی نیست'
+- 'lang': 'en'
+  'text': 'The fine science thou dost learn'
+'description': []
+'sher':
+- 'id': '008_099_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'علمی کہ تو آموزی مشتاق نگاہی نیست | واماندۂ راہی ہست آوارۂ راہی نیست'
+  - 'lang': 'en'
+    'text': 'The fine science thou dost learn. After vision does not yearn; | ‘Tis no wanderer far astray, But a straggler on the way.'
+- 'id': '008_099_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آدم کہ ضمیر او نقش دو جہان ریزد | با لذت آہی ہست بی لذت آہی نیست'
+  - 'lang': 'en'
+    'text': 'He whose all-embracing brain. A new universe doth plan | Burneth still with passion’s fire, Never lacketh high desire.'
+- 'id': '008_099_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہر چند کہ عشق او آوارۂ راہی کرد | داغی کہ جگر سوزد در سینۂ ماہی نیست'
+  - 'lang': 'en'
+    'text': 'Though Love made the moon to err. On the road a wayfarer, | Never blazeth in its breast. The vast furnace of unrest.'
+- 'id': '008_099_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'من چشم نہ بردارم از روی نگارینش | آن مست تغافل را توفیق نگاہی نیست'
+  - 'lang': 'en'
+    'text': 'So His beauty doth entrance, I can never lift my glance | From His Face, who heedlessly. Doth not a glance spare for me.'
+- 'id': '008_099_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'اقبال قبا پوشد در کار جہان کوشد | دریاب کہ درویشی با دلق و کلاہی نیست'
+  - 'lang': 'en'
+    'text': 'See, Iqbal in manly clothes. To his worldly labour goes; | Proving that his dervishood. Ne’er depends on gown and hood.'

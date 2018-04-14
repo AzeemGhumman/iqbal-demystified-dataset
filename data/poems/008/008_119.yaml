@@ -1,0 +1,52 @@
+---
+'id': '008_119'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دم مرا صفت باد فرودین کردند'
+- 'lang': 'en'
+  'text': 'Soft my breath doth pass'
+'description': []
+'sher':
+- 'id': '008_119_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'دم مرا صفت باد فرودین کردند | گیاہ را ز سرشکم چو یاسمین کردند'
+  - 'lang': 'en'
+    'text': 'Soft my breath doth pass. Soft as April airs; | Jasmine-sweet the grass. Springeth from my tears.'
+- 'id': '008_119_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'نمود لالۂ صحرا نشین ز خونابم | چنانکہ بادۂ لعلی بہ ساتگین کردند'
+  - 'lang': 'en'
+    'text': 'Desert tulip glows. With the blood I shed | As in beaker shews. Wine all ruby-red.'
+- 'id': '008_119_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بلند بال چنانم کہ بر سپہر برین | ہزار بار مرا نوریان کمین کردند'
+  - 'lang': 'en'
+    'text': 'Soareth so my flight. O’er the highest sphere | That the souls of light. Seek to trap me there.'
+- 'id': '008_119_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فروغ آدم خاکی ز تازہ کاریہاست | مہ و ستارہ کنند آنچہ پیش ازین کردند'
+  - 'lang': 'en'
+    'text': 'Labours ever new. Make man’s dust to glow; | Moon and star still do. As long time ago.'
+- 'id': '008_119_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'چراغ خویش بر افروختم کہ دست کلیم | درین زمانہ نہان زیر آستین کردند'
+  - 'lang': 'en'
+    'text': 'My self’s lamp I lit, Now that Moses’ hand | Men have hidden it. ‘Neath the wristlet-band.'
+- 'id': '008_119_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در آبسجدہ و یاری ز خسروان مطلب | کہ روز فقر نیاکان ما چنین کردند'
+  - 'lang': 'en'
+    'text': 'Come, O come to prayer; Court no prince’s door: | So our fathers were. When the world was poor.'

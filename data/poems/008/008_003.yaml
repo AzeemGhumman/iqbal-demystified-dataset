@@ -1,0 +1,59 @@
+---
+'id': '008_003'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'دعا'
+- 'lang': 'en'
+  'text': 'Invocation'
+'description': []
+'sher':
+- 'id': '008_003_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'یارب درون سینہ دل با خبر بدہ | در بادہ نشۂ را نگرم آن نظر بدہ'
+  - 'lang': 'en'
+    'text': 'I pray thee, Lord, to me impart. Within my breast a conscious heart: | Give me the vision to divine. The rapture pulsing through the wine,'
+- 'id': '008_003_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'این بندہ را کہ با نفس دیگران نزیست | یک آہ خانہ زاد مثال سحر بدہ'
+  - 'lang': 'en'
+    'text': 'It never pleased me, to receive. Another’s breath, that I might live: | Give me a breath as light as morn, A sigh that in the home was born.'
+- 'id': '008_003_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سیلم ، مرا بجوی تنک مایہ ئی مپیچ | جولانگہے بوادی و کوہ و کمر بدہ'
+  - 'lang': 'en'
+    'text': 'I am a torrent: do not set. Me dribbling in a rivulet, | But give my waters space to spill. O’er valley broad and spreading hill.'
+- 'id': '008_003_004'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'سازی اگر حریف یم بیکران مرا | بااضطراب موج ، سکون گہر بدہ'
+  - 'lang': 'en'
+    'text': 'Is it thy will to fashion me. A rival to the boundless sea, | Amid the tumult of the main. Grant me the pearl’s repose to gain.'
+- 'id': '008_003_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'شاہین من بصید پلنگان گذاشتی | ہمت بلند و چنگل ازین تیز تر بدہ'
+  - 'lang': 'en'
+    'text': 'Thou had’st the falcon that I am. Follow the leopard for his game: | Give me high will, a sharper claw, To win my victim to my maw.'
+- 'id': '008_003_006'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'رفتم کہ طایران حرم را کنم شکار | تیری کہ نافکندہ فتد کارگر بدہ'
+  - 'lang': 'en'
+    'text': 'The small fowl of the Sanctuary. I marked my precious prey to be: | Grant me an arrow that, unsped, Unerring flies, and strikes them dead.'
+- 'id': '008_003_007'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'خاکم بہ نور نغمۂ داؤد بر فروز | ہر ذرہ مرا پر و بال شرر بدہم'
+  - 'lang': 'en'
+    'text': 'Illuminate my lifeless clay. With anthems David used to play; | Let all my atoms swiftly spring. Upborne upon an ember’s wing.'

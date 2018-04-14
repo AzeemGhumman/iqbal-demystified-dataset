@@ -1,0 +1,31 @@
+---
+'id': '008_001'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہ خوانندۂ کتاب زبور'
+- 'lang': 'en'
+  'text': 'To the Readers'
+'description': []
+'sher':
+- 'id': '008_001_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'می شود پردۂ چشمم پر کاہی گاہی | دیدہ ام ہر دو جہان را بہ نگاہی گاہی'
+  - 'lang': 'en'
+    'text': 'Naught but the blade of a grass at times is the veil of mine eye, | Yea, and at times the two worlds in a glance are mine to descry.'
+- 'id': '008_001_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'وادی عشق بسی دور و درازست ولی | طی شود جادۂ صد سالہ بہ آہی گاہی'
+  - 'lang': 'en'
+    'text': 'Far though the valley of Love be, a long and a terrible way, | The path of a hundred years may be travelled at times in a sigh.'
+- 'id': '008_001_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'در طلب کوش و مدہ دامن امید زدست | دولتی ہست کہ یابی سر راہی گاہی'
+  - 'lang': 'en'
+    'text': 'Labour then in the Quest, nor yield Hope’s grip from thy hand: | A fortune at times to win by the side of the road doth he!'

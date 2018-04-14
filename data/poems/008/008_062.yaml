@@ -1,0 +1,24 @@
+---
+'id': '008_062'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بر خیز کہ آدم را ہنگام نمود آمد'
+- 'lang': 'en'
+  'text': 'Rise up! The hour is here'
+'description': []
+'sher':
+- 'id': '008_062_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بر خیز کہ آدم را ہنگام نمود آمد | این مشت غباری را انجم بہ سجود آمد'
+  - 'lang': 'en'
+    'text': 'Rise up! The hour is here. That Adam shall appear; | The stars bow, as they must, To this handful of dust.'
+- 'id': '008_062_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'آن راز کہ پوشیدہ در سینۂ ہستی بود | از شوخی آب و گل در گفت و شنود آمد'
+  - 'lang': 'en'
+    'text': 'The secret, that at rest. Was hid in Being’s breast, | By Clay and Water stirred. Is magically heard.'

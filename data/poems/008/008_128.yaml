@@ -1,0 +1,31 @@
+---
+'id': '008_128'
+'audioUrl': ''
+'heading':
+- 'lang': 'ur'
+  'text': 'بہار آمد نگہ می غلطد اندر آتش لالہ'
+- 'lang': 'en'
+  'text': 'Spring is come; bright glances dart'
+'description': []
+'sher':
+- 'id': '008_128_001'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'بہار آمد نگہ می غلطد اندر آتش لالہ | ہزاران نالہ خیزد از دل پرکالہ پرکالہ'
+  - 'lang': 'en'
+    'text': 'Spring is come; bright glances dart. In the tulip’s bowl of fire; | Thousand thousand sighs upspire. From each several ember’s heart.'
+- 'id': '008_128_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'فشان یک جرعہ بر خاک چمن از بادۂ لعلی | کہ از بیم خزان بیگانہ روید نرگس و لالہ'
+  - 'lang': 'en'
+    'text': 'Pour a stcup of ruby glow. O’er the garden’s dusty bed; | Strange and shy, in autumn’s dread, Tulip and narcissus grow.'
+- 'id': '008_128_003'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'جہان رنگ و بو دانی ولی دل چیست میدانی | مہی کز حلقۂ آفاق سازد گرد خود ہالہ'
+  - 'lang': 'en'
+    'text': 'Hue-and-scent world fills thine eyes; What the heart is, knowest thou? | ‘Tis a moon, that round its brow. Casts a halo of the skies.'
