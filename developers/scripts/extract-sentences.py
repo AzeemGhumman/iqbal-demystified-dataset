@@ -7,20 +7,23 @@ import ruamel.yaml as yaml
 import codecs
 import pdb
 
-if (len(sys.argv) is not 3):
+if len(sys.argv) < 3:
     print ("Error: Need <input folder> followed by <output folder>")
     exit()
 
-inputFolder = sys.argv[1] # first argument: input folder
-outputFolder = sys.argv[2] # second argument: output folder
+inputFolders = sys.argv[1:-1] # every argument except last: input folder
+outputFolder = sys.argv[-1] # last argument: output folder
 
-listInputFiles = glob.glob(os.path.join(os.getcwd(), inputFolder, "**", "*.yaml"), recursive = True)
+
+listInputFiles = []
+for inputFolder in inputFolders:
+    listInputFiles.extend(glob.glob(os.path.join(os.getcwd(), inputFolder, "**", "*.yaml"), recursive = True))
+
 print (str(len(listInputFiles)) + " input files found..")
 
 urduOutputContents = []
 romanOutputContents = []
 englishOutputContents = []
-
 
 for inputFilename in listInputFiles:
     with open(inputFilename, 'r') as inputFile:
@@ -46,11 +49,9 @@ for inputFilename in listInputFiles:
           if len(urduLines) is not len(englishLines):
             print ("Error: English lines mismatch")
 
-
-          for index in range(len(urduLines)):
-            urduOutputContents.append(urduLines[index])
-            romanOutputContents.append(romanLines[index])
-            englishOutputContents.append(englishLines[index])
+          urduOutputContents.extend(urduLines)
+          romanOutputContents.extend(romanLines)
+          englishOutputContents.extend(englishLines)
 
 # Create output folder if it does not exist
 absOutputFolderPath = os.path.join(os.path.join(os.getcwd(), outputFolder))
@@ -59,9 +60,10 @@ if not os.path.exists(absOutputFolderPath):
 
 # Dump urdu and roman data in 2 different files in the output folder given by user
 
-urduOutputFilePath = os.path.join(absOutputFolderPath, "complete-urdu-books.ur")
-romanOutputFilePath = os.path.join(absOutputFolderPath, "complete-urdu-books.ro")
-englishOutputFilePath = os.path.join(absOutputFolderPath, "complete-urdu-books.en")
+outputFileName = os.path.basename(os.path.dirname(outputFolder))
+urduOutputFilePath = os.path.join(absOutputFolderPath, outputFileName + ".ur")
+romanOutputFilePath = os.path.join(absOutputFolderPath, outputFileName + ".ro")
+englishOutputFilePath = os.path.join(absOutputFolderPath, outputFileName + ".en")
 
 with open(urduOutputFilePath, 'w') as outputFile:
     outputFile.write("\n".join(urduOutputContents))
