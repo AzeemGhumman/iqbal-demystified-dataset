@@ -14,8 +14,7 @@ This YAML file contains the lists of all the lists present in the dataset. There
 
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| lists | [ListOfListsObject](#listoflistsobject) |
-
+| lists | [ListOfListsObject](#listoflistsobject) | 
 ##### Example - a small section of list-of-lists.yaml file
 ```
 ---
@@ -76,8 +75,8 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| id | string |
-| audioUrl | string |
+| id | string | Poem ID
+| audioUrl | string | Audio URL when the mp3 file is hosted. Currently, we support only one audio per poem 
 | heading | List<[HeadingObject](#headingobject)> |
 | description | List<[DescriptionObject](#descriptionobject)> |
 | sher | List<[SherObject](#sherobject)> |
@@ -109,14 +108,19 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 ### ListOfListsObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| id | string |
+| name | List<[ListObject](#listobject)>
+
+### ListObject
+| Field Name | Type | Description
+| ------ | ------ | ------ |
+| id | string | List ID
 | name | List<[ListNameObject](#listnameobject)>
 
 ### ListNameObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| lang | string |
-| text | string |
+| lang | string | Language (options: 'ur', 'en', 'ro')
+| text | string | List Name in specified language
 
 ### SectionObject
 | Field Name | Type | Description
@@ -126,41 +130,41 @@ This YAML file contains the contents of a poem. A poem is divided into shers.
 ### SectionNameObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| lang | string |
-| text | string |
+| lang | string | Language (options: 'ur', 'en', 'ro')
+| text | string | List Section Name in specified language
 
 ### HeadingObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| lang | string |
-| text | string |
+| lang | string | Language (options: 'ur', 'en', 'ro')
+| text | string | Poem Heading in specified langauge
 
 ### DescriptionObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| lang | string |
-| text | string |
+| lang | string | Language (options: 'ur', 'en', 'ro')
+| text | string | Peom Description in specified language
 
 ### SherObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| id | string |
-| meta | boolean |
+| id | string | Sher ID
+| meta | boolean | This flags identifies text that is not part of a sher but is added by the author to provide context
 | sherContent | List<[SherContentObject](#shercontentobject)> |
 
 ### SherContentObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| lang | string |
-| text | string |
+| lang | string | Language (options: 'ur', 'en', 'ro')
+| text | string | Sher Content in specified language
 | notes | List<[NotesObject](#notesobject)>
 
 ### NotesObject
 | Field Name | Type | Description
 | ------ | ------ | ------ |
-| phrase | string |
-| meaning | string |
-| occurrence | integer |
+| phrase | string | The substring of text in SherContentObject to which this note is associated
+| meaning | string | The content of the note
+| occurrence | integer | In case the phrase occurs more than once, we can use this argument to specify which occurence the note applies to. Default: 1
 
 # Text Files (Deprecated)
 
