@@ -18,6 +18,15 @@
   - 'lang': 'ro'
     'text': 'Gabriel:'
 - 'id': '002_142_002'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'ہمدم ديرينہ! کيسا ہے جہان رنگ و بو؟'
+  - 'lang': 'en'
+    'text': 'My old friend, How is the world of sight and sound?'
+  - 'lang': 'ro'
+    'text': 'Humdam Dairina! Kaisa Hai Jahan-e-Rang-o-Boo?'
+- 'id': '002_142_003'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -26,16 +35,16 @@
     'text': 'Satan:'
   - 'lang': 'ro'
     'text': 'Satan:'
-- 'id': '002_142_003'
+- 'id': '002_142_004'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
-    'text': 'ہمدم ديرينہ! کيسا ہے جہان رنگ و بو؟ | سوز و ساز و درد و داغ و جستجوے و آرزو'
+    'text': 'سوز و ساز و درد و داغ و جستجوے و آرزو'
   - 'lang': 'en'
-    'text': 'My old friend, How is the world of sight and sound? | Pain and passion; quest and yearning.'
+    'text': 'Pain and passion; quest and yearning.'
   - 'lang': 'ro'
-    'text': 'Humdam Dairina! Kaisa Hai Jahan-e-Rang-o-Boo? | Souz-o-Saaz-o-Dard-o-Dagh-o-Justujooye-o-Arzoo'
-- 'id': '002_142_004'
+    'text': 'Souz-o-Saaz-o-Dard-o-Dagh-o-Justujooye-o-Arzoo'
+- 'id': '002_142_005'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -44,7 +53,7 @@
     'text': 'Gabriel:'
   - 'lang': 'ro'
     'text': 'Gabriel:'
-- 'id': '002_142_005'
+- 'id': '002_142_006'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -53,7 +62,7 @@
     'text': 'Thou never talkest of anything but the heavens. | Is there no cure for thy constant pain?'
   - 'lang': 'ro'
     'text': 'Har Ghari Aflak Par Rehti Hai Teri Guftugu | Kya Nahin Mumkin Ke Tera Chaak-e-Daman Ho Rafoo'
-- 'id': '002_142_006'
+- 'id': '002_142_007'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -62,7 +71,7 @@
     'text': 'Satan:'
   - 'lang': 'ro'
     'text': 'Satan:'
-- 'id': '002_142_007'
+- 'id': '002_142_008'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +80,7 @@
     'text': 'Thou knowest not, alas, the secret of my pain! | The loss I have suffered, has increased my passion more-,'
   - 'lang': 'ro'
     'text': 'Aah Ae Jibreel! Tu waqif Nahin Iss Raaz Se | Kar Gya Sarmast Mujh Ko Toot Kar Mera Saboo'
-- 'id': '002_142_008'
+- 'id': '002_142_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +89,7 @@
     'text': 'How silent is this world; desolate and wild! | I cannot ever live here; I cannot!'
   - 'lang': 'ro'
     'text': 'Ab Yahan Meri Guzar Mumkin Nahin, Mumkin Nahin | Kis Qadar Khamosh Hai Ye Alam-e-Be-Kaakh-o-Koo!'
-- 'id': '002_142_009'
+- 'id': '002_142_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -89,7 +98,7 @@
     'text': 'For one whose despair throbs in the heart of the universe, | What is better-despair, or hope?'
   - 'lang': 'ro'
     'text': 'Jis Ki Naumeedi Se Ho Souz-e-Daroon-e-Kainat | Uss Ke Haq Mein ‘Taqnatu’ Acha Hai Ya ‘La-Taqnatu’ ?'
-- 'id': '002_142_010'
+- 'id': '002_142_011'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -98,7 +107,7 @@
     'text': 'Gabriel:'
   - 'lang': 'ro'
     'text': 'Gabriel'
-- 'id': '002_142_011'
+- 'id': '002_142_012'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -107,7 +116,7 @@
     'text': 'By thy refusal thou hast lost thy place in heaven— | And disgraced the angels in the eyes of the Lord.'
   - 'lang': 'ro'
     'text': 'Kho Diye Inkaar Se Tu Ne Maqamat-e-Buland | Chashm-e-Yazdaan Mein Farishton Ki Rahi Kya Abroo!'
-- 'id': '002_142_012'
+- 'id': '002_142_013'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -116,7 +125,7 @@
     'text': 'Satan:'
   - 'lang': 'ro'
     'text': 'Satan:'
-- 'id': '002_142_013'
+- 'id': '002_142_014'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -125,7 +134,7 @@
     'text': 'With my boldness I make this handful of dust rise up. | My mischief weaves the garment that reason wears.”'
   - 'lang': 'ro'
     'text': 'Hai Meri Jurraat Se Musht-e-Khak Mein Zauq-e-Namoo | Mere Fitne Jama-e-Aqal-o-Khirad Ka Taar-o-Poo'
-- 'id': '002_142_014'
+- 'id': '002_142_015'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -134,7 +143,7 @@
     'text': 'From the shore you watch the clash of good and evil. | Which of us suffers the buffets of the storms—you or I?'
   - 'lang': 'ro'
     'text': 'Dekhta Hai Tu Faqat Sahil Se Razm-e-Khair-o-Shar | Kon Toofan Ke Tamanche Kha Raha Hai, Main Ke Tu?'
-- 'id': '002_142_015'
+- 'id': '002_142_016'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -143,7 +152,7 @@
     'text': 'Both Khizr and Ilyas feel helpless: | The storms I have stirred up rage in oceans, rivers, and streams.'
   - 'lang': 'ro'
     'text': 'Khizar Bhi Bedast-o-Pa, Ilyas Bhi Bedast-o-Pa | Mere Toofan Tam-Ba-Yam, Darya-Ba-Darya, Joo-Ba-Joo'
-- 'id': '002_142_016'
+- 'id': '002_142_017'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -152,7 +161,7 @@
     'text': 'If you are ever alone with God, ask Him: | Whose blood coloured the story of Adam?'
   - 'lang': 'ro'
     'text': 'Gar Khalwat Mayassir Ho To Puch Allah Se | Qissa-e-Adam Ko Rangeen Kar Gya Kis Ka Lahoo!'
-- 'id': '002_142_017'
+- 'id': '002_142_018'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'

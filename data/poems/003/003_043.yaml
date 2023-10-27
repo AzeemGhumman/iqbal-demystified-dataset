@@ -3,9 +3,9 @@
 'audioUrl': 'http://www.iqbal.com.pk/mp3/Zia%20Muhauddin%20Reads%20Zarb%20e%20Kaleem/433-%20Taqdir.mp3'
 'heading':
 - 'lang': 'ur'
-  'text': 'تقدير (ابليس و يزداں)'
+  'text': 'تقدير'
 - 'lang': 'en'
-  'text': 'FATE (SATAN AND GOD)'
+  'text': 'FATE'
 'description': []
 'sher':
 - 'id': '003_043_001'
@@ -45,6 +45,16 @@
   - 'lang': 'ro'
     'text': 'Yazdaan'
 - 'id': '003_043_005'
+  'meta': !!bool 'false'
+  'sherContent':
+  - 'lang': 'ur'
+    'text': 'کب کھلا تجھ پر يہ راز، انکار سے پہلے کہ بعد؟'
+  - 'lang': 'en'
+    'text': 'When did that mystery dawn on you? Before, Or after your sedition?'
+  - 'lang': 'ro'
+    'text': 'Kab Khula Tujh Par Ye Raaz, Inkaar Se Pehle Ke Baad?'
+
+- 'id': '003_043_006'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -53,16 +63,16 @@
     'text': 'SATAN'
   - 'lang': 'ro'
     'text': 'Iblees'
-- 'id': '003_043_006'
+- 'id': '003_043_007'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
-    'text': 'کب کھلا تجھ پر يہ راز، انکار سے پہلے کہ بعد؟ | !بعد ! اے تيري تجلي سے کمالات وجود'
+    'text': '!بعد ! اے تيري تجلي سے کمالات وجود'
   - 'lang': 'en'
-    'text': 'When did that mystery dawn on you? Before, Or after your sedition? | After, oh brightness! Whence all the glory of all being flows.'
+    'text': 'After, oh brightness! Whence all the glory of all being flows.'
   - 'lang': 'ro'
-    'text': 'Kab Khula Tujh Par Ye Raaz, Inkaar Se Pehle Ke Baad? | Baad, Ae Teri Tajalli Se Kamalat-e-Wujood'
-- 'id': '003_043_007'
+    'text': 'Baad, Ae Teri Tajalli Se Kamalat-e-Wujood'
+- 'id': '003_043_008'
   'meta': !!bool 'true'
   'sherContent':
   - 'lang': 'ur'
@@ -71,7 +81,7 @@
     'text': 'GOD (TO HIS ANGELS)'
   - 'lang': 'ro'
     'text': 'Yazdaan Farishtoon se Mukhatib ho k'
-- 'id': '003_043_008'
+- 'id': '003_043_009'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
@@ -80,7 +90,7 @@
     'text': 'See what a groveling nature taught him this | Fine theorem! His not kneeling, he pretends, Belonged to My fore‐ordinance;'
   - 'lang': 'ro'
     'text': 'Pasti-e-Fitrat Ne Sikhlayi Hai Ye Hujjat Isse | Kehta Hai, ‘Teri Mashiyat Mein Na Tha Mera Sujood’'
-- 'id': '003_043_009'
+- 'id': '003_043_010'
   'meta': !!bool 'false'
   'sherContent':
   - 'lang': 'ur'
