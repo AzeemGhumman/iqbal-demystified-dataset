@@ -44,7 +44,54 @@ We also encourage researchers and hobbyists to use this dataset for their projec
 ## Contribute
 We need everyone's help to make sure that the contents of this repository are accurate. We expect users to report typos and broken audio links, write Introductions to poems in different languages, add notes to poems that they think will help others. Also, please suggests improvements to this project.
 
-TODO: Can someone please go over the steps required to submit a pull request - write a small tutorial for contributers who have not used github before and have minimal technical background
+Follow the steps required to submit a pull request:
+
+Go to https://github.com/AzeemGhumman/iqbal-demystified-dataset . Fork it from top right corner.
+
+![Fork it](https://github.com/wasilzafar/assets/blob/main/images/Fork.JPG)
+
+This will create local forked reposiotry in your account i.e. https://github.com/user-name/iqbal-demystified-dataset/
+
+Clone this repository onto your local machine : 
+
+    git clone https://github.com/user-name/iqbal-demystified-dataset/
+    cd iqbal-demystified-dataset
+
+Note : Make sure you have Git client installed on your machine from https://git-scm.com/downloads
+
+Create a new branch by issuing the command: 
+
+    git checkout -b new_branch
+
+Now you can make changes to the code i.e. make an arbitrary change, and pushes it to new_branch. e.g.
+
+	// After making changes ..
+
+	git status // check status of the changed files
+
+	git add . // add all the changed files to staging area
+
+	git commit -S -m "Adding a test file to new_branch" // Commit all the changes
+
+	git push -u origin new_branch // Push it to the branch
+
+
+Once you push the changes to your repo, the Compare & pull request button will appear in GitHub. 
+
+![Compare & pull request](https://github.com/wasilzafar/assets/blob/main/images/Compare%26Pull.JPG)
+
+Click it.
+
+After this you may open a pull request by clicking the Create pull request button. 
+
+![Create pull request](https://github.com/wasilzafar/assets/blob/main/images/CreatePullRequest.JPG)
+
+This allows the repo's maintainers to review your contribution. 
+
+![PR Notification](https://github.com/wasilzafar/assets/blob/main/images/NewPRNotification.JPG)
+
+From here, we can merge it if it is good, or may ask you to make some changes.
+
 
 ## Contact
 Email: azeemghumman3@gmail.com
